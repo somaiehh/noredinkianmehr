@@ -1,7 +1,6 @@
 name: Tabdeal Radar Scan
 
 on:
-  workflow_dispatch: {}
   schedule:
     - cron: '8,23,38,53 * * * *'
 
