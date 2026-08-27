@@ -1,0 +1,1293 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tabdeal Pre-Pump Radar</title>
+<style>
+body {
+    margin: 0;
+    background: #0b1020;
+    color: white;
+    font-family: sans-serif;
+}
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 15px;
+}
+.header, .card {
+    background: #141b33;
+    border-radius: 16px;
+    padding: 15px;
+    margin-bottom: 12px;
+}
+h1 {
+    margin: 0 0 8px;
+}
+.sub {
+    color: #9da8c7;
+    font-size: 13px;
+}
+.card {
+    border-right: 5px solid #64748b;
+}
+.symbol {
+    font-size: 20px;
+    font-weight: bold;
+}
+.score {
+    font-size: 24px;
+    font-weight: bold;
+}
+.metrics {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 6px;
+    margin-top: 10px;
+}
+.metric {
+    background: #0d1428;
+    padding: 8px;
+    border-radius: 8px;
+    text-align: center;
+}
+.metric span {
+    display: block;
+    color: #8d99b8;
+    font-size: 11px;
+}
+.metric b {
+    display: block;
+    margin-top: 3px;
+}
+.status {
+    margin-top: 10px;
+    color: #ffd75e;
+}
+
+.trend {
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #22c55e;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="header">
+<h1>🚀 TABDEAL PRE-PUMP RADAR</h1>
+<div class="sub">داشبورد V2.1</div>
+<div class="status" id="status">در حال بارگذاری...</div>
+</div>
+
+<div style="text-align:center;margin:12px 0 18px">
+    <button
+        onclick="loadData()"
+        style="
+            padding:12px 24px;
+            font-size:16px;
+            font-weight:800;
+            border:0;
+            border-radius:12px;
+            cursor:pointer;
+        "
+    >
+        🔄 بروزرسانی رادار
+    </button>
+
+    <button
+        onclick="
+            localStorage.removeItem('tabdeal_previous_ranks');
+            localStorage.removeItem('tabdeal_current_ranks');
+            localStorage.removeItem('tabdeal_previous_ranks_scan_time');
+            localStorage.removeItem('tabdeal_rank_history');
+            localStorage.removeItem('tabdeal_rank_history_times');
+            localStorage.removeItem('tabdeal_score_history');
+            location.reload();
+        "
+        style="
+            margin-right:8px;
+            padding:12px 18px;
+            font-size:15px;
+            font-weight:800;
+            border:0;
+            border-radius:12px;
+            cursor:pointer;
+        "
+    >
+        🧹 ریست تاریخچه رتبه
+    </button>
+</div>
+
+<div id="results"></div>
+
+</div>
+
+<script>
+let previousRanks = {};
+let currentRanks = {};
+let rankHistory = {};
+        let rankHistoryTimes = {};
+let scoreHistory = {};
+
+try {
+    previousRanks = JSON.parse(
+        localStorage.getItem("tabdeal_previous_ranks") || "{}"
+    );
+
+    currentRanks = JSON.parse(
+        localStorage.getItem("tabdeal_current_ranks") || "{}"
+    );
+
+    rankHistory = JSON.parse(
+        localStorage.getItem("tabdeal_rank_history") || "{}"
+    );
+
+    scoreHistory = JSON.parse(
+        localStorage.getItem("tabdeal_score_history") || "{}"
+    );
+} catch (e) {
+    previousRanks = {};
+    currentRanks = {};
+    rankHistory = {};
+    scoreHistory = {};
+}
+
+async function loadData() {
+
+    const status = document.getElementById("status");
+    const results = document.getElementById("results");
+
+    try {
+
+        const response = await fetch(
+            "./tabdeal_radar_v21_data.json?t=" + Date.now()
+        );
+
+        if (!response.ok) {
+            throw new Error("فایل داده پیدا نشد");
+        }
+
+        const data = await response.json();
+
+        let rows = [];
+
+        for (const symbol in data) {
+
+            // فقط بازارهای IRT تبدیل
+            if (!symbol.endsWith("IRT")) {
+                continue;
+            }
+
+            const history = data[symbol];
+
+            if (!history || history.length === 0) {
+                continue;
+            }
+
+            const latest = history[history.length - 1];
+
+            rows.push({
+                symbol: symbol,
+                time: latest.time || 0,
+                price: Number(latest.price) || 0,
+                buy: Number(latest.buy_ratio) || 0,
+                ob: Number(latest.ob) || 0,
+                volume: Number(latest.volume) || 0,
+
+                // داده‌های مستقیم موتور شکار
+                status: latest.status || "",
+                pre_score: Number(latest.pre_score) || 0,
+                hunt_score: Number(latest.hunt_score) || 0,
+                persistence: Number(latest.persistence) || 0,
+                persistence_bonus: Number(latest.persistence_bonus) || 0,
+                status_bonus: Number(latest.status_bonus) || 0,
+
+                p15: Number(latest.p15) || 0,
+                vr: Number(latest.vr) || 0,
+                va: Number(latest.va) || 0,
+                bs: Number(latest.bs) || 0,
+                breakout: Boolean(latest.breakout),
+
+                history: history
+            });
+        }
+
+        if (rows.length === 0) {
+
+            results.innerHTML =
+                '<div class="card">هنوز داده‌ای برای نمایش وجود ندارد.</div>';
+
+            status.innerText = "داده‌ای موجود نیست";
+
+            return;
+        }
+
+        function normalize(value, min, max) {
+
+            if (!Number.isFinite(value) || max === min) {
+                return 50;
+            }
+
+            return Math.max(
+                0,
+                Math.min(
+                    100,
+                    ((value - min) / (max - min)) * 100
+                )
+            );
+        }
+
+        const buyValues = rows.map(x => x.buy);
+        const obValues = rows.map(x => x.ob);
+        const volumeValues = rows.map(x => x.volume);
+
+        const buyMin = Math.min(...buyValues);
+        const buyMax = Math.max(...buyValues);
+
+        const obMin = Math.min(...obValues);
+        const obMax = Math.max(...obValues);
+
+        const volumeMin = Math.min(...volumeValues);
+        const volumeMax = Math.max(...volumeValues);
+
+        function calculateTrend(history) {
+
+            if (!history || history.length < 2) {
+                return 50;
+            }
+
+            const first = history[0];
+            const last = history[history.length - 1];
+
+            const firstPrice = Number(first.price) || 0;
+            const lastPrice = Number(last.price) || 0;
+
+            const firstBuy = Number(first.buy_ratio) || 0;
+            const lastBuy = Number(last.buy_ratio) || 0;
+
+            const firstOB = Number(first.ob) || 0;
+            const lastOB = Number(last.ob) || 0;
+
+            let priceChange = 0;
+
+            if (firstPrice > 0) {
+                priceChange =
+                    ((lastPrice - firstPrice) / firstPrice) * 100;
+            }
+
+            const buyChange = lastBuy - firstBuy;
+            const obChange = lastOB - firstOB;
+
+            let trend =
+                50 +
+                (priceChange * 2) +
+                (buyChange * 0.35) +
+                (obChange * 5);
+
+            return Math.max(
+                0,
+                Math.min(100, trend)
+            );
+        }
+
+        for (const row of rows) {
+            row.trendScore = calculateTrend(row.history);
+        }
+
+        // فقط شکارهای واقعی موتور:
+        rows = rows.filter(row =>
+            row.status === "EARLY" ||
+            row.status === "PRE_EARLY"
+        );
+
+        // کیفیت سیگنال برای مرتب‌سازی فرعی داشبورد
+        // Hunt Score اصلی به هیچ عنوان تغییر نمی‌کند.
+        function dashboardQuality(row) {
+            const hunt = Number(row.hunt_score || 0);
+            const vr = Number(row.vr || 0);
+            const bs = Number(row.bs || 0);
+            const book = Number(row.ob || 0);
+
+            const strongDemand =
+                bs >= 1.2 ||
+                book >= 0.65;
+
+            const strongVolume =
+                vr >= 1.0;
+
+            const clearlyWeak =
+                hunt < 40 ||
+                vr < 0.25;
+
+            if (
+                hunt >= 65 &&
+                strongVolume &&
+                strongDemand
+            ) {
+                return {
+                    name: "STRONG",
+                    bonus: 1.5
+                };
+            }
+
+            if (clearlyWeak) {
+                return {
+                    name: "WEAK",
+                    bonus: -1.5
+                };
+            }
+
+            return {
+                name: "BUILDING",
+                bonus: 0.5
+            };
+        }
+
+        rows.forEach(row => {
+            const q = dashboardQuality(row);
+
+            row.signalQuality = q.name;
+            row.dashboardSortScore =
+                Number(row.hunt_score || 0) +
+                q.bonus;
+        });
+
+        // رتبه‌بندی:
+        // Hunt Score همچنان عامل اصلی است.
+        // کیفیت فقط یک اصلاح بسیار کوچک برای کاندیداهای نزدیک است.
+        rows.sort((a, b) => {
+            const sortDiff =
+                Number(b.dashboardSortScore || 0) -
+                Number(a.dashboardSortScore || 0);
+
+            if (sortDiff !== 0) {
+                return sortDiff;
+            }
+
+            return (
+                Number(b.hunt_score || 0) -
+                Number(a.hunt_score || 0)
+            );
+        });
+
+        // Rank snapshots:
+        // previousRanks = رتبه‌های اسکن قبلی
+        // currentRanks  = رتبه‌های اسکن فعلی
+        const currentScanTime = rows.reduce(
+            (maxTime, row) => Math.max(
+                maxTime,
+                Number(row.time || 0)
+            ),
+            0
+        );
+
+        const lastPreviousRanksScanTime = Number(
+            localStorage.getItem(
+                "tabdeal_previous_ranks_scan_time"
+            ) || 0
+        );
+
+        const isNewRankScan =
+            currentScanTime > 0 &&
+            currentScanTime !== lastPreviousRanksScanTime;
+
+        // فقط هنگام ورود یک اسکن واقعی جدید،
+        // snapshot اسکن فعلی قبلی تبدیل به previous می‌شود.
+        if (
+            isNewRankScan &&
+            currentRanks &&
+            Object.keys(currentRanks).length > 0
+        ) {
+            previousRanks = { ...currentRanks };
+        }
+
+        let storedPreviousRanks = previousRanks || {};
+
+        // تاریخچه چند اسکن اخیر رتبه‌ها
+        let rankHistory = {};
+        let rankHistoryTimes = {};
+        try {
+            rankHistory = JSON.parse(
+                localStorage.getItem("tabdeal_rank_history") || "{}"
+            );
+
+            rankHistoryTimes = JSON.parse(
+                localStorage.getItem("tabdeal_rank_history_times") || "{}"
+            );
+        } catch (e) {
+            rankHistory = {};
+            rankHistoryTimes = {};
+        }
+
+        rows.forEach((row, index) => {
+            row.rank = index + 1;
+
+            const history = Array.isArray(rankHistory[row.symbol])
+                ? rankHistory[row.symbol]
+                : [];
+
+            const currentDataTime = Number(row.time || 0);
+            const lastRecordedTime =
+                Number(rankHistoryTimes[row.symbol] || 0);
+
+            const isNewScan =
+                currentDataTime > 0
+                    ? currentDataTime !== lastRecordedTime
+                    : history.length === 0;
+
+            if (isNewScan) {
+                history.push(row.rank);
+                rankHistory[row.symbol] = history.slice(-5);
+
+                if (currentDataTime > 0) {
+                    rankHistoryTimes[row.symbol] = currentDataTime;
+                }
+            } else {
+                rankHistory[row.symbol] = history.slice(-5);
+            }
+
+            row.rankHistory = rankHistory[row.symbol];
+
+            // Hunt Score History:
+            // فقط بر اساس اسکن واقعی رادار، نه refresh پنج‌ثانیه‌ای داشبورد
+            const huntHistory = Array.isArray(scoreHistory[row.symbol])
+                ? scoreHistory[row.symbol]
+                : [];
+
+            if (isNewScan || huntHistory.length === 0) {
+                huntHistory.push(
+                    Number(Number(row.hunt_score || 0).toFixed(1))
+                );
+            }
+
+            scoreHistory[row.symbol] = huntHistory.slice(-5);
+            row.scoreHistory = scoreHistory[row.symbol];
+
+            // Hunt Momentum:
+            // فقط نمایشی و بدون تغییر Hunt Score اصلی
+            row.huntMomentum = "NEUTRAL";
+            row.huntMomentumScore = 0;
+
+            if (row.scoreHistory.length >= 3) {
+                const recentScores = row.scoreHistory.slice(-3);
+
+                const scoreGain1 =
+                    recentScores[1] - recentScores[0];
+
+                const scoreGain2 =
+                    recentScores[2] - recentScores[1];
+
+                const totalScoreGain =
+                    recentScores[2] - recentScores[0];
+
+                if (
+                    scoreGain1 > 0 &&
+                    scoreGain2 > 0 &&
+                    totalScoreGain >= 5
+                ) {
+                    row.huntMomentum = "RISING";
+
+                    row.huntMomentumScore = Math.min(
+                        100,
+                        Math.round(
+                            totalScoreGain * 8 +
+                            Math.min(scoreGain1, scoreGain2) * 5
+                        )
+                    );
+                } else if (
+                    scoreGain1 < 0 &&
+                    scoreGain2 < 0 &&
+                    totalScoreGain <= -5
+                ) {
+                    row.huntMomentum = "FALLING";
+
+                    row.huntMomentumScore = Math.min(
+                        100,
+                        Math.round(Math.abs(totalScoreGain) * 8)
+                    );
+                }
+            }
+
+            // رتبه واقعی در اسکن قبلی
+            row.previousRank =
+                storedPreviousRanks[row.symbol] !== undefined
+                    ? Number(storedPreviousRanks[row.symbol])
+                    : null;
+
+            // شتاب رتبه:
+            // تمرکز روی 3 اسکن آخر برای تشخیص صعود واقعی و تازه
+            const h = row.rankHistory;
+
+            row.rankMomentum = false;
+            row.rankMomentumScore = 0;
+
+            if (h.length >= 3) {
+                const recent = h.slice(-3);
+
+                const gain1 = recent[0] - recent[1];
+                const gain2 = recent[1] - recent[2];
+                const totalGain = recent[0] - recent[2];
+
+                // شتاب واقعی: دو صعود متوالی و حداقل 3 رتبه پیشرفت
+                row.rankMomentum =
+                    gain1 > 0 &&
+                    gain2 > 0 &&
+                    totalGain >= 3;
+
+                // امتیاز شتاب رتبه از 0 تا 100
+                // فعلاً فقط نمایشی است و Hunt Score را تغییر نمی‌دهد
+                if (row.rankMomentum) {
+                    row.rankMomentumScore = Math.min(
+                        100,
+                        Math.round(
+                            totalGain * 12 +
+                            Math.min(gain1, gain2) * 8
+                        )
+                    );
+                }
+            }
+
+            // Combined Signal / Hot Hunt
+            // فقط نمایشی است و Hunt Score اصلی را تغییر نمی‌دهد
+            row.hotHunt = false;
+            row.hotHuntScore = 0;
+
+            const persistenceOk =
+                Number(row.persistence || 0) >= 2;
+
+            const huntScoreOk =
+                Number(row.hunt_score || 0) >= 65;
+
+            const huntMomentumOk =
+                row.huntMomentum === "RISING";
+
+            const rankMomentumOk =
+                row.rankMomentum === true;
+
+            if (
+                persistenceOk &&
+                huntScoreOk &&
+                huntMomentumOk &&
+                rankMomentumOk
+            ) {
+                row.hotHunt = true;
+
+                row.hotHuntScore = Math.min(
+                    100,
+                    Math.round(
+                        Number(row.hunt_score || 0) * 0.45 +
+                        Number(row.huntMomentumScore || 0) * 0.25 +
+                        Number(row.rankMomentumScore || 0) * 0.20 +
+                        Math.min(Number(row.persistence || 0) * 5, 10)
+                    )
+                );
+            }
+        });
+
+        // ============================================================
+        // JSON-BASED REAL SCAN HISTORY
+        // منبع حقیقت = تاریخچه واقعی tabdeal_radar_v21_data.json
+        // حتی اگر داشبورد هنگام اسکن قبلی بسته بوده باشد.
+        // ============================================================
+
+        const allScanTimesSet = new Set();
+        const candidatesByTime = new Map();
+
+        for (const symbol in data) {
+            if (!symbol.endsWith("IRT")) {
+                continue;
+            }
+
+            const symbolHistory = Array.isArray(data[symbol])
+                ? data[symbol]
+                : [];
+
+            for (const item of symbolHistory) {
+                const t = Number(item.time || 0);
+
+                if (t > 0) {
+                    allScanTimesSet.add(t);
+                }
+
+                const candidate =
+                    item.status === "EARLY" ||
+                    item.status === "PRE_EARLY";
+
+                const hs =
+                    item.hunt_score !== null &&
+                    item.hunt_score !== undefined
+                        ? Number(item.hunt_score)
+                        : NaN;
+
+                if (
+                    t > 0 &&
+                    candidate &&
+                    Number.isFinite(hs)
+                ) {
+                    if (!candidatesByTime.has(t)) {
+                        candidatesByTime.set(t, []);
+                    }
+
+                    candidatesByTime.get(t).push({
+                        symbol,
+                        huntScore: hs
+                    });
+                }
+            }
+        }
+
+        const allScanTimes = Array.from(allScanTimesSet)
+            .sort((a, b) => a - b);
+
+        const rankSnapshots = new Map();
+
+        for (const t of allScanTimes) {
+            const list = candidatesByTime.get(t) || [];
+
+            list.sort(
+                (a, b) => b.huntScore - a.huntScore
+            );
+
+            const snapshot = new Map();
+
+            list.forEach((item, index) => {
+                snapshot.set(
+                    item.symbol,
+                    {
+                        rank: index + 1,
+                        huntScore: item.huntScore
+                    }
+                );
+            });
+
+            rankSnapshots.set(t, snapshot);
+        }
+
+        const currentScanIndex =
+            allScanTimes.lastIndexOf(currentScanTime);
+
+        const previousScanTime =
+            currentScanIndex > 0
+                ? allScanTimes[currentScanIndex - 1]
+                : null;
+
+        const previousSnapshot =
+            previousScanTime !== null
+                ? rankSnapshots.get(previousScanTime)
+                : null;
+
+        // Previous Rank واقعی = دقیقاً اسکن قبلی موتور
+        storedPreviousRanks = {};
+
+        if (previousSnapshot) {
+            for (const [symbol, item] of previousSnapshot.entries()) {
+                storedPreviousRanks[symbol] = item.rank;
+            }
+        }
+
+        // تاریخچه هر کارت را از اسکن‌های واقعی و متوالی بازسازی کن
+        rows.forEach(row => {
+
+            const consecutiveRanks = [];
+            const consecutiveScores = [];
+
+            if (currentScanIndex >= 0) {
+                for (
+                    let i = currentScanIndex;
+                    i >= 0 && consecutiveRanks.length < 5;
+                    i--
+                ) {
+                    const t = allScanTimes[i];
+                    const snapshot = rankSnapshots.get(t);
+
+                    const item =
+                        snapshot &&
+                        snapshot.get(row.symbol);
+
+                    // اگر در یک اسکن متوالی کاندیدا نبوده،
+                    // زنجیره Momentum همان‌جا قطع می‌شود.
+                    if (!item) {
+                        break;
+                    }
+
+                    consecutiveRanks.unshift(
+                        Number(item.rank)
+                    );
+
+                    consecutiveScores.unshift(
+                        Number(item.huntScore)
+                    );
+                }
+            }
+
+            // اگر به هر دلیل snapshot فعلی پیدا نشد
+            if (consecutiveRanks.length === 0) {
+                consecutiveRanks.push(row.rank);
+            }
+
+            if (consecutiveScores.length === 0) {
+                consecutiveScores.push(
+                    Number(row.hunt_score || 0)
+                );
+            }
+
+            row.rankHistory = consecutiveRanks.slice(-5);
+            row.scoreHistory = consecutiveScores.slice(-5);
+
+            row.previousRank =
+                previousSnapshot &&
+                previousSnapshot.has(row.symbol)
+                    ? Number(
+                        previousSnapshot.get(row.symbol).rank
+                    )
+                    : null;
+
+            // -------------------------
+            // Hunt Momentum واقعی
+            // -------------------------
+            row.huntMomentum = "NEUTRAL";
+            row.huntMomentumScore = 0;
+
+            if (row.scoreHistory.length >= 3) {
+                const recentScores =
+                    row.scoreHistory.slice(-3);
+
+                const scoreGain1 =
+                    recentScores[1] - recentScores[0];
+
+                const scoreGain2 =
+                    recentScores[2] - recentScores[1];
+
+                const totalScoreGain =
+                    recentScores[2] - recentScores[0];
+
+                if (
+                    scoreGain1 > 0 &&
+                    scoreGain2 > 0 &&
+                    totalScoreGain >= 5
+                ) {
+                    row.huntMomentum = "RISING";
+
+                    row.huntMomentumScore = Math.min(
+                        100,
+                        Math.round(
+                            totalScoreGain * 8 +
+                            Math.min(
+                                scoreGain1,
+                                scoreGain2
+                            ) * 5
+                        )
+                    );
+
+                } else if (
+                    scoreGain1 < 0 &&
+                    scoreGain2 < 0 &&
+                    totalScoreGain <= -5
+                ) {
+                    row.huntMomentum = "FALLING";
+
+                    row.huntMomentumScore = Math.min(
+                        100,
+                        Math.round(
+                            Math.abs(totalScoreGain) * 8
+                        )
+                    );
+                }
+            }
+
+            // -------------------------
+            // Rank Momentum واقعی
+            // -------------------------
+            row.rankMomentum = false;
+            row.rankMomentumScore = 0;
+
+            if (row.rankHistory.length >= 3) {
+                const recent =
+                    row.rankHistory.slice(-3);
+
+                const gain1 =
+                    recent[0] - recent[1];
+
+                const gain2 =
+                    recent[1] - recent[2];
+
+                const totalGain =
+                    recent[0] - recent[2];
+
+                row.rankMomentum =
+                    gain1 > 0 &&
+                    gain2 > 0 &&
+                    totalGain >= 3;
+
+                if (row.rankMomentum) {
+                    row.rankMomentumScore = Math.min(
+                        100,
+                        Math.round(
+                            totalGain * 12 +
+                            Math.min(gain1, gain2) * 8
+                        )
+                    );
+                }
+            }
+
+            // -------------------------
+            // Hot Hunt را هم با History واقعی دوباره محاسبه کن
+            // -------------------------
+            row.hotHunt = false;
+            row.hotHuntScore = 0;
+
+            const persistenceOk =
+                Number(row.persistence || 0) >= 2;
+
+            const huntScoreOk =
+                Number(row.hunt_score || 0) >= 65;
+
+            const huntMomentumOk =
+                row.huntMomentum === "RISING";
+
+            const rankMomentumOk =
+                row.rankMomentum === true;
+
+            if (
+                persistenceOk &&
+                huntScoreOk &&
+                huntMomentumOk &&
+                rankMomentumOk
+            ) {
+                row.hotHunt = true;
+
+                row.hotHuntScore = Math.min(
+                    100,
+                    Math.round(
+                        Number(row.hunt_score || 0) * 0.45 +
+                        Number(row.huntMomentumScore || 0) * 0.25 +
+                        Number(row.rankMomentumScore || 0) * 0.20 +
+                        Math.min(
+                            Number(row.persistence || 0) * 5,
+                            10
+                        )
+                    )
+                );
+            }
+        });
+
+        const newRanks = {};
+        rows.forEach(row => {
+            newRanks[row.symbol] = row.rank;
+        });
+
+        // ارزهایی که در اسکن قبلی داخل Top 20 بودند
+        // اما در اسکن فعلی دیگر داخل Top 20 نیستند
+        const exitedTop20 = Object.entries(storedPreviousRanks)
+            .filter(([symbol, previousRank]) =>
+                Number(previousRank) <= 20 &&
+                (
+                    newRanks[symbol] === undefined ||
+                    Number(newRanks[symbol]) > 20
+                )
+            )
+            .map(([symbol, previousRank]) => ({
+                symbol,
+                previousRank: Number(previousRank)
+            }))
+            .sort((a, b) => a.previousRank - b.previousRank);
+
+        try {
+            // در اسکن جدید، currentRanks به snapshot جدید تبدیل می‌شود.
+            // previousRanks تا اسکن بعدی ثابت می‌ماند.
+            if (isNewRankScan) {
+                currentRanks = { ...newRanks };
+
+                localStorage.setItem(
+                    "tabdeal_previous_ranks",
+                    JSON.stringify(previousRanks)
+                );
+
+                localStorage.setItem(
+                    "tabdeal_current_ranks",
+                    JSON.stringify(currentRanks)
+                );
+
+                localStorage.setItem(
+                    "tabdeal_previous_ranks_scan_time",
+                    String(currentScanTime)
+                );
+            }
+
+            localStorage.setItem(
+                "tabdeal_rank_history",
+                JSON.stringify(rankHistory)
+            );
+
+            localStorage.setItem(
+                "tabdeal_rank_history_times",
+                JSON.stringify(rankHistoryTimes)
+            );
+
+            localStorage.setItem(
+                "tabdeal_score_history",
+                JSON.stringify(scoreHistory)
+            );
+        } catch (e) {
+            console.warn("Could not save rank history", e);
+        }
+
+        const top10 = rows.slice(0, 10);
+        const watchlist = rows.slice(10, 20);
+
+        function rankMovement(row) {
+
+            const currentTop20 = row.rank <= 20;
+
+            const previousTop20 =
+                row.previousRank !== null &&
+                row.previousRank !== undefined &&
+                row.previousRank <= 20;
+
+            if (!row.previousRank) {
+                return '<span style="color:#38bdf8">🆕 جدید</span>';
+            }
+
+            if (currentTop20 && !previousTop20) {
+                return '<span style="color:#22c55e;font-weight:800">🟢 ورود Top 20</span>';
+            }
+
+            if (!currentTop20 && previousTop20) {
+                return '<span style="color:#ef4444;font-weight:800">🔴 خروج Top 20</span>';
+            }
+
+            const movement = row.previousRank - row.rank;
+
+            if (movement > 0) {
+                return '<span style="color:#22c55e;font-weight:800">↑' + movement + '</span>';
+            }
+
+            if (movement < 0) {
+                return '<span style="color:#ef4444;font-weight:800">↓' + Math.abs(movement) + '</span>';
+            }
+
+            return '<span style="color:#94a3b8">بدون تغییر</span>';
+        }
+
+        function renderCard(row) {
+
+            let color = "#64748b";
+
+            const huntScore = Number(row.hunt_score || 0);
+            const vr = Number(row.vr || 0);
+            const bs = Number(row.bs || 0);
+            const book = Number(row.ob || 0);
+            const persistence = Number(row.persistence || 0);
+
+            const weakPersistence =
+                persistence >= 2 &&
+                (
+                    huntScore < 50 ||
+                    vr < 0.50
+                );
+
+            if (huntScore >= 80) {
+                color = "#22c55e";
+            } else if (huntScore >= 65) {
+                color = "#eab308";
+            }
+
+            // Signal Quality Badge
+            // فقط نمایشی؛ Hunt Score و رتبه‌بندی اصلی را تغییر نمی‌دهد.
+            let signalQuality = "BUILDING";
+
+            const strongDemand =
+                bs >= 1.2 ||
+                book >= 0.65;
+
+            const strongVolume =
+                vr >= 1.0;
+
+            const clearlyWeak =
+                huntScore < 40 ||
+                vr < 0.25;
+
+            if (
+                huntScore >= 65 &&
+                strongVolume &&
+                strongDemand
+            ) {
+                signalQuality = "STRONG";
+
+            } else if (clearlyWeak) {
+                signalQuality = "WEAK";
+            }
+
+            let signalQualityHtml = "";
+
+            if (signalQuality === "STRONG") {
+                signalQualityHtml =
+                    '<span style="color:#22c55e;font-weight:900">🟢 قوی</span>';
+
+            } else if (signalQuality === "WEAK") {
+                signalQualityHtml =
+                    '<span style="color:#ef4444;font-weight:900">🔴 ضعیف / نویز</span>';
+
+            } else {
+                signalQualityHtml =
+                    '<span style="color:#eab308;font-weight:900">🟡 در حال ساخت</span>';
+            }
+
+            return `
+                <div
+                    class="card"
+                    style="border-right-color:${color}"
+                >
+
+                    <div class="sub">
+                                رتبه ${row.rank}
+                                ${
+                                    row.previousRank
+                                        ? `← قبلی ${row.previousRank}`
+                                        : ""
+                                }
+                                ${rankMovement(row)}
+                                ${
+                                    row.rankMomentum
+                                        ? `<span style="color:#f59e0b;font-weight:900">⚡ شتاب رتبه ${Number(row.rankMomentumScore || 0).toFixed(0)}/100</span>`
+                                        : ""
+                                }
+                            </div>
+
+                    <div class="symbol">
+                                ${row.symbol}
+                            </div>
+
+                            <div class="score">
+                                Hunt Score: ${Number(row.hunt_score || 0).toFixed(1)}
+                            </div>
+
+                            <div class="sub" style="margin-top:5px">
+                                کیفیت سیگنال:
+                                ${signalQualityHtml}
+                            </div>
+
+                            ${
+                                weakPersistence
+                                    ? `<div class="sub" style="margin-top:5px;color:#f97316;font-weight:900">
+                                        ⚠️ ماندگاری بدون قدرت
+                                       </div>`
+                                    : ""
+                            }
+
+                            ${
+                                row.hotHunt
+                                    ? `<div class="sub" style="margin-top:6px;color:#f59e0b;font-weight:900">
+                                        🔥 شکار داغ ${Number(row.hotHuntScore || 0).toFixed(0)}/100
+                                       </div>`
+                                    : ""
+                            }
+
+                            <div class="sub" style="margin-top:5px">
+                                Hunt History:
+                                ${
+                                    Array.isArray(row.scoreHistory) &&
+                                    row.scoreHistory.length > 0
+                                        ? row.scoreHistory
+                                            .map(x => Number(x).toFixed(1))
+                                            .join(" → ")
+                                        : Number(row.hunt_score || 0).toFixed(1)
+                                }
+                            </div>
+
+                            <div class="sub" style="margin-top:5px">
+                                Hunt Momentum:
+                                ${
+                                    row.huntMomentum === "RISING"
+                                        ? `<span style="color:#22c55e;font-weight:900">🚀 صعودی ${row.huntMomentumScore}/100</span>`
+                                        : row.huntMomentum === "FALLING"
+                                            ? `<span style="color:#ef4444;font-weight:900">📉 نزولی ${row.huntMomentumScore}/100</span>`
+                                            : `<span style="color:#94a3b8">خنثی</span>`
+                                }
+                            </div>
+
+                            <div class="sub" style="margin-top:5px">
+                                Rank History:
+                                ${
+                                    Array.isArray(row.rankHistory) &&
+                                    row.rankHistory.length > 0
+                                        ? row.rankHistory.join(" → ")
+                                        : row.rank
+                                }
+                            </div>
+
+                    <div class="metrics">
+
+                        <div class="metric">
+                            <span>Buy</span>
+                            <b>${row.buy.toFixed(1)}%</b>
+                        </div>
+
+                        <div class="metric">
+                            <span>OB</span>
+                            <b>${row.ob.toFixed(2)}</b>
+                        </div>
+
+                        <div class="metric">
+                            <span>Trend</span>
+                            <b>${row.trendScore.toFixed(1)}</b>
+                        </div>
+
+                        <div class="metric">
+                            <span>Volume</span>
+                            <b>${formatVolume(row.volume)}</b>
+                        </div>
+
+                        <div class="metric">
+                            <span>Price</span>
+                            <b>${row.price.toLocaleString()}</b>
+                        </div>
+
+                        <div class="metric">
+                            <span>Status</span>
+                            <b>${row.status || "-"}</b>
+                        </div>
+
+                        <div class="metric">
+                            <span>Persistence</span>
+                            <b>${Number(row.persistence || 0).toFixed(0)}</b>
+                        </div>
+
+                        <div class="metric">
+                            <span>P15</span>
+                            <b>${Number(row.p15 || 0).toFixed(2)}%</b>
+                        </div>
+
+                        <div class="metric">
+                            <span>VR</span>
+                            <b>${Number(row.vr || 0).toFixed(2)}×</b>
+                        </div>
+
+                        <div class="metric">
+                            <span>VA</span>
+                            <b>${Number(row.va || 0).toFixed(2)}</b>
+                        </div>
+
+                        <div class="metric">
+                            <span>BS</span>
+                            <b>${Number(row.bs || 0).toFixed(2)}</b>
+                        </div>
+
+                        <div class="metric">
+                            <span>Breakout</span>
+                            <b>${row.breakout ? "✅ YES" : "—"}</b>
+                        </div>
+
+                    </div>
+
+                </div>
+            `;
+        }
+
+        let html = `
+            <div class="section-title">
+                🔥 ۱۰ شکار برتر پیش‌پامپ
+            </div>
+        `;
+
+        html += top10.map(renderCard).join("");
+
+        html += `
+            <div class="section-title">
+                👀 زیرنظر
+                <span style="font-size:12px">
+                    رتبه ۱۱ تا ۲۰
+                </span>
+            </div>
+        `;
+
+        if (watchlist.length > 0) {
+            html += watchlist.map(renderCard).join("");
+        } else {
+            html += `
+                <div class="card">
+                    ارز دیگری برای نمایش وجود ندارد.
+                </div>
+            `;
+        }
+
+        // نمایش ارزهایی که از Top 20 خارج شده‌اند
+        if (exitedTop20.length > 0) {
+            html += `
+                <div class="section-title">
+                    🔴 خروج از Top 20
+                    <span style="font-size:12px">
+                        نسبت به اسکن قبلی
+                    </span>
+                </div>
+            `;
+
+            html += exitedTop20.map(item => `
+                <div
+                    class="card"
+                    style="border-right-color:#ef4444"
+                >
+                    <div class="sub">
+                        رتبه قبلی ${item.previousRank}
+                        <span style="color:#ef4444;font-weight:800">
+                            ↓ خروج
+                        </span>
+                    </div>
+
+                    <div class="symbol">
+                        ${item.symbol}
+                    </div>
+                </div>
+            `).join("");
+        }
+
+        status.innerText =
+            "آخرین بروزرسانی: " +
+            new Date().toLocaleTimeString("fa-IR");
+
+        results.innerHTML = html;
+    }
+
+    catch (error) {
+
+        status.innerText =
+            "خطا در خواندن داده‌ها";
+
+        results.innerHTML =
+            '<div class="card">❌ ' +
+            error.message +
+            '</div>';
+    }
+}
+
+function formatVolume(value) {
+
+    if (value >= 1000000000)
+        return (value / 1000000000).toFixed(2) + "B";
+
+    if (value >= 1000000)
+        return (value / 1000000).toFixed(2) + "M";
+
+    if (value >= 1000)
+        return (value / 1000).toFixed(2) + "K";
+
+    return value.toFixed(0);
+}
+
+
+loadData();
+
+setInterval(loadData, 5000);
+
+</script>
+
+</body>
+</html>
+
