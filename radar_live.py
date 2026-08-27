@@ -489,7 +489,7 @@ def score(m):
         book=round(book, 2)
     )
 
-PERSIST_FILE = os.path.expanduser("~/tabdeal_dashboard/persistence_state.json")
+PERSIST_FILE = os.path.join(os.path.dirname(__file__), "persistence_state.json")
 
 def load_persistence():
     if os.path.exists(PERSIST_FILE):
@@ -506,7 +506,7 @@ def save_persistence(state):
         json.dump(state, f, ensure_ascii=False)
     os.replace(tmp, PERSIST_FILE)
 
-DATA_FILE = os.path.expanduser("~/tabdeal_dashboard/tabdeal_radar_v21_data.json")
+DATA_FILE = os.path.join(os.path.dirname(__file__), "tabdeal_radar_v21_data.json")
 
 def save_dashboard_data(out):
     data = {}
