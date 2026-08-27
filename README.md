@@ -1,0 +1,2 @@
+# noredinkianmehr
+for termux
