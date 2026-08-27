@@ -73,6 +73,87 @@ h1 {
     color: #22c55e;
 }
 
+/* Mobile responsive fix */
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.container {
+    width: 100%;
+}
+
+.card,
+.header {
+    width: 100%;
+    max-width: 100%;
+    overflow-wrap: anywhere;
+}
+
+.metric {
+    min-width: 0;
+    overflow: hidden;
+}
+
+.metric b {
+    font-size: clamp(13px, 3.8vw, 18px);
+    overflow-wrap: anywhere;
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+
+    .header,
+    .card {
+        padding: 12px;
+        border-radius: 14px;
+    }
+
+    h1 {
+        font-size: 28px;
+        line-height: 1.15;
+        overflow-wrap: anywhere;
+    }
+
+    .symbol {
+        font-size: 24px;
+    }
+
+    .score {
+        font-size: 28px;
+        line-height: 1.15;
+    }
+
+    .sub {
+        font-size: 14px;
+        line-height: 1.7;
+        overflow-wrap: anywhere;
+    }
+
+    .metrics {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 7px;
+    }
+
+    .metric {
+        padding: 9px 5px;
+    }
+
+    .metric span {
+        font-size: 12px;
+    }
+
+    button {
+        max-width: 100%;
+    }
+}
+
 </style>
 </head>
 
