@@ -8,6 +8,26 @@ import requests
 BASE = "https://api1.tabdeal.org"
 TIMEOUT = 15
 
+NTFY_TOPIC = "tabdeal-radar-kian-8264"
+
+def send_ntfy(message, title="Tabdeal Radar"):
+    try:
+        r = requests.post(
+            f"https://ntfy.sh/{NTFY_TOPIC}",
+            data=message.encode("utf-8"),
+            headers={
+                "Title": title,
+                "Priority": "high",
+                "Tags": "rotating_light"
+            },
+            timeout=10
+        )
+        r.raise_for_status()
+        print("NTFY: sent")
+    except requests.RequestException as e:
+        print("NTFY error:", e)
+
+
 def api_get(path, params=None):
     """
     Resilient public API request.
@@ -730,6 +750,16 @@ def run_once(max_markets=0):
             f"Hunt={best['hunt_score']:.1f}/100",
             f"Status={best['status']}"
         )
+
+        if best.get("hunt_score", 0) >= 80 and best.get("status") in ("EARLY", "PRE_EARLY"):
+            send_ntfy(
+                f"{best['symbol']} | Hunt={best['hunt_score']:.1f}/100 | "
+                f"Status={best['status']} | "
+                f"15m={best.get('p15', 0):+.2f}% | "
+                f"V={best.get('vr', 0):.1f}x | "
+                f"P={best.get('persistence', 0)}",
+                title="Tabdeal Radar Alert"
+            )
     else:
         print("\nداده کافی برای شکار EARLY / PRE_EARLY وجود ندارد.")
 
