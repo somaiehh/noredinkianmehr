@@ -46,5 +46,6 @@ jobs:
             echo "No radar changes to save."
           else
             git commit -m "Auto update radar data"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
