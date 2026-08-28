@@ -537,6 +537,13 @@ def save_dashboard_data(out):
         except Exception:
             data = {}
 
+    # Keep dashboard history strictly IRT-only.
+    data = {
+        symbol: history
+        for symbol, history in data.items()
+        if str(symbol).endswith("IRT")
+    }
+
     now = int(time.time() * 1000)
 
     for x in out:
