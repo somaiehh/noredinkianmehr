@@ -659,6 +659,14 @@ def run_once(max_markets=0):
                         if not s.get("breakout", False):
                             hunt = min(hunt, 84.0)
 
+                        # First EARLY hit is only an alert, not a confirmed leader.
+                        # Require at least 2 consecutive candidate scans for full Hunt score.
+                        if (
+                            status == "EARLY"
+                            and int(s.get("persistence", 0) or 0) < 2
+                        ):
+                            hunt = min(hunt, 78.0)
+
                         s["hunt_score"] = round(
                             min(100.0, hunt),
                             1
