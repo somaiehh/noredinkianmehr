@@ -1106,6 +1106,55 @@ async function loadData() {
                 signalQuality = "WEAK";
             }
 
+            // Radar Decision
+            // فقط راهنمای تصمیم است و Hunt Score / رتبه را تغییر نمی‌دهد.
+            const va = Number(row.va || 0);
+            const breakout = Boolean(row.breakout);
+            const status = String(row.status || "");
+
+            let radarDecision = "WAIT";
+
+            const entryReady =
+                huntScore >= 70 &&
+                status === "EARLY" &&
+                persistence >= 2 &&
+                bs >= 1.5 &&
+                vr >= 1.0 &&
+                va >= 2.0 &&
+                breakout;
+
+            const promising =
+                huntScore >= 50 &&
+                (status === "EARLY" || status === "PRE_EARLY") &&
+                (
+                    persistence >= 2 ||
+                    bs >= 1.5 ||
+                    vr >= 1.0 ||
+                    va >= 2.0 ||
+                    breakout
+                );
+
+            if (entryReady) {
+                radarDecision = "ENTRY";
+            } else if (promising) {
+                radarDecision = "WAIT";
+            } else {
+                radarDecision = "AVOID";
+            }
+
+            let radarDecisionHtml = "";
+
+            if (radarDecision === "ENTRY") {
+                radarDecisionHtml =
+                    '<span style="color:#22c55e;font-weight:900">🟢 آماده بررسی ورود</span>';
+            } else if (radarDecision === "WAIT") {
+                radarDecisionHtml =
+                    '<span style="color:#eab308;font-weight:900">🟡 صبر برای تأیید</span>';
+            } else {
+                radarDecisionHtml =
+                    '<span style="color:#ef4444;font-weight:900">🔴 فعلاً عدم ورود</span>';
+            }
+
             let signalQualityHtml = "";
 
             if (signalQuality === "STRONG") {
@@ -1153,6 +1202,11 @@ async function loadData() {
                             <div class="sub" style="margin-top:5px">
                                 کیفیت سیگنال:
                                 ${signalQualityHtml}
+                            </div>
+
+                            <div class="sub" style="margin-top:6px">
+                                تصمیم رادار:
+                                ${radarDecisionHtml}
                             </div>
 
                             ${
