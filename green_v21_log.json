@@ -1,0 +1,283 @@
+[
+  {
+    "symbol": "NOTIRT",
+    "time": 1788145017582,
+    "price": 90.3,
+    "hunt": 78.9,
+    "persistence": 2,
+    "vr": 3.13,
+    "va": 5.96,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 1.46,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ANIMEIRT",
+    "time": 1788173048257,
+    "price": 586.0,
+    "hunt": 61.9,
+    "persistence": 2,
+    "vr": 6.09,
+    "va": 10.0,
+    "buy": 38.99999999999999,
+    "bs": 1.17,
+    "ob": 1.0,
+    "p15": 0.17,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "RVVIRT",
+    "time": 1788194684342,
+    "price": 22.3,
+    "hunt": 68.8,
+    "persistence": 2,
+    "vr": 2.61,
+    "va": 2.92,
+    "buy": 29.333333333333332,
+    "bs": 0.88,
+    "ob": 0.8,
+    "p15": 0.45,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "DEXEIRT",
+    "time": 1788209866867,
+    "price": 436717.0,
+    "hunt": 77.0,
+    "persistence": 2,
+    "vr": 1.8,
+    "va": 2.0,
+    "buy": 12.0,
+    "bs": 0.36,
+    "ob": 0.96,
+    "p15": 0.53,
+    "breakout": true,
+    "result_1h": {
+      "max_up": -1.1,
+      "max_down": -1.1
+    },
+    "result_4h": {
+      "max_up": -1.04,
+      "max_down": -1.54
+    }
+  },
+  {
+    "symbol": "0GIRT",
+    "time": 1788224584595,
+    "price": 49199.0,
+    "hunt": 100.0,
+    "persistence": 3,
+    "vr": 2.35,
+    "va": 10.0,
+    "buy": 44.333333333333336,
+    "bs": 1.33,
+    "ob": 1.0,
+    "p15": 1.25,
+    "breakout": true,
+    "result_1h": {
+      "max_up": 5.35,
+      "max_down": 1.66
+    },
+    "result_4h": {
+      "max_up": 9.55,
+      "max_down": -1.43
+    }
+  },
+  {
+    "symbol": "USELESSIRT",
+    "time": 1788252673947,
+    "price": 18784.0,
+    "hunt": 64.5,
+    "persistence": 2,
+    "vr": 1.21,
+    "va": 4.16,
+    "buy": 18.000000000000004,
+    "bs": 0.54,
+    "ob": 1.0,
+    "p15": 0.59,
+    "breakout": false,
+    "result_1h": {
+      "max_up": -0.26,
+      "max_down": -1.26
+    },
+    "result_4h": {
+      "max_up": 15.99,
+      "max_down": -1.26
+    }
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1788259113711,
+    "price": 7.902e-05,
+    "hunt": 97.5,
+    "persistence": 2,
+    "vr": 6.19,
+    "va": 8.61,
+    "buy": 100,
+    "bs": 4.96,
+    "ob": 0.58,
+    "p15": 1.14,
+    "breakout": true,
+    "result_1h": {
+      "max_up": 1.15,
+      "max_down": -0.37
+    },
+    "result_4h": {
+      "max_up": 1.15,
+      "max_down": -1.4
+    }
+  },
+  {
+    "symbol": "ACEIRT",
+    "time": 1788266277986,
+    "price": 41806.0,
+    "hunt": 72.2,
+    "persistence": 2,
+    "vr": 4.06,
+    "va": 7.52,
+    "buy": 19.333333333333332,
+    "bs": 0.58,
+    "ob": 0.77,
+    "p15": 0.08,
+    "breakout": false,
+    "result_1h": {
+      "max_up": -2.67,
+      "max_down": -3.13
+    },
+    "result_4h": {
+      "max_up": -1.78,
+      "max_down": -5.69
+    }
+  },
+  {
+    "symbol": "USELESSIRT",
+    "time": 1788271116561,
+    "price": 22050.0,
+    "hunt": 76.5,
+    "persistence": 4,
+    "vr": 6.05,
+    "va": 4.36,
+    "buy": 47.333333333333336,
+    "bs": 1.42,
+    "ob": 1.0,
+    "p15": 0.18,
+    "breakout": false,
+    "result_1h": {
+      "max_up": 0.69,
+      "max_down": -0.5
+    },
+    "result_4h": {
+      "max_up": 0.69,
+      "max_down": -4.08
+    }
+  },
+  {
+    "symbol": "COMMONIRT",
+    "time": 1788277919337,
+    "price": 16.1,
+    "hunt": 77.2,
+    "persistence": 2,
+    "vr": 1.91,
+    "va": 7.41,
+    "buy": 37.666666666666664,
+    "bs": 1.13,
+    "ob": 0.85,
+    "p15": 1.26,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "TUTIRT",
+    "time": 1788281864995,
+    "price": 6662.0,
+    "hunt": 72.7,
+    "persistence": 2,
+    "vr": 1.33,
+    "va": 4.75,
+    "buy": 10.0,
+    "bs": 0.3,
+    "ob": 1.0,
+    "p15": 0.18,
+    "breakout": false,
+    "result_1h": {
+      "max_up": 2.46,
+      "max_down": 1.55
+    },
+    "result_4h": {
+      "max_up": 3.32,
+      "max_down": 0.26
+    }
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1788299817045,
+    "price": 14563.0,
+    "hunt": 84.0,
+    "persistence": 2,
+    "vr": 1.21,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.43,
+    "ob": 1.0,
+    "p15": 0.88,
+    "breakout": false,
+    "result_1h": {
+      "max_up": 0.94,
+      "max_down": 0.3
+    },
+    "result_4h": {
+      "max_up": 1.37,
+      "max_down": 0.3
+    }
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1788325274415,
+    "price": 1.1055,
+    "hunt": 76.9,
+    "persistence": 2,
+    "vr": 1.82,
+    "va": 5.13,
+    "buy": 100,
+    "bs": 3.0,
+    "ob": 1.0,
+    "p15": 0.59,
+    "breakout": false,
+    "result_1h": {
+      "max_up": 0.51,
+      "max_down": 0.51
+    },
+    "result_4h": {
+      "max_up": 1.77,
+      "max_down": 0.41
+    }
+  },
+  {
+    "symbol": "RVVIRT",
+    "time": 1788336873693,
+    "price": 21.6,
+    "hunt": 63.2,
+    "persistence": 2,
+    "vr": 6.37,
+    "va": 10.0,
+    "buy": 19.333333333333332,
+    "bs": 0.58,
+    "ob": 1.0,
+    "p15": 0.47,
+    "breakout": false,
+    "result_1h": {
+      "max_up": 10.65,
+      "max_down": 10.19
+    },
+    "result_4h": null
+  }
+]

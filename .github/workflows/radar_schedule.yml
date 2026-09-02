@@ -35,12 +35,16 @@ jobs:
         run: |
           python -u radar_live.py --once
 
+      - name: Update Green V2.1 log
+        run: |
+          python -u green_logger.py
+
       - name: Save new radar data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add tabdeal_radar_v21_data.json persistence_state.json
+          git add tabdeal_radar_v21_data.json persistence_state.json green_v21_log.json
 
           if git diff --cached --quiet; then
             echo "No radar changes to save."
