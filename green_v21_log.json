@@ -278,6 +278,28 @@
       "max_up": 10.65,
       "max_down": 10.19
     },
+    "result_4h": {
+      "max_up": 34.26,
+      "max_down": 10.19
+    }
+  },
+  {
+    "symbol": "PAXGIRT",
+    "time": 1788351424535,
+    "price": 947000000.0,
+    "hunt": 63.8,
+    "persistence": 3,
+    "vr": 2.57,
+    "va": 10.0,
+    "buy": 59.66666666666667,
+    "bs": 1.79,
+    "ob": 1.0,
+    "p15": 0.05,
+    "breakout": false,
+    "result_1h": {
+      "max_up": 0.84,
+      "max_down": 0.21
+    },
     "result_4h": null
   }
 ]
