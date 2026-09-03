@@ -395,7 +395,10 @@
       "max_up": -0.5,
       "max_down": -1.3
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.5,
+      "max_down": -1.3
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -414,7 +417,10 @@
     "p15": 0.78,
     "breakout": true,
     "result_1h": null,
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.62,
+      "max_down": 0.34
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -432,7 +438,10 @@
     "ob": 1.0,
     "p15": 0.07,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.69,
+      "max_down": 0.69
+    },
     "result_4h": null
   }
 ]
