@@ -13,7 +13,10 @@
     "p15": 1.46,
     "breakout": false,
     "result_1h": null,
-    "result_4h": null
+    "result_4h": null,
+    "pre30": null,
+    "pre60": null,
+    "pre120": null
   },
   {
     "symbol": "ANIMEIRT",
@@ -29,7 +32,10 @@
     "p15": 0.17,
     "breakout": false,
     "result_1h": null,
-    "result_4h": null
+    "result_4h": null,
+    "pre30": null,
+    "pre60": null,
+    "pre120": null
   },
   {
     "symbol": "RVVIRT",
@@ -45,7 +51,10 @@
     "p15": 0.45,
     "breakout": false,
     "result_1h": null,
-    "result_4h": null
+    "result_4h": null,
+    "pre30": null,
+    "pre60": null,
+    "pre120": null
   },
   {
     "symbol": "DEXEIRT",
@@ -67,7 +76,10 @@
     "result_4h": {
       "max_up": -1.04,
       "max_down": -1.54
-    }
+    },
+    "pre30": null,
+    "pre60": null,
+    "pre120": null
   },
   {
     "symbol": "0GIRT",
@@ -89,7 +101,10 @@
     "result_4h": {
       "max_up": 9.55,
       "max_down": -1.43
-    }
+    },
+    "pre30": null,
+    "pre60": null,
+    "pre120": null
   },
   {
     "symbol": "USELESSIRT",
@@ -111,7 +126,10 @@
     "result_4h": {
       "max_up": 15.99,
       "max_down": -1.26
-    }
+    },
+    "pre30": null,
+    "pre60": null,
+    "pre120": null
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -133,7 +151,10 @@
     "result_4h": {
       "max_up": 1.15,
       "max_down": -1.4
-    }
+    },
+    "pre30": null,
+    "pre60": null,
+    "pre120": null
   },
   {
     "symbol": "ACEIRT",
@@ -155,7 +176,10 @@
     "result_4h": {
       "max_up": -1.78,
       "max_down": -5.69
-    }
+    },
+    "pre30": null,
+    "pre60": null,
+    "pre120": null
   },
   {
     "symbol": "USELESSIRT",
@@ -177,7 +201,10 @@
     "result_4h": {
       "max_up": 0.69,
       "max_down": -4.08
-    }
+    },
+    "pre30": null,
+    "pre60": null,
+    "pre120": null
   },
   {
     "symbol": "COMMONIRT",
@@ -193,7 +220,10 @@
     "p15": 1.26,
     "breakout": false,
     "result_1h": null,
-    "result_4h": null
+    "result_4h": null,
+    "pre30": null,
+    "pre60": null,
+    "pre120": null
   },
   {
     "symbol": "TUTIRT",
@@ -215,7 +245,10 @@
     "result_4h": {
       "max_up": 3.32,
       "max_down": 0.26
-    }
+    },
+    "pre30": null,
+    "pre60": null,
+    "pre120": null
   },
   {
     "symbol": "LABIRT",
@@ -237,7 +270,10 @@
     "result_4h": {
       "max_up": 1.37,
       "max_down": 0.3
-    }
+    },
+    "pre30": null,
+    "pre60": null,
+    "pre120": null
   },
   {
     "symbol": "SHIBIRT",
@@ -259,7 +295,10 @@
     "result_4h": {
       "max_up": 1.77,
       "max_down": 0.41
-    }
+    },
+    "pre30": null,
+    "pre60": null,
+    "pre120": null
   },
   {
     "symbol": "RVVIRT",
@@ -281,7 +320,10 @@
     "result_4h": {
       "max_up": 34.26,
       "max_down": 10.19
-    }
+    },
+    "pre30": 0.47,
+    "pre60": 0.47,
+    "pre120": -0.46
   },
   {
     "symbol": "PAXGIRT",
@@ -303,7 +345,10 @@
     "result_4h": {
       "max_up": 1.5,
       "max_down": 0.21
-    }
+    },
+    "pre30": 0.01,
+    "pre60": 0.12,
+    "pre120": 0.3
   },
   {
     "symbol": "PUMPIRT",
@@ -322,7 +367,10 @@
       "max_up": 0.73,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": null,
+    "pre30": 1.72,
+    "pre60": 1.55,
+    "pre120": 0.48
   },
   {
     "symbol": "NOTIRT",
