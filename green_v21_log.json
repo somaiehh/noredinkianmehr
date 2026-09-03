@@ -323,5 +323,43 @@
       "max_down": 0.0
     },
     "result_4h": null
+  },
+  {
+    "symbol": "NOTIRT",
+    "time": 1788452122544,
+    "price": 100.1,
+    "pre30": 0.5,
+    "pre60": 0.81,
+    "pre120": 2.98,
+    "hunt": 77.7,
+    "persistence": 5,
+    "vr": 5.57,
+    "va": 6.59,
+    "buy": 100,
+    "bs": 3.75,
+    "ob": 1.0,
+    "p15": 0.1,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1788452122544,
+    "price": 7255.0,
+    "pre30": 0.83,
+    "pre60": 0.9,
+    "pre120": 2.95,
+    "hunt": 87.3,
+    "persistence": 3,
+    "vr": 16.09,
+    "va": 10.0,
+    "buy": 10.666666666666668,
+    "bs": 0.32,
+    "ob": 1.0,
+    "p15": 0.78,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
