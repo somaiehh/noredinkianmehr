@@ -367,7 +367,10 @@
       "max_up": 0.73,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.51,
+      "max_down": -0.12
+    },
     "pre30": 1.72,
     "pre60": 1.55,
     "pre120": 0.48
