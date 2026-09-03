@@ -114,6 +114,23 @@ print("FILE =", LOG_FILE)
 history_by_symbol = data
 
 updated = 0
+# Backfill Earlyness for older Green events
+for event in log:
+    symbol = event.get("symbol")
+    t0 = event.get("time")
+    p0 = float(event.get("price") or 0)
+    history = history_by_symbol.get(symbol, [])
+
+    if not symbol or not t0 or p0 <= 0 or not history:
+        continue
+
+    if event.get("pre30") is None:
+        event["pre30"] = pct_change(p0, price_before(history, t0, 30))
+    if event.get("pre60") is None:
+        event["pre60"] = pct_change(p0, price_before(history, t0, 60))
+    if event.get("pre120") is None:
+        event["pre120"] = pct_change(p0, price_before(history, t0, 120))
+
 
 for event in log:
     symbol = event["symbol"]
