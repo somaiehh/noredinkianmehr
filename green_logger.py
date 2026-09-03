@@ -9,6 +9,23 @@ EXCLUDE = {
     "ADAIRT","BNBIRT","TRXIRT","DOGEIRT"
 }
 
+def price_before(history, t0, minutes):
+    target = t0 - minutes * 60 * 1000
+    candidates = []
+    for r in history:
+        t = r.get("time")
+        price = float(r.get("price") or 0)
+        if t and price > 0 and t <= target:
+            candidates.append((t, price))
+    if not candidates:
+        return None
+    return max(candidates, key=lambda z: z[0])[1]
+
+def pct_change(current, old):
+    if old is None or old <= 0:
+        return None
+    return round((current / old - 1) * 100, 2)
+
 def is_green(x):
     return (
         x.get("status") == "EARLY"
@@ -52,10 +69,18 @@ for symbol, history in data.items():
         if key in known:
             continue
 
+        p30 = price_before(history, t, 30)
+        p60 = price_before(history, t, 60)
+        p120 = price_before(history, t, 120)
+
         log.append({
             "symbol": symbol,
             "time": t,
             "price": price,
+            "pre30": pct_change(price, p30),
+            "pre60": pct_change(price, p60),
+            "pre120": pct_change(price, p120),
+
             "hunt": x.get("hunt_score"),
             "persistence": x.get("persistence"),
             "vr": x.get("vr"),
