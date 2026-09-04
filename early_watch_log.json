@@ -1401,7 +1401,10 @@
       "max_up": -0.21,
       "max_down": -5.55
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.21,
+      "max_down": -5.55
+    }
   },
   {
     "symbol": "BERTIRT",
@@ -1868,7 +1871,10 @@
       "max_up": -0.39,
       "max_down": -0.39
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.15,
+      "max_down": -0.53
+    },
     "result_12h": null
   },
   {
@@ -1892,7 +1898,10 @@
       "max_up": 0.5,
       "max_down": -0.3
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.78,
+      "max_down": -1.13
+    },
     "result_12h": null
   },
   {
