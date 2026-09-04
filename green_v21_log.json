@@ -492,7 +492,10 @@
       "max_up": -0.5,
       "max_down": -0.5
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.4,
+      "max_down": -2.1
+    }
   },
   {
     "symbol": "GRAMIRT",
