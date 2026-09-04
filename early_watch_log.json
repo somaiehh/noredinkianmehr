@@ -1314,7 +1314,10 @@
       "max_up": 9.34,
       "max_down": -3.44
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.34,
+      "max_down": -6.14
+    }
   },
   {
     "symbol": "TUTIRT",
@@ -1341,7 +1344,10 @@
       "max_up": 3.57,
       "max_down": -5.49
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.57,
+      "max_down": -8.37
+    }
   },
   {
     "symbol": "ACAIRT",
