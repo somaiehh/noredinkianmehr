@@ -521,5 +521,43 @@
       "max_up": 0.3,
       "max_down": -4.35
     }
+  },
+  {
+    "symbol": "NOTIRT",
+    "time": 1788541164622,
+    "price": 98.2,
+    "pre30": 1.45,
+    "pre60": 0.2,
+    "pre120": 0.2,
+    "hunt": 89.8,
+    "persistence": 2,
+    "vr": 3.76,
+    "va": 10.0,
+    "buy": 34.333333333333336,
+    "bs": 1.03,
+    "ob": 1.0,
+    "p15": 0.31,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "EPICIRT",
+    "time": 1788541164622,
+    "price": 79000.0,
+    "pre30": 1.98,
+    "pre60": 4.64,
+    "pre120": 4.73,
+    "hunt": 63.5,
+    "persistence": 2,
+    "vr": 4.31,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.43,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
