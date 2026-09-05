@@ -3280,7 +3280,10 @@
     "bs": 5.0,
     "breakout": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -0.39
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -3298,7 +3301,10 @@
     "bs": 3.12,
     "breakout": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.84,
+      "max_down": -0.84
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -3350,6 +3356,24 @@
     "va": 10.0,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DENTIRT",
+    "time": 1788623690380,
+    "price": 15.139,
+    "level": "STRONG",
+    "hunt": 54.8,
+    "persistence": 1,
+    "p15": 0.26,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.53,
     "breakout": false,
     "result_15m": null,
     "result_1h": null,
