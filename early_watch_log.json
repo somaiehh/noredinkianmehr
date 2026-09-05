@@ -2425,7 +2425,10 @@
       "max_up": 1.73,
       "max_down": 0.07
     },
-    "result_12h": null,
+    "result_12h": {
+      "max_up": 2.56,
+      "max_down": 0.07
+    },
     "priority": false
   },
   {
@@ -2450,7 +2453,10 @@
       "max_up": 3.27,
       "max_down": 0.44
     },
-    "result_12h": null,
+    "result_12h": {
+      "max_up": 3.84,
+      "max_down": 0.44
+    },
     "priority": false
   },
   {
@@ -3631,7 +3637,10 @@
       "max_up": 2.89,
       "max_down": 2.89
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 4.36,
+      "max_down": 2.89
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -3668,6 +3677,25 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "EPICIRT",
+    "time": 1788634334439,
+    "price": 89612.0,
+    "level": "STRONG",
+    "hunt": 54.3,
+    "persistence": 2,
+    "p15": 0.69,
+    "vr": 0.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
