@@ -788,5 +788,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "TLMIRT",
+    "time": 1788612957477,
+    "price": 332.0,
+    "pre30": 1.84,
+    "pre60": 1.84,
+    "pre120": 1.84,
+    "hunt": 72.8,
+    "persistence": 2,
+    "vr": 1.06,
+    "va": 2.0,
+    "buy": 80.33333333333333,
+    "bs": 2.41,
+    "ob": 1.0,
+    "p15": 0.3,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
