@@ -2287,7 +2287,10 @@
     "bs": 1.73,
     "breakout": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.44,
+      "max_down": 0.44
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -2358,7 +2361,10 @@
     "buy": 100,
     "bs": 5.0,
     "breakout": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.17,
+      "max_down": 0.17
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -2376,7 +2382,10 @@
     "buy": 100,
     "bs": 5.0,
     "breakout": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.63,
+      "max_down": 0.63
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -2394,7 +2403,10 @@
     "buy": 92.33333333333333,
     "bs": 2.77,
     "breakout": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.77,
+      "max_down": 0.77
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -2411,6 +2423,42 @@
     "va": 0.42,
     "buy": 100,
     "bs": 5.0,
+    "breakout": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ONGIRT",
+    "time": 1788595576847,
+    "price": 21472.0,
+    "level": "STRONG",
+    "hunt": 56.2,
+    "persistence": 1,
+    "p15": 0.34,
+    "vr": 17.97,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.16,
+    "breakout": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRT",
+    "time": 1788595576847,
+    "price": 6650.0,
+    "level": "STRONG",
+    "hunt": 93.8,
+    "persistence": 2,
+    "p15": 1.08,
+    "vr": 7.1,
+    "va": 5.68,
+    "buy": 62.33333333333334,
+    "bs": 1.87,
     "breakout": true,
     "result_15m": null,
     "result_1h": null,

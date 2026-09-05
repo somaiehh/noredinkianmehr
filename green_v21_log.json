@@ -647,5 +647,24 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "SIRT",
+    "time": 1788595576847,
+    "price": 6650.0,
+    "pre30": 3.15,
+    "pre60": 3.15,
+    "pre120": 3.15,
+    "hunt": 93.8,
+    "persistence": 2,
+    "vr": 7.1,
+    "va": 5.68,
+    "buy": 62.33333333333334,
+    "bs": 1.87,
+    "ob": 1.0,
+    "p15": 1.08,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
