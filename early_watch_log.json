@@ -2990,7 +2990,10 @@
       "max_up": -1.4,
       "max_down": -2.09
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -1.4,
+      "max_down": -6.05
+    },
     "result_12h": null
   },
   {
@@ -3329,6 +3332,24 @@
     "va": 6.62,
     "buy": 57.666666666666664,
     "bs": 1.73,
+    "breakout": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "VELVETIRT",
+    "time": 1788622774567,
+    "price": 19900.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.74,
+    "vr": 0.56,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "result_15m": null,
     "result_1h": null,
