@@ -630,7 +630,10 @@
       "max_up": -0.61,
       "max_down": -1.44
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.21,
+      "max_down": -1.72
+    }
   },
   {
     "symbol": "LINKIRT",
@@ -710,6 +713,25 @@
     "bs": 5.0,
     "ob": 0.66,
     "p15": 1.09,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "POLIRT",
+    "time": 1788607347758,
+    "price": 21265.0,
+    "pre30": 0.09,
+    "pre60": 0.2,
+    "pre120": 0.14,
+    "hunt": 82.3,
+    "persistence": 4,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 88.66666666666667,
+    "bs": 2.66,
+    "ob": 0.7,
+    "p15": 0.46,
     "breakout": false,
     "result_1h": null,
     "result_4h": null
