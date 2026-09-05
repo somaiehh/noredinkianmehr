@@ -894,5 +894,24 @@
       "max_down": 1.38
     },
     "result_4h": null
+  },
+  {
+    "symbol": "ESIRT",
+    "time": 1788640856659,
+    "price": 378.0,
+    "pre30": 1.07,
+    "pre60": 1.07,
+    "pre120": -2.58,
+    "hunt": 70.3,
+    "persistence": 2,
+    "vr": 2.26,
+    "va": 2.2,
+    "buy": 95.66666666666667,
+    "bs": 2.87,
+    "ob": 1.0,
+    "p15": 0.8,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
