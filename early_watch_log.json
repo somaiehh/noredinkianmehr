@@ -1899,7 +1899,10 @@
       "max_up": -0.39,
       "max_down": -0.39
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.39,
+      "max_down": -0.39
+    }
   },
   {
     "symbol": "FLOKIIRT",
@@ -2155,7 +2158,10 @@
     "bs": 5.0,
     "breakout": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.46,
+      "max_down": 1.46
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -2173,7 +2179,10 @@
     "bs": 5.0,
     "breakout": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.49,
+      "max_down": 1.18
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -2225,6 +2234,24 @@
     "va": 10.0,
     "buy": 100,
     "bs": 5.0,
+    "breakout": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PAXGIRT",
+    "time": 1788590102602,
+    "price": 978155619.0,
+    "level": "STRONG",
+    "hunt": 65.7,
+    "persistence": 2,
+    "p15": 0.32,
+    "vr": 0.83,
+    "va": 2.01,
+    "buy": 76.33333333333333,
+    "bs": 2.29,
     "breakout": true,
     "result_15m": null,
     "result_1h": null,
