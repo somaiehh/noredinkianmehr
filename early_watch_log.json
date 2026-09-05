@@ -1926,7 +1926,10 @@
       "max_up": -0.15,
       "max_down": -0.53
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.04,
+      "max_down": -0.53
+    }
   },
   {
     "symbol": "LABIRT",
@@ -1953,7 +1956,10 @@
       "max_up": 0.78,
       "max_down": -1.13
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.17,
+      "max_down": -1.31
+    }
   },
   {
     "symbol": "DASHIRT",
@@ -2218,7 +2224,10 @@
     "bs": 3.0,
     "breakout": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.18,
+      "max_down": 0.88
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -2236,7 +2245,10 @@
     "bs": 5.0,
     "breakout": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.48,
+      "max_down": 0.48
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -2271,6 +2283,60 @@
     "buy": 57.666666666666664,
     "bs": 1.73,
     "breakout": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FETIRT",
+    "time": 1788592896361,
+    "price": 36311.0,
+    "level": "STRONG",
+    "hunt": 51.0,
+    "persistence": 1,
+    "p15": 0.63,
+    "vr": 0.0,
+    "va": 3.88,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NEARIRT",
+    "time": 1788592896361,
+    "price": 503839.0,
+    "level": "STRONG",
+    "hunt": 67.4,
+    "persistence": 3,
+    "p15": 0.14,
+    "vr": 8.04,
+    "va": 10.0,
+    "buy": 75.33333333333333,
+    "bs": 2.26,
+    "breakout": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DOGSIRT",
+    "time": 1788592896361,
+    "price": 9.43,
+    "level": "STRONG",
+    "hunt": 52.8,
+    "persistence": 1,
+    "p15": 0.64,
+    "vr": 0.03,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
