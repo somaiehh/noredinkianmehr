@@ -1695,7 +1695,10 @@
       "max_up": 1.98,
       "max_down": 1.81
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.98,
+      "max_down": 1.81
+    }
   },
   {
     "symbol": "BICOIRT",
