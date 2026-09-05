@@ -628,5 +628,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "LINKIRT",
+    "time": 1788594619694,
+    "price": 2619927.0,
+    "pre30": 4.63,
+    "pre60": 4.63,
+    "pre120": 4.63,
+    "hunt": 84.7,
+    "persistence": 2,
+    "vr": 16.93,
+    "va": 10.0,
+    "buy": 14.333333333333334,
+    "bs": 0.43,
+    "ob": 1.0,
+    "p15": 0.77,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

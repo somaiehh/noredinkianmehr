@@ -2398,5 +2398,23 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "NOTIRT",
+    "time": 1788594619694,
+    "price": 99.4,
+    "level": "STRONG",
+    "hunt": 62.8,
+    "persistence": 1,
+    "p15": 0.51,
+    "vr": 1.22,
+    "va": 0.42,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
