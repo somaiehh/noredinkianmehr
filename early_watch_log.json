@@ -2369,7 +2369,10 @@
       "max_up": 4.04,
       "max_down": 0.88
     },
-    "result_12h": null,
+    "result_12h": {
+      "max_up": 6.84,
+      "max_down": 0.88
+    },
     "priority": true
   },
   {
@@ -2394,7 +2397,10 @@
       "max_up": 2.62,
       "max_down": 0.48
     },
-    "result_12h": null,
+    "result_12h": {
+      "max_up": 4.16,
+      "max_down": 0.48
+    },
     "priority": true
   },
   {
@@ -3619,6 +3625,47 @@
     "va": 4.03,
     "buy": 100,
     "bs": 3.1,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 2.89,
+      "max_down": 2.89
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "UNIIRT",
+    "time": 1788632862291,
+    "price": 1561611.0,
+    "level": "STRONG",
+    "hunt": 72.1,
+    "persistence": 1,
+    "p15": 1.82,
+    "vr": 0.07,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SUIIRT",
+    "time": 1788632862291,
+    "price": 181988.0,
+    "level": "STRONG",
+    "hunt": 51.6,
+    "persistence": 1,
+    "p15": 0.49,
+    "vr": 0.04,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,

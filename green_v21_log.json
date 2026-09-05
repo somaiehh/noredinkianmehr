@@ -869,5 +869,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "ARBIRT",
+    "time": 1788632862291,
+    "price": 31782.0,
+    "pre30": 3.76,
+    "pre60": 3.76,
+    "pre120": 4.71,
+    "hunt": 84.0,
+    "persistence": 2,
+    "vr": 4.41,
+    "va": 10.0,
+    "buy": 22.0,
+    "bs": 0.66,
+    "ob": 0.77,
+    "p15": 1.08,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
