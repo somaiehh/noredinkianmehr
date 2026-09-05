@@ -19,6 +19,14 @@ if LOG_FILE.exists():
 else:
     log = []
 
+# Backfill PRIORITY for historical events
+for x in log:
+    x["priority"] = (
+        x.get("level") == "STRONG"
+        and bool(x.get("breakout"))
+        and float(x.get("bs") or 0) >= 3.0
+    )
+
 seen = {
     (x.get("symbol"), x.get("time"), x.get("level"))
     for x in log
@@ -103,6 +111,11 @@ for symbol, history in data.items():
             "buy": x.get("buy_ratio"),
             "bs": x.get("bs"),
             "breakout": x.get("breakout"),
+            "priority": (
+                level == "STRONG"
+                and bool(x.get("breakout"))
+                and float(x.get("bs") or 0) >= 3.0
+            ),
             "result_15m": None,
             "result_1h": None,
             "result_4h": None,
@@ -235,3 +248,36 @@ for level in ["WATCH", "STRONG"]:
             "+10=", round(sum(v >= 10 for v in ups)/n*100,1),
             "-3=", round(sum(v <= -3 for v in dns)/n*100,1)
         )
+
+print("\n" + "="*80)
+print("PRIORITY STRONG PERFORMANCE")
+print("="*80)
+
+for field in [
+    "result_1h",
+    "result_4h",
+    "result_12h",
+]:
+    rows = [
+        x[field]
+        for x in log
+        if x.get("priority") is True
+        and x.get(field) is not None
+    ]
+
+    if not rows:
+        print(" ", field, "N=0")
+        continue
+
+    n = len(rows)
+    ups = [r["max_up"] for r in rows]
+    dns = [r["max_down"] for r in rows]
+
+    print(
+        " ", field,
+        "N=", n,
+        "+3=", round(sum(v >= 3 for v in ups)/n*100,1),
+        "+5=", round(sum(v >= 5 for v in ups)/n*100,1),
+        "+10=", round(sum(v >= 10 for v in ups)/n*100,1),
+        "-3=", round(sum(v <= -3 for v in dns)/n*100,1)
+    )
