@@ -1761,7 +1761,10 @@
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.22,
+      "max_down": -2.34
+    }
   },
   {
     "symbol": "TUTIRT",
@@ -1785,7 +1788,10 @@
       "max_up": 3.03,
       "max_down": -3.94
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.03,
+      "max_down": -5.11
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -2058,7 +2064,10 @@
     "buy": 56.666666666666664,
     "bs": 1.7,
     "breakout": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 3.65,
+      "max_down": 3.65
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -2076,7 +2085,10 @@
     "buy": 75.33333333333333,
     "bs": 2.26,
     "breakout": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 9.48,
+      "max_down": 9.48
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
