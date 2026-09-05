@@ -1722,7 +1722,10 @@
       "max_up": 5.19,
       "max_down": 1.42
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.19,
+      "max_down": 1.42
+    }
   },
   {
     "symbol": "YBIRT",
@@ -2039,6 +2042,42 @@
       "max_up": 0.3,
       "max_down": -0.89
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TUTIRT",
+    "time": 1788583594430,
+    "price": 5200.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.87,
+    "vr": 6.47,
+    "va": 10.0,
+    "buy": 56.666666666666664,
+    "bs": 1.7,
+    "breakout": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "VFYIRT",
+    "time": 1788583594430,
+    "price": 1909.0,
+    "level": "STRONG",
+    "hunt": 74.3,
+    "persistence": 1,
+    "p15": 1.7,
+    "vr": 4.01,
+    "va": 1.73,
+    "buy": 75.33333333333333,
+    "bs": 2.26,
+    "breakout": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
