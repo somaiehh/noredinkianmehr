@@ -3247,5 +3247,41 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "NOTIRT",
+    "time": 1788619947494,
+    "price": 102.1,
+    "level": "STRONG",
+    "hunt": 59.9,
+    "persistence": 1,
+    "p15": 0.89,
+    "vr": 0.04,
+    "va": 8.53,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1788619947494,
+    "price": 10145.0,
+    "level": "STRONG",
+    "hunt": 50.8,
+    "persistence": 1,
+    "p15": 0.66,
+    "vr": 1.65,
+    "va": 0.98,
+    "buy": 100,
+    "bs": 3.12,
+    "breakout": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
