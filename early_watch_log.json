@@ -1641,7 +1641,10 @@
       "max_up": -0.39,
       "max_down": -0.39
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.39,
+      "max_down": -0.39
+    }
   },
   {
     "symbol": "UAIIRT",
@@ -1665,7 +1668,10 @@
       "max_up": 24.5,
       "max_down": 5.37
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 28.4,
+      "max_down": 5.37
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -2026,7 +2032,10 @@
     "bs": 1.36,
     "breakout": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.3,
+      "max_down": -0.89
+    },
     "result_4h": null,
     "result_12h": null
   }
