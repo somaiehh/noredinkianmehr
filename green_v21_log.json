@@ -680,7 +680,10 @@
       "max_up": 0.38,
       "max_down": 0.38
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.38,
+      "max_down": 0.38
+    }
   },
   {
     "symbol": "BTRIRT",
@@ -720,7 +723,10 @@
     "ob": 0.66,
     "p15": 1.09,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.48,
+      "max_down": 0.92
+    },
     "result_4h": null
   },
   {
@@ -739,7 +745,10 @@
     "ob": 0.7,
     "p15": 0.46,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.45,
+      "max_down": -0.16
+    },
     "result_4h": null
   },
   {
@@ -757,6 +766,25 @@
     "bs": 3.95,
     "ob": 0.42,
     "p15": 0.62,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "VELVETIRT",
+    "time": 1788611177212,
+    "price": 18312.0,
+    "pre30": 0.89,
+    "pre60": 3.19,
+    "pre120": 3.13,
+    "hunt": 83.8,
+    "persistence": 2,
+    "vr": 1.37,
+    "va": 3.81,
+    "buy": 30.66666666666667,
+    "bs": 0.92,
+    "ob": 1.0,
+    "p15": 1.04,
     "breakout": false,
     "result_1h": null,
     "result_4h": null
