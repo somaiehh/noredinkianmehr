@@ -2341,7 +2341,10 @@
       "max_up": 1.73,
       "max_down": 1.4
     },
-    "result_12h": null,
+    "result_12h": {
+      "max_up": 1.73,
+      "max_down": 1.4
+    },
     "priority": false
   },
   {
@@ -3595,6 +3598,28 @@
     "buy": 54.333333333333336,
     "bs": 1.63,
     "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": 0.24,
+      "max_down": 0.0
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SUSHIIRT",
+    "time": 1788630635130,
+    "price": 52985.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.98,
+    "vr": 2.77,
+    "va": 4.03,
+    "buy": 100,
+    "bs": 3.1,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
