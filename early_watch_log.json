@@ -2061,7 +2061,10 @@
       "max_up": 68.99,
       "max_down": 0.28
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 68.99,
+      "max_down": 0.28
+    }
   },
   {
     "symbol": "VELVETIRT",
@@ -3067,7 +3070,10 @@
       "max_up": 0.63,
       "max_down": 0.63
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.2,
+      "max_down": 0.63
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -3088,7 +3094,10 @@
       "max_up": 0.72,
       "max_down": 0.72
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.98,
+      "max_down": 0.71
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -3109,7 +3118,10 @@
       "max_up": 1.49,
       "max_down": 1.49
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.49,
+      "max_down": -0.94
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -3130,7 +3142,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -0.64
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -3151,7 +3166,10 @@
       "max_up": 0.11,
       "max_down": 0.11
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.24,
+      "max_down": -2.18
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -3172,7 +3190,10 @@
       "max_up": 0.31,
       "max_down": 0.31
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.41,
+      "max_down": 0.31
+    },
     "result_4h": null,
     "result_12h": null
   },
