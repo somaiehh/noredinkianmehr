@@ -1530,7 +1530,10 @@
       "max_up": 2.9,
       "max_down": -2.15
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.9,
+      "max_down": -2.15
+    }
   },
   {
     "symbol": "TACIRT",
@@ -1973,6 +1976,24 @@
     "va": 10.0,
     "buy": 44.66666666666667,
     "bs": 1.34,
+    "breakout": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NOMIRT",
+    "time": 1788573517887,
+    "price": 358.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.13,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
     "breakout": false,
     "result_15m": null,
     "result_1h": null,
