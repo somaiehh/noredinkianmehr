@@ -780,7 +780,10 @@
       "max_up": 0.25,
       "max_down": 0.07
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.18,
+      "max_down": -0.03
+    }
   },
   {
     "symbol": "VELVETIRT",
