@@ -1818,7 +1818,10 @@
       "max_up": 0.0,
       "max_down": -2.49
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -2.49
+    }
   },
   {
     "symbol": "BTRIRT",
@@ -2006,7 +2009,10 @@
     "breakout": false,
     "result_15m": null,
     "result_1h": null,
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.01,
+      "max_down": -2.11
+    },
     "result_12h": null
   },
   {
@@ -2105,6 +2111,45 @@
     "va": 10.0,
     "buy": 100,
     "bs": 3.12,
+    "breakout": false,
+    "result_15m": {
+      "max_up": 0.26,
+      "max_down": 0.26
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1788586347067,
+    "price": 1.1574,
+    "level": "STRONG",
+    "hunt": 68.8,
+    "persistence": 1,
+    "p15": 0.21,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "EPICIRT",
+    "time": 1788586347067,
+    "price": 81960.0,
+    "level": "WATCH",
+    "hunt": 47.7,
+    "persistence": 1,
+    "p15": 1.17,
+    "vr": 0.11,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "result_15m": null,
     "result_1h": null,
