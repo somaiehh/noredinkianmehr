@@ -3536,7 +3536,10 @@
       "max_up": 7.23,
       "max_down": 7.23
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 10.37,
+      "max_down": 7.23
+    },
     "result_12h": null,
     "priority": false
   },
@@ -3558,7 +3561,10 @@
       "max_up": 0.04,
       "max_down": -0.86
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.04,
+      "max_down": -1.94
+    },
     "result_12h": null,
     "priority": false
   },
@@ -3671,7 +3677,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.15,
+      "max_down": 1.15
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -3690,7 +3699,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.27,
+      "max_down": -0.15
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -3712,6 +3724,44 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DENTIRT",
+    "time": 1788637027220,
+    "price": 15.591,
+    "level": "STRONG",
+    "hunt": 70.2,
+    "persistence": 1,
+    "p15": 0.43,
+    "vr": 1.39,
+    "va": 1.13,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TUTIRT",
+    "time": 1788637027220,
+    "price": 6500.0,
+    "level": "STRONG",
+    "hunt": 54.2,
+    "persistence": 1,
+    "p15": 0.67,
+    "vr": 0.14,
+    "va": 5.01,
+    "buy": 63.33333333333333,
+    "bs": 1.9,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
