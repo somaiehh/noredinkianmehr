@@ -2288,7 +2288,10 @@
       "max_up": 5.15,
       "max_down": 1.46
     },
-    "result_12h": null,
+    "result_12h": {
+      "max_up": 7.49,
+      "max_down": 1.46
+    },
     "priority": true
   },
   {
@@ -2313,7 +2316,10 @@
       "max_up": 8.09,
       "max_down": 1.18
     },
-    "result_12h": null,
+    "result_12h": {
+      "max_up": 11.22,
+      "max_down": 1.18
+    },
     "priority": false
   },
   {
