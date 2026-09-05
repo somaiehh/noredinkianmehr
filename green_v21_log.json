@@ -705,7 +705,10 @@
       "max_up": 2.48,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.48,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "BTRIRT",
@@ -727,7 +730,10 @@
       "max_up": 2.48,
       "max_down": 0.92
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.48,
+      "max_down": 0.02
+    }
   },
   {
     "symbol": "POLIRT",
