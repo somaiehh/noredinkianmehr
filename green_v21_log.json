@@ -694,5 +694,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "BTRIRT",
+    "time": 1788606250695,
+    "price": 11280.0,
+    "pre30": 0.54,
+    "pre60": 0.12,
+    "pre120": -0.69,
+    "hunt": 75.7,
+    "persistence": 3,
+    "vr": 1.7,
+    "va": 3.09,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.66,
+    "p15": 1.09,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
