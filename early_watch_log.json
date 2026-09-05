@@ -2324,7 +2324,10 @@
       "max_up": 0.44,
       "max_down": 0.44
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.27,
+      "max_down": 0.44
+    },
     "result_12h": null
   },
   {
@@ -2771,6 +2774,42 @@
     "va": 2.0,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TUTIRT",
+    "time": 1788605621814,
+    "price": 6220.0,
+    "level": "STRONG",
+    "hunt": 82.1,
+    "persistence": 3,
+    "p15": 1.7,
+    "vr": 1.63,
+    "va": 3.29,
+    "buy": 65.0,
+    "bs": 1.95,
+    "breakout": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1788605621814,
+    "price": 39.4,
+    "level": "STRONG",
+    "hunt": 60.0,
+    "persistence": 1,
+    "p15": 0.51,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 43.333333333333336,
+    "bs": 1.3,
     "breakout": false,
     "result_15m": null,
     "result_1h": null,

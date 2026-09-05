@@ -675,5 +675,24 @@
       "max_down": 0.38
     },
     "result_4h": null
+  },
+  {
+    "symbol": "BTRIRT",
+    "time": 1788605621814,
+    "price": 11280.0,
+    "pre30": 0.04,
+    "pre60": 0.12,
+    "pre120": -0.37,
+    "hunt": 73.8,
+    "persistence": 2,
+    "vr": 1.64,
+    "va": 7.91,
+    "buy": 13.333333333333334,
+    "bs": 0.4,
+    "ob": 0.88,
+    "p15": 1.09,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
