@@ -1845,7 +1845,10 @@
       "max_up": 6.8,
       "max_down": -0.53
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.68,
+      "max_down": -0.53
+    }
   },
   {
     "symbol": "DEXEIRT",
@@ -1869,7 +1872,10 @@
       "max_up": -0.13,
       "max_down": -1.71
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.13,
+      "max_down": -2.82
+    }
   },
   {
     "symbol": "BOMEIRT",
@@ -2150,6 +2156,24 @@
     "va": 10.0,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MBLIRT",
+    "time": 1788587137242,
+    "price": 150.4,
+    "level": "STRONG",
+    "hunt": 64.8,
+    "persistence": 1,
+    "p15": 0.27,
+    "vr": 1.5,
+    "va": 2.57,
+    "buy": 100,
+    "bs": 3.0,
     "breakout": false,
     "result_15m": null,
     "result_1h": null,
