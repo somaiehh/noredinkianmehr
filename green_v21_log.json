@@ -893,7 +893,10 @@
       "max_up": 1.72,
       "max_down": 1.38
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 22.24,
+      "max_down": 1.38
+    }
   },
   {
     "symbol": "ESIRT",
