@@ -3891,7 +3891,10 @@
       "max_up": 0.66,
       "max_down": -0.39
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 21.04,
+      "max_down": -0.39
+    }
   },
   {
     "symbol": "DENTIRT",
@@ -4316,7 +4319,10 @@
       "max_up": -0.76,
       "max_down": -0.76
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.32,
+      "max_down": -0.76
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -4332,6 +4338,25 @@
     "va": 10.0,
     "buy": 100,
     "bs": 3.03,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "COTIIRT",
+    "time": 1788677712208,
+    "price": 4029.9,
+    "level": "STRONG",
+    "hunt": 73.9,
+    "persistence": 1,
+    "p15": 1.15,
+    "vr": 0.35,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
