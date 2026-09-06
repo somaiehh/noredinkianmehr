@@ -281,3 +281,37 @@ for field in [
         "+10=", round(sum(v >= 10 for v in ups)/n*100,1),
         "-3=", round(sum(v <= -3 for v in dns)/n*100,1)
     )
+
+print("\n" + "="*80)
+print("PRIORITY VR3 PERFORMANCE")
+print("="*80)
+
+for field in [
+    "result_1h",
+    "result_4h",
+    "result_12h",
+]:
+    rows = [
+        x[field]
+        for x in log
+        if x.get("priority") is True
+        and float(x.get("vr") or 0) >= 3.0
+        and x.get(field) is not None
+    ]
+
+    if not rows:
+        print(" ", field, "N=0")
+        continue
+
+    n = len(rows)
+    ups = [r["max_up"] for r in rows]
+    dns = [r["max_down"] for r in rows]
+
+    print(
+        " ", field,
+        "N=", n,
+        "+3=", round(sum(v >= 3 for v in ups)/n*100,1),
+        "+5=", round(sum(v >= 5 for v in ups)/n*100,1),
+        "+10=", round(sum(v >= 10 for v in ups)/n*100,1),
+        "-3=", round(sum(v <= -3 for v in dns)/n*100,1)
+    )
