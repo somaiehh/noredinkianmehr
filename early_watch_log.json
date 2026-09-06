@@ -4421,5 +4421,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "BTRIRT",
+    "time": 1788686616858,
+    "price": 10946.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.8,
+    "vr": 0.55,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.3,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
