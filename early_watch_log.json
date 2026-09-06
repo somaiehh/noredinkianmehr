@@ -4212,7 +4212,10 @@
       "max_up": 1.53,
       "max_down": -1.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.53,
+      "max_down": -4.0
+    }
   },
   {
     "symbol": "TIRT",
@@ -4571,7 +4574,10 @@
       "max_up": -0.02,
       "max_down": -0.07
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.31,
+      "max_down": -0.6
+    },
     "result_12h": null
   },
   {
@@ -4593,7 +4599,10 @@
       "max_up": -0.41,
       "max_down": -1.18
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.71,
+      "max_down": -3.16
+    },
     "result_12h": null
   },
   {
