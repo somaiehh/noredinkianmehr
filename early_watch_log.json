@@ -4424,7 +4424,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.0,
+      "max_down": 1.0
+    },
     "result_4h": null,
     "result_12h": null
   },
