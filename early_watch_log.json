@@ -4592,7 +4592,10 @@
       "max_up": 8.77,
       "max_down": 5.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.77,
+      "max_down": 1.37
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -4617,7 +4620,10 @@
       "max_up": 0.31,
       "max_down": -0.6
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.76,
+      "max_down": -1.39
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -4642,7 +4648,10 @@
       "max_up": 0.71,
       "max_down": -3.16
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.71,
+      "max_down": -6.23
+    }
   },
   {
     "symbol": "TUTIRT",
@@ -5110,6 +5119,44 @@
     "va": 2.0,
     "buy": 100,
     "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "JUPIRT",
+    "time": 1788737033531,
+    "price": 60670.0,
+    "level": "STRONG",
+    "hunt": 73.3,
+    "persistence": 1,
+    "p15": 0.41,
+    "vr": 1.03,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TUTIRT",
+    "time": 1788737033531,
+    "price": 5787.0,
+    "level": "STRONG",
+    "hunt": 68.8,
+    "persistence": 1,
+    "p15": 1.53,
+    "vr": 0.77,
+    "va": 4.05,
+    "buy": 50.33333333333333,
+    "bs": 1.51,
     "breakout": false,
     "priority": false,
     "result_15m": null,
