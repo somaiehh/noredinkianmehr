@@ -4088,5 +4088,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "FILIRT",
+    "time": 1788661559726,
+    "price": 185000.0,
+    "level": "STRONG",
+    "hunt": 50.1,
+    "persistence": 1,
+    "p15": 0.49,
+    "vr": 0.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
