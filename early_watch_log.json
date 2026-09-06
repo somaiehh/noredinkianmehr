@@ -4156,7 +4156,10 @@
       "max_up": -0.19,
       "max_down": -0.19
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.13,
+      "max_down": -2.96
+    }
   },
   {
     "symbol": "FILIRT",
@@ -4599,7 +4602,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.45,
+      "max_down": -0.71
+    },
     "result_4h": null,
     "result_12h": null
   },
