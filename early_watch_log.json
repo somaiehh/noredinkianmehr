@@ -3657,7 +3657,10 @@
       "max_up": 10.37,
       "max_down": 7.23
     },
-    "result_12h": null,
+    "result_12h": {
+      "max_up": 10.37,
+      "max_down": -0.14
+    },
     "priority": false
   },
   {
@@ -3682,7 +3685,10 @@
       "max_up": 0.04,
       "max_down": -1.94
     },
-    "result_12h": null,
+    "result_12h": {
+      "max_up": 0.45,
+      "max_down": -1.94
+    },
     "priority": false
   },
   {
@@ -3707,7 +3713,10 @@
       "max_up": 10.74,
       "max_down": -2.56
     },
-    "result_12h": null,
+    "result_12h": {
+      "max_up": 10.74,
+      "max_down": -2.56
+    },
     "priority": false
   },
   {
@@ -4116,7 +4125,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.41,
+      "max_down": 1.41
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -4134,6 +4146,44 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TIRT",
+    "time": 1788666113135,
+    "price": 1061.0,
+    "level": "STRONG",
+    "hunt": 68.3,
+    "persistence": 1,
+    "p15": 0.86,
+    "vr": 6.73,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "CATIIRT",
+    "time": 1788666113135,
+    "price": 11677.0,
+    "level": "STRONG",
+    "hunt": 73.5,
+    "persistence": 1,
+    "p15": 0.67,
+    "vr": 0.84,
+    "va": 4.46,
+    "buy": 36.00000000000001,
+    "bs": 1.08,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
