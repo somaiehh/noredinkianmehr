@@ -3773,7 +3773,10 @@
       "max_up": 0.24,
       "max_down": -0.98
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.98,
+      "max_down": -0.98
+    }
   },
   {
     "symbol": "SUSHIIRT",
