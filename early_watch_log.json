@@ -4514,7 +4514,10 @@
       "max_up": 0.68,
       "max_down": -2.79
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.73,
+      "max_down": -3.85
+    }
   },
   {
     "symbol": "SIRT",
@@ -4963,7 +4966,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 7.57,
+      "max_down": -0.29
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -5017,6 +5023,25 @@
     "va": 2.7,
     "buy": 49.333333333333336,
     "bs": 1.48,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "CATIIRT",
+    "time": 1788730667112,
+    "price": 12590.0,
+    "level": "STRONG",
+    "hunt": 59.4,
+    "persistence": 2,
+    "p15": 1.79,
+    "vr": 0.35,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
