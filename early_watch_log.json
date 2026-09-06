@@ -4546,7 +4546,10 @@
       "max_up": 8.77,
       "max_down": 5.82
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 8.77,
+      "max_down": 5.82
+    },
     "result_12h": null
   },
   {
@@ -4756,6 +4759,28 @@
     "va": 2.83,
     "buy": 83.0,
     "bs": 2.49,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.57
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "AKITAIRT",
+    "time": 1788707254734,
+    "price": 2137.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.71,
+    "vr": 4.73,
+    "va": 10.0,
+    "buy": 50.0,
+    "bs": 1.5,
     "breakout": false,
     "priority": false,
     "result_15m": null,
