@@ -4009,7 +4009,10 @@
       "max_up": 2.03,
       "max_down": -1.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.03,
+      "max_down": -8.74
+    }
   },
   {
     "symbol": "ZEUSIRT",
