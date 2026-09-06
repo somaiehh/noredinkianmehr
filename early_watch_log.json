@@ -3919,7 +3919,10 @@
       "max_up": 1.44,
       "max_down": -2.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.44,
+      "max_down": -3.07
+    }
   },
   {
     "symbol": "TUTIRT",
@@ -3944,7 +3947,10 @@
       "max_up": 2.0,
       "max_down": -2.26
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.0,
+      "max_down": -7.18
+    }
   },
   {
     "symbol": "ESIRT",
@@ -4200,7 +4206,10 @@
     "priority": false,
     "result_15m": null,
     "result_1h": null,
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.47,
+      "max_down": -2.17
+    },
     "result_12h": null
   },
   {
@@ -4222,7 +4231,10 @@
       "max_up": 0.19,
       "max_down": 0.19
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.19,
+      "max_down": -4.71
+    },
     "result_12h": null
   },
   {
@@ -4344,7 +4356,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.66,
+      "max_down": 0.66
+    },
     "result_4h": null,
     "result_12h": null
   },
