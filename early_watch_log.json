@@ -4938,5 +4938,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "FIDAIRT",
+    "time": 1788726243433,
+    "price": 4833.0,
+    "level": "STRONG",
+    "hunt": 61.1,
+    "persistence": 1,
+    "p15": 0.35,
+    "vr": 0.87,
+    "va": 2.62,
+    "buy": 50.66666666666667,
+    "bs": 1.52,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
