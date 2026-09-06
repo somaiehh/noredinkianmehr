@@ -4237,7 +4237,10 @@
       "max_up": 0.47,
       "max_down": -2.17
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.47,
+      "max_down": -2.36
+    }
   },
   {
     "symbol": "CATIIRT",
@@ -4262,7 +4265,10 @@
       "max_up": 0.19,
       "max_down": -4.71
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.93,
+      "max_down": -5.79
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -4790,6 +4796,25 @@
     "va": 10.0,
     "buy": 50.0,
     "bs": 1.5,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NOTIRT",
+    "time": 1788709794971,
+    "price": 102.4,
+    "level": "STRONG",
+    "hunt": 76.6,
+    "persistence": 2,
+    "p15": 0.39,
+    "vr": 1.72,
+    "va": 10.0,
+    "buy": 70.33333333333333,
+    "bs": 2.11,
     "breakout": false,
     "priority": false,
     "result_15m": null,
