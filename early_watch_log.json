@@ -5513,7 +5513,10 @@
       "max_up": 2.68,
       "max_down": -3.27
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.68,
+      "max_down": -5.2
+    }
   },
   {
     "symbol": "SOPHIRT",
@@ -5538,7 +5541,10 @@
       "max_up": 7.34,
       "max_down": -0.17
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 12.41,
+      "max_down": -9.0
+    }
   },
   {
     "symbol": "USELESSIRT",
@@ -5837,7 +5843,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.36,
+      "max_down": 1.85
+    },
     "result_4h": null,
     "result_12h": null
   }
