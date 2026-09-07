@@ -4707,7 +4707,10 @@
       "max_up": 6.51,
       "max_down": -2.8
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 16.64,
+      "max_down": -2.8
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -5019,7 +5022,10 @@
       "max_up": 0.91,
       "max_down": 0.13
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.54,
+      "max_down": 0.13
+    },
     "result_12h": null
   },
   {
