@@ -631,12 +631,21 @@ def run_once(max_markets=0):
 
                     s["persistence"] = persistence.get(symbol, 0)
 
-                    # Persistence helps confirmation, but must not dominate.
-                    # No bonus for weak/no-signal rows.
+                    # Persistence is useful only when real power confirms it.
+                    # Do not reward persistence alone.
+                    vr_now = float(s.get("vr") or 0)
+                    breakout_now = bool(s.get("breakout", False))
+
+                    strength_confirmed = (
+                        breakout_now
+                        or vr_now >= 0.8
+                    )
+
                     if (
                         status in ("PRE_EARLY", "EARLY")
                         and s.get("pre_score") is not None
                         and float(s.get("pre_score") or 0) >= 40
+                        and strength_confirmed
                     ):
                         persistence_bonus = min(
                             s["persistence"] * 2.0,
@@ -675,6 +684,13 @@ def run_once(max_markets=0):
                         # No fresh 15m breakout = candidate, not confirmed leader.
                         if not s.get("breakout", False):
                             hunt = min(hunt, 84.0)
+
+                        # Weak volume + no breakout must never become a strong leader.
+                        if (
+                            not s.get("breakout", False)
+                            and float(s.get("vr") or 0) < 0.5
+                        ):
+                            hunt = min(hunt, 59.0)
 
                         # First EARLY hit is only an alert, not a confirmed leader.
                         # Require at least 2 consecutive candidate scans for full Hunt score.
