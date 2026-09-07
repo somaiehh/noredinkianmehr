@@ -5394,5 +5394,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "HEMIIRT",
+    "time": 1788773258542,
+    "price": 1876.0,
+    "level": "STRONG",
+    "hunt": 66.7,
+    "persistence": 1,
+    "p15": 0.59,
+    "vr": 2.09,
+    "va": 5.02,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
