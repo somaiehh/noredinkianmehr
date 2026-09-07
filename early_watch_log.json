@@ -4891,7 +4891,10 @@
       "max_up": 48.34,
       "max_down": 5.29
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 49.27,
+      "max_down": 5.29
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -5190,7 +5193,10 @@
       "max_up": 2.19,
       "max_down": 1.93
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.19,
+      "max_down": 1.93
+    },
     "result_12h": null
   },
   {
@@ -5212,7 +5218,10 @@
       "max_up": 0.4,
       "max_down": 0.4
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.83,
+      "max_down": -3.78
+    },
     "result_12h": null
   },
   {
