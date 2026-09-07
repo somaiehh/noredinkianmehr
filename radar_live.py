@@ -71,9 +71,19 @@ def get_markets():
     data = api_get("/r/api/v1/exchangeInfo")
     if isinstance(data, dict):
         data = data.get("symbols", [])
-    return [m for m in data if m.get("status") == "TRADING"
-            and "SPOT" in m.get("permissions", ["SPOT"])
-            and str(m.get("symbol", "")).endswith("IRT")]
+
+    excluded = {
+        "BTCIRT", "ETHIRT", "USDTIRT", "TRXIRT",
+        "XRPIRT", "SOLIRT", "ADAIRT", "BNBIRT"
+    }
+
+    return [
+        m for m in data
+        if m.get("status") == "TRADING"
+        and "SPOT" in m.get("permissions", ["SPOT"])
+        and str(m.get("symbol", "")).endswith("IRT")
+        and str(m.get("symbol", "")) not in excluded
+    ]
 
 def get_trades(symbol, limit=1000):
     return api_get("/r/api/v1/trades", {"symbol": symbol, "limit": limit})
