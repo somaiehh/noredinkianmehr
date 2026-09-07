@@ -5485,7 +5485,10 @@
       "max_up": 13.21,
       "max_down": 7.55
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 13.21,
+      "max_down": 2.86
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -5803,6 +5806,25 @@
     "va": 4.08,
     "buy": 100,
     "bs": 4.59,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HEMIIRT",
+    "time": 1788819834749,
+    "price": 1947.0,
+    "level": "STRONG",
+    "hunt": 52.2,
+    "persistence": 1,
+    "p15": 1.41,
+    "vr": 0.35,
+    "va": 2.0,
+    "buy": 49.333333333333336,
+    "bs": 1.48,
     "breakout": false,
     "priority": false,
     "result_15m": null,
