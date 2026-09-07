@@ -692,6 +692,16 @@ def run_once(max_markets=0):
                         ):
                             hunt = min(hunt, 59.0)
 
+                        # A breakout without real power confirmation is fragile.
+                        # Do not allow breakout alone to create a strong leader.
+                        if (
+                            s.get("breakout", False)
+                            and float(s.get("vr") or 0) < 0.5
+                            and float(s.get("va") or 0) < 1.0
+                            and float(s.get("bs") or 0) < 1.0
+                        ):
+                            hunt = min(hunt, 55.0)
+
                         # First EARLY hit is only an alert, not a confirmed leader.
                         # Require at least 2 consecutive candidate scans for full Hunt score.
                         if (
