@@ -5252,7 +5252,10 @@
       "max_up": -1.18,
       "max_down": -1.18
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 21.18,
+      "max_down": -1.18
+    },
     "result_12h": null
   },
   {
@@ -5321,6 +5324,44 @@
       "max_up": 1.69,
       "max_down": 1.69
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LINKIRT",
+    "time": 1788761138972,
+    "price": 3044712.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.57,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 91.0,
+    "bs": 2.73,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "CATIIRT",
+    "time": 1788761138972,
+    "price": 14015.0,
+    "level": "STRONG",
+    "hunt": 67.3,
+    "persistence": 1,
+    "p15": 1.88,
+    "vr": 0.65,
+    "va": 4.26,
+    "buy": 54.99999999999999,
+    "bs": 1.65,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
