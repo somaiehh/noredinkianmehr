@@ -5314,7 +5314,10 @@
       "max_up": 2.92,
       "max_down": 0.22
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 12.73,
+      "max_down": -0.2
+    }
   },
   {
     "symbol": "AKITAIRT",
@@ -5342,7 +5345,10 @@
       "max_up": -1.3,
       "max_down": -12.18
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.3,
+      "max_down": -12.18
+    }
   },
   {
     "symbol": "ESIRT",
