@@ -5463,7 +5463,10 @@
       "max_up": 13.21,
       "max_down": 7.55
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 13.21,
+      "max_down": 7.55
+    },
     "result_12h": null
   },
   {
@@ -5564,6 +5567,28 @@
     "buy": 98.66666666666667,
     "bs": 2.96,
     "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": -1.63,
+      "max_down": -1.63
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DOTIRT",
+    "time": 1788791488123,
+    "price": 240655.0,
+    "level": "STRONG",
+    "hunt": 68.2,
+    "persistence": 2,
+    "p15": 1.55,
+    "vr": 2.39,
+    "va": 1.15,
+    "buy": 95.0,
+    "bs": 2.85,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
