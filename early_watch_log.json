@@ -4735,7 +4735,10 @@
       "max_up": -1.14,
       "max_down": -2.76
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.14,
+      "max_down": -2.76
+    }
   },
   {
     "symbol": "1INCHIRT",
@@ -5047,7 +5050,10 @@
       "max_up": 1.7,
       "max_down": 1.11
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.7,
+      "max_down": 1.11
+    },
     "result_12h": null
   },
   {
@@ -5069,7 +5075,10 @@
       "max_up": -0.73,
       "max_down": -0.73
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.73,
+      "max_down": -0.73
+    },
     "result_12h": null
   },
   {
