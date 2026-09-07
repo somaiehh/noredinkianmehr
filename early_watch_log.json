@@ -5202,7 +5202,10 @@
       "max_up": -1.75,
       "max_down": -1.75
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.75,
+      "max_down": -1.75
+    }
   },
   {
     "symbol": "JUPIRT",
