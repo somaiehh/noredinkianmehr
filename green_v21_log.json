@@ -1010,5 +1010,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "ICPIRT",
+    "time": 1788762960461,
+    "price": 674328.0,
+    "pre30": 4.13,
+    "pre60": 12.24,
+    "pre120": 12.24,
+    "hunt": 65.4,
+    "persistence": 2,
+    "vr": 5.57,
+    "va": 2.95,
+    "buy": 26.0,
+    "bs": 0.78,
+    "ob": 1.0,
+    "p15": 0.5,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
