@@ -5373,7 +5373,10 @@
       "max_up": 14.97,
       "max_down": 0.56
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 14.97,
+      "max_down": 0.56
+    }
   },
   {
     "symbol": "LINKIRT",
