@@ -5087,7 +5087,10 @@
       "max_up": 1.7,
       "max_down": 1.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.7,
+      "max_down": -1.4
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -5112,7 +5115,10 @@
       "max_up": -0.73,
       "max_down": -0.73
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.73,
+      "max_down": -5.67
+    }
   },
   {
     "symbol": "CATIIRT",
