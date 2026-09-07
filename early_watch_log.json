@@ -4863,7 +4863,10 @@
       "max_up": 0.0,
       "max_down": -4.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.15,
+      "max_down": -5.98
+    }
   },
   {
     "symbol": "AKITAIRT",
@@ -5140,7 +5143,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -5203,6 +5209,25 @@
       "max_up": 0.4,
       "max_down": 0.4
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DOODIRT",
+    "time": 1788746689757,
+    "price": 423.6,
+    "level": "WATCH",
+    "hunt": 42.0,
+    "persistence": 1,
+    "p15": 1.9,
+    "vr": 0.01,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
