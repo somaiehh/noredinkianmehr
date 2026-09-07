@@ -5031,7 +5031,10 @@
       "max_up": 9.54,
       "max_down": -0.29
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.54,
+      "max_down": -5.75
+    }
   },
   {
     "symbol": "METISIRT",
