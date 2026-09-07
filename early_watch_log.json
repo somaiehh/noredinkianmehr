@@ -5286,5 +5286,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "ESIRT",
+    "time": 1788754104926,
+    "price": 354.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.28,
+    "vr": 1.16,
+    "va": 3.5,
+    "buy": 66.0,
+    "bs": 1.98,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
