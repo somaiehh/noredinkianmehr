@@ -5690,7 +5690,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.74,
+      "max_down": 0.74
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -5725,6 +5728,25 @@
     "va": 3.37,
     "buy": 100,
     "bs": 3.55,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PORTOIRT",
+    "time": 1788810094087,
+    "price": 107545.0,
+    "level": "STRONG",
+    "hunt": 69.5,
+    "persistence": 1,
+    "p15": 1.27,
+    "vr": 0.78,
+    "va": 7.81,
+    "buy": 99.66666666666667,
+    "bs": 2.99,
     "breakout": false,
     "priority": false,
     "result_15m": null,
