@@ -4779,7 +4779,10 @@
       "max_up": 0.73,
       "max_down": -3.31
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 14.37,
+      "max_down": -3.31
+    }
   },
   {
     "symbol": "SIRT",
@@ -4804,7 +4807,10 @@
       "max_up": -0.35,
       "max_down": -3.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.51,
+      "max_down": -3.86
+    }
   },
   {
     "symbol": "ESIRT",
@@ -4829,7 +4835,10 @@
       "max_up": -0.81,
       "max_down": -6.49
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.81,
+      "max_down": -10.27
+    }
   },
   {
     "symbol": "WENSOLIRT",
@@ -5103,7 +5112,10 @@
       "max_up": 1.67,
       "max_down": -0.9
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.19,
+      "max_down": -0.9
+    },
     "result_12h": null
   },
   {
