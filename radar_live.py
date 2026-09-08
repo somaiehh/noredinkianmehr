@@ -646,6 +646,13 @@ def save_dashboard_data(out):
 
     os.replace(tmp, DATA_FILE)
 
+    live_file = os.path.join(os.path.dirname(__file__), "tabdeal_radar_live.json")
+    live_data = {symbol: history[-5:] for symbol, history in data.items() if history}
+    live_tmp = live_file + ".tmp"
+    with open(live_tmp, "w", encoding="utf-8") as f:
+        json.dump(live_data, f, ensure_ascii=False)
+    os.replace(live_tmp, live_file)
+
 
 def run_once(max_markets=0):
     markets=get_markets()
