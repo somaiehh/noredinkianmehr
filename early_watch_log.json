@@ -5983,7 +5983,10 @@
       "max_up": 3.83,
       "max_down": 1.07
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.63,
+      "max_down": 0.78
+    },
     "result_12h": null
   },
   {
@@ -6008,7 +6011,10 @@
       "max_up": -2.23,
       "max_down": -2.57
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -2.23,
+      "max_down": -4.64
+    },
     "result_12h": null
   },
   {
@@ -6127,6 +6133,25 @@
     "va": 10.0,
     "buy": 100,
     "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FORMIRT",
+    "time": 1788869122161,
+    "price": 69252.0,
+    "level": "STRONG",
+    "hunt": 84.0,
+    "persistence": 2,
+    "p15": 1.17,
+    "vr": 1.28,
+    "va": 5.06,
+    "buy": 56.333333333333336,
+    "bs": 1.69,
     "breakout": false,
     "priority": false,
     "result_15m": null,

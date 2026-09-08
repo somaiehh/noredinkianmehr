@@ -1204,5 +1204,24 @@
       "max_down": -0.2
     },
     "result_4h": null
+  },
+  {
+    "symbol": "FORMIRT",
+    "time": 1788869122161,
+    "price": 69252.0,
+    "pre30": -1.43,
+    "pre60": -6.86,
+    "pre120": -13.36,
+    "hunt": 84.0,
+    "persistence": 2,
+    "vr": 1.28,
+    "va": 5.06,
+    "buy": 56.333333333333336,
+    "bs": 1.69,
+    "ob": 0.97,
+    "p15": 1.17,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

@@ -138,5 +138,18 @@
     "breakout": false,
     "persistence": 3,
     "historical": true
+  },
+  {
+    "time": 1788869123267,
+    "symbol": "FORMIRT",
+    "price": 69252.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.17,
+    "vr": 1.28,
+    "va": 5.06,
+    "bs": 1.69,
+    "breakout": false,
+    "persistence": 2
   }
 ]
