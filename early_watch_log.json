@@ -6052,7 +6052,10 @@
       "max_up": 2.01,
       "max_down": -2.1
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.23,
+      "max_down": -2.16
+    }
   },
   {
     "symbol": "LUNCIRT",
@@ -6432,7 +6435,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -19.48,
+      "max_down": -19.91
+    },
     "result_4h": null,
     "result_12h": null
   }
