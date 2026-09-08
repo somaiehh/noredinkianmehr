@@ -28,6 +28,47 @@ def send_ntfy(message, title="Tabdeal Radar"):
         print("NTFY error:", e)
 
 
+ALERT_HISTORY_FILE = os.path.join(
+    os.path.dirname(__file__),
+    "radar_alert_history.json"
+)
+
+def save_alert_history(best):
+    history = []
+
+    if os.path.exists(ALERT_HISTORY_FILE):
+        try:
+            with open(ALERT_HISTORY_FILE, "r", encoding="utf-8") as f:
+                history = json.load(f)
+        except Exception:
+            history = []
+
+    row = {
+        "time": int(time.time() * 1000),
+        "symbol": best.get("symbol"),
+        "price": best.get("price"),
+        "hunt_score": best.get("hunt_score"),
+        "status": best.get("status"),
+        "p15": best.get("p15"),
+        "vr": best.get("vr"),
+        "va": best.get("va"),
+        "bs": best.get("bs"),
+        "breakout": best.get("breakout"),
+        "persistence": best.get("persistence")
+    }
+
+    history.append(row)
+
+    # نگهداری 1000 هشدار آخر
+    history = history[-1000:]
+
+    tmp = ALERT_HISTORY_FILE + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(history, f, ensure_ascii=False, indent=2)
+
+    os.replace(tmp, ALERT_HISTORY_FILE)
+
+
 def api_get(path, params=None):
     """
     Resilient public API request.
@@ -803,6 +844,8 @@ def run_once(max_markets=0):
         )
 
         if best.get("hunt_score", 0) >= 80 and best.get("status") in ("EARLY", "PRE_EARLY"):
+            save_alert_history(best)
+
             send_ntfy(
                 f"{best['symbol']} | Hunt={best['hunt_score']:.1f}/100 | "
                 f"Status={best['status']} | "
