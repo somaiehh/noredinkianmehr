@@ -1231,7 +1231,10 @@
       "max_up": 2.52,
       "max_down": 2.52
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.52,
+      "max_down": -12.41
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
