@@ -6208,7 +6208,10 @@
       "max_up": -0.97,
       "max_down": -1.7
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.42,
+      "max_down": -1.7
+    },
     "result_12h": null
   },
   {
@@ -6311,6 +6314,25 @@
     "va": 10.0,
     "buy": 100,
     "bs": 4.03,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "time": 1788889800979,
+    "price": 2.0995,
+    "level": "STRONG",
+    "hunt": 70.2,
+    "persistence": 1,
+    "p15": 0.49,
+    "vr": 8.66,
+    "va": 2.31,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
