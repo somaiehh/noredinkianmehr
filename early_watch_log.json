@@ -5943,7 +5943,10 @@
       "max_up": 1.69,
       "max_down": -0.59
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.67,
+      "max_down": -0.59
+    }
   },
   {
     "symbol": "LIGHTIRT",
@@ -5962,7 +5965,10 @@
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.61,
+      "max_down": -11.22
+    }
   },
   {
     "symbol": "TUTIRT",
