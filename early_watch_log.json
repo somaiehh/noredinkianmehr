@@ -6348,7 +6348,10 @@
       "max_up": -0.56,
       "max_down": -1.62
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.56,
+      "max_down": -3.16
+    },
     "result_12h": null
   },
   {
@@ -6439,6 +6442,25 @@
       "max_up": -19.48,
       "max_down": -19.91
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DOODIRT",
+    "time": 1788902189789,
+    "price": 409.3,
+    "level": "STRONG",
+    "hunt": 70.3,
+    "persistence": 1,
+    "p15": 1.36,
+    "vr": 0.42,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
