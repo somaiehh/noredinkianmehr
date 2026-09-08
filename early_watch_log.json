@@ -6388,7 +6388,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.61,
+      "max_down": 0.24
+    },
     "result_4h": null,
     "result_12h": null
   },
