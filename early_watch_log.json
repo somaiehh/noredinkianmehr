@@ -6133,7 +6133,10 @@
       "max_up": 9.29,
       "max_down": -3.46
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 15.17,
+      "max_down": -18.33
+    }
   },
   {
     "symbol": "HEMIIRT",
@@ -6158,7 +6161,10 @@
       "max_up": 11.01,
       "max_down": 1.5
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 11.01,
+      "max_down": -5.21
+    }
   },
   {
     "symbol": "NAKAIRT",
