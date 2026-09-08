@@ -5650,7 +5650,10 @@
       "max_up": 1.71,
       "max_down": -1.41
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.71,
+      "max_down": -2.03
+    }
   },
   {
     "symbol": "FILIRT",
