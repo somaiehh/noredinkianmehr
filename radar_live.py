@@ -357,6 +357,8 @@ def score(m):
             return {
                 "symbol": symbol,
                 "status": "WATCH",
+                "price": float(ts[-1]["price"]),
+                "volume": round(sum(float(t.get("quoteQty", float(t["price"])*float(t["qty"]))) for t in t15), 2),
                 "trades15": len(t15),
                 "trades1h": len(t1),
                 "trades4h": len(t4)
@@ -557,7 +559,13 @@ def score(m):
         ta=round(ta, 2),
         bs=round(bs, 2),
         breakout=bool(bo),
-        book=round(book, 2)
+        book=round(book, 2),
+        trades15=len(t15),
+        trades1h=len(t1),
+        trades4h=len(t4),
+        structure1h=round(structure(c1), 3),
+        structure4h=round(structure(c4), 3),
+        compression15=round(compression(c15), 3)
     )
 
 PERSIST_FILE = os.path.join(os.path.dirname(__file__), "persistence_state.json")
@@ -621,7 +629,10 @@ def save_dashboard_data(out):
             "book": x.get("book", 0),
             "trades15": x.get("trades15", 0),
             "trades1h": x.get("trades1h", 0),
-            "trades4h": x.get("trades4h", 0)
+            "trades4h": x.get("trades4h", 0),
+            "structure1h": x.get("structure1h"),
+            "structure4h": x.get("structure4h"),
+            "compression15": x.get("compression15")
         }
 
         history = data.get(symbol, [])
