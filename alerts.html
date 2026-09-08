@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>بایگانی هشدارهای رادار</title>
+
+<style>
+body{
+  margin:0;
+  background:#070b1d;
+  color:#fff;
+  font-family:Tahoma,Arial,sans-serif;
+}
+.wrap{
+  max-width:760px;
+  margin:auto;
+  padding:20px;
+}
+.top{
+  background:#11182f;
+  border:1px solid #2a3558;
+  border-radius:20px;
+  padding:22px;
+  margin-bottom:28px;
+}
+h1{margin:0 0 10px;font-size:28px}
+.sub{color:#9ca8c7;line-height:1.9}
+.back{
+  display:inline-block;
+  margin-top:16px;
+  color:#7db5ff;
+  text-decoration:none;
+}
+#alertArchive{
+  display:grid;
+  gap:18px;
+}
+.card{
+  background:#11182f;
+  border:1px solid #263250;
+  border-right:5px solid #22c55e;
+  border-radius:20px;
+  padding:20px;
+}
+.symbol{
+  font-size:30px;
+  font-weight:900;
+  margin:8px 0;
+}
+.score{
+  font-size:24px;
+  font-weight:900;
+  color:#35df84;
+}
+.status{
+  color:#fbbf24;
+  font-weight:800;
+  margin:8px 0 16px;
+}
+.metrics{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:10px;
+}
+.metric{
+  background:#0a1125;
+  border-radius:12px;
+  padding:12px;
+}
+.metric span{
+  display:block;
+  color:#8e9ab8;
+  margin-bottom:5px;
+}
+</style>
+</head>
+
+<body>
+<div class="wrap">
+  <div class="top">
+    <h1>🔔 بایگانی هشدارها</h1>
+    <div class="sub">
+      تاریخچه هشدارهای قوی رادار، مستقل از داشبورد اصلی
+    </div>
+    <a class="back" href="./">← بازگشت به داشبورد</a>
+  </div>
+
+  <div id="alertArchive">
+    <div class="card">در حال بارگذاری هشدارها...</div>
+  </div>
+</div>
+
+<script>
+
+async function loadAlerts(){
+  const box=document.getElementById("alertArchive");
+
+  try{
+    const r=await fetch("./radar_alert_history.json?t="+Date.now());
+    const data=await r.json();
+
+    if(!Array.isArray(data) || !data.length){
+      box.innerHTML='<div class="card">هنوز هشداری ثبت نشده است.</div>';
+      return;
+    }
+
+    data.sort((a,b)=>(b.time||0)-(a.time||0));
+
+    box.innerHTML=data.map(a=>`
+      <div class="card">
+        <div class="sub">
+          ${new Date(a.time).toLocaleString("fa-IR")}
+          ${a.historical ? " • 🕘 تاریخی" : " • 🔔 هشدار واقعی"}
+        </div>
+
+        <div class="symbol">${a.symbol||"---"}</div>
+        <div class="score">Hunt: ${Number(a.hunt_score||0).toFixed(1)}/100</div>
+        <div class="status">${a.status||"---"}</div>
+
+        <div class="metrics">
+          <div class="metric"><span>15m</span><b>${Number(a.p15||0).toFixed(2)}%</b></div>
+          <div class="metric"><span>VR</span><b>${Number(a.vr||0).toFixed(2)}x</b></div>
+          <div class="metric"><span>VA</span><b>${Number(a.va||0).toFixed(2)}x</b></div>
+          <div class="metric"><span>B/S</span><b>${Number(a.bs||0).toFixed(2)}</b></div>
+          <div class="metric"><span>ماندگاری</span><b>P=${Number(a.persistence||0)}</b></div>
+          <div class="metric"><span>Breakout</span><b>${a.breakout?"✅ YES":"❌ NO"}</b></div>
+          <div class="metric"><span>قیمت هشدار</span><b>${a.price??"---"}</b></div>
+        </div>
+      </div>
+    `).join("");
+
+  }catch(e){
+    box.innerHTML='<div class="card">خطا در خواندن بایگانی هشدارها.</div>';
+  }
+}
+
+loadAlerts();
+
+</script>
+</body>
+</html>
