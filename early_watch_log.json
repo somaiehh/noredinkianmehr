@@ -5870,5 +5870,24 @@
       "max_down": -1.64
     },
     "result_12h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1788839631323,
+    "price": 163495.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.67,
+    "vr": 5.07,
+    "va": 10.0,
+    "buy": 88.33333333333333,
+    "bs": 2.65,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
