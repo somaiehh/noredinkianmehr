@@ -5905,7 +5905,10 @@
       "max_up": 3.25,
       "max_down": 3.25
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.43,
+      "max_down": -1.76
+    },
     "result_12h": null
   },
   {
@@ -5939,6 +5942,44 @@
     "va": 10.0,
     "buy": 100,
     "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TUTIRT",
+    "time": 1788854097516,
+    "price": 5620.0,
+    "level": "WATCH",
+    "hunt": 47.6,
+    "persistence": 1,
+    "p15": 0.83,
+    "vr": 0.13,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "XANIRT",
+    "time": 1788854097516,
+    "price": 2950.9,
+    "level": "STRONG",
+    "hunt": 60.4,
+    "persistence": 1,
+    "p15": 0.67,
+    "vr": 0.53,
+    "va": 10.0,
+    "buy": 48.333333333333336,
+    "bs": 1.45,
     "breakout": false,
     "priority": false,
     "result_15m": null,
