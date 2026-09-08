@@ -169,7 +169,7 @@ html, body {
 
 <div style="text-align:center;margin:12px 0 18px">
     <button
-        onclick="loadData()"
+        onclick="loadData(); loadAlertArchive()"
         style="
             padding:12px 24px;
             font-size:16px;
@@ -207,6 +207,17 @@ html, body {
 </div>
 
 <div id="results"></div>
+
+<div class="header" style="margin-top:20px">
+    <h2 style="margin:0 0 8px">🔔 بایگانی هشدارها</h2>
+    <div class="sub">
+        هشدارهای قوی رادار حتی بعد از پاک شدن نوتیفیکیشن گوشی اینجا باقی می‌مانند.
+    </div>
+</div>
+
+<div id="alertArchive">
+    <div class="card">در حال بارگذاری بایگانی هشدارها...</div>
+</div>
 
 </div>
 
@@ -1423,6 +1434,60 @@ function formatVolume(value) {
 loadData();
 
 setInterval(loadData, 5000);
+
+
+
+async function loadAlertArchive() {
+    const box = document.getElementById("alertArchive");
+    if (!box) return;
+
+    try {
+        const r = await fetch("./radar_alert_history.json?t=" + Date.now());
+
+        if (!r.ok) {
+            box.innerHTML = '<div class="card">هنوز هشداری ثبت نشده است.</div>';
+            return;
+        }
+
+        const data = await r.json();
+
+        if (!Array.isArray(data) || data.length === 0) {
+            box.innerHTML = '<div class="card">هنوز هشداری ثبت نشده است.</div>';
+            return;
+        }
+
+        const alerts = [...data].sort(
+            (a,b) => Number(b.time||0) - Number(a.time||0)
+        ).slice(0,100);
+
+        box.innerHTML = alerts.map(a => `
+            <div class="card" style="border-right-color:#22c55e">
+                <div class="sub">
+                    ${new Date(Number(a.time||0)).toLocaleString("fa-IR")}
+                </div>
+                <div class="symbol">${a.symbol || "---"}</div>
+                <div class="score">
+                    Hunt: ${Number(a.hunt_score||0).toFixed(1)}/100
+                </div>
+                <div class="status">${a.status || "---"}</div>
+                <div class="metrics">
+                    <div class="metric"><span>15m</span><b>${Number(a.p15||0).toFixed(2)}%</b></div>
+                    <div class="metric"><span>VR</span><b>${Number(a.vr||0).toFixed(2)}x</b></div>
+                    <div class="metric"><span>VA</span><b>${Number(a.va||0).toFixed(2)}x</b></div>
+                    <div class="metric"><span>B/S</span><b>${Number(a.bs||0).toFixed(2)}</b></div>
+                    <div class="metric"><span>ماندگاری</span><b>P=${Number(a.persistence||0)}</b></div>
+                    <div class="metric"><span>Breakout</span><b>${a.breakout ? "✅ YES" : "❌ NO"}</b></div>
+                    <div class="metric"><span>قیمت هشدار</span><b>${a.price ?? "---"}</b></div>
+                </div>
+            </div>
+        `).join("");
+
+    } catch(e) {
+        box.innerHTML = '<div class="card">خطا در خواندن بایگانی هشدارها.</div>';
+    }
+}
+
+loadAlertArchive();
 
 </script>
 
