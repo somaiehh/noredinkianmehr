@@ -5622,7 +5622,10 @@
       "max_up": -1.24,
       "max_down": -2.74
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.24,
+      "max_down": -2.74
+    }
   },
   {
     "symbol": "DOTIRT",
