@@ -5862,7 +5862,10 @@
       "max_up": -0.68,
       "max_down": -0.68
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.68,
+      "max_down": -2.04
+    }
   },
   {
     "symbol": "HEMIIRT",
@@ -5970,7 +5973,10 @@
       "max_up": 1.07,
       "max_down": 1.07
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.83,
+      "max_down": 1.07
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -5992,6 +5998,28 @@
       "max_up": -2.23,
       "max_down": -2.23
     },
+    "result_1h": {
+      "max_up": -2.23,
+      "max_down": -2.57
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SEIIRT",
+    "time": 1788857698957,
+    "price": 10927.0,
+    "level": "STRONG",
+    "hunt": 50.5,
+    "persistence": 1,
+    "p15": 0.43,
+    "vr": 2.4,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
