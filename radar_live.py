@@ -339,6 +339,7 @@ def book_pressure(depth):
 def score(m):
     symbol=m["symbol"]
     ts=get_trades(symbol,1000)
+    ts=sorted(ts, key=lambda t: int(t["time"]))
     if len(ts)<10:
         return {
             "symbol": symbol,
