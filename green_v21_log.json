@@ -1206,7 +1206,10 @@
       "max_up": 0.61,
       "max_down": -0.2
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.61,
+      "max_down": -0.2
+    }
   },
   {
     "symbol": "FORMIRT",

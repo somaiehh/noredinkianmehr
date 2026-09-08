@@ -6055,7 +6055,10 @@
     "priority": true,
     "result_15m": null,
     "result_1h": null,
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -16.99,
+      "max_down": -17.21
+    },
     "result_12h": null
   },
   {
@@ -6077,7 +6080,10 @@
       "max_up": 1.71,
       "max_down": 1.47
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.71,
+      "max_down": -0.59
+    },
     "result_12h": null
   },
   {
@@ -6099,7 +6105,10 @@
       "max_up": -3.46,
       "max_down": -3.46
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 9.29,
+      "max_down": -3.46
+    },
     "result_12h": null
   },
   {
@@ -6121,7 +6130,10 @@
       "max_up": 11.01,
       "max_down": 8.49
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 11.01,
+      "max_down": 1.5
+    },
     "result_12h": null
   },
   {
@@ -6180,6 +6192,44 @@
     "va": 2.0,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PUMPIRT",
+    "time": 1788877821069,
+    "price": 990.0,
+    "level": "WATCH",
+    "hunt": 48.1,
+    "persistence": 1,
+    "p15": 0.43,
+    "vr": 0.16,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "USELESSIRT",
+    "time": 1788877821069,
+    "price": 65460.0,
+    "level": "STRONG",
+    "hunt": 77.6,
+    "persistence": 1,
+    "p15": 1.9,
+    "vr": 8.61,
+    "va": 10.0,
+    "buy": 52.0,
+    "bs": 1.56,
     "breakout": false,
     "priority": false,
     "result_15m": null,
