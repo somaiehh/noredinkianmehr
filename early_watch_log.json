@@ -6033,7 +6033,10 @@
     "priority": false,
     "result_15m": null,
     "result_1h": null,
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.01,
+      "max_down": -2.1
+    },
     "result_12h": null
   },
   {
@@ -6155,6 +6158,28 @@
     "va": 5.06,
     "buy": 56.333333333333336,
     "bs": 1.69,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": 2.52,
+      "max_down": 2.52
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FLOKIIRT",
+    "time": 1788874265638,
+    "price": 5.97799,
+    "level": "STRONG",
+    "hunt": 56.2,
+    "persistence": 1,
+    "p15": 0.35,
+    "vr": 0.97,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
