@@ -6702,7 +6702,10 @@
       "max_up": 0.76,
       "max_down": -1.18
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.98,
+      "max_down": -2.6
+    }
   },
   {
     "symbol": "PAXGIRT",
@@ -7079,7 +7082,10 @@
       "max_up": -0.72,
       "max_down": -1.84
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.72,
+      "max_down": -9.11
+    },
     "result_12h": null
   },
   {
