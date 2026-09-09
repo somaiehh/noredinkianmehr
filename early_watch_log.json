@@ -6873,7 +6873,10 @@
       "max_up": -1.51,
       "max_down": -5.44
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.51,
+      "max_down": -5.44
+    }
   },
   {
     "symbol": "PIGGYIRT",
@@ -7464,7 +7467,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.79,
+      "max_down": -0.79
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -7483,7 +7489,10 @@
     "bs": 1.65,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.37,
+      "max_down": -0.37
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
