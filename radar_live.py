@@ -588,6 +588,157 @@ def save_persistence(state):
 
 DATA_FILE = os.path.join(os.path.dirname(__file__), "tabdeal_radar_v21_data.json")
 
+def sequence_score_v0(history, current):
+    recent = history[-6:]
+    records = recent + [current]
+    score = 0.0
+    flags = []
+
+    cand = sum(1 for r in records if r.get("status") in ("EARLY", "PRE_EARLY"))
+    accum = sum(1 for r in records if r.get("status") == "WATCH_ACCUMULATION")
+    insuff = sum(1 for r in recent if r.get("status") == "INSUFFICIENT")
+
+    if cand:
+        score += min(cand * 8.0, 24.0); flags.append("candidate_repeat")
+    if accum:
+        score += min(accum * 6.0, 18.0); flags.append("accumulation")
+
+    vr_max = max([float(r.get("vr") or 0) for r in records] or [0])
+    va_max = max([float(r.get("va") or 0) for r in records] or [0])
+    bs_max = max([float(r.get("bs") or 0) for r in records] or [0])
+
+    if vr_max >= 3: score += 12; flags.append("vr3")
+    elif vr_max >= 1: score += 6; flags.append("vr1")
+
+    if va_max >= 3: score += 10; flags.append("va3")
+    elif va_max >= 1.5: score += 5; flags.append("va15")
+
+    if bs_max >= 2: score += 8; flags.append("bs2")
+    elif bs_max >= 1: score += 4; flags.append("bs1")
+
+    if any(bool(r.get("breakout")) for r in records):
+        score += 10; flags.append("breakout")
+
+    s1_max = max([float(r.get("structure1h") or 0) for r in records] or [0])
+    if s1_max >= 0.8: score += 10; flags.append("structure1h")
+    elif s1_max >= 0.6: score += 5
+
+    trades = [int(r.get("trades15") or 0) for r in records]
+    if len(trades) >= 3 and trades[-1] > trades[-2] >= trades[-3] and trades[-1] >= 10:
+        score += 8; flags.append("trade_accel")
+
+    if insuff >= 3:
+        score -= 12; flags.append("thin_history")
+
+    p15 = float(current.get("p15") or 0)
+    if p15 > 5:
+        score -= min((p15 - 5) * 2, 15); flags.append("anti_chase")
+
+    return round(max(0.0, min(100.0, score)), 1), flags
+
+
+def sequence_score_v1(history, current):
+    recent = history[-6:]
+    records = recent + [current]
+    weights = [0.20, 0.30, 0.45, 0.60, 0.80, 0.95, 1.00][-len(records):]
+    score = 0.0
+    flags = []
+
+    def f(r, k):
+        try:
+            return float(r.get(k) or 0)
+        except Exception:
+            return 0.0
+
+    candidate_w = sum(w for r, w in zip(records, weights) if r.get("status") in ("EARLY", "PRE_EARLY"))
+    accum_w = sum(w for r, w in zip(records, weights) if r.get("status") == "WATCH_ACCUMULATION")
+
+    if candidate_w >= 1.0:
+        score += min(candidate_w * 10.0, 24.0); flags.append("recent_candidates")
+    if accum_w >= 0.8:
+        score += min(accum_w * 7.0, 16.0); flags.append("recent_accumulation")
+
+    power = 0.0
+    for r, w in zip(records, weights):
+        local = 0.0
+        if f(r,"vr") >= 3: local += 4
+        elif f(r,"vr") >= 1: local += 2
+        if f(r,"va") >= 3: local += 3
+        elif f(r,"va") >= 1.5: local += 1.5
+        if f(r,"bs") >= 2: local += 2
+        elif f(r,"bs") >= 1: local += 1
+        power += local * w
+    score += min(power, 24.0)
+    if power >= 8: flags.append("recent_power")
+
+    recent3 = records[-3:]
+    bo_count = sum(1 for r in recent3 if bool(r.get("breakout")))
+    s1_count = sum(1 for r in recent3 if f(r,"structure1h") >= 0.8)
+
+    if bo_count >= 2:
+        score += 12; flags.append("breakout_continuity")
+    elif bo_count == 1:
+        score += 5
+
+    if s1_count >= 2:
+        score += 12; flags.append("structure_continuity")
+    elif s1_count == 1:
+        score += 5
+
+    t = [int(r.get("trades15") or 0) for r in records[-4:]]
+    if len(t) >= 3 and t[-1] >= 10 and t[-1] >= t[-2] and t[-2] >= t[-3]:
+        score += 8; flags.append("trade_persistence")
+
+    strong_old = any(
+        r.get("status") in ("EARLY","PRE_EARLY")
+        and (f(r,"vr") >= 3 or f(r,"va") >= 3)
+        for r in records[:-2]
+    )
+
+    latest_measured = None
+    for r in reversed(records[-3:]):
+        if (
+            r.get("vr") is not None
+            or r.get("structure1h") is not None
+            or r.get("breakout") is True
+        ):
+            latest_measured = r
+            break
+
+    recent_confirm = False
+    if latest_measured is not None:
+        recent_confirm = (
+            bool(latest_measured.get("breakout"))
+            or f(latest_measured,"structure1h") >= 0.8
+        )
+
+    if strong_old and recent_confirm:
+        score += 12; flags.append("reignition")
+
+    cur_bo = bool(current.get("breakout"))
+    cur_t15 = int(current.get("trades15") or 0)
+
+    has_vr = current.get("vr") is not None
+    has_bs = current.get("bs") is not None
+    has_s1 = current.get("structure1h") is not None
+
+    if has_vr and has_bs and has_s1:
+        cur_vr = f(current,"vr")
+        cur_bs = f(current,"bs")
+        cur_s1 = f(current,"structure1h")
+
+        if cur_vr < 0.2 and cur_bs < 0.5 and cur_s1 < 0.3 and not cur_bo:
+            score -= 25; flags.append("current_fade")
+        elif cur_t15 <= 3 and cur_vr < 0.5 and not cur_bo:
+            score -= 12; flags.append("activity_fade")
+
+    p15 = f(current,"p15")
+    if p15 > 5:
+        score -= min((p15 - 5) * 2.0, 15.0); flags.append("anti_chase")
+
+    return round(max(0.0, min(100.0, score)), 1), flags
+
+
 def save_dashboard_data(out):
     data = {}
     if os.path.exists(DATA_FILE):
@@ -608,6 +759,11 @@ def save_dashboard_data(out):
 
     for x in out:
         symbol = x["symbol"]
+
+        sequence_score, sequence_flags = sequence_score_v0(data.get(symbol, []), x)
+        sequence_score_v1_value, sequence_flags_v1 = sequence_score_v1(data.get(symbol, []), x)
+        shadow_v12 = (x.get("status") == "PRE_EARLY" and sequence_score_v1_value < 20)
+        shadow_v12_label = "LOW_RISK_PRESETUP" if shadow_v12 else None
 
         row = {
             "time": now,
@@ -633,7 +789,15 @@ def save_dashboard_data(out):
             "trades4h": x.get("trades4h", 0),
             "structure1h": x.get("structure1h"),
             "structure4h": x.get("structure4h"),
-            "compression15": x.get("compression15")
+            "compression15": x.get("compression15"),
+            "sequence_score": sequence_score,
+            "sequence_flags": sequence_flags,
+            "sequence_version": "v0",
+            "sequence_score_v1": sequence_score_v1_value,
+            "sequence_flags_v1": sequence_flags_v1,
+            "sequence_version_v1": "v1.1",
+            "shadow_v12": shadow_v12,
+            "shadow_v12_label": shadow_v12_label
         }
 
         history = data.get(symbol, [])
