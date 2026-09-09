@@ -6273,7 +6273,10 @@
       "max_up": 1.85,
       "max_down": -0.91
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.37,
+      "max_down": -2.92
+    }
   },
   {
     "symbol": "USELESSIRT",
@@ -6298,7 +6301,10 @@
       "max_up": 6.63,
       "max_down": -6.13
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.63,
+      "max_down": -24.38
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
