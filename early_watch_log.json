@@ -6618,7 +6618,10 @@
       "max_up": 3.12,
       "max_down": -4.94
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.12,
+      "max_down": -4.94
+    }
   },
   {
     "symbol": "DENTIRT",
@@ -6960,6 +6963,44 @@
     "bs": 1.51,
     "breakout": true,
     "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1788959046581,
+    "price": 1.2737,
+    "level": "STRONG",
+    "hunt": 87.4,
+    "persistence": 2,
+    "p15": 0.18,
+    "vr": 2.35,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TUTIRT",
+    "time": 1788959046581,
+    "price": 5542.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.73,
+    "vr": 0.77,
+    "va": 5.7,
+    "buy": 100,
+    "bs": 3.33,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
