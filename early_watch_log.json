@@ -6907,7 +6907,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.18,
+      "max_down": 0.43
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -6926,7 +6929,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.47,
+      "max_down": -1.64
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -7001,6 +7007,25 @@
     "bs": 3.33,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SOPHIRT",
+    "time": 1788960542491,
+    "price": 1252.0,
+    "level": "WATCH",
+    "hunt": 45.6,
+    "persistence": 1,
+    "p15": 0.32,
+    "vr": 0.16,
+    "va": 2.96,
+    "buy": 90.33333333333333,
+    "bs": 2.71,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
