@@ -6792,7 +6792,10 @@
       "max_up": 0.45,
       "max_down": -0.45
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.63,
+      "max_down": -3.83
+    },
     "result_12h": null
   },
   {
@@ -6848,6 +6851,25 @@
     "va": 1.07,
     "buy": 40.0,
     "bs": 1.2,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1788952134476,
+    "price": 9.334e-05,
+    "level": "STRONG",
+    "hunt": 57.4,
+    "persistence": 2,
+    "p15": 0.16,
+    "vr": 5.53,
+    "va": 4.15,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
