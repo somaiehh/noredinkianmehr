@@ -6932,7 +6932,10 @@
       "max_up": -0.22,
       "max_down": -2.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.22,
+      "max_down": -3.69
+    }
   },
   {
     "symbol": "NEARIRT",
@@ -7533,6 +7536,44 @@
     "va": 2.07,
     "buy": 100,
     "bs": 4.64,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1788996124342,
+    "price": 1.2361,
+    "level": "STRONG",
+    "hunt": 68.9,
+    "persistence": 1,
+    "p15": 0.54,
+    "vr": 9.38,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "OXTIRT",
+    "time": 1788996124342,
+    "price": 3094.0,
+    "level": "WATCH",
+    "hunt": 49.4,
+    "persistence": 1,
+    "p15": 0.85,
+    "vr": 0.26,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 4.18,
     "breakout": false,
     "priority": false,
     "result_15m": null,
