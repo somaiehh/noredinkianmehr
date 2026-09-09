@@ -6562,7 +6562,10 @@
       "max_up": 0.66,
       "max_down": -3.23
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.32,
+      "max_down": -3.23
+    }
   },
   {
     "symbol": "ATOMIRT",
@@ -6587,7 +6590,10 @@
       "max_up": 0.85,
       "max_down": -0.88
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.7,
+      "max_down": -2.93
+    }
   },
   {
     "symbol": "DOGSIRT",
@@ -6797,6 +6803,25 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ETHFIIRT",
+    "time": 1788948595768,
+    "price": 149616.0,
+    "level": "STRONG",
+    "hunt": 69.5,
+    "persistence": 1,
+    "p15": 1.89,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
