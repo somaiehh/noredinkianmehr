@@ -115,7 +115,7 @@ def get_markets():
 
     excluded = {
         "BTCIRT", "ETHIRT", "USDTIRT", "TRXIRT",
-        "XRPIRT", "SOLIRT", "ADAIRT", "BNBIRT"
+        "XRPIRT", "SOLIRT", "ADAIRT", "BNBIRT", "XRDIRT"
     }
 
     return [
