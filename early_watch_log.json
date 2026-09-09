@@ -6385,7 +6385,10 @@
       "max_up": -0.56,
       "max_down": -3.16
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.56,
+      "max_down": -5.74
+    }
   },
   {
     "symbol": "WENSOLIRT",
@@ -6590,7 +6593,10 @@
       "max_up": 0.95,
       "max_down": 0.69
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.12,
+      "max_down": -4.94
+    },
     "result_12h": null
   },
   {
@@ -6605,6 +6611,25 @@
     "va": 0.61,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SLVONIRT",
+    "time": 1788930458329,
+    "price": 13654598.0,
+    "level": "STRONG",
+    "hunt": 65.4,
+    "persistence": 1,
+    "p15": 0.08,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 38.33333333333333,
+    "bs": 1.15,
     "breakout": false,
     "priority": false,
     "result_15m": null,
