@@ -6820,7 +6820,10 @@
       "max_up": 0.94,
       "max_down": 0.02
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.0,
+      "max_down": 0.02
+    },
     "result_12h": null
   },
   {
@@ -6951,7 +6954,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.41,
+      "max_down": -0.37
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -6970,7 +6976,10 @@
     "breakout": true,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.49,
+      "max_down": -0.12
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -7024,6 +7033,25 @@
     "va": 2.96,
     "buy": 90.33333333333333,
     "bs": 2.71,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BTRIRT",
+    "time": 1788962039338,
+    "price": 12493.0,
+    "level": "STRONG",
+    "hunt": 69.7,
+    "persistence": 1,
+    "p15": 1.73,
+    "vr": 3.01,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
