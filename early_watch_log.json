@@ -6904,7 +6904,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -7412,7 +7415,10 @@
       "max_up": -0.29,
       "max_down": -0.62
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.25,
+      "max_down": -0.62
+    },
     "result_12h": null
   },
   {
@@ -7437,7 +7443,10 @@
       "max_up": -0.88,
       "max_down": -1.26
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.88,
+      "max_down": -2.94
+    },
     "result_12h": null
   },
   {
@@ -7480,7 +7489,10 @@
       "max_up": -0.79,
       "max_down": -0.79
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.79,
+      "max_down": -4.76
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -7502,6 +7514,28 @@
       "max_up": -0.37,
       "max_down": -0.37
     },
+    "result_1h": {
+      "max_up": -0.37,
+      "max_down": -2.51
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FIRT",
+    "time": 1788994964545,
+    "price": 771.0,
+    "level": "WATCH",
+    "hunt": 48.5,
+    "persistence": 1,
+    "p15": 0.13,
+    "vr": 1.0,
+    "va": 2.07,
+    "buy": 100,
+    "bs": 4.64,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
