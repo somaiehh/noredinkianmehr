@@ -6733,7 +6733,10 @@
       "max_up": 1.1,
       "max_down": -0.28
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.02,
+      "max_down": -0.28
+    }
   },
   {
     "symbol": "ARBIRT",
@@ -7110,7 +7113,10 @@
       "max_up": -0.59,
       "max_down": -1.62
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 6.12,
+      "max_down": -1.62
+    },
     "result_12h": null
   },
   {
@@ -7239,6 +7245,25 @@
     "buy": 55.333333333333336,
     "bs": 1.66,
     "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TUTIRT",
+    "time": 1788977118586,
+    "price": 5538.0,
+    "level": "STRONG",
+    "hunt": 53.3,
+    "persistence": 2,
+    "p15": 0.2,
+    "vr": 2.05,
+    "va": 1.44,
+    "buy": 75.66666666666667,
+    "bs": 2.27,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
