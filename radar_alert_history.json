@@ -177,5 +177,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 1
+  },
+  {
+    "time": 1788946258287,
+    "symbol": "FFIRT",
+    "price": 36600.0,
+    "hunt_score": 86.4,
+    "status": "EARLY",
+    "p15": 1.67,
+    "vr": 1.28,
+    "va": 1.78,
+    "bs": 0.58,
+    "breakout": true,
+    "persistence": 2
   }
 ]

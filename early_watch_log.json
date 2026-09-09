@@ -6531,7 +6531,10 @@
       "max_up": 1.03,
       "max_down": -2.59
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.1,
+      "max_down": -4.86
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -6655,7 +6658,10 @@
       "max_up": 0.7,
       "max_down": 0.22
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.52,
+      "max_down": 0.22
+    },
     "result_12h": null
   },
   {
@@ -6677,7 +6683,10 @@
       "max_up": -1.12,
       "max_down": -1.18
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.76,
+      "max_down": -1.18
+    },
     "result_12h": null
   },
   {
@@ -6768,6 +6777,25 @@
       "max_up": 0.45,
       "max_down": -0.45
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PAXGIRT",
+    "time": 1788946257098,
+    "price": 1017793769.0,
+    "level": "STRONG",
+    "hunt": 64.5,
+    "persistence": 1,
+    "p15": 0.36,
+    "vr": 0.07,
+    "va": 7.47,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
