@@ -1260,5 +1260,24 @@
       "max_up": 1.38,
       "max_down": -0.21
     }
+  },
+  {
+    "symbol": "NOMIRT",
+    "time": 1788955653371,
+    "price": 427.0,
+    "pre30": 0.95,
+    "pre60": 3.39,
+    "pre120": 1.18,
+    "hunt": 93.7,
+    "persistence": 2,
+    "vr": 1.91,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.47,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

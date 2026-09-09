@@ -190,5 +190,18 @@
     "bs": 0.58,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1788955654457,
+    "symbol": "NOMIRT",
+    "price": 427.0,
+    "hunt_score": 93.7,
+    "status": "EARLY",
+    "p15": 0.47,
+    "vr": 1.91,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
