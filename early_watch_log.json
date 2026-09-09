@@ -6416,7 +6416,10 @@
       "max_up": 17.56,
       "max_down": -4.26
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 17.56,
+      "max_down": -4.75
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -6614,7 +6617,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.95,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -6650,6 +6656,25 @@
     "buy": 38.666666666666664,
     "bs": 1.16,
     "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PAXGIRT",
+    "time": 1788933180516,
+    "price": 1006764251.0,
+    "level": "WATCH",
+    "hunt": 44.1,
+    "persistence": 1,
+    "p15": 0.08,
+    "vr": 0.06,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
