@@ -229,5 +229,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1788989095054,
+    "symbol": "HIRT",
+    "price": 19415.0,
+    "hunt_score": 81.3,
+    "status": "PRE_EARLY",
+    "p15": 0.21,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 1.48,
+    "breakout": true,
+    "persistence": 1
   }
 ]
