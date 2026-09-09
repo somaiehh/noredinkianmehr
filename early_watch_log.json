@@ -6761,7 +6761,10 @@
       "max_up": 1.66,
       "max_down": -0.72
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.66,
+      "max_down": -9.58
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -6786,7 +6789,10 @@
       "max_up": 1.81,
       "max_down": -1.39
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.4,
+      "max_down": -2.38
+    }
   },
   {
     "symbol": "TACIRT",
@@ -7330,6 +7336,44 @@
     "buy": 85.33333333333334,
     "bs": 2.56,
     "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PAXGIRT",
+    "time": 1788980155107,
+    "price": 1037394342.0,
+    "level": "STRONG",
+    "hunt": 57.1,
+    "persistence": 1,
+    "p15": 0.26,
+    "vr": 0.57,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1788980155107,
+    "price": 1.2676,
+    "level": "STRONG",
+    "hunt": 64.9,
+    "persistence": 1,
+    "p15": 0.62,
+    "vr": 19.96,
+    "va": 5.4,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
