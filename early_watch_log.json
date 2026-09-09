@@ -7104,5 +7104,43 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "HYPEIRT",
+    "time": 1788969230750,
+    "price": 19856261.0,
+    "level": "WATCH",
+    "hunt": 44.1,
+    "persistence": 1,
+    "p15": 0.23,
+    "vr": 0.0,
+    "va": 7.68,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "VELVETIRT",
+    "time": 1788969230750,
+    "price": 17562.0,
+    "level": "STRONG",
+    "hunt": 59.3,
+    "persistence": 1,
+    "p15": 0.33,
+    "vr": 2.54,
+    "va": 10.0,
+    "buy": 36.66666666666667,
+    "bs": 1.1,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
