@@ -6217,7 +6217,10 @@
       "max_up": 2.52,
       "max_down": -12.41
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.59,
+      "max_down": -13.83
+    }
   },
   {
     "symbol": "FLOKIIRT",
