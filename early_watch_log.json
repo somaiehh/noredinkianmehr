@@ -7187,7 +7187,10 @@
       "max_up": 9.77,
       "max_down": -5.49
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.77,
+      "max_down": -10.55
+    }
   },
   {
     "symbol": "HYPEIRT",
