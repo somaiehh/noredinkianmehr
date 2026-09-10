@@ -7016,7 +7016,10 @@
       "max_up": 0.41,
       "max_down": -1.98
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.41,
+      "max_down": -3.08
+    }
   },
   {
     "symbol": "UAIIRT",
@@ -7041,7 +7044,10 @@
       "max_up": 9.26,
       "max_down": -0.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.61,
+      "max_down": -0.12
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -7617,7 +7623,10 @@
       "max_up": 0.8,
       "max_down": 0.8
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.8,
+      "max_down": -5.21
+    },
     "result_4h": null,
     "result_12h": null
   }
