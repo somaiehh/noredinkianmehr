@@ -7764,6 +7764,28 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.01
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BLASTIRT",
+    "time": 1789027719130,
+    "price": 81.0,
+    "level": "STRONG",
+    "hunt": 69.8,
+    "persistence": 1,
+    "p15": 1.25,
+    "vr": 12.59,
+    "va": 2.0,
+    "buy": 56.666666666666664,
+    "bs": 1.7,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
