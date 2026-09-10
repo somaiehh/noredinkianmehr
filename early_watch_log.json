@@ -7535,7 +7535,10 @@
       "max_up": 1.6,
       "max_down": -2.66
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.6,
+      "max_down": -2.66
+    }
   },
   {
     "symbol": "LRCIRT",
