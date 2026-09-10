@@ -7862,6 +7862,28 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": -1.32,
+      "max_down": -1.32
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TACIRT",
+    "time": 1789054225246,
+    "price": 419.0,
+    "level": "STRONG",
+    "hunt": 59.7,
+    "persistence": 2,
+    "p15": 1.95,
+    "vr": 1.01,
+    "va": 0.75,
+    "buy": 47.666666666666664,
+    "bs": 1.43,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
