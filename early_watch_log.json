@@ -7159,7 +7159,10 @@
       "max_up": 6.12,
       "max_down": -1.62
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 16.81,
+      "max_down": -1.62
+    }
   },
   {
     "symbol": "LRCIRT",
@@ -7520,7 +7523,10 @@
       "max_up": -0.79,
       "max_down": -4.76
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 8.51,
+      "max_down": -4.88
+    },
     "result_12h": null
   },
   {
@@ -7545,7 +7551,10 @@
       "max_up": -0.37,
       "max_down": -2.51
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.37,
+      "max_down": -7.55
+    },
     "result_12h": null
   },
   {
