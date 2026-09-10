@@ -7855,7 +7855,10 @@
       "max_up": 0.29,
       "max_down": -3.52
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.19,
+      "max_down": -3.52
+    }
   },
   {
     "symbol": "ETHFIIRT",
