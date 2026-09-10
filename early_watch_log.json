@@ -7361,7 +7361,10 @@
       "max_up": -0.69,
       "max_down": -2.93
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.69,
+      "max_down": -16.09
+    }
   },
   {
     "symbol": "WAVESIRT",
