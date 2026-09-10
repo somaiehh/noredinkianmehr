@@ -7771,7 +7771,10 @@
       "max_up": 1.08,
       "max_down": -1.35
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.62,
+      "max_down": -1.89
+    }
   },
   {
     "symbol": "SCIRT",
