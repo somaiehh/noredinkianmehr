@@ -7218,7 +7218,10 @@
       "max_up": 2.45,
       "max_down": 0.2
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.45,
+      "max_down": -1.54
+    }
   },
   {
     "symbol": "VELVETIRT",
@@ -7246,7 +7249,10 @@
       "max_up": 1.73,
       "max_down": -0.35
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.73,
+      "max_down": -22.13
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -7657,7 +7663,10 @@
       "max_up": 0.8,
       "max_down": -5.21
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.8,
+      "max_down": -13.97
+    },
     "result_12h": null
   },
   {
