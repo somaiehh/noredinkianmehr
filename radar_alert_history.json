@@ -242,5 +242,18 @@
     "bs": 1.48,
     "breakout": true,
     "persistence": 1
+  },
+  {
+    "time": 1788998784436,
+    "symbol": "KATIRT",
+    "price": 1508.0,
+    "hunt_score": 82.5,
+    "status": "EARLY",
+    "p15": 0.73,
+    "vr": 1.09,
+    "va": 2.87,
+    "bs": 5.0,
+    "breakout": false,
+    "persistence": 2
   }
 ]

@@ -1329,5 +1329,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "KATIRT",
+    "time": 1788998783167,
+    "price": 1508.0,
+    "pre30": 4.07,
+    "pre60": 5.68,
+    "pre120": 3.71,
+    "hunt": 82.5,
+    "persistence": 2,
+    "vr": 1.09,
+    "va": 2.87,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.47,
+    "p15": 0.73,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
