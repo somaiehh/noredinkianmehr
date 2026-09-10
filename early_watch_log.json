@@ -7476,7 +7476,10 @@
       "max_up": 0.25,
       "max_down": -0.62
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.96,
+      "max_down": -0.62
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -7504,7 +7507,10 @@
       "max_up": -0.88,
       "max_down": -2.94
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.88,
+      "max_down": -3.35
+    }
   },
   {
     "symbol": "GHXIRT",
@@ -7733,6 +7739,28 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": {
+      "max_up": 1.08,
+      "max_down": 0.0
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SCIRT",
+    "time": 1789023529026,
+    "price": 198.0,
+    "level": "STRONG",
+    "hunt": 65.5,
+    "persistence": 1,
+    "p15": 0.66,
+    "vr": 2.68,
+    "va": 8.61,
+    "buy": 89.33333333333334,
+    "bs": 2.68,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
