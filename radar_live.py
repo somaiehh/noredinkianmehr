@@ -765,6 +765,17 @@ def save_dashboard_data(out):
         shadow_v12 = (x.get("status") == "PRE_EARLY" and sequence_score_v1_value < 20)
         shadow_v12_label = "LOW_RISK_PRESETUP" if shadow_v12 else None
 
+        rh = data.get(symbol, [])
+        prev = rh[-1] if rh else {}
+        cp15 = x.get("p15")
+        pp15 = prev.get("p15")
+        cva = float(x.get("va") or 0)
+        ct15 = int(x.get("trades15") or 0)
+        prev_t15 = [int(r.get("trades15") or 0) for r in rh[-3:]]
+        pump_accum_v1 = (x.get("status") == "WATCH_ACCUMULATION" and cp15 is not None and float(cp15) <= 0 and cva >= 3)
+        pump_recovery_v1 = (pump_accum_v1 and pp15 is not None and -3 <= float(cp15) <= 0 and float(cp15)-float(pp15) >= 1)
+        dead_wakeup_v1 = (ct15 >= 8 and bool(prev_t15) and max(prev_t15) <= 4)
+
         row = {
             "time": now,
             "price": x.get("price", 0),
@@ -797,7 +808,11 @@ def save_dashboard_data(out):
             "sequence_flags_v1": sequence_flags_v1,
             "sequence_version_v1": "v1.1",
             "shadow_v12": shadow_v12,
-            "shadow_v12_label": shadow_v12_label
+            "shadow_v12_label": shadow_v12_label,
+            "research_version_v1": "v1",
+            "pump_accum_v1": pump_accum_v1,
+            "pump_recovery_v1": pump_recovery_v1,
+            "dead_wakeup_v1": dead_wakeup_v1
         }
 
         history = data.get(symbol, [])
