@@ -7847,5 +7847,24 @@
       "max_down": -3.52
     },
     "result_12h": null
+  },
+  {
+    "symbol": "ETHFIIRT",
+    "time": 1789052182109,
+    "price": 164637.0,
+    "level": "STRONG",
+    "hunt": 75.2,
+    "persistence": 1,
+    "p15": 1.58,
+    "vr": 1.83,
+    "va": 0.89,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
