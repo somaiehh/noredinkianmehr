@@ -1381,6 +1381,9 @@
       "max_up": 3.17,
       "max_down": 2.9
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 8.44,
+      "max_down": 2.11
+    }
   }
 ]
