@@ -320,5 +320,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1789072947152,
+    "symbol": "BABYSHARKIRT",
+    "price": 1290.5,
+    "hunt_score": 83.1,
+    "status": "PRE_EARLY",
+    "p15": 0.22,
+    "vr": 1.33,
+    "va": 4.0,
+    "bs": 3.62,
+    "breakout": true,
+    "persistence": 1
   }
 ]
