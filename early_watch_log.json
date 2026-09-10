@@ -7566,7 +7566,10 @@
       "max_up": 8.51,
       "max_down": -4.88
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.51,
+      "max_down": -11.93
+    }
   },
   {
     "symbol": "PROMIRT",
@@ -7594,7 +7597,10 @@
       "max_up": -0.37,
       "max_down": -7.55
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.37,
+      "max_down": -9.39
+    }
   },
   {
     "symbol": "FIRT",
@@ -7746,7 +7752,10 @@
       "max_up": 1.08,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.08,
+      "max_down": -1.35
+    },
     "result_12h": null
   },
   {
