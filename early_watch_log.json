@@ -7653,7 +7653,10 @@
       "max_up": 0.42,
       "max_down": -0.89
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.46,
+      "max_down": -2.72
+    }
   },
   {
     "symbol": "OXTIRT",
@@ -7678,7 +7681,10 @@
       "max_up": 3.04,
       "max_down": -6.76
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.04,
+      "max_down": -16.55
+    }
   },
   {
     "symbol": "KATIRT",
