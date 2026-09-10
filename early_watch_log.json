@@ -7712,7 +7712,10 @@
       "max_up": 0.8,
       "max_down": -13.97
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.8,
+      "max_down": -20.39
+    }
   },
   {
     "symbol": "B3IRT",
@@ -7829,7 +7832,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.29,
+      "max_down": 0.29
+    },
     "result_4h": null,
     "result_12h": null
   }
