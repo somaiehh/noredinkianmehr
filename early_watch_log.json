@@ -8069,7 +8069,10 @@
       "max_up": 5.81,
       "max_down": -2.02
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 23.4,
+      "max_down": -2.02
+    }
   },
   {
     "symbol": "BLASTIRT",
