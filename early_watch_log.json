@@ -8223,5 +8223,43 @@
       "max_down": -7.16
     },
     "result_12h": null
+  },
+  {
+    "symbol": "BTRIRT",
+    "time": 1789114127772,
+    "price": 13214.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.99,
+    "vr": 0.81,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "COMMONIRT",
+    "time": 1789114127772,
+    "price": 13.4,
+    "level": "STRONG",
+    "hunt": 57.8,
+    "persistence": 1,
+    "p15": 1.52,
+    "vr": 0.22,
+    "va": 2.93,
+    "buy": 74.66666666666667,
+    "bs": 2.24,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
