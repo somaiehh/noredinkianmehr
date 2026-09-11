@@ -1410,5 +1410,24 @@
       "max_up": 0.18,
       "max_down": -2.53
     }
+  },
+  {
+    "symbol": "WINIRT",
+    "time": 1789131361087,
+    "price": 8.951,
+    "pre30": 1.14,
+    "pre60": 1.14,
+    "pre120": 0.88,
+    "hunt": 77.5,
+    "persistence": 2,
+    "vr": 2.1,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.11,
+    "ob": 0.41,
+    "p15": 0.43,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
