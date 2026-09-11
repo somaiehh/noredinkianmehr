@@ -8801,5 +8801,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "DOGSIRT",
+    "time": 1789147371327,
+    "price": 12.11,
+    "level": "STRONG",
+    "hunt": 57.7,
+    "persistence": 1,
+    "p15": 0.5,
+    "vr": 0.29,
+    "va": 4.26,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
