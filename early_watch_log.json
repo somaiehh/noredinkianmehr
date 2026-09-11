@@ -8265,7 +8265,10 @@
       "max_up": -3.48,
       "max_down": -9.77
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -3.48,
+      "max_down": -12.25
+    }
   },
   {
     "symbol": "COMMONIRT",
@@ -8290,7 +8293,10 @@
       "max_up": 2.99,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.72,
+      "max_down": -0.75
+    }
   },
   {
     "symbol": "SAGAIRT",
@@ -8944,7 +8950,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.25,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
