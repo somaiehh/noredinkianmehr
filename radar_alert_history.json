@@ -385,5 +385,18 @@
     "bs": 4.03,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1789151346694,
+    "symbol": "PAXGIRT",
+    "price": 1030014425.0,
+    "hunt_score": 81.4,
+    "status": "PRE_EARLY",
+    "p15": 0.31,
+    "vr": 6.91,
+    "va": 6.4,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 1
   }
 ]
