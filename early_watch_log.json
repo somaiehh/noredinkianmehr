@@ -8380,7 +8380,10 @@
       "max_up": 0.84,
       "max_down": -3.46
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.25,
+      "max_down": -3.46
+    }
   },
   {
     "symbol": "ESIRT",
@@ -8408,7 +8411,10 @@
       "max_up": 9.38,
       "max_down": -1.04
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.38,
+      "max_down": -1.04
+    }
   },
   {
     "symbol": "WODIRT",
@@ -8988,6 +8994,25 @@
       "max_up": 1.24,
       "max_down": -0.25
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ESIRT",
+    "time": 1789162830344,
+    "price": 300.0,
+    "level": "STRONG",
+    "hunt": 72.9,
+    "persistence": 1,
+    "p15": 0.67,
+    "vr": 1.35,
+    "va": 3.54,
+    "buy": 48.666666666666664,
+    "bs": 1.46,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
