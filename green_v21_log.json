@@ -1454,5 +1454,24 @@
       "max_down": 1.7
     },
     "result_4h": null
+  },
+  {
+    "symbol": "VELVETIRT",
+    "time": 1789140601933,
+    "price": 13258.0,
+    "pre30": 4.19,
+    "pre60": 3.01,
+    "pre120": 4.22,
+    "hunt": 90.0,
+    "persistence": 2,
+    "vr": 3.43,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.03,
+    "ob": 0.77,
+    "p15": 1.08,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
