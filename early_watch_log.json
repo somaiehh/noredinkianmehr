@@ -8442,7 +8442,10 @@
       "max_up": 3.48,
       "max_down": -2.99
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.48,
+      "max_down": -10.45
+    }
   },
   {
     "symbol": "HEMIIRT",
@@ -8900,7 +8903,10 @@
       "max_up": -0.48,
       "max_down": -2.05
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.48,
+      "max_down": -4.87
+    },
     "result_12h": null
   },
   {
@@ -8922,7 +8928,10 @@
       "max_up": -2.55,
       "max_down": -2.98
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.85,
+      "max_down": -2.98
+    },
     "result_12h": null
   },
   {
