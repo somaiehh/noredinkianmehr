@@ -8321,7 +8321,10 @@
       "max_up": -0.54,
       "max_down": -4.21
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.54,
+      "max_down": -4.21
+    }
   },
   {
     "symbol": "MUBARAKIRT",
@@ -8346,7 +8349,10 @@
       "max_up": 0.97,
       "max_down": -1.71
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.56,
+      "max_down": -1.71
+    }
   },
   {
     "symbol": "DOGSIRT",
@@ -8863,7 +8869,10 @@
       "max_up": 5.04,
       "max_down": 3.3
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.04,
+      "max_down": 1.4
+    },
     "result_12h": null
   },
   {
@@ -8975,7 +8984,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.24,
+      "max_down": -0.25
+    },
     "result_4h": null,
     "result_12h": null
   }
