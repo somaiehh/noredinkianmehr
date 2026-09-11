@@ -8311,5 +8311,43 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "DOGSIRT",
+    "time": 1789118925889,
+    "price": 11.86,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.8,
+    "vr": 6.46,
+    "va": 2.13,
+    "buy": 75.99999999999999,
+    "bs": 2.28,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ESIRT",
+    "time": 1789118925889,
+    "price": 288.0,
+    "level": "STRONG",
+    "hunt": 56.1,
+    "persistence": 1,
+    "p15": 0.35,
+    "vr": 2.45,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
