@@ -1427,6 +1427,28 @@
     "ob": 0.41,
     "p15": 0.43,
     "breakout": false,
+    "result_1h": {
+      "max_up": -0.02,
+      "max_down": -0.56
+    },
+    "result_4h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1789135527765,
+    "price": 1.2318,
+    "pre30": 2.04,
+    "pre60": 1.95,
+    "pre120": 3.88,
+    "hunt": 87.8,
+    "persistence": 2,
+    "vr": 3.09,
+    "va": 2.78,
+    "buy": 100,
+    "bs": 3.0,
+    "ob": 1.0,
+    "p15": 1.09,
+    "breakout": true,
     "result_1h": null,
     "result_4h": null
   }

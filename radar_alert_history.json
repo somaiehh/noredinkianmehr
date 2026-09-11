@@ -359,5 +359,18 @@
     "bs": 0.61,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1789135529833,
+    "symbol": "SHIBIRT",
+    "price": 1.2318,
+    "hunt_score": 87.8,
+    "status": "EARLY",
+    "p15": 1.09,
+    "vr": 3.09,
+    "va": 2.78,
+    "bs": 3.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
