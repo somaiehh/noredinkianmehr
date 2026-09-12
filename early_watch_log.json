@@ -8902,7 +8902,10 @@
       "max_up": -0.08,
       "max_down": -1.7
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.28,
+      "max_down": -1.7
+    }
   },
   {
     "symbol": "DOGSIRT",
@@ -8927,7 +8930,10 @@
       "max_up": 5.04,
       "max_down": 1.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.04,
+      "max_down": -2.97
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -9241,7 +9247,10 @@
       "max_up": -0.16,
       "max_down": -7.07
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 36.62,
+      "max_down": -7.07
+    },
     "result_12h": null
   },
   {
@@ -9266,7 +9275,10 @@
       "max_up": -0.02,
       "max_down": -1.55
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.02,
+      "max_down": -2.96
+    },
     "result_12h": null
   },
   {
@@ -9328,6 +9340,25 @@
     "va": 10.0,
     "buy": 52.66666666666667,
     "bs": 1.58,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ESIRT",
+    "time": 1789190722749,
+    "price": 340.0,
+    "level": "WATCH",
+    "hunt": 42.4,
+    "persistence": 1,
+    "p15": 1.19,
+    "vr": 0.17,
+    "va": 2.0,
+    "buy": 73.33333333333334,
+    "bs": 2.2,
     "breakout": false,
     "priority": false,
     "result_15m": null,
