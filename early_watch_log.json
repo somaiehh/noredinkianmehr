@@ -9461,7 +9461,10 @@
       "max_up": 0.11,
       "max_down": -1.35
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.11,
+      "max_down": -1.47
+    }
   },
   {
     "symbol": "MUBARAKIRT",
@@ -9959,7 +9962,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.64,
+      "max_down": -0.61
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -9978,7 +9984,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -1.1,
+      "max_down": -3.24
+    },
     "result_4h": null,
     "result_12h": null
   },
