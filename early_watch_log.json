@@ -9601,7 +9601,10 @@
       "max_up": 0.7,
       "max_down": -0.3
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.7,
+      "max_down": -1.27
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -9990,7 +9993,10 @@
       "max_up": 0.64,
       "max_down": -0.61
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.64,
+      "max_down": -7.96
+    },
     "result_12h": null
   },
   {
@@ -10012,7 +10018,10 @@
       "max_up": -1.1,
       "max_down": -3.24
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -1.1,
+      "max_down": -9.5
+    },
     "result_12h": null
   },
   {
@@ -10118,7 +10127,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.4,
+      "max_down": -0.69
+    },
     "result_4h": null,
     "result_12h": null
   },
