@@ -1585,5 +1585,24 @@
       "max_up": 1.18,
       "max_down": -1.74
     }
+  },
+  {
+    "symbol": "REZIRT",
+    "time": 1789257098437,
+    "price": 962.0,
+    "pre30": 4.57,
+    "pre60": 0.52,
+    "pre120": 1.05,
+    "hunt": 72.8,
+    "persistence": 2,
+    "vr": 1.47,
+    "va": 6.46,
+    "buy": 68.33333333333333,
+    "bs": 2.05,
+    "ob": 0.61,
+    "p15": 0.63,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

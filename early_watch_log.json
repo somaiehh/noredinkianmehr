@@ -10223,5 +10223,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "REZIRT",
+    "time": 1789257098437,
+    "price": 962.0,
+    "level": "STRONG",
+    "hunt": 72.8,
+    "persistence": 2,
+    "p15": 0.63,
+    "vr": 1.47,
+    "va": 6.46,
+    "buy": 68.33333333333333,
+    "bs": 2.05,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
