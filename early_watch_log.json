@@ -9374,7 +9374,10 @@
       "max_up": -0.68,
       "max_down": -4.28
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.68,
+      "max_down": -5.86
+    }
   },
   {
     "symbol": "NAVXIRT",
@@ -9785,7 +9788,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 5.48,
+      "max_down": 2.15
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -9804,7 +9810,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.15,
+      "max_down": 1.74
+    },
     "result_4h": null,
     "result_12h": null
   }
