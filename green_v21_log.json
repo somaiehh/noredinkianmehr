@@ -1506,7 +1506,10 @@
       "max_up": 0.7,
       "max_down": 0.25
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.7,
+      "max_down": -0.3
+    }
   },
   {
     "symbol": "SHIBIRT",
