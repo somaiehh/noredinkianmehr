@@ -9107,7 +9107,10 @@
       "max_up": 13.33,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 14.67,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "LABIRT",
@@ -9396,7 +9399,10 @@
       "max_up": -1.47,
       "max_down": -2.94
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -7.94
+    },
     "result_12h": null
   },
   {
@@ -9516,6 +9522,25 @@
     "buy": 46.666666666666664,
     "bs": 1.4,
     "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1789206119667,
+    "price": 1.244,
+    "level": "WATCH",
+    "hunt": 40.0,
+    "persistence": 1,
+    "p15": 0.1,
+    "vr": 0.03,
+    "va": 2.0,
+    "buy": 63.66666666666666,
+    "bs": 1.91,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
