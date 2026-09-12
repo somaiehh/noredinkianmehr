@@ -9253,7 +9253,10 @@
       "max_up": 4.9,
       "max_down": -0.38
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.9,
+      "max_down": -5.19
+    }
   },
   {
     "symbol": "LSKIRT",
@@ -9616,6 +9619,25 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1789214723944,
+    "price": 10281.0,
+    "level": "STRONG",
+    "hunt": 61.0,
+    "persistence": 1,
+    "p15": 0.21,
+    "vr": 0.68,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
