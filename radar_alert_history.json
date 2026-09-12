@@ -450,5 +450,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 5
+  },
+  {
+    "time": 1789245845064,
+    "symbol": "HEMIIRT",
+    "price": 1701.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.47,
+    "vr": 2.33,
+    "va": 10.0,
+    "bs": 2.43,
+    "breakout": true,
+    "persistence": 6
   }
 ]
