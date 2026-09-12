@@ -8582,7 +8582,10 @@
       "max_up": -0.02,
       "max_down": -0.56
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.35,
+      "max_down": -0.56
+    }
   },
   {
     "symbol": "XCNIRT",
@@ -9161,7 +9164,10 @@
       "max_up": -0.38,
       "max_down": -0.38
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.68,
+      "max_down": -0.38
+    },
     "result_4h": null,
     "result_12h": null
   }
