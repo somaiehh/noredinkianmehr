@@ -9222,7 +9222,10 @@
       "max_up": 6.07,
       "max_down": -1.69
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.62,
+      "max_down": -4.68
+    }
   },
   {
     "symbol": "VELVETIRT",
@@ -9458,7 +9461,10 @@
       "max_up": 1.11,
       "max_down": -0.8
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.04,
+      "max_down": -1.28
+    },
     "result_12h": null
   },
   {
@@ -9568,6 +9574,25 @@
       "max_up": 0.36,
       "max_down": -0.37
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TACIRT",
+    "time": 1789212255348,
+    "price": 448.0,
+    "level": "STRONG",
+    "hunt": 70.2,
+    "persistence": 1,
+    "p15": 1.13,
+    "vr": 1.25,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 4.91,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
