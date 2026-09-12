@@ -9433,7 +9433,10 @@
       "max_up": 0.0,
       "max_down": -7.94
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -10.88
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -9766,7 +9769,10 @@
       "max_up": 0.62,
       "max_down": 0.12
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.62,
+      "max_down": -3.02
+    },
     "result_12h": null
   },
   {
@@ -9788,7 +9794,10 @@
       "max_up": 0.18,
       "max_down": -0.12
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.18,
+      "max_down": -5.13
+    },
     "result_12h": null
   },
   {
@@ -9956,6 +9965,25 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HEMIIRT",
+    "time": 1789234745194,
+    "price": 1630.0,
+    "level": "STRONG",
+    "hunt": 66.3,
+    "persistence": 3,
+    "p15": 0.99,
+    "vr": 0.04,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
