@@ -9458,5 +9458,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "CYSIRT",
+    "time": 1789202561286,
+    "price": 33506.0,
+    "level": "STRONG",
+    "hunt": 57.7,
+    "persistence": 1,
+    "p15": 0.52,
+    "vr": 1.19,
+    "va": 1.89,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
