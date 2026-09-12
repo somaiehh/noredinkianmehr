@@ -9629,7 +9629,10 @@
       "max_up": 1.49,
       "max_down": -0.37
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.49,
+      "max_down": -2.03
+    }
   },
   {
     "symbol": "TACIRT",
