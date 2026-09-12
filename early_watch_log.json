@@ -9402,7 +9402,10 @@
       "max_up": 0.0,
       "max_down": -4.04
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.7,
+      "max_down": -4.39
+    }
   },
   {
     "symbol": "ESIRT",
@@ -9710,7 +9713,10 @@
       "max_up": 12.6,
       "max_down": 4.61
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 23.02,
+      "max_down": 4.61
+    },
     "result_12h": null
   },
   {
@@ -9735,7 +9741,10 @@
       "max_up": 0.0,
       "max_down": -1.7
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -6.38
+    },
     "result_12h": null
   },
   {
