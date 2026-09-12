@@ -10031,5 +10031,43 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1789239874410,
+    "price": 1.2277,
+    "level": "STRONG",
+    "hunt": 70.5,
+    "persistence": 1,
+    "p15": 0.34,
+    "vr": 7.49,
+    "va": 10.0,
+    "buy": 72.66666666666667,
+    "bs": 2.18,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "REZIRT",
+    "time": 1789239874410,
+    "price": 924.0,
+    "level": "STRONG",
+    "hunt": 67.2,
+    "persistence": 1,
+    "p15": 0.98,
+    "vr": 0.51,
+    "va": 10.0,
+    "buy": 74.00000000000001,
+    "bs": 2.22,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
