@@ -10238,7 +10238,10 @@
       "max_up": 3.79,
       "max_down": -2.77
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 18.18,
+      "max_down": -6.4
+    }
   },
   {
     "symbol": "SOPHIRT",
@@ -10266,7 +10269,10 @@
       "max_up": 1.38,
       "max_down": -0.55
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.38,
+      "max_down": -8.17
+    }
   },
   {
     "symbol": "DENTIRT",
@@ -10393,7 +10399,10 @@
       "max_up": -0.42,
       "max_down": -2.64
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.44,
+      "max_down": -2.64
+    },
     "result_12h": null
   },
   {
