@@ -10421,7 +10421,10 @@
     "breakout": true,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.7,
+      "max_down": -4.67
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -10437,6 +10440,28 @@
     "va": 2.0,
     "buy": 97.33333333333333,
     "bs": 2.92,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": 0.23,
+      "max_down": -0.46
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "XANIRT",
+    "time": 1789281416609,
+    "price": 2719.7,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.73,
+    "vr": 1.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
