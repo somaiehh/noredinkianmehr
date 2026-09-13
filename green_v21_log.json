@@ -1606,7 +1606,10 @@
       "max_up": -2.08,
       "max_down": -2.81
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.6,
+      "max_down": -10.08
+    }
   },
   {
     "symbol": "STEEMIRT",
@@ -1624,7 +1627,10 @@
     "ob": 1.0,
     "p15": 1.14,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 13.57,
+      "max_down": 1.44
+    },
     "result_4h": null
   }
 ]
