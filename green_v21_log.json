@@ -1632,5 +1632,24 @@
       "max_down": 1.44
     },
     "result_4h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1789275897152,
+    "price": 10031.0,
+    "pre30": -1.61,
+    "pre60": -1.61,
+    "pre120": 0.61,
+    "hunt": 72.7,
+    "persistence": 3,
+    "vr": 15.47,
+    "va": 2.78,
+    "buy": 11.666666666666666,
+    "bs": 0.35,
+    "ob": 1.0,
+    "p15": 0.54,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
