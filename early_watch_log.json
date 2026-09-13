@@ -9865,7 +9865,10 @@
       "max_up": 5.48,
       "max_down": -11.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.48,
+      "max_down": -16.26
+    }
   },
   {
     "symbol": "WENSOLIRT",
@@ -9890,7 +9893,10 @@
       "max_up": 8.48,
       "max_down": -4.39
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.7,
+      "max_down": -6.97
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -10248,7 +10254,10 @@
       "max_up": 2.58,
       "max_down": 2.58
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.58,
+      "max_down": -3.64
+    },
     "result_12h": null
   },
   {
