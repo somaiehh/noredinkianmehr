@@ -1679,5 +1679,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "BRIRT",
+    "time": 1789329155268,
+    "price": 72328.0,
+    "pre30": 2.16,
+    "pre60": 1.52,
+    "pre120": 5.11,
+    "hunt": 84.0,
+    "persistence": 3,
+    "vr": 3.04,
+    "va": 10.0,
+    "buy": 67.66666666666666,
+    "bs": 2.03,
+    "ob": 1.0,
+    "p15": 1.0,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
