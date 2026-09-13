@@ -463,5 +463,18 @@
     "bs": 2.43,
     "breakout": true,
     "persistence": 6
+  },
+  {
+    "time": 1789275213640,
+    "symbol": "RVVIRT",
+    "price": 22.0,
+    "hunt_score": 84.0,
+    "status": "PRE_EARLY",
+    "p15": 0.46,
+    "vr": 1.31,
+    "va": 2.89,
+    "bs": 3.08,
+    "breakout": true,
+    "persistence": 1
   }
 ]
