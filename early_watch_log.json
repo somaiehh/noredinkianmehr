@@ -10617,7 +10617,10 @@
       "max_up": 0.53,
       "max_down": -3.85
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.93,
+      "max_down": -5.12
+    }
   },
   {
     "symbol": "DOTIRT",
@@ -10853,7 +10856,10 @@
       "max_up": 1.29,
       "max_down": 0.76
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.09,
+      "max_down": -1.62
+    },
     "result_12h": null
   },
   {
@@ -10878,7 +10884,10 @@
       "max_up": 0.98,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.67,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -10903,7 +10912,10 @@
       "max_up": 0.89,
       "max_down": 0.36
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.76,
+      "max_down": -0.46
+    },
     "result_12h": null
   },
   {
@@ -11060,6 +11072,25 @@
       "max_up": 0.39,
       "max_down": -0.25
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "IQIRT",
+    "time": 1789343625131,
+    "price": 237.8,
+    "level": "STRONG",
+    "hunt": 62.0,
+    "persistence": 1,
+    "p15": 1.28,
+    "vr": 0.01,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }

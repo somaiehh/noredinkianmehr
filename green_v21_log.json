@@ -1681,7 +1681,10 @@
       "max_up": 0.98,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.67,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "BRIRT",
@@ -1703,7 +1706,10 @@
       "max_up": 2.1,
       "max_down": 0.82
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.67,
+      "max_down": 0.24
+    }
   },
   {
     "symbol": "ESIRT",
