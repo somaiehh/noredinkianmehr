@@ -10356,7 +10356,10 @@
       "max_up": 19.29,
       "max_down": -0.5
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 29.17,
+      "max_down": -2.78
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -10632,7 +10635,10 @@
       "max_up": 0.23,
       "max_down": 0.23
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.48,
+      "max_down": 0.23
+    },
     "result_4h": null,
     "result_12h": null
   },
