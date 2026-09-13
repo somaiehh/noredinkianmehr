@@ -10297,7 +10297,10 @@
       "max_up": 2.58,
       "max_down": -3.64
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.58,
+      "max_down": -6.35
+    }
   },
   {
     "symbol": "REZIRT",
@@ -10520,7 +10523,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.1,
+      "max_down": 1.1
+    },
     "result_4h": null,
     "result_12h": null
   },
