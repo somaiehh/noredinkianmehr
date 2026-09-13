@@ -10284,5 +10284,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "STEEMIRT",
+    "time": 1789268532984,
+    "price": 14941.0,
+    "level": "STRONG",
+    "hunt": 74.0,
+    "persistence": 2,
+    "p15": 1.14,
+    "vr": 1.24,
+    "va": 9.93,
+    "buy": 36.66666666666667,
+    "bs": 1.1,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]

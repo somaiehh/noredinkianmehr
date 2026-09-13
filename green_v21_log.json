@@ -1607,5 +1607,24 @@
       "max_down": -2.81
     },
     "result_4h": null
+  },
+  {
+    "symbol": "STEEMIRT",
+    "time": 1789268532984,
+    "price": 14941.0,
+    "pre30": -5.79,
+    "pre60": -0.69,
+    "pre120": 16.77,
+    "hunt": 74.0,
+    "persistence": 2,
+    "vr": 1.24,
+    "va": 9.93,
+    "buy": 36.66666666666667,
+    "bs": 1.1,
+    "ob": 1.0,
+    "p15": 1.14,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
