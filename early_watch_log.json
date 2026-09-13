@@ -10384,7 +10384,10 @@
       "max_up": 0.1,
       "max_down": -2.45
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.1,
+      "max_down": -4.35
+    }
   },
   {
     "symbol": "DENTIRT",
@@ -10617,7 +10620,10 @@
       "max_up": -0.15,
       "max_down": -0.96
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.38,
+      "max_down": -0.96
+    },
     "result_12h": null
   },
   {
