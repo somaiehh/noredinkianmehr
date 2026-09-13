@@ -9809,7 +9809,10 @@
       "max_up": 0.62,
       "max_down": -3.02
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.62,
+      "max_down": -5.41
+    }
   },
   {
     "symbol": "USELESSIRT",
@@ -9834,7 +9837,10 @@
       "max_up": 0.18,
       "max_down": -5.13
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.18,
+      "max_down": -6.42
+    }
   },
   {
     "symbol": "MDTIRT",
