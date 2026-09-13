@@ -1660,5 +1660,24 @@
       "max_up": 0.24,
       "max_down": -2.34
     }
+  },
+  {
+    "symbol": "BRIRT",
+    "time": 1789328442929,
+    "price": 72328.0,
+    "pre30": 2.16,
+    "pre60": 1.52,
+    "pre120": 5.11,
+    "hunt": 84.0,
+    "persistence": 2,
+    "vr": 3.04,
+    "va": 10.0,
+    "buy": 34.0,
+    "bs": 1.02,
+    "ob": 1.0,
+    "p15": 1.0,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
