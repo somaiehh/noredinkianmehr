@@ -9750,7 +9750,10 @@
       "max_up": 23.02,
       "max_down": 4.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 60.6,
+      "max_down": 4.25
+    }
   },
   {
     "symbol": "RVVIRT",
@@ -9778,7 +9781,10 @@
       "max_up": 0.0,
       "max_down": -6.38
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -6.38
+    }
   },
   {
     "symbol": "HIRT",
@@ -10257,7 +10263,10 @@
       "max_up": -2.81,
       "max_down": -2.81
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -2.08,
+      "max_down": -2.81
+    },
     "result_4h": null,
     "result_12h": null
   }
