@@ -10474,7 +10474,10 @@
       "max_up": 4.73,
       "max_down": -4.89
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.73,
+      "max_down": -12.0
+    }
   },
   {
     "symbol": "TACIRT",
@@ -10499,7 +10502,10 @@
       "max_up": 0.23,
       "max_down": -3.89
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.14,
+      "max_down": -3.89
+    }
   },
   {
     "symbol": "XANIRT",
