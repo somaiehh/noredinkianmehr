@@ -10610,5 +10610,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1789307480880,
+    "price": 1.185,
+    "level": "STRONG",
+    "hunt": 60.6,
+    "persistence": 2,
+    "p15": 0.32,
+    "vr": 0.88,
+    "va": 3.88,
+    "buy": 46.666666666666664,
+    "bs": 1.4,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
