@@ -9949,7 +9949,10 @@
       "max_up": 0.72,
       "max_down": -0.76
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.72,
+      "max_down": -0.76
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -10325,6 +10328,25 @@
     "va": 5.13,
     "buy": 100,
     "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DENTIRT",
+    "time": 1789274663694,
+    "price": 15.871,
+    "level": "STRONG",
+    "hunt": 57.8,
+    "persistence": 1,
+    "p15": 0.42,
+    "vr": 1.61,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
