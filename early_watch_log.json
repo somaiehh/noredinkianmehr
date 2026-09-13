@@ -10151,7 +10151,10 @@
       "max_up": -0.1,
       "max_down": -0.73
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.01,
+      "max_down": -1.02
+    }
   },
   {
     "symbol": "REZIRT",
@@ -10176,7 +10179,10 @@
       "max_up": 4.11,
       "max_down": -3.35
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.82,
+      "max_down": -14.18
+    }
   },
   {
     "symbol": "DEXEIRT",
@@ -10331,7 +10337,10 @@
       "max_up": 13.57,
       "max_down": 1.44
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 19.29,
+      "max_down": -0.5
+    },
     "result_12h": null
   },
   {
