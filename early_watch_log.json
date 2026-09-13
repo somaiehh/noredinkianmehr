@@ -9691,7 +9691,10 @@
       "max_up": -0.14,
       "max_down": -2.57
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.14,
+      "max_down": -3.47
+    }
   },
   {
     "symbol": "SIRENIRT",
