@@ -10586,7 +10586,10 @@
       "max_up": 0.35,
       "max_down": -0.84
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.84,
+      "max_down": -0.84
+    }
   },
   {
     "symbol": "HEMIIRT",
@@ -11053,7 +11056,10 @@
       "max_up": -0.25,
       "max_down": -0.25
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.39,
+      "max_down": -0.25
+    },
     "result_4h": null,
     "result_12h": null
   }
