@@ -10994,5 +10994,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "DEXEIRT",
+    "time": 1789333354189,
+    "price": 425119.0,
+    "level": "STRONG",
+    "hunt": 66.3,
+    "persistence": 1,
+    "p15": 0.46,
+    "vr": 0.77,
+    "va": 2.0,
+    "buy": 57.99999999999999,
+    "bs": 1.74,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
