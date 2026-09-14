@@ -11400,7 +11400,10 @@
       "max_up": 0.74,
       "max_down": -0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.02,
+      "max_down": -0.87
+    },
     "result_12h": null
   },
   {
@@ -11434,6 +11437,28 @@
     "persistence": 1,
     "p15": 0.63,
     "vr": 0.8,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": 2.91,
+      "max_down": 2.62
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "CAPIRT",
+    "time": 1789383333114,
+    "price": 12675.9,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.88,
+    "vr": 2.89,
     "va": 10.0,
     "buy": 100,
     "bs": 5.0,
