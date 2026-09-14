@@ -11319,7 +11319,10 @@
       "max_up": 29.65,
       "max_down": -2.22
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 29.65,
+      "max_down": -54.83
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -11558,6 +11561,28 @@
     "va": 1.8,
     "buy": 100,
     "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": 2.68,
+      "max_down": -2.89
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WODIRT",
+    "time": 1789405016667,
+    "price": 752.0,
+    "level": "STRONG",
+    "hunt": 67.0,
+    "persistence": 1,
+    "p15": 1.08,
+    "vr": 1.32,
+    "va": 0.93,
+    "buy": 63.0,
+    "bs": 1.89,
     "breakout": false,
     "priority": false,
     "result_15m": null,
