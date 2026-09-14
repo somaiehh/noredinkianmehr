@@ -10794,7 +10794,10 @@
       "max_up": 2.64,
       "max_down": -2.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.64,
+      "max_down": -2.11
+    }
   },
   {
     "symbol": "TUTIRT",
@@ -10822,7 +10825,10 @@
       "max_up": 1.54,
       "max_down": -1.29
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.93,
+      "max_down": -1.29
+    }
   },
   {
     "symbol": "BRIRT",
@@ -11133,7 +11139,10 @@
       "max_up": -2.69,
       "max_down": -4.5
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -2.69,
+      "max_down": -7.4
+    },
     "result_12h": null
   },
   {
