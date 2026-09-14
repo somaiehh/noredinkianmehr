@@ -11403,7 +11403,10 @@
       "max_up": -2.56,
       "max_down": -6.52
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -2.56,
+      "max_down": -7.87
+    }
   },
   {
     "symbol": "FILIRT",
@@ -11650,6 +11653,25 @@
     "buy": 85.66666666666666,
     "bs": 2.57,
     "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BANKIRT",
+    "time": 1789410515630,
+    "price": 6470.0,
+    "level": "STRONG",
+    "hunt": 61.8,
+    "persistence": 1,
+    "p15": 0.17,
+    "vr": 5.15,
+    "va": 9.04,
+    "buy": 78.66666666666666,
+    "bs": 2.36,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
