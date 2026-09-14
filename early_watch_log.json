@@ -11347,7 +11347,10 @@
       "max_up": 1.07,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.07,
+      "max_down": -2.45
+    }
   },
   {
     "symbol": "SIRT",
@@ -11372,7 +11375,10 @@
       "max_up": -0.16,
       "max_down": -0.73
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.06,
+      "max_down": -2.87
+    }
   },
   {
     "symbol": "LABIRT",
