@@ -10679,7 +10679,10 @@
       "max_up": 0.93,
       "max_down": 0.23
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.06,
+      "max_down": 0.05
+    }
   },
   {
     "symbol": "ARKIRT",
@@ -10704,7 +10707,10 @@
       "max_up": -0.78,
       "max_down": -15.79
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.61,
+      "max_down": -17.27
+    }
   },
   {
     "symbol": "ZETAIRT",
@@ -10729,7 +10735,10 @@
       "max_up": 0.51,
       "max_down": -7.22
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.51,
+      "max_down": -7.42
+    }
   },
   {
     "symbol": "GRAMIRT",
