@@ -11698,5 +11698,43 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "PEPEIRT",
+    "time": 1789417744520,
+    "price": 0.8179,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.53,
+    "vr": 1.6,
+    "va": 2.69,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ESIRT",
+    "time": 1789417744520,
+    "price": 280.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.08,
+    "vr": 0.82,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
