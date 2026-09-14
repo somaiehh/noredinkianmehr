@@ -10763,7 +10763,10 @@
       "max_up": 0.42,
       "max_down": -0.54
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.19,
+      "max_down": -0.54
+    }
   },
   {
     "symbol": "DENTIRT",
