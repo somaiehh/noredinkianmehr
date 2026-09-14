@@ -11176,7 +11176,10 @@
       "max_up": -2.69,
       "max_down": -7.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -2.69,
+      "max_down": -10.51
+    }
   },
   {
     "symbol": "API3IRT",
@@ -11468,7 +11471,10 @@
       "max_up": -1.86,
       "max_down": -1.86
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.37,
+      "max_down": -1.86
+    },
     "result_4h": null,
     "result_12h": null
   }
