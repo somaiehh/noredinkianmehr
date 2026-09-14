@@ -10884,7 +10884,10 @@
       "max_up": 2.09,
       "max_down": -1.62
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.1,
+      "max_down": -1.62
+    }
   },
   {
     "symbol": "BRIRT",
@@ -10912,7 +10915,10 @@
       "max_up": 2.67,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 36.31,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -10940,7 +10946,10 @@
       "max_up": 1.76,
       "max_down": -0.46
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.76,
+      "max_down": -0.67
+    }
   },
   {
     "symbol": "DENTIRT",
@@ -11354,7 +11363,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.74,
+      "max_down": -0.0
+    },
     "result_4h": null,
     "result_12h": null
   }
