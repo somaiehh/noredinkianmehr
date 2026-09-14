@@ -11493,7 +11493,10 @@
       "max_up": 0.37,
       "max_down": -1.86
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 29.78,
+      "max_down": -1.86
+    },
     "result_12h": null
   },
   {
@@ -11515,6 +11518,25 @@
       "max_up": 0.75,
       "max_down": -1.42
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BANKIRT",
+    "time": 1789397862007,
+    "price": 6612.0,
+    "level": "STRONG",
+    "hunt": 54.3,
+    "persistence": 1,
+    "p15": 0.93,
+    "vr": 3.14,
+    "va": 1.51,
+    "buy": 54.333333333333336,
+    "bs": 1.63,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
