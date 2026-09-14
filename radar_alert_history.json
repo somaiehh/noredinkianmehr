@@ -541,5 +541,18 @@
     "bs": 0.1,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1789380680680,
+    "symbol": "BANKIRT",
+    "price": 7080.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.14,
+    "vr": 6.72,
+    "va": 10.0,
+    "bs": 0.67,
+    "breakout": true,
+    "persistence": 2
   }
 ]

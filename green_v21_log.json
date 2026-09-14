@@ -1735,5 +1735,24 @@
       "max_up": 4.61,
       "max_down": -0.99
     }
+  },
+  {
+    "symbol": "BANKIRT",
+    "time": 1789380678508,
+    "price": 7080.0,
+    "pre30": 4.09,
+    "pre60": 4.12,
+    "pre120": 4.8,
+    "hunt": 100.0,
+    "persistence": 2,
+    "vr": 6.72,
+    "va": 10.0,
+    "buy": 22.333333333333336,
+    "bs": 0.67,
+    "ob": 1.0,
+    "p15": 1.14,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
