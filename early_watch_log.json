@@ -11145,7 +11145,10 @@
       "max_up": 0.39,
       "max_down": -2.63
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.39,
+      "max_down": -2.63
+    }
   },
   {
     "symbol": "IQIRT",
