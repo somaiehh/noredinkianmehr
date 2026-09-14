@@ -11332,7 +11332,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -2.67,
+      "max_down": -3.47
+    },
     "result_4h": null,
     "result_12h": null
   },
