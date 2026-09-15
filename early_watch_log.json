@@ -11885,7 +11885,10 @@
       "max_up": -1.45,
       "max_down": -9.48
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.45,
+      "max_down": -11.54
+    }
   },
   {
     "symbol": "FORTHIRT",
