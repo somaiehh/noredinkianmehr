@@ -12046,6 +12046,28 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
+    "result_1h": {
+      "max_up": 0.1,
+      "max_down": 0.1
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TUTIRT",
+    "time": 1789482665976,
+    "price": 4638.0,
+    "level": "STRONG",
+    "hunt": 82.4,
+    "persistence": 2,
+    "p15": 1.44,
+    "vr": 0.35,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
