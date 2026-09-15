@@ -554,5 +554,18 @@
     "bs": 0.67,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1789438251486,
+    "symbol": "TIRT",
+    "price": 1197.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.18,
+    "vr": 1.15,
+    "va": 10.0,
+    "bs": 0.32,
+    "breakout": false,
+    "persistence": 2
   }
 ]

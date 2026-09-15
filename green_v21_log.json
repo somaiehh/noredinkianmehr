@@ -1760,5 +1760,24 @@
       "max_up": 4.22,
       "max_down": -5.32
     }
+  },
+  {
+    "symbol": "TIRT",
+    "time": 1789438249742,
+    "price": 1197.0,
+    "pre30": -0.66,
+    "pre60": -4.24,
+    "pre120": 2.92,
+    "hunt": 84.0,
+    "persistence": 2,
+    "vr": 1.15,
+    "va": 10.0,
+    "buy": 10.666666666666668,
+    "bs": 0.32,
+    "ob": 1.0,
+    "p15": 1.18,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
