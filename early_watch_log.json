@@ -12021,5 +12021,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "ACEIRT",
+    "time": 1789478942064,
+    "price": 35118.0,
+    "level": "STRONG",
+    "hunt": 64.2,
+    "persistence": 1,
+    "p15": 0.27,
+    "vr": 0.96,
+    "va": 2.37,
+    "buy": 49.666666666666664,
+    "bs": 1.49,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
