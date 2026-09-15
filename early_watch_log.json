@@ -11546,7 +11546,10 @@
       "max_up": 0.75,
       "max_down": -1.99
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.57,
+      "max_down": -4.73
+    }
   },
   {
     "symbol": "BANKIRT",
@@ -11742,7 +11745,10 @@
       "max_up": 0.35,
       "max_down": -1.11
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.35,
+      "max_down": -2.36
+    },
     "result_12h": null
   },
   {
@@ -11764,7 +11770,10 @@
       "max_up": 1.07,
       "max_down": -1.07
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.43,
+      "max_down": -2.5
+    },
     "result_12h": null
   },
   {
