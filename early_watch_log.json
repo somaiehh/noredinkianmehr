@@ -11658,7 +11658,10 @@
       "max_up": 0.96,
       "max_down": -0.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.96,
+      "max_down": -2.78
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -11683,7 +11686,10 @@
       "max_up": 1.4,
       "max_down": -0.47
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.4,
+      "max_down": -2.72
+    }
   },
   {
     "symbol": "LABIRT",
@@ -11708,7 +11714,10 @@
       "max_up": 0.31,
       "max_down": -3.49
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.31,
+      "max_down": -7.15
+    }
   },
   {
     "symbol": "BANKIRT",
@@ -11857,6 +11866,44 @@
       "max_up": -1.45,
       "max_down": -6.79
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FORTHIRT",
+    "time": 1789452593513,
+    "price": 81508.0,
+    "level": "WATCH",
+    "hunt": 42.8,
+    "persistence": 1,
+    "p15": 0.63,
+    "vr": 0.29,
+    "va": 2.01,
+    "buy": 100,
+    "bs": 3.53,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "RVVIRT",
+    "time": 1789452593513,
+    "price": 20.5,
+    "level": "STRONG",
+    "hunt": 51.2,
+    "persistence": 1,
+    "p15": 0.49,
+    "vr": 0.49,
+    "va": 3.67,
+    "buy": 82.66666666666667,
+    "bs": 2.48,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
