@@ -11826,7 +11826,10 @@
       "max_up": 3.62,
       "max_down": -6.89
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 31.05,
+      "max_down": -8.96
+    }
   },
   {
     "symbol": "CYSIRT",
