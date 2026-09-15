@@ -11770,7 +11770,10 @@
       "max_up": 0.35,
       "max_down": -2.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.35,
+      "max_down": -4.6
+    }
   },
   {
     "symbol": "ESIRT",
@@ -11795,7 +11798,10 @@
       "max_up": 1.43,
       "max_down": -2.5
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.43,
+      "max_down": -7.5
+    }
   },
   {
     "symbol": "AINIRT",
@@ -11916,6 +11922,25 @@
       "max_up": -1.95,
       "max_down": -1.95
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1789461180158,
+    "price": 9250.0,
+    "level": "STRONG",
+    "hunt": 59.6,
+    "persistence": 1,
+    "p15": 1.41,
+    "vr": 0.68,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
