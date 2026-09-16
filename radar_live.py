@@ -1778,6 +1778,7 @@ def save_dashboard_data(out):
             wt1h = float(wr.get("trades1h") or 0)
             wt4h = float(wr.get("trades4h") or 0)
 
+            price_move = None
             price_ok = True
             if wp > 0 and cur_price_wake > 0:
                 price_move = 100.0 * (cur_price_wake / wp - 1.0)
