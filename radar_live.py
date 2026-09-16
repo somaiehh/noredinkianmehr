@@ -458,9 +458,21 @@ def score(m):
     )
 
     # Demand-side confirmation.
+    # Demand confirmation:
+    # Normal path uses trade pressure + order book.
+    # Power-breakout path prevents a very strong move from being rejected
+    # only because the instantaneous order book is marginally below threshold.
+    power_breakout_confirmed = (
+        bo
+        and vr >= 3.0
+        and va >= 3.0
+        and bs >= 1.5
+    )
+
     demand_confirmed = (
         (bs >= 1.5 and book >= 0.35)
         or book >= 0.75
+        or power_breakout_confirmed
     )
 
     early_confirmed = (
