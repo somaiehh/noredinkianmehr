@@ -2,6 +2,7 @@
 # Public market data only; NO order placement.
 
 import argparse, time, statistics, json, os
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 import requests
 
@@ -1959,6 +1960,13 @@ def save_dashboard_data(out):
     os.replace(live_tmp, live_file)
 
 
+def safe_score(m):
+    try:
+        return True, score(m), None
+    except Exception as e:
+        return False, None, e
+
+
 def run_once(max_markets=0):
     markets=get_markets()
     if max_markets: markets=markets[:max_markets]
@@ -1970,9 +1978,16 @@ def run_once(max_markets=0):
     scan_ok = 0
     scan_errors = 0
 
-    for m in markets:
+    # Parallelize only network-heavy score() work.
+    # executor.map preserves the exact original market order.
+    with ThreadPoolExecutor(max_workers=4) as executor:
+        score_results = list(executor.map(safe_score, markets))
+
+    for m, result in zip(markets, score_results):
         try:
-            s=score(m)
+            ok, s, score_error = result
+            if not ok:
+                raise score_error
 
             # score() completed without a network/API exception.
             # INSFFICIENT/WATCH are still valid completed scans.
