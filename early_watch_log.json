@@ -12183,7 +12183,10 @@
     "priority": true,
     "result_15m": null,
     "result_1h": null,
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -3.58,
+      "max_down": -5.6
+    },
     "result_12h": null
   },
   {
@@ -12198,6 +12201,25 @@
     "va": 6.4,
     "buy": 38.33333333333333,
     "bs": 1.15,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BTRIRT",
+    "time": 1789561149798,
+    "price": 12135.0,
+    "level": "WATCH",
+    "hunt": 42.8,
+    "persistence": 1,
+    "p15": 0.98,
+    "vr": 0.19,
+    "va": 2.0,
+    "buy": 86.33333333333333,
+    "bs": 2.59,
     "breakout": false,
     "priority": false,
     "result_15m": null,
