@@ -38,7 +38,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -2.027,
+    "min_move": -3.3784,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -79,7 +79,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.4658,
+    "max_move": 0.9317,
     "min_move": -0.3106,
     "ledger_version": "wake-ledger-v1"
   },
@@ -143,7 +143,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -3.1536,
+    "min_move": -3.4879,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -185,7 +185,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -1.9408,
+    "min_move": -2.6675,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -206,7 +206,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -1.0705,
+    "min_move": -1.9115,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -310,7 +310,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 0.791,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   },
@@ -332,7 +332,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": 0.0,
+    "min_move": -1.9956,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -353,7 +353,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": 0.0,
+    "min_move": -0.5934,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -390,6 +390,27 @@
     "tm_g15": 1.375,
     "tm_g1": 2.5,
     "tm_g4": 1.2143,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -0.5489,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "ALLOIRT",
+    "event_time": 1789569905738,
+    "event_price": 46250.0,
+    "anchor_time": 1789563775339,
+    "anchor_price": 46576.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.75,
+    "tm_e15_e1": 0.75,
+    "tm_e1_e4": 0.1481,
+    "tm_g15": 3.0,
+    "tm_g1": 0.2667,
+    "tm_g4": 1.0385,
     "legacy": false,
     "result": "PENDING",
     "result_time": null,
