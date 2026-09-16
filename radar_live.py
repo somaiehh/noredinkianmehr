@@ -24,8 +24,10 @@ def send_ntfy(message, title="Tabdeal Radar"):
         )
         r.raise_for_status()
         print("NTFY: sent")
+        return True
     except requests.RequestException as e:
         print("NTFY error:", e)
+        return False
 
 
 ALERT_HISTORY_FILE = os.path.join(
@@ -1117,6 +1119,311 @@ def update_pre_wake_ledger(data, now_ms):
     return events
 
 
+
+# ===== MOVE TRACKER V1 =====
+# Persistent wave/milestone tracker.
+# Independent from Hunt, PRE-WAKE and Strong-Wake scoring.
+
+MOVE_TRACKER_FILE = "move_tracker_state.json"
+MOVE_TRACKER_ARCHIVE_FILE = "move_tracker_archive.json"
+
+MOVE_UP_LEVELS = (
+    5, 10, 15, 20, 25, 30, 40, 50, 60, 70, 80,
+    90, 100, 110, 120, 130, 140, 150
+)
+
+MOVE_DD_LEVELS = (
+    5, 10, 15, 20, 25, 30, 40, 50, 60, 70, 80, 90
+)
+
+MOVE_RESET_MIN_AGE_MS = 12 * 60 * 60 * 1000
+MOVE_RESET_DRAWDOWN_PCT = 10.0
+
+
+def load_move_tracker_state():
+    try:
+        with open(MOVE_TRACKER_FILE, "r", encoding="utf-8") as f:
+            x = json.load(f)
+        return x if isinstance(x, dict) else {}
+    except Exception:
+        return {}
+
+
+def save_move_tracker_state(state):
+    tmp = MOVE_TRACKER_FILE + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(state, f, ensure_ascii=False, indent=2)
+    os.replace(tmp, MOVE_TRACKER_FILE)
+
+
+def load_move_tracker_archive():
+    try:
+        with open(MOVE_TRACKER_ARCHIVE_FILE, "r", encoding="utf-8") as f:
+            x = json.load(f)
+        return x if isinstance(x, list) else []
+    except Exception:
+        return []
+
+
+def archive_move_tracker_wave(wave, reset_time, reset_price, new_trigger_kind):
+    archive = load_move_tracker_archive()
+
+    item = dict(wave)
+    item["closed_time"] = reset_time
+    item["closed_price"] = reset_price
+    item["close_reason"] = "NEW_WAKE_AFTER_DRAWDOWN"
+    item["next_trigger_kind"] = new_trigger_kind
+
+    archive.append(item)
+
+    # Safety cap; preserves the most recent completed waves.
+    archive = archive[-5000:]
+
+    tmp = MOVE_TRACKER_ARCHIVE_FILE + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(archive, f, ensure_ascii=False, indent=2)
+    os.replace(tmp, MOVE_TRACKER_ARCHIVE_FILE)
+
+
+def move_tracker_context(row):
+    return {
+        "status": row.get("status"),
+        "vr": row.get("vr"),
+        "va": row.get("va"),
+        "bs": row.get("bs"),
+        "breakout": row.get("breakout"),
+        "fast_shadow": row.get("fast_shadow"),
+        "fast_kind": row.get("fast_kind"),
+        "fast_active": row.get("fast_active"),
+        "confirmed_fast": row.get("confirmed_fast"),
+        "fast_anchor_time": row.get("fast_anchor_time"),
+        "fast_anchor_price": row.get("fast_anchor_price"),
+        "sequence_score_v1": row.get("sequence_score_v1"),
+    }
+
+
+def update_move_tracker(data, now_ms, alerts_enabled=False):
+    state = load_move_tracker_state()
+
+    for symbol, history in data.items():
+        if not isinstance(history, list) or not history:
+            continue
+
+        row = history[-1]
+        row_time = int(row.get("time", 0) or 0)
+        price = float(row.get("price") or 0)
+
+        if row_time <= 0 or price <= 0:
+            continue
+
+        wave = state.get(symbol)
+
+        # Start only from a fresh forward trigger.
+        trigger_kind = None
+        trigger_price = None
+        trigger_time = None
+
+        if row.get("wake_short") or row.get("wake_deep"):
+            trigger_kind = (
+                "WAKE_DEEP"
+                if row.get("wake_deep")
+                else "WAKE_SHORT"
+            )
+            trigger_price = price
+            trigger_time = row_time
+
+        elif row.get("strong_wake") and row.get("wake_anchor_price"):
+            trigger_kind = "STRONG_WAKE"
+            trigger_price = float(row.get("wake_anchor_price") or 0)
+            trigger_time = int(row.get("wake_anchor_time") or row_time)
+
+        # Reset an existing wave only on a fresh new wake,
+        # after >=12h AND >=10% drawdown from the old peak.
+        if wave is not None and trigger_kind is not None and trigger_price > 0:
+            old_anchor_time = int(wave.get("anchor_time") or 0)
+            old_peak_price = float(
+                wave.get("peak_price")
+                or wave.get("anchor_price")
+                or 0
+            )
+
+            wave_age_ms = max(0, row_time - old_anchor_time)
+            old_peak_dd_pct = (
+                100.0 * (price / old_peak_price - 1.0)
+                if old_peak_price > 0
+                else 0.0
+            )
+
+            trigger_age_ms = max(0, now_ms - int(trigger_time or 0))
+
+            if (
+                trigger_age_ms <= 30 * 60 * 1000
+                and wave_age_ms >= MOVE_RESET_MIN_AGE_MS
+                and old_peak_dd_pct <= -MOVE_RESET_DRAWDOWN_PCT
+            ):
+                # Preserve the completed wave before starting a new one.
+                archive_move_tracker_wave(
+                    wave,
+                    reset_time=row_time,
+                    reset_price=price,
+                    new_trigger_kind=trigger_kind,
+                )
+                wave = None
+
+        if wave is None:
+            if trigger_kind is None or trigger_price <= 0:
+                continue
+
+            # New waves may start only from a fresh trigger.
+            # Prevent old retained history from creating a wave after restart.
+            trigger_age_ms = max(0, now_ms - int(trigger_time or 0))
+            if trigger_age_ms > 30 * 60 * 1000:
+                continue
+
+            wave = {
+                "symbol": symbol,
+                "anchor_time": trigger_time,
+                "anchor_price": trigger_price,
+                "anchor_kind": trigger_kind,
+                "created_time": now_ms,
+
+                "peak_price": price,
+                "peak_time": row_time,
+
+                "last_price": price,
+                "last_time": row_time,
+
+                "max_gain_pct": round(
+                    100.0 * (price / trigger_price - 1.0), 4
+                ),
+                "drawdown_from_peak_pct": 0.0,
+
+                "up_levels_sent": [],
+                "dd_levels_sent": [],
+                "up_levels_notified": [],
+                "dd_levels_notified": [],
+
+                "anchor_context": move_tracker_context(row),
+                "last_context": move_tracker_context(row),
+
+                "tracker_version": "move-tracker-v1"
+            }
+
+            state[symbol] = wave
+
+        anchor_price = float(wave.get("anchor_price") or 0)
+        peak_price = float(wave.get("peak_price") or anchor_price)
+
+        if anchor_price <= 0:
+            continue
+
+        # Update peak.
+        if price > peak_price:
+            peak_price = price
+            wave["peak_price"] = price
+            wave["peak_time"] = row_time
+
+        gain_pct = 100.0 * (price / anchor_price - 1.0)
+        dd_pct = (
+            100.0 * (price / peak_price - 1.0)
+            if peak_price > 0
+            else 0.0
+        )
+
+        wave["last_price"] = price
+        wave["last_time"] = row_time
+        wave["max_gain_pct"] = round(
+            max(float(wave.get("max_gain_pct") or 0), gain_pct), 4
+        )
+        wave["drawdown_from_peak_pct"] = round(dd_pct, 4)
+        wave["last_context"] = move_tracker_context(row)
+
+        up_sent = set(int(x) for x in wave.get("up_levels_sent", []))
+        dd_sent = set(int(x) for x in wave.get("dd_levels_sent", []))
+
+        up_notified = set(
+            int(x) for x in wave.get("up_levels_notified", [])
+        )
+        dd_notified = set(
+            int(x) for x in wave.get("dd_levels_notified", [])
+        )
+
+        # Growth milestones from fixed anchor.
+        for level in MOVE_UP_LEVELS:
+            if gain_pct + 1e-9 >= level and level not in up_sent:
+                up_sent.add(level)
+
+                wave.setdefault("milestone_events", []).append({
+                    "type": "UP",
+                    "level": level,
+                    "time": row_time,
+                    "price": price,
+                    "anchor_price": anchor_price,
+                    "peak_price": peak_price,
+                    "gain_pct": round(gain_pct, 4),
+                    "drawdown_from_peak_pct": round(dd_pct, 4),
+                    "context": move_tracker_context(row),
+                })
+
+        # Pullback milestones from wave peak.
+        # A decline is considered a pullback only after the wave
+        # has previously achieved at least +5% from its anchor.
+        drawdown_abs = max(0.0, -dd_pct)
+        peak_gain_pct = 100.0 * (peak_price / anchor_price - 1.0)
+
+        for level in MOVE_DD_LEVELS:
+            if (
+                peak_gain_pct >= 5.0
+                and drawdown_abs + 1e-9 >= level
+                and level not in dd_sent
+            ):
+                dd_sent.add(level)
+
+                wave.setdefault("milestone_events", []).append({
+                    "type": "PULLBACK",
+                    "level": level,
+                    "time": row_time,
+                    "price": price,
+                    "anchor_price": anchor_price,
+                    "peak_price": peak_price,
+                    "gain_pct": round(gain_pct, 4),
+                    "drawdown_from_peak_pct": round(dd_pct, 4),
+                    "context": move_tracker_context(row),
+                })
+
+        # Phone delivery is independent from milestone discovery.
+        # A failed ntfy delivery remains eligible for retry next scan.
+        if alerts_enabled:
+            for level in sorted(up_sent - up_notified):
+                ok = send_ntfy(
+                    f"{symbol} | +{level}% from anchor | "
+                    f"Price={price:.8g} | Anchor={anchor_price:.8g} | "
+                    f"Peak={peak_price:.8g}",
+                    title="Tabdeal MOVE UP"
+                )
+                if ok:
+                    up_notified.add(level)
+
+            for level in sorted(dd_sent - dd_notified):
+                ok = send_ntfy(
+                    f"{symbol} | -{level}% from peak | "
+                    f"Price={price:.8g} | Peak={peak_price:.8g} | "
+                    f"Anchor={anchor_price:.8g} | "
+                    f"Gain={gain_pct:+.1f}%",
+                    title="Tabdeal MOVE PULLBACK"
+                )
+                if ok:
+                    dd_notified.add(level)
+
+        wave["up_levels_sent"] = sorted(up_sent)
+        wave["dd_levels_sent"] = sorted(dd_sent)
+        wave["up_levels_notified"] = sorted(up_notified)
+        wave["dd_levels_notified"] = sorted(dd_notified)
+
+    save_move_tracker_state(state)
+    return state
+
+
 # ===== SHADOW V13 FAST/FOLLOW-THROUGH =====
 
 FAST_V13_WAVE_MS = 6 * 60 * 60 * 1000
@@ -1639,6 +1946,10 @@ def save_dashboard_data(out):
 
     # PRE-WAKE V1 forward research only; no Hunt/status/phone-alert effect.
     update_pre_wake_ledger(data, now)
+
+    # MOVE TRACKER V1 LIVE.
+    # Persist waves/milestones and send milestone phone alerts.
+    update_move_tracker(data, now, alerts_enabled=True)
 
     live_file = os.path.join(os.path.dirname(__file__), "tabdeal_radar_live.json")
     live_data = {symbol: history[-5:] for symbol, history in data.items() if history and symbol not in {"XRDIRT","BTCIRT","ETHIRT","USDTIRT","TRXIRT","XRPIRT","SOLIRT","ADAIRT","BNBIRT"}}
