@@ -12109,7 +12109,10 @@
       "max_up": 10.22,
       "max_down": -0.34
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.22,
+      "max_down": -0.43
+    }
   },
   {
     "symbol": "LSKIRT",
@@ -12137,6 +12140,25 @@
       "max_up": 0.24,
       "max_down": -8.49
     },
+    "result_12h": null
+  },
+  {
+    "symbol": "AINIRT",
+    "time": 1789530569976,
+    "price": 5695.0,
+    "level": "STRONG",
+    "hunt": 52.5,
+    "persistence": 1,
+    "p15": 1.77,
+    "vr": 0.32,
+    "va": 3.55,
+    "buy": 34.0,
+    "bs": 1.02,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
     "result_12h": null
   }
 ]
