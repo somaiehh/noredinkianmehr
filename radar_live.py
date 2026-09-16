@@ -878,7 +878,9 @@ def update_strong_wake_ledger(data, now_ms):
 
     # Update unresolved events from currently retained scan history.
     for e in events:
-        if e.get("result") != "PENDING":
+        # HIT/STOP first-touch stays locked, but keep tracking
+        # MAX/MIN until the full 24h research horizon ends.
+        if e.get("result") == "EXPIRED_NONE":
             continue
 
         symbol = e.get("symbol")
@@ -954,6 +956,164 @@ def update_strong_wake_ledger(data, now_ms):
     )
 
     save_strong_wake_ledger(events)
+    return events
+
+
+
+# ===== PRE-WAKE FORWARD LEDGER v1 - RESEARCH ONLY =====
+PRE_WAKE_LEDGER_FILE = "pre_wake_events.json"
+PRE_WAKE_HORIZON_MS = 24 * 60 * 60 * 1000
+PRE_WAKE_HIT_PCT = 10.0
+PRE_WAKE_STOP_PCT = -5.0
+
+
+def load_pre_wake_ledger():
+    try:
+        with open(PRE_WAKE_LEDGER_FILE, "r", encoding="utf-8") as f:
+            x = json.load(f)
+        return x if isinstance(x, list) else []
+    except Exception:
+        return []
+
+
+def save_pre_wake_ledger(events):
+    tmp = PRE_WAKE_LEDGER_FILE + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(events, f, ensure_ascii=False, indent=2)
+    os.replace(tmp, PRE_WAKE_LEDGER_FILE)
+
+
+def update_pre_wake_ledger(data, now_ms):
+    events = load_pre_wake_ledger()
+
+    existing = {
+        (str(e.get("symbol", "")), int(e.get("event_time", 0) or 0))
+        for e in events
+    }
+
+    # Discover historical PRE-WAKE V1 events still retained in history.
+    for symbol, history in data.items():
+        if not isinstance(history, list):
+            continue
+
+        for r in history:
+            if not r.get("pre_wake_v1"):
+                continue
+
+            event_time = int(r.get("time", 0) or 0)
+            event_price = float(r.get("price") or 0)
+
+            if event_time <= 0 or event_price <= 0:
+                continue
+
+            key = (symbol, event_time)
+            if key in existing:
+                continue
+
+            events.append({
+                "symbol": symbol,
+                "event_time": event_time,
+                "event_price": event_price,
+
+                # Frozen research context at PRE-WAKE event.
+                "status": r.get("status"),
+                "sequence_score_v1": r.get("sequence_score_v1"),
+                "p15": r.get("p15"),
+                "vr": r.get("vr"),
+                "va": r.get("va"),
+                "ta": r.get("ta"),
+                "bs": r.get("bs"),
+                "book": r.get("book"),
+                "breakout": r.get("breakout"),
+                "fast_v13": r.get("fast_v13"),
+
+                "result": "PENDING",
+                "result_time": None,
+                "result_move": None,
+                "max_move": 0.0,
+                "min_move": 0.0,
+                "ledger_version": "pre-wake-ledger-v1"
+            })
+
+            existing.add(key)
+
+    # Evaluate in chronological order: +10 FIRST versus -5 FIRST.
+    for e in events:
+        if e.get("result") != "PENDING":
+            continue
+
+        symbol = e.get("symbol")
+        t0 = int(e.get("event_time", 0) or 0)
+        p0 = float(e.get("event_price") or 0)
+
+        if t0 <= 0 or p0 <= 0:
+            continue
+
+        history = data.get(symbol, [])
+
+        try:
+            max_move = float(e.get("max_move", 0) or 0)
+        except Exception:
+            max_move = 0.0
+
+        try:
+            min_move = float(e.get("min_move", 0) or 0)
+        except Exception:
+            min_move = 0.0
+
+        candidates = []
+
+        for r in history:
+            t = int(r.get("time", 0) or 0)
+            if t <= t0 or t > t0 + PRE_WAKE_HORIZON_MS:
+                continue
+
+            price = float(r.get("price") or 0)
+            if price <= 0:
+                continue
+
+            candidates.append((t, price))
+
+        candidates.sort()
+
+        first_result = e.get("result") != "PENDING"
+
+        for t, price in candidates:
+            move = 100.0 * (price / p0 - 1.0)
+
+            max_move = max(max_move, move)
+            min_move = min(min_move, move)
+
+            if not first_result:
+                if move >= PRE_WAKE_HIT_PCT:
+                    e["result"] = "HIT_FIRST"
+                    e["result_time"] = t
+                    e["result_move"] = round(move, 4)
+                    first_result = True
+
+                elif move <= PRE_WAKE_STOP_PCT:
+                    e["result"] = "STOP_FIRST"
+                    e["result_time"] = t
+                    e["result_move"] = round(move, 4)
+                    first_result = True
+
+        e["max_move"] = round(max_move, 4)
+        e["min_move"] = round(min_move, 4)
+
+        if (
+            e.get("result") == "PENDING"
+            and now_ms >= t0 + PRE_WAKE_HORIZON_MS
+        ):
+            e["result"] = "EXPIRED_NONE"
+
+    events.sort(
+        key=lambda e: (
+            int(e.get("event_time", 0)),
+            str(e.get("symbol", ""))
+        )
+    )
+
+    save_pre_wake_ledger(events)
     return events
 
 
@@ -1476,6 +1636,9 @@ def save_dashboard_data(out):
 
     # Persist Strong Wake forward events independently of the 120-row history cap.
     update_strong_wake_ledger(data, now)
+
+    # PRE-WAKE V1 forward research only; no Hunt/status/phone-alert effect.
+    update_pre_wake_ledger(data, now)
 
     live_file = os.path.join(os.path.dirname(__file__), "tabdeal_radar_live.json")
     live_data = {symbol: history[-5:] for symbol, history in data.items() if history and symbol not in {"XRDIRT","BTCIRT","ETHIRT","USDTIRT","TRXIRT","XRPIRT","SOLIRT","ADAIRT","BNBIRT"}}

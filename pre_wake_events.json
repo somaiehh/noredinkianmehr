@@ -1,0 +1,23 @@
+[
+  {
+    "symbol": "ARBIRT",
+    "event_time": 1789566186259,
+    "event_price": 38800.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 52.1,
+    "p15": -1.59,
+    "vr": null,
+    "va": 2.15,
+    "ta": null,
+    "bs": 4.9,
+    "book": 0.57,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -1.8015,
+    "ledger_version": "pre-wake-ledger-v1"
+  }
+]
