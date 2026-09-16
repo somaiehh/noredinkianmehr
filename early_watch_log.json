@@ -12140,7 +12140,10 @@
       "max_up": 0.24,
       "max_down": -8.49
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 25.29,
+      "max_down": -10.44
+    }
   },
   {
     "symbol": "AINIRT",
