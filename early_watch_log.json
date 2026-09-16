@@ -12212,7 +12212,10 @@
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.07,
+      "max_down": -2.89
+    }
   },
   {
     "symbol": "BTRIRT",
@@ -12295,6 +12298,28 @@
     "va": 10.0,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": {
+      "max_up": 3.04,
+      "max_down": 3.04
+    },
+    "result_12h": null
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "time": 1789599720244,
+    "price": 35.5,
+    "level": "STRONG",
+    "hunt": 60.8,
+    "persistence": 1,
+    "p15": 0.57,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 74.66666666666667,
+    "bs": 2.24,
     "breakout": false,
     "priority": false,
     "result_15m": null,
