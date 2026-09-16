@@ -114,8 +114,14 @@ def get_markets():
         data = data.get("symbols", [])
 
     excluded = {
-        "BTCIRT", "ETHIRT", "USDTIRT", "TRXIRT",
-        "XRPIRT", "SOLIRT", "ADAIRT", "BNBIRT", "XRDIRT"
+        # Majors / stable assets excluded from Shadow V13 universe.
+        "BTCIRT", "ETHIRT", "BNBIRT", "SOLIRT",
+        "XRPIRT", "ADAIRT", "DOGEIRT",
+        "USDTIRT", "USDCIRT", "DAIIRT",
+        "FDUSDIRT", "TUSDIRT", "PAXGIRT",
+
+        # Existing radar exclusions retained.
+        "TRXIRT", "XRDIRT"
     }
 
     return [
@@ -739,6 +745,429 @@ def sequence_score_v1(history, current):
     return round(max(0.0, min(100.0, score)), 1), flags
 
 
+
+# ===== STRONG WAKE FORWARD LEDGER v1 =====
+
+STRONG_WAKE_LEDGER_FILE = "strong_wake_events.json"
+STRONG_WAKE_HORIZON_MS = 12 * 60 * 60 * 1000
+STRONG_WAKE_HIT_PCT = 10.0
+STRONG_WAKE_STOP_PCT = -5.0
+
+
+def load_strong_wake_ledger():
+    try:
+        with open(STRONG_WAKE_LEDGER_FILE, "r", encoding="utf-8") as f:
+            x = json.load(f)
+            return x if isinstance(x, list) else []
+    except Exception:
+        return []
+
+
+def save_strong_wake_ledger(events):
+    tmp = STRONG_WAKE_LEDGER_FILE + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(events, f, ensure_ascii=False, indent=2)
+    os.replace(tmp, STRONG_WAKE_LEDGER_FILE)
+
+
+def update_strong_wake_ledger(data, now_ms):
+    events = load_strong_wake_ledger()
+
+    def find_existing_strong_event(symbol, event_time, anchor_time):
+        for e in events:
+            if e.get("symbol") != symbol:
+                continue
+
+            old_anchor = e.get("anchor_time")
+
+            # Best dedup key: same Wake anchor.
+            if anchor_time is not None and old_anchor is not None:
+                try:
+                    if int(anchor_time) == int(old_anchor):
+                        return e
+                except Exception:
+                    pass
+
+                # Different known anchors are different waves.
+                continue
+
+            # Legacy fallback: one side has no anchor metadata.
+            old_time = int(e.get("event_time", 0) or 0)
+
+            if (
+                old_time > 0
+                and abs(event_time - old_time) <= 2 * 60 * 60 * 1000
+            ):
+                return e
+
+        return None
+
+    # Discover every historical strong_wake row not yet in ledger.
+    for symbol, history in data.items():
+        if not isinstance(history, list):
+            continue
+
+        for r in history:
+            if not r.get("strong_wake"):
+                continue
+
+            event_time = int(r.get("time", 0) or 0)
+            event_price = float(r.get("price") or 0)
+
+            if event_time <= 0 or event_price <= 0:
+                continue
+
+            anchor_time = r.get("wake_anchor_time")
+
+            existing_event = find_existing_strong_event(
+                symbol,
+                event_time,
+                anchor_time
+            )
+
+            if existing_event is not None:
+                # Enrich an older legacy event when metadata becomes available.
+                if (
+                    existing_event.get("anchor_time") is None
+                    and anchor_time is not None
+                ):
+                    existing_event["anchor_time"] = anchor_time
+                    existing_event["anchor_price"] = r.get("wake_anchor_price")
+                    existing_event["anchor_kind"] = r.get("wake_anchor_kind")
+                    existing_event["legacy"] = False
+
+                continue
+
+            events.append({
+                "symbol": symbol,
+                "event_time": event_time,
+                "event_price": event_price,
+                "anchor_time": r.get("wake_anchor_time"),
+                "anchor_price": r.get("wake_anchor_price"),
+                "anchor_kind": r.get("wake_anchor_kind"),
+                "fresh_ratio": r.get("wake_fresh_ratio"),
+
+                # Trade Momentum v1 - frozen at Strong Wake event
+                "tm_e15_e1": r.get("trade_momentum_e15_e1"),
+                "tm_e1_e4": r.get("trade_momentum_e1_e4"),
+                "tm_g15": r.get("trade_momentum_g15"),
+                "tm_g1": r.get("trade_momentum_g1"),
+                "tm_g4": r.get("trade_momentum_g4"),
+
+                "legacy": r.get("wake_anchor_time") is None,
+                "result": "PENDING",
+                "result_time": None,
+                "result_move": None,
+                "max_move": 0.0,
+                "min_move": 0.0,
+                "ledger_version": "wake-ledger-v1"
+            })
+
+
+    # Update unresolved events from currently retained scan history.
+    for e in events:
+        if e.get("result") != "PENDING":
+            continue
+
+        symbol = e.get("symbol")
+        t0 = int(e.get("event_time", 0) or 0)
+        p0 = float(e.get("event_price") or 0)
+
+        if t0 <= 0 or p0 <= 0:
+            continue
+
+        history = data.get(symbol, [])
+        max_move = e.get("max_move")
+        min_move = e.get("min_move")
+
+        try:
+            max_move = float(max_move)
+        except Exception:
+            max_move = 0.0
+
+        try:
+            min_move = float(min_move)
+        except Exception:
+            min_move = 0.0
+
+        candidates = []
+
+        for r in history:
+            t = int(r.get("time", 0) or 0)
+
+            if t <= t0 or t > t0 + STRONG_WAKE_HORIZON_MS:
+                continue
+
+            price = float(r.get("price") or 0)
+
+            if price <= 0:
+                continue
+
+            candidates.append((t, price))
+
+        candidates.sort()
+
+        for t, price in candidates:
+            move = 100.0 * (price / p0 - 1.0)
+
+            max_move = max(max_move, move)
+            min_move = min(min_move, move)
+
+            if move >= STRONG_WAKE_HIT_PCT:
+                e["result"] = "HIT_FIRST"
+                e["result_time"] = t
+                e["result_move"] = round(move, 4)
+                break
+
+            if move <= STRONG_WAKE_STOP_PCT:
+                e["result"] = "STOP_FIRST"
+                e["result_time"] = t
+                e["result_move"] = round(move, 4)
+                break
+
+        e["max_move"] = round(max_move, 4)
+        e["min_move"] = round(min_move, 4)
+
+        if (
+            e.get("result") == "PENDING"
+            and now_ms >= t0 + STRONG_WAKE_HORIZON_MS
+        ):
+            e["result"] = "EXPIRED_NONE"
+
+    events.sort(
+        key=lambda e: (
+            int(e.get("event_time", 0)),
+            str(e.get("symbol", ""))
+        )
+    )
+
+    save_strong_wake_ledger(events)
+    return events
+
+
+# ===== SHADOW V13 FAST/FOLLOW-THROUGH =====
+
+FAST_V13_WAVE_MS = 6 * 60 * 60 * 1000
+FAST_V13_CONFIRM30_MS = 30 * 60 * 1000
+FAST_V13_CONFIRM45_MS = 45 * 60 * 1000
+
+
+def _v13_float(v):
+    try:
+        if v is None:
+            return None
+        return float(v)
+    except Exception:
+        return None
+
+
+def classify_fast_v13(r):
+    """
+    Fingerprints found in historical backtest.
+
+    BREAKOUT / VOL:
+        require 30m follow-through.
+
+    ACC:
+        require 45m follow-through.
+
+    THIN:
+        experimental watch only; never strong-confirmed.
+    """
+    p15 = _v13_float(r.get("p15"))
+    vr = _v13_float(r.get("vr"))
+    va = _v13_float(r.get("va"))
+    bs = _v13_float(r.get("bs"))
+    bo = bool(r.get("breakout"))
+    st = r.get("status", "")
+
+    if p15 is None:
+        return None
+
+    # A) FAST BREAKOUT — VTHO / ARK style
+    if (
+        bo
+        and -0.5 <= p15 <= 3.6
+        and va is not None and va >= 2
+        and (
+            (vr is not None and vr >= 0.5)
+            or
+            (bs is not None and bs >= 4)
+        )
+    ):
+        return "FAST_BREAKOUT"
+
+    # B) FAST ACCUMULATION — REZ style
+    if (
+        -1.6 <= p15 <= 0
+        and st in ("WATCH_ACCUMULATION", "EARLY", "PRE_EARLY")
+        and va is not None and va >= 7
+        and bs is not None and bs >= 2
+    ):
+        return "FAST_ACC"
+
+    # C) FAST VOLUME IGNITION — STEEM style
+    if (
+        -0.8 <= p15 <= 1.5
+        and st == "EARLY"
+        and va is not None and va >= 9
+        and vr is not None and vr >= 1
+    ):
+        return "FAST_VOL"
+
+    # D) THIN MARKET — FLOCK style, experimental only
+    if (
+        1.0 <= p15 <= 3.0
+        and st == "EARLY"
+        and va is not None and va >= 9
+        and bs is not None and bs >= 4
+        and vr is not None and vr <= 0.05
+    ):
+        return "THIN"
+
+    return None
+
+
+def evaluate_fast_v13(history, current, now_ms):
+    """
+    Reconstruct first signal of each 6h wave from stored history.
+
+    Follow-through:
+      BREAKOUT/VOL -> 30m
+      ACC          -> 45m
+
+    Confirmation condition from backtest:
+      min move >= -3%
+      max move >= +1%
+    """
+
+    cur = dict(current)
+    cur["time"] = now_ms
+
+    records = list(history) + [cur]
+    records = sorted(
+        (
+            r for r in records
+            if r.get("time") is not None
+        ),
+        key=lambda r: int(r.get("time", 0))
+    )
+
+    candidates = []
+
+    for r in records:
+        kind = classify_fast_v13(r)
+        price = _v13_float(r.get("price"))
+
+        if kind and price is not None and price > 0:
+            candidates.append(
+                (
+                    int(r.get("time", 0)),
+                    kind,
+                    price
+                )
+            )
+
+    # Reproduce "first signal of each 6h wave".
+    anchors = []
+
+    for t, kind, price in candidates:
+        if not anchors or t - anchors[-1][0] >= FAST_V13_WAVE_MS:
+            anchors.append((t, kind, price))
+
+    current_kind = classify_fast_v13(cur)
+
+    result = {
+        "fast_shadow": bool(current_kind),
+        "fast_kind": current_kind,
+        "fast_active": False,
+        "fast_anchor_time": None,
+        "fast_anchor_price": None,
+        "fast_anchor_kind": None,
+        "fast_elapsed_min": None,
+        "fast_max_move": None,
+        "fast_min_move": None,
+        "confirm_30m": None,
+        "confirm_45m": None,
+        "confirmed_fast": False,
+        "thin_watch": current_kind == "THIN",
+        "fast_v13_version": "v13.1"
+    }
+
+    if not anchors:
+        return result
+
+    anchor_time, anchor_kind, anchor_price = anchors[-1]
+
+    # No longer an active wave.
+    if now_ms - anchor_time > FAST_V13_WAVE_MS:
+        return result
+
+    path = []
+
+    for r in records:
+        rt = int(r.get("time", 0))
+
+        if anchor_time <= rt <= now_ms:
+            price = _v13_float(r.get("price"))
+
+            if price is not None and price > 0:
+                path.append(price)
+
+    if not path or anchor_price <= 0:
+        return result
+
+    max_move = (max(path) / anchor_price - 1) * 100
+    min_move = (min(path) / anchor_price - 1) * 100
+    elapsed = now_ms - anchor_time
+
+    follow_ok = (
+        min_move >= -3.0
+        and max_move >= 1.0
+    )
+
+    confirm30 = (
+        follow_ok
+        if elapsed >= FAST_V13_CONFIRM30_MS
+        else None
+    )
+
+    confirm45 = (
+        follow_ok
+        if elapsed >= FAST_V13_CONFIRM45_MS
+        else None
+    )
+
+    confirmed = False
+
+    if anchor_kind in ("FAST_BREAKOUT", "FAST_VOL"):
+        confirmed = confirm30 is True
+
+    elif anchor_kind == "FAST_ACC":
+        confirmed = confirm45 is True
+
+    # THIN stays experimental — never promote to confirmed_fast.
+    elif anchor_kind == "THIN":
+        confirmed = False
+
+    result.update({
+        "fast_active": True,
+        "fast_anchor_time": anchor_time,
+        "fast_anchor_price": anchor_price,
+        "fast_anchor_kind": anchor_kind,
+        "fast_elapsed_min": round(elapsed / 60000, 1),
+        "fast_max_move": round(max_move, 2),
+        "fast_min_move": round(min_move, 2),
+        "confirm_30m": confirm30,
+        "confirm_45m": confirm45,
+        "confirmed_fast": confirmed,
+        "thin_watch": anchor_kind == "THIN",
+    })
+
+    return result
+
+
+
 def save_dashboard_data(out):
     data = {}
     if os.path.exists(DATA_FILE):
@@ -767,6 +1196,160 @@ def save_dashboard_data(out):
 
         rh = data.get(symbol, [])
         prev = rh[-1] if rh else {}
+
+        # Shadow V13: fingerprint + time-based follow-through.
+        fast_v13 = evaluate_fast_v13(rh, x, now)
+
+        # ===== WAKE FORWARD RESEARCH v1 =====
+        # Forward-only research:
+        # - first wake of each 12h wave
+        # - follow-through allowed for 2h
+        # - STRONG_WAKE threshold is frozen at F15/F1 >= 0.10
+
+        WAKE_WAVE_MS = 12 * 60 * 60 * 1000
+        WAKE_FOLLOW_MS = 2 * 60 * 60 * 1000
+
+        cur_t15 = float(x.get("trades15") or 0)
+        cur_t1h = float(x.get("trades1h") or 0)
+        cur_t4h = float(x.get("trades4h") or 0)
+        cur_price_wake = float(x.get("price") or 0)
+
+        prev_t1h_wake = float(prev.get("trades1h") or 0)
+        prev_t4h_wake = float(prev.get("trades4h") or 0)
+
+        wake_a1 = cur_t1h - prev_t1h_wake
+        wake_a4 = cur_t4h - prev_t4h_wake
+
+        wake_short_raw = (
+            x.get("p15") is None
+            and cur_price_wake > 0
+            and cur_t15 >= 2
+            and cur_t1h >= 6
+            and cur_t4h >= 8
+            and wake_a1 >= 2
+            and wake_a4 >= 2
+        )
+
+        wake_deep_raw = (
+            x.get("p15") is None
+            and cur_price_wake > 0
+            and cur_t4h >= 20
+            and wake_a4 >= 8
+            and (wake_a4 / max(cur_t4h, 1)) >= 0.30
+        )
+
+        recent_short = any(
+            bool(r.get("wake_short"))
+            and 0 < now - int(r.get("time", 0)) < WAKE_WAVE_MS
+            for r in rh
+        )
+
+        recent_deep = any(
+            bool(r.get("wake_deep"))
+            and 0 < now - int(r.get("time", 0)) < WAKE_WAVE_MS
+            for r in rh
+        )
+
+        wake_short = bool(wake_short_raw and not recent_short)
+        wake_deep = bool(wake_deep_raw and not recent_deep)
+
+        wake_fresh_ratio = (
+            cur_t15 / max(cur_t1h, 1)
+            if cur_t1h > 0
+            else 0.0
+        )
+
+        wake_follow = False
+        strong_wake = False
+
+        wake_anchor_time = None
+        wake_anchor_price = None
+        wake_anchor_kind = None
+        wake_anchor_age_min = None
+        wake_anchor_price_move = None
+
+        # Trade Momentum v1 - research only, no effect on Strong Wake
+        trade_momentum_e15_e1 = None
+        trade_momentum_e1_e4 = None
+        trade_momentum_g15 = None
+        trade_momentum_g1 = None
+        trade_momentum_g4 = None
+
+        # Only previously recorded forward Wake rows can become anchors.
+        for wr in reversed(rh):
+            wt = int(wr.get("time", 0) or 0)
+
+            if wt <= 0:
+                continue
+
+            age = now - wt
+
+            if age <= 0:
+                continue
+
+            if age > WAKE_FOLLOW_MS:
+                break
+
+            if not (wr.get("wake_short") or wr.get("wake_deep")):
+                continue
+
+            wp = float(wr.get("price") or 0)
+            wt15 = float(wr.get("trades15") or 0)
+            wt1h = float(wr.get("trades1h") or 0)
+            wt4h = float(wr.get("trades4h") or 0)
+
+            price_ok = True
+            if wp > 0 and cur_price_wake > 0:
+                price_move = 100.0 * (cur_price_wake / wp - 1.0)
+                price_ok = price_move >= -3.0
+
+            activity_ok = (
+                cur_t4h > wt4h
+                and (cur_t1h >= wt1h or cur_t15 >= wt15)
+            )
+
+            if activity_ok and price_ok:
+                wake_follow = True
+
+                wake_anchor_time = wt
+                wake_anchor_price = wp if wp > 0 else None
+                wake_anchor_kind = (
+                    "DEEP"
+                    if bool(wr.get("wake_deep"))
+                    else "SHORT"
+                )
+                wake_anchor_age_min = round(age / 60000.0, 1)
+                wake_anchor_price_move = (
+                    round(price_move, 4)
+                    if price_move is not None
+                    else None
+                )
+
+                # Trade Momentum v1 - frozen research features
+                trade_momentum_e15_e1 = round(
+                    cur_t15 / max(cur_t1h, 1), 4
+                )
+                trade_momentum_e1_e4 = round(
+                    cur_t1h / max(cur_t4h, 1), 4
+                )
+                trade_momentum_g15 = round(
+                    cur_t15 / max(wt15, 1), 4
+                )
+                trade_momentum_g1 = round(
+                    cur_t1h / max(wt1h, 1), 4
+                )
+                trade_momentum_g4 = round(
+                    cur_t4h / max(wt4h, 1), 4
+                )
+
+                if (
+                    bool(wr.get("wake_deep"))
+                    and wake_fresh_ratio >= 0.10
+                ):
+                    strong_wake = True
+
+                break
+
         cp15 = x.get("p15")
         pp15 = prev.get("p15")
         cva = float(x.get("va") or 0)
@@ -811,6 +1394,42 @@ def save_dashboard_data(out):
             "sequence_version_v1": "v1.1",
             "shadow_v12": shadow_v12,
             "shadow_v12_label": shadow_v12_label,
+
+            # Shadow V13 research fields.
+            "fast_shadow": fast_v13["fast_shadow"],
+            "fast_kind": fast_v13["fast_kind"],
+            "fast_active": fast_v13["fast_active"],
+            "fast_anchor_time": fast_v13["fast_anchor_time"],
+            "fast_anchor_price": fast_v13["fast_anchor_price"],
+            "fast_anchor_kind": fast_v13["fast_anchor_kind"],
+            "fast_elapsed_min": fast_v13["fast_elapsed_min"],
+            "fast_max_move": fast_v13["fast_max_move"],
+            "fast_min_move": fast_v13["fast_min_move"],
+            "confirm_30m": fast_v13["confirm_30m"],
+            "confirm_45m": fast_v13["confirm_45m"],
+            "confirmed_fast": fast_v13["confirmed_fast"],
+            "thin_watch": fast_v13["thin_watch"],
+            "fast_v13_version": fast_v13["fast_v13_version"],
+
+            # Wake forward-research fields.
+            "wake_short": wake_short,
+            "wake_deep": wake_deep,
+            "wake_follow": wake_follow,
+            "wake_fresh_ratio": round(wake_fresh_ratio, 4),
+            "strong_wake": strong_wake,
+            "wake_anchor_time": wake_anchor_time,
+            "wake_anchor_price": wake_anchor_price,
+            "wake_anchor_kind": wake_anchor_kind,
+            "wake_anchor_age_min": wake_anchor_age_min,
+            "wake_anchor_price_move": wake_anchor_price_move,
+
+            # Trade Momentum v1 - research only
+            "trade_momentum_e15_e1": trade_momentum_e15_e1,
+            "trade_momentum_e1_e4": trade_momentum_e1_e4,
+            "trade_momentum_g15": trade_momentum_g15,
+            "trade_momentum_g1": trade_momentum_g1,
+            "trade_momentum_g4": trade_momentum_g4,
+
             "research_version_v1": "v1",
             "pump_accum_v1": pump_accum_v1,
             "pump_recovery_v1": pump_recovery_v1,
@@ -829,6 +1448,9 @@ def save_dashboard_data(out):
         json.dump(data, f, ensure_ascii=False)
 
     os.replace(tmp, DATA_FILE)
+
+    # Persist Strong Wake forward events independently of the 120-row history cap.
+    update_strong_wake_ledger(data, now)
 
     live_file = os.path.join(os.path.dirname(__file__), "tabdeal_radar_live.json")
     live_data = {symbol: history[-5:] for symbol, history in data.items() if history and symbol not in {"XRDIRT","BTCIRT","ETHIRT","USDTIRT","TRXIRT","XRPIRT","SOLIRT","ADAIRT","BNBIRT"}}
