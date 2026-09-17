@@ -12346,7 +12346,10 @@
       "max_up": 1.41,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.41,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "UAIIRT",
@@ -12368,7 +12371,10 @@
       "max_up": -5.5,
       "max_down": -5.5
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.3,
+      "max_down": -5.5
+    }
   },
   {
     "symbol": "ESIRT",

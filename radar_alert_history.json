@@ -593,5 +593,18 @@
     "bs": 0.02,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1789647115290,
+    "symbol": "DEXEIRT",
+    "price": 415000.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 0.95,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 0.43,
+    "breakout": true,
+    "persistence": 2
   }
 ]
