@@ -3,12 +3,24 @@
     "symbol": "ONEIRT",
     "anchor_time": 1789653957633,
     "anchor_price": 271.3,
-    "status": "WATCHING",
+    "status": "CONFIRMED_MOVE",
     "created_time": 1789653957633,
-    "last_time": 1789653957633,
-    "last_price": 271.3,
-    "max_gain_pct": 0.0,
-    "levels": []
+    "last_time": 1789656179626,
+    "last_price": 295.2,
+    "max_gain_pct": 8.8094,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1789656179626,
+    "confirmed_price": 295.2,
+    "events": [
+      {
+        "level": 5,
+        "time": 1789656179626,
+        "price": 295.2,
+        "gain_pct": 8.8094
+      }
+    ]
   },
   "PEPEIRT": {
     "symbol": "PEPEIRT",
@@ -16,9 +28,9 @@
     "anchor_price": 0.80785,
     "status": "WATCHING",
     "created_time": 1789653957633,
-    "last_time": 1789653957633,
-    "last_price": 0.80785,
-    "max_gain_pct": 0.0,
+    "last_time": 1789656179626,
+    "last_price": 0.83019,
+    "max_gain_pct": 2.7654,
     "levels": []
   }
 }
