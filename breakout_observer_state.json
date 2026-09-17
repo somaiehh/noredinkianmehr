@@ -1,0 +1,24 @@
+{
+  "ONEIRT": {
+    "symbol": "ONEIRT",
+    "anchor_time": 1789653957633,
+    "anchor_price": 271.3,
+    "status": "WATCHING",
+    "created_time": 1789653957633,
+    "last_time": 1789653957633,
+    "last_price": 271.3,
+    "max_gain_pct": 0.0,
+    "levels": []
+  },
+  "PEPEIRT": {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1789653957633,
+    "anchor_price": 0.80785,
+    "status": "WATCHING",
+    "created_time": 1789653957633,
+    "last_time": 1789653957633,
+    "last_price": 0.80785,
+    "max_gain_pct": 0.0,
+    "levels": []
+  }
+}

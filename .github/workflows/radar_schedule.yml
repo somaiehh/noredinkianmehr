@@ -53,7 +53,9 @@ jobs:
 
           [ -f radar_alert_history.json ] || printf '[]\n' > radar_alert_history.json
           [ -f move_tracker_archive.json ] || printf '[]\n' > move_tracker_archive.json
-          git add tabdeal_radar_v21_data.json tabdeal_radar_live.json persistence_state.json green_v21_log.json early_watch_log.json radar_alert_history.json strong_wake_events.json pre_wake_events.json move_tracker_state.json move_tracker_archive.json
+          [ -f breakout_observer_state.json ] || printf "%s\n" "{}" > breakout_observer_state.json
+          [ -f breakout_observer_archive.json ] || printf "%s\n" "[]" > breakout_observer_archive.json
+          git add tabdeal_radar_v21_data.json tabdeal_radar_live.json persistence_state.json green_v21_log.json early_watch_log.json radar_alert_history.json strong_wake_events.json pre_wake_events.json move_tracker_state.json move_tracker_archive.json breakout_observer_state.json breakout_observer_archive.json
 
           if git diff --cached --quiet; then
             echo "No radar changes to save."

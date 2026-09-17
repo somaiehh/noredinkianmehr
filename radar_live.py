@@ -5,6 +5,7 @@ import argparse, time, statistics, json, os
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 import requests
+from breakout_observer_v1 import update_breakout_observer
 
 BASE = "https://api1.tabdeal.org"
 TIMEOUT = 15
@@ -1948,6 +1949,9 @@ def save_dashboard_data(out):
 
     # PRE-WAKE V1 forward research only; no Hunt/status/phone-alert effect.
     update_pre_wake_ledger(data, now)
+
+    # BREAKOUT OBSERVER V1 - research only; no alerts.
+    update_breakout_observer(data, now)
 
     # MOVE TRACKER V1 LIVE.
     # Persist waves/milestones and send milestone phone alerts.
