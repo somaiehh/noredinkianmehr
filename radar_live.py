@@ -2,10 +2,12 @@
 # Public market data only; NO order placement.
 
 import argparse, time, statistics, json, os
+from hunt_entry_v1_shadow import register_entry_v1, update_entry_v1_outcomes
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 import requests
 from breakout_observer_v1 import update_breakout_observer
+from hunt_quiet_wake_v1 import update_quiet_wake, update_quiet_wake_outcomes, update_quiet_wake_snapshots
 
 BASE = "https://api1.tabdeal.org"
 TIMEOUT = 15
@@ -25,7 +27,7 @@ def send_ntfy(message, title="Tabdeal Radar"):
             timeout=10
         )
         r.raise_for_status()
-        print("NTFY: sent")
+        print("NTFY: sent |", title, "|", message.replace("\n", " "))
         return True
     except requests.RequestException as e:
         print("NTFY error:", e)
@@ -1649,7 +1651,7 @@ def evaluate_fast_v13(history, current, now_ms):
 
 
 
-def save_dashboard_data(out):
+def save_dashboard_data(out, alerts_enabled=True):
     data = {}
     if os.path.exists(DATA_FILE):
         try:
@@ -1950,12 +1952,17 @@ def save_dashboard_data(out):
     # PRE-WAKE V1 forward research only; no Hunt/status/phone-alert effect.
     update_pre_wake_ledger(data, now)
 
+    # HUNT QUIET-WAKE V1 - prospective research ledger; NO phone alerts.
+    update_quiet_wake(data, now)
+    update_quiet_wake_outcomes(data, now)
+    update_quiet_wake_snapshots(data, now)
+
     # BREAKOUT OBSERVER V1 - research only; no alerts.
     update_breakout_observer(data, now)
 
     # MOVE TRACKER V1 LIVE.
     # Persist waves/milestones and send milestone phone alerts.
-    update_move_tracker(data, now, alerts_enabled=True)
+    update_move_tracker(data, now, alerts_enabled=alerts_enabled)
 
     live_file = os.path.join(os.path.dirname(__file__), "tabdeal_radar_live.json")
     live_data = {symbol: history[-5:] for symbol, history in data.items() if history and symbol not in {"XRDIRT","BTCIRT","ETHIRT","USDTIRT","TRXIRT","XRPIRT","SOLIRT","ADAIRT","BNBIRT"}}
@@ -1972,7 +1979,7 @@ def safe_score(m):
         return False, None, e
 
 
-def run_once(max_markets=0):
+def run_once(max_markets=0, alerts_enabled=True):
     markets=get_markets()
     if max_markets: markets=markets[:max_markets]
 
@@ -2133,7 +2140,7 @@ def run_once(max_markets=0):
     save_persistence(persistence)
 
     # Only healthy scans are allowed into dashboard/history.
-    save_dashboard_data(out)
+    save_dashboard_data(out, alerts_enabled=alerts_enabled)
 
     # Terminal ranking must contain only true hunt candidates.
     candidates = [
@@ -2174,7 +2181,20 @@ def run_once(max_markets=0):
                 f"P={s.get('persistence',0)} "
                 f"{s.get('status','?')}"
             )
+    # Update previous V1 shadows on EVERY scan,
+    # even when there are no new Hunt candidates.
+    try:
+        with open("tabdeal_radar_v21_data.json", "r") as f:
+            v1_history = json.load(f)
+        update_entry_v1_outcomes(v1_history)
+    except Exception as e:
+        print(f"HUNT_V1_OUTCOME_ERROR: {type(e).__name__}: {e}")
+
     if candidates:
+        # HUNT ENTRY V1 SHADOW
+        # Frozen prospective research only; NO phone alert.
+        register_entry_v1(candidates)
+
         # انتخاب اصلی = قوی‌ترین Hunt Score واقعی.
         # EARLY و PRE_EARLY هر دو در یک رتبه‌بندی قرار دارند.
         best = candidates[0]
@@ -2186,7 +2206,7 @@ def run_once(max_markets=0):
             f"Status={best['status']}"
         )
 
-        if best.get("hunt_score", 0) >= 80 and best.get("status") in ("EARLY", "PRE_EARLY"):
+        if alerts_enabled and best.get("hunt_score", 0) >= 80 and best.get("status") in ("EARLY", "PRE_EARLY"):
             save_alert_history(best)
 
             send_ntfy(
@@ -2205,11 +2225,12 @@ def main():
     p.add_argument("--once",action="store_true")
     p.add_argument("--interval",type=int,default=60)
     p.add_argument("--max-markets",type=int,default=0)
+    p.add_argument("--no-alerts",action="store_true")
     a=p.parse_args()
     if a.once:
-        run_once(a.max_markets); return
+        run_once(a.max_markets, alerts_enabled=not a.no_alerts); return
     while True:
-        try: run_once(a.max_markets)
+        try: run_once(a.max_markets, alerts_enabled=not a.no_alerts)
         except Exception as e: print("RADAR ERROR:",e)
         time.sleep(max(15,a.interval))
 
