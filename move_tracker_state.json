@@ -5,14 +5,15 @@
     "anchor_price": 197.489,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789572962340,
-    "peak_price": 215.359,
-    "peak_time": 1789711457700,
-    "last_price": 215.359,
-    "last_time": 1789711457700,
-    "max_gain_pct": 9.0486,
+    "peak_price": 223.301,
+    "peak_time": 1789783071980,
+    "last_price": 223.301,
+    "last_time": 1789783071980,
+    "max_gain_pct": 13.0701,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
-      5
+      5,
+      10
     ],
     "dd_levels_sent": [],
     "anchor_context": {
@@ -40,7 +41,8 @@
     },
     "tracker_version": "move-tracker-v1",
     "up_levels_notified": [
-      5
+      5,
+      10
     ],
     "dd_levels_notified": [],
     "milestone_events": [
@@ -52,6 +54,30 @@
         "anchor_price": 197.489,
         "peak_price": 210.373,
         "gain_pct": 6.5239,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 223.301,
+        "anchor_price": 197.489,
+        "peak_price": 223.301,
+        "gain_pct": 13.0701,
         "drawdown_from_peak_pct": 0.0,
         "context": {
           "status": "WATCH",
@@ -117,14 +143,16 @@
     "anchor_price": 32803.0,
     "anchor_kind": "WAKE_SHORT",
     "created_time": 1789572962340,
-    "peak_price": 35189.0,
-    "peak_time": 1789664716709,
-    "last_price": 35189.0,
-    "last_time": 1789664716709,
-    "max_gain_pct": 7.2737,
+    "peak_price": 39250.0,
+    "peak_time": 1789783071980,
+    "last_price": 39250.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 19.6537,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
-      5
+      5,
+      10,
+      15
     ],
     "dd_levels_sent": [],
     "anchor_context": {
@@ -152,7 +180,9 @@
     },
     "tracker_version": "move-tracker-v1",
     "up_levels_notified": [
-      5
+      5,
+      10,
+      15
     ],
     "dd_levels_notified": [],
     "milestone_events": [
@@ -179,6 +209,54 @@
           "fast_anchor_price": null,
           "sequence_score_v1": 0.0
         }
+      },
+      {
+        "type": "UP",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 39250.0,
+        "anchor_price": 32803.0,
+        "peak_price": 39250.0,
+        "gain_pct": 19.6537,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 15,
+        "time": 1789783071980,
+        "price": 39250.0,
+        "anchor_price": 32803.0,
+        "peak_price": 39250.0,
+        "gain_pct": 19.6537,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
       }
     ]
   },
@@ -190,10 +268,10 @@
     "created_time": 1789572962340,
     "peak_price": 20400.0,
     "peak_time": 1789664716709,
-    "last_price": 19428.0,
-    "last_time": 1789711457700,
+    "last_price": 18644.0,
+    "last_time": 1789783071980,
     "max_gain_pct": 2.4662,
-    "drawdown_from_peak_pct": -4.7647,
+    "drawdown_from_peak_pct": -8.6078,
     "up_levels_sent": [],
     "dd_levels_sent": [],
     "anchor_context": {
@@ -494,15 +572,16 @@
     "anchor_price": 7587.0564,
     "anchor_kind": "WAKE_SHORT",
     "created_time": 1789574337992,
-    "peak_price": 8460.7954,
-    "peak_time": 1789694230075,
-    "last_price": 8460.7954,
-    "last_time": 1789694230075,
-    "max_gain_pct": 11.5162,
+    "peak_price": 8881.087,
+    "peak_time": 1789783071980,
+    "last_price": 8881.087,
+    "last_time": 1789783071980,
+    "max_gain_pct": 17.0558,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
       5,
-      10
+      10,
+      15
     ],
     "dd_levels_sent": [],
     "anchor_context": {
@@ -526,12 +605,13 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 1.2
+      "sequence_score_v1": 0.7
     },
     "tracker_version": "move-tracker-v1",
     "up_levels_notified": [
       5,
-      10
+      10,
+      15
     ],
     "dd_levels_notified": [],
     "milestone_events": [
@@ -582,6 +662,30 @@
           "fast_anchor_price": null,
           "sequence_score_v1": 1.2
         }
+      },
+      {
+        "type": "UP",
+        "level": 15,
+        "time": 1789783071980,
+        "price": 8881.087,
+        "anchor_price": 7587.0564,
+        "peak_price": 8881.087,
+        "gain_pct": 17.0558,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.7
+        }
       }
     ]
   },
@@ -591,12 +695,12 @@
     "anchor_price": 143.7,
     "anchor_kind": "WAKE_SHORT",
     "created_time": 1789574337992,
-    "peak_price": 477.0,
-    "peak_time": 1789686230975,
-    "last_price": 371.8,
-    "last_time": 1789711457700,
-    "max_gain_pct": 231.9415,
-    "drawdown_from_peak_pct": -22.0545,
+    "peak_price": 492.3,
+    "peak_time": 1789783071980,
+    "last_price": 492.3,
+    "last_time": 1789783071980,
+    "max_gain_pct": 242.5887,
+    "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
       5,
       10,
@@ -633,10 +737,10 @@
       "sequence_score_v1": 0.0
     },
     "last_context": {
-      "status": "SCANNED",
-      "vr": 0.05,
-      "va": 0.61,
-      "bs": 0.24,
+      "status": "WATCH_ACCUMULATION",
+      "vr": null,
+      "va": 1.84,
+      "bs": 2.58,
       "breakout": false,
       "fast_shadow": false,
       "fast_kind": null,
@@ -644,7 +748,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 29.4
+      "sequence_score_v1": 25.2
     },
     "tracker_version": "move-tracker-v1",
     "up_levels_notified": [
@@ -1950,15 +2054,19 @@
     "anchor_price": 40143.2,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789579461778,
-    "peak_price": 41891.8,
-    "peak_time": 1789694230075,
-    "last_price": 41891.8,
-    "last_time": 1789694230075,
-    "max_gain_pct": 4.3559,
+    "peak_price": 43522.6,
+    "peak_time": 1789783071980,
+    "last_price": 43522.6,
+    "last_time": 1789783071980,
+    "max_gain_pct": 8.4184,
     "drawdown_from_peak_pct": 0.0,
-    "up_levels_sent": [],
+    "up_levels_sent": [
+      5
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -1988,7 +2096,33 @@
       "fast_anchor_price": null,
       "sequence_score_v1": 0.0
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 43522.6,
+        "anchor_price": 40143.2,
+        "peak_price": 43522.6,
+        "gain_pct": 8.4184,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      }
+    ]
   },
   "RSS3IRT": {
     "symbol": "RSS3IRT",
@@ -1998,10 +2132,10 @@
     "created_time": 1789579461778,
     "peak_price": 726.0,
     "peak_time": 1789585405366,
-    "last_price": 664.0,
-    "last_time": 1789694230075,
+    "last_price": 629.0,
+    "last_time": 1789783071980,
     "max_gain_pct": 0.554,
-    "drawdown_from_peak_pct": -8.5399,
+    "drawdown_from_peak_pct": -13.3609,
     "up_levels_sent": [],
     "dd_levels_sent": [],
     "up_levels_notified": [],
@@ -2021,10 +2155,10 @@
       "sequence_score_v1": 2.6
     },
     "last_context": {
-      "status": "WATCH",
-      "vr": null,
-      "va": null,
-      "bs": null,
+      "status": "SCANNED",
+      "vr": 1.34,
+      "va": 0.33,
+      "bs": 0.03,
       "breakout": false,
       "fast_shadow": false,
       "fast_kind": null,
@@ -2032,7 +2166,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 0.0
+      "sequence_score_v1": 2.0
     },
     "tracker_version": "move-tracker-v1"
   },
@@ -2276,15 +2410,23 @@
     "anchor_price": 77881.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789579461778,
-    "peak_price": 81000.0,
-    "peak_time": 1789694230075,
-    "last_price": 81000.0,
-    "last_time": 1789694230075,
-    "max_gain_pct": 4.0048,
+    "peak_price": 90849.0,
+    "peak_time": 1789783071980,
+    "last_price": 90849.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 16.651,
     "drawdown_from_peak_pct": 0.0,
-    "up_levels_sent": [],
+    "up_levels_sent": [
+      5,
+      10,
+      15
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5,
+      10,
+      15
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -2314,7 +2456,81 @@
       "fast_anchor_price": null,
       "sequence_score_v1": 0.0
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 90849.0,
+        "anchor_price": 77881.0,
+        "peak_price": 90849.0,
+        "gain_pct": 16.651,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 90849.0,
+        "anchor_price": 77881.0,
+        "peak_price": 90849.0,
+        "gain_pct": 16.651,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 15,
+        "time": 1789783071980,
+        "price": 90849.0,
+        "anchor_price": 77881.0,
+        "peak_price": 90849.0,
+        "gain_pct": 16.651,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      }
+    ]
   },
   "BABYIRT": {
     "symbol": "BABYIRT",
@@ -2424,15 +2640,19 @@
     "anchor_price": 142.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789579461778,
-    "peak_price": 148.0,
-    "peak_time": 1789656179626,
-    "last_price": 147.0,
-    "last_time": 1789676646061,
-    "max_gain_pct": 4.2254,
-    "drawdown_from_peak_pct": -0.6757,
-    "up_levels_sent": [],
+    "peak_price": 156.0,
+    "peak_time": 1789783071980,
+    "last_price": 156.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 9.8592,
+    "drawdown_from_peak_pct": 0.0,
+    "up_levels_sent": [
+      5
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -2462,7 +2682,33 @@
       "fast_anchor_price": null,
       "sequence_score_v1": 0.0
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 156.0,
+        "anchor_price": 142.0,
+        "peak_price": 156.0,
+        "gain_pct": 9.8592,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      }
+    ]
   },
   "SXTIRT": {
     "symbol": "SXTIRT",
@@ -2686,10 +2932,10 @@
     "created_time": 1789585405366,
     "peak_price": 5715.7,
     "peak_time": 1789686230975,
-    "last_price": 5170.8,
-    "last_time": 1789711457700,
+    "last_price": 4578.7,
+    "last_time": 1789783071980,
     "max_gain_pct": 43.2758,
-    "drawdown_from_peak_pct": -9.5334,
+    "drawdown_from_peak_pct": -19.8926,
     "up_levels_sent": [
       5,
       10,
@@ -2700,7 +2946,9 @@
       40
     ],
     "dd_levels_sent": [
-      5
+      5,
+      10,
+      15
     ],
     "up_levels_notified": [
       5,
@@ -2712,7 +2960,9 @@
       40
     ],
     "dd_levels_notified": [
-      5
+      5,
+      10,
+      15
     ],
     "anchor_context": {
       "status": "WATCH",
@@ -2740,7 +2990,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 14.8
+      "sequence_score_v1": 8.0
     },
     "tracker_version": "move-tracker-v1",
     "milestone_events": [
@@ -2934,6 +3184,54 @@
           "fast_anchor_time": null,
           "fast_anchor_price": null,
           "sequence_score_v1": 22.8
+        }
+      },
+      {
+        "type": "PULLBACK",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 4578.7,
+        "anchor_price": 3989.3,
+        "peak_price": 5715.7,
+        "gain_pct": 14.7745,
+        "drawdown_from_peak_pct": -19.8926,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 8.0
+        }
+      },
+      {
+        "type": "PULLBACK",
+        "level": 15,
+        "time": 1789783071980,
+        "price": 4578.7,
+        "anchor_price": 3989.3,
+        "peak_price": 5715.7,
+        "gain_pct": 14.7745,
+        "drawdown_from_peak_pct": -19.8926,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 8.0
         }
       }
     ]
@@ -3370,18 +3668,20 @@
     "anchor_price": 0.77064,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789585405366,
-    "peak_price": 0.83019,
-    "peak_time": 1789656179626,
-    "last_price": 0.8279,
-    "last_time": 1789711457700,
-    "max_gain_pct": 7.7273,
-    "drawdown_from_peak_pct": -0.2758,
+    "peak_price": 0.84896,
+    "peak_time": 1789783071980,
+    "last_price": 0.84896,
+    "last_time": 1789783071980,
+    "max_gain_pct": 10.163,
+    "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
-      5
+      5,
+      10
     ],
     "dd_levels_sent": [],
     "up_levels_notified": [
-      5
+      5,
+      10
     ],
     "dd_levels_notified": [],
     "anchor_context": {
@@ -3410,7 +3710,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 28.8
+      "sequence_score_v1": 20.6
     },
     "tracker_version": "move-tracker-v1",
     "milestone_events": [
@@ -3436,6 +3736,30 @@
           "fast_anchor_time": 1789647112560,
           "fast_anchor_price": 0.7916,
           "sequence_score_v1": 24.8
+        }
+      },
+      {
+        "type": "UP",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 0.84896,
+        "anchor_price": 0.77064,
+        "peak_price": 0.84896,
+        "gain_pct": 10.163,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 20.6
         }
       }
     ]
@@ -3492,15 +3816,33 @@
     "anchor_price": 6178.0,
     "anchor_kind": "WAKE_SHORT",
     "created_time": 1789585405366,
-    "peak_price": 6178.0,
-    "peak_time": 1789585405366,
-    "last_price": 6178.0,
-    "last_time": 1789585405366,
-    "max_gain_pct": 0.0,
+    "peak_price": 9532.0,
+    "peak_time": 1789783071980,
+    "last_price": 9532.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 54.2894,
     "drawdown_from_peak_pct": 0.0,
-    "up_levels_sent": [],
+    "up_levels_sent": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      40,
+      50
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      40,
+      50
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -3530,7 +3872,201 @@
       "fast_anchor_price": null,
       "sequence_score_v1": 0.0
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 9532.0,
+        "anchor_price": 6178.0,
+        "peak_price": 9532.0,
+        "gain_pct": 54.2894,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 9532.0,
+        "anchor_price": 6178.0,
+        "peak_price": 9532.0,
+        "gain_pct": 54.2894,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 15,
+        "time": 1789783071980,
+        "price": 9532.0,
+        "anchor_price": 6178.0,
+        "peak_price": 9532.0,
+        "gain_pct": 54.2894,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 20,
+        "time": 1789783071980,
+        "price": 9532.0,
+        "anchor_price": 6178.0,
+        "peak_price": 9532.0,
+        "gain_pct": 54.2894,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 25,
+        "time": 1789783071980,
+        "price": 9532.0,
+        "anchor_price": 6178.0,
+        "peak_price": 9532.0,
+        "gain_pct": 54.2894,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 30,
+        "time": 1789783071980,
+        "price": 9532.0,
+        "anchor_price": 6178.0,
+        "peak_price": 9532.0,
+        "gain_pct": 54.2894,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 40,
+        "time": 1789783071980,
+        "price": 9532.0,
+        "anchor_price": 6178.0,
+        "peak_price": 9532.0,
+        "gain_pct": 54.2894,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 50,
+        "time": 1789783071980,
+        "price": 9532.0,
+        "anchor_price": 6178.0,
+        "peak_price": 9532.0,
+        "gain_pct": 54.2894,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      }
+    ]
   },
   "WIFIRT": {
     "symbol": "WIFIRT",
@@ -3538,15 +4074,23 @@
     "anchor_price": 41072.0,
     "anchor_kind": "WAKE_SHORT",
     "created_time": 1789585405366,
-    "peak_price": 41516.0,
-    "peak_time": 1789599720244,
-    "last_price": 41516.0,
-    "last_time": 1789599962403,
-    "max_gain_pct": 1.081,
+    "peak_price": 48029.0,
+    "peak_time": 1789783071980,
+    "last_price": 48029.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 16.9385,
     "drawdown_from_peak_pct": 0.0,
-    "up_levels_sent": [],
+    "up_levels_sent": [
+      5,
+      10,
+      15
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5,
+      10,
+      15
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -3576,7 +4120,81 @@
       "fast_anchor_price": null,
       "sequence_score_v1": 0.0
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 48029.0,
+        "anchor_price": 41072.0,
+        "peak_price": 48029.0,
+        "gain_pct": 16.9385,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 48029.0,
+        "anchor_price": 41072.0,
+        "peak_price": 48029.0,
+        "gain_pct": 16.9385,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 15,
+        "time": 1789783071980,
+        "price": 48029.0,
+        "anchor_price": 41072.0,
+        "peak_price": 48029.0,
+        "gain_pct": 16.9385,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      }
+    ]
   },
   "BOMEIRT": {
     "symbol": "BOMEIRT",
@@ -3630,15 +4248,21 @@
     "anchor_price": 4635.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789585405366,
-    "peak_price": 4635.0,
-    "peak_time": 1789585405366,
-    "last_price": 4635.0,
-    "last_time": 1789585405366,
-    "max_gain_pct": 0.0,
+    "peak_price": 5199.0,
+    "peak_time": 1789783071980,
+    "last_price": 5199.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 12.1683,
     "drawdown_from_peak_pct": 0.0,
-    "up_levels_sent": [],
+    "up_levels_sent": [
+      5,
+      10
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5,
+      10
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -3666,9 +4290,59 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 3.3
+      "sequence_score_v1": 0.0
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 5199.0,
+        "anchor_price": 4635.0,
+        "peak_price": 5199.0,
+        "gain_pct": 12.1683,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 5199.0,
+        "anchor_price": 4635.0,
+        "peak_price": 5199.0,
+        "gain_pct": 12.1683,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      }
+    ]
   },
   "SAGAIRT": {
     "symbol": "SAGAIRT",
@@ -3676,16 +4350,18 @@
     "anchor_price": 4445.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789585405366,
-    "peak_price": 5163.0,
-    "peak_time": 1789626919305,
-    "last_price": 4924.0,
-    "last_time": 1789694230075,
-    "max_gain_pct": 16.153,
-    "drawdown_from_peak_pct": -4.6291,
+    "peak_price": 5708.0,
+    "peak_time": 1789783071980,
+    "last_price": 5708.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 28.4139,
+    "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
       5,
       10,
-      15
+      15,
+      20,
+      25
     ],
     "dd_levels_sent": [
       5
@@ -3693,7 +4369,9 @@
     "up_levels_notified": [
       5,
       10,
-      15
+      15,
+      20,
+      25
     ],
     "dd_levels_notified": [
       5
@@ -3724,7 +4402,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 0.4
+      "sequence_score_v1": 0.0
     },
     "tracker_version": "move-tracker-v1",
     "milestone_events": [
@@ -3823,6 +4501,54 @@
           "fast_anchor_price": null,
           "sequence_score_v1": 11.9
         }
+      },
+      {
+        "type": "UP",
+        "level": 20,
+        "time": 1789783071980,
+        "price": 5708.0,
+        "anchor_price": 4445.0,
+        "peak_price": 5708.0,
+        "gain_pct": 28.4139,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 25,
+        "time": 1789783071980,
+        "price": 5708.0,
+        "anchor_price": 4445.0,
+        "peak_price": 5708.0,
+        "gain_pct": 28.4139,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
       }
     ]
   },
@@ -3832,15 +4558,19 @@
     "anchor_price": 35.5,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789585405366,
-    "peak_price": 37.0,
-    "peak_time": 1789711457700,
-    "last_price": 37.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 4.2254,
+    "peak_price": 37.9,
+    "peak_time": 1789783071980,
+    "last_price": 37.9,
+    "last_time": 1789783071980,
+    "max_gain_pct": 6.7606,
     "drawdown_from_peak_pct": 0.0,
-    "up_levels_sent": [],
+    "up_levels_sent": [
+      5
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -3868,9 +4598,35 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 1.6
+      "sequence_score_v1": 1.1
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 37.9,
+        "anchor_price": 35.5,
+        "peak_price": 37.9,
+        "gain_pct": 6.7606,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 1.1
+        }
+      }
+    ]
   },
   "HYPEIRT": {
     "symbol": "HYPEIRT",
@@ -3878,18 +4634,22 @@
     "anchor_price": 18103464.0,
     "anchor_kind": "WAKE_SHORT",
     "created_time": 1789585405366,
-    "peak_price": 19845016.0,
-    "peak_time": 1789711457700,
-    "last_price": 19845016.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 9.62,
+    "peak_price": 21281673.0,
+    "peak_time": 1789783071980,
+    "last_price": 21281673.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 17.5558,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
-      5
+      5,
+      10,
+      15
     ],
     "dd_levels_sent": [],
     "up_levels_notified": [
-      5
+      5,
+      10,
+      15
     ],
     "dd_levels_notified": [],
     "anchor_context": {
@@ -3945,6 +4705,54 @@
           "fast_anchor_price": null,
           "sequence_score_v1": 0.0
         }
+      },
+      {
+        "type": "UP",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 21281673.0,
+        "anchor_price": 18103464.0,
+        "peak_price": 21281673.0,
+        "gain_pct": 17.5558,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 15,
+        "time": 1789783071980,
+        "price": 21281673.0,
+        "anchor_price": 18103464.0,
+        "peak_price": 21281673.0,
+        "gain_pct": 17.5558,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
       }
     ]
   },
@@ -3956,10 +4764,10 @@
     "created_time": 1789585405366,
     "peak_price": 13607244.0,
     "peak_time": 1789711457700,
-    "last_price": 13607244.0,
-    "last_time": 1789711457700,
+    "last_price": 13594510.0,
+    "last_time": 1789783071980,
     "max_gain_pct": 3.1186,
-    "drawdown_from_peak_pct": 0.0,
+    "drawdown_from_peak_pct": -0.0936,
     "up_levels_sent": [],
     "dd_levels_sent": [],
     "up_levels_notified": [],
@@ -4046,11 +4854,11 @@
     "anchor_price": 856.9,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789599720244,
-    "peak_price": 902.9,
-    "peak_time": 1789711457700,
-    "last_price": 902.9,
-    "last_time": 1789711457700,
-    "max_gain_pct": 5.3682,
+    "peak_price": 904.4,
+    "peak_time": 1789783071980,
+    "last_price": 904.4,
+    "last_time": 1789783071980,
+    "max_gain_pct": 5.5432,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
       5
@@ -4214,18 +5022,22 @@
     "anchor_price": 182478.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789599720244,
-    "peak_price": 196036.0,
-    "peak_time": 1789711457700,
-    "last_price": 196036.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 7.4299,
+    "peak_price": 216869.0,
+    "peak_time": 1789783071980,
+    "last_price": 216869.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 18.8467,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
-      5
+      5,
+      10,
+      15
     ],
     "dd_levels_sent": [],
     "up_levels_notified": [
-      5
+      5,
+      10,
+      15
     ],
     "dd_levels_notified": [],
     "anchor_context": {
@@ -4281,6 +5093,54 @@
           "fast_anchor_price": null,
           "sequence_score_v1": 0.0
         }
+      },
+      {
+        "type": "UP",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 216869.0,
+        "anchor_price": 182478.0,
+        "peak_price": 216869.0,
+        "gain_pct": 18.8467,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 15,
+        "time": 1789783071980,
+        "price": 216869.0,
+        "anchor_price": 182478.0,
+        "peak_price": 216869.0,
+        "gain_pct": 18.8467,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
       }
     ]
   },
@@ -4290,12 +5150,12 @@
     "anchor_price": 413026.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789599720244,
-    "peak_price": 419179.0,
-    "peak_time": 1789608089165,
-    "last_price": 416000.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 1.4897,
-    "drawdown_from_peak_pct": -0.7584,
+    "peak_price": 425769.0,
+    "peak_time": 1789783071980,
+    "last_price": 425769.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 3.0853,
+    "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [],
     "dd_levels_sent": [],
     "up_levels_notified": [],
@@ -4326,7 +5186,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 1.4
+      "sequence_score_v1": 0.0
     },
     "tracker_version": "move-tracker-v1"
   },
@@ -4382,15 +5242,19 @@
     "anchor_price": 660.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789599720244,
-    "peak_price": 660.0,
-    "peak_time": 1789599720244,
-    "last_price": 657.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 0.0,
-    "drawdown_from_peak_pct": -0.4545,
-    "up_levels_sent": [],
+    "peak_price": 716.0,
+    "peak_time": 1789783071980,
+    "last_price": 716.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 8.4848,
+    "drawdown_from_peak_pct": 0.0,
+    "up_levels_sent": [
+      5
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -4420,7 +5284,33 @@
       "fast_anchor_price": null,
       "sequence_score_v1": 0.0
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 716.0,
+        "anchor_price": 660.0,
+        "peak_price": 716.0,
+        "gain_pct": 8.4848,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      }
+    ]
   },
   "SIRENIRT": {
     "symbol": "SIRENIRT",
@@ -4430,10 +5320,10 @@
     "created_time": 1789599720244,
     "peak_price": 9189.0,
     "peak_time": 1789656179626,
-    "last_price": 9135.0,
-    "last_time": 1789711457700,
+    "last_price": 9062.0,
+    "last_time": 1789783071980,
     "max_gain_pct": 2.9926,
-    "drawdown_from_peak_pct": -0.5877,
+    "drawdown_from_peak_pct": -1.3821,
     "up_levels_sent": [],
     "dd_levels_sent": [],
     "up_levels_notified": [],
@@ -4453,10 +5343,10 @@
       "sequence_score_v1": 1.6
     },
     "last_context": {
-      "status": "WATCH_ACCUMULATION",
+      "status": "WATCH",
       "vr": null,
-      "va": 0.56,
-      "bs": 0.88,
+      "va": null,
+      "bs": null,
       "breakout": false,
       "fast_shadow": false,
       "fast_kind": null,
@@ -4464,7 +5354,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 8.2
+      "sequence_score_v1": 7.5
     },
     "tracker_version": "move-tracker-v1"
   },
@@ -4522,10 +5412,10 @@
     "created_time": 1789599962403,
     "peak_price": 99.0,
     "peak_time": 1789676646061,
-    "last_price": 87.0,
-    "last_time": 1789711457700,
+    "last_price": 91.0,
+    "last_time": 1789783071980,
     "max_gain_pct": 19.2771,
-    "drawdown_from_peak_pct": -12.1212,
+    "drawdown_from_peak_pct": -8.0808,
     "up_levels_sent": [
       5,
       10,
@@ -4570,7 +5460,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 8.8
+      "sequence_score_v1": 2.5
     },
     "tracker_version": "move-tracker-v1",
     "milestone_events": [
@@ -4962,15 +5852,21 @@
     "anchor_price": 11991212.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789626919305,
-    "peak_price": 12403679.0,
-    "peak_time": 1789694230075,
-    "last_price": 12403679.0,
-    "last_time": 1789694230075,
-    "max_gain_pct": 3.4397,
+    "peak_price": 13201476.0,
+    "peak_time": 1789783071980,
+    "last_price": 13201476.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 10.0929,
     "drawdown_from_peak_pct": 0.0,
-    "up_levels_sent": [],
+    "up_levels_sent": [
+      5,
+      10
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5,
+      10
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -4998,9 +5894,59 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 1.2
+      "sequence_score_v1": 0.6
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 13201476.0,
+        "anchor_price": 11991212.0,
+        "peak_price": 13201476.0,
+        "gain_pct": 10.0929,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.6
+        }
+      },
+      {
+        "type": "UP",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 13201476.0,
+        "anchor_price": 11991212.0,
+        "peak_price": 13201476.0,
+        "gain_pct": 10.0929,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.6
+        }
+      }
+    ]
   },
   "CELOIRT": {
     "symbol": "CELOIRT",
@@ -5100,11 +6046,11 @@
     "anchor_price": 99.9,
     "anchor_kind": "WAKE_SHORT",
     "created_time": 1789626919305,
-    "peak_price": 106.6,
-    "peak_time": 1789711457700,
-    "last_price": 106.6,
-    "last_time": 1789711457700,
-    "max_gain_pct": 6.7067,
+    "peak_price": 107.1,
+    "peak_time": 1789783071980,
+    "last_price": 107.1,
+    "last_time": 1789783071980,
+    "max_gain_pct": 7.2072,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
       5
@@ -5222,11 +6168,11 @@
     "anchor_price": 10.21,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789626919305,
-    "peak_price": 10.77,
-    "peak_time": 1789711457700,
-    "last_price": 10.77,
-    "last_time": 1789711457700,
-    "max_gain_pct": 5.4848,
+    "peak_price": 10.92,
+    "peak_time": 1789783071980,
+    "last_price": 10.92,
+    "last_time": 1789783071980,
+    "max_gain_pct": 6.954,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
       5
@@ -5251,10 +6197,10 @@
       "sequence_score_v1": 0.6
     },
     "last_context": {
-      "status": "PRE_EARLY",
-      "vr": 0.04,
-      "va": 0.63,
-      "bs": 3.15,
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
       "breakout": false,
       "fast_shadow": false,
       "fast_kind": null,
@@ -5262,7 +6208,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 12.0
+      "sequence_score_v1": 1.9
     },
     "tracker_version": "move-tracker-v1",
     "milestone_events": [
@@ -5344,15 +6290,19 @@
     "anchor_price": 4698.0,
     "anchor_kind": "WAKE_SHORT",
     "created_time": 1789626919305,
-    "peak_price": 4765.0,
-    "peak_time": 1789711457700,
-    "last_price": 4765.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 1.4261,
+    "peak_price": 5100.0,
+    "peak_time": 1789783071980,
+    "last_price": 5100.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 8.5568,
     "drawdown_from_peak_pct": 0.0,
-    "up_levels_sent": [],
+    "up_levels_sent": [
+      5
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -5371,8 +6321,8 @@
     "last_context": {
       "status": "WATCH_ACCUMULATION",
       "vr": null,
-      "va": 2.6,
-      "bs": 0.01,
+      "va": 0.21,
+      "bs": 0.05,
       "breakout": false,
       "fast_shadow": false,
       "fast_kind": null,
@@ -5380,9 +6330,35 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 32.0
+      "sequence_score_v1": 32.4
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 5100.0,
+        "anchor_price": 4698.0,
+        "peak_price": 5100.0,
+        "gain_pct": 8.5568,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH_ACCUMULATION",
+          "vr": null,
+          "va": 0.21,
+          "bs": 0.05,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 32.4
+        }
+      }
+    ]
   },
   "SOPHIRT": {
     "symbol": "SOPHIRT",
@@ -5390,15 +6366,19 @@
     "anchor_price": 906.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789626919305,
-    "peak_price": 906.0,
-    "peak_time": 1789626919305,
-    "last_price": 879.0,
-    "last_time": 1789694230075,
-    "max_gain_pct": 0.0,
-    "drawdown_from_peak_pct": -2.9801,
-    "up_levels_sent": [],
+    "peak_price": 962.0,
+    "peak_time": 1789783071980,
+    "last_price": 962.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 6.181,
+    "drawdown_from_peak_pct": 0.0,
+    "up_levels_sent": [
+      5
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -5428,7 +6408,33 @@
       "fast_anchor_price": null,
       "sequence_score_v1": 0.0
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 962.0,
+        "anchor_price": 906.0,
+        "peak_price": 962.0,
+        "gain_pct": 6.181,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      }
+    ]
   },
   "USELESSIRT": {
     "symbol": "USELESSIRT",
@@ -5620,15 +6626,23 @@
     "anchor_price": 11972.0,
     "anchor_kind": "WAKE_SHORT",
     "created_time": 1789626919305,
-    "peak_price": 11972.0,
-    "peak_time": 1789626919305,
-    "last_price": 11500.0,
-    "last_time": 1789664716709,
-    "max_gain_pct": 0.0,
-    "drawdown_from_peak_pct": -3.9425,
-    "up_levels_sent": [],
+    "peak_price": 14477.0,
+    "peak_time": 1789783071980,
+    "last_price": 14477.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 20.9238,
+    "drawdown_from_peak_pct": 0.0,
+    "up_levels_sent": [
+      5,
+      10,
+      15,
+      20
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5,
+      10
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -5658,7 +6672,105 @@
       "fast_anchor_price": null,
       "sequence_score_v1": 0.0
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 14477.0,
+        "anchor_price": 11972.0,
+        "peak_price": 14477.0,
+        "gain_pct": 20.9238,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 14477.0,
+        "anchor_price": 11972.0,
+        "peak_price": 14477.0,
+        "gain_pct": 20.9238,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 15,
+        "time": 1789783071980,
+        "price": 14477.0,
+        "anchor_price": 11972.0,
+        "peak_price": 14477.0,
+        "gain_pct": 20.9238,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 20,
+        "time": 1789783071980,
+        "price": 14477.0,
+        "anchor_price": 11972.0,
+        "peak_price": 14477.0,
+        "gain_pct": 20.9238,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      }
+    ]
   },
   "XMNIRT": {
     "symbol": "XMNIRT",
@@ -5668,10 +6780,10 @@
     "created_time": 1789626919305,
     "peak_price": 108.0,
     "peak_time": 1789626919305,
-    "last_price": 104.0,
-    "last_time": 1789711457700,
+    "last_price": 106.0,
+    "last_time": 1789783071980,
     "max_gain_pct": 0.0,
-    "drawdown_from_peak_pct": -3.7037,
+    "drawdown_from_peak_pct": -1.8519,
     "up_levels_sent": [],
     "dd_levels_sent": [],
     "up_levels_notified": [],
@@ -5804,12 +6916,12 @@
     "anchor_price": 11871.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789626919305,
-    "peak_price": 13444.0,
-    "peak_time": 1789664716709,
-    "last_price": 12599.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 13.2508,
-    "drawdown_from_peak_pct": -6.2853,
+    "peak_price": 13579.0,
+    "peak_time": 1789783071980,
+    "last_price": 13579.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 14.388,
+    "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
       5,
       10
@@ -5850,7 +6962,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 7.2
+      "sequence_score_v1": 0.4
     },
     "tracker_version": "move-tracker-v1",
     "milestone_events": [
@@ -5934,11 +7046,11 @@
     "anchor_price": 1.1469,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789647112560,
-    "peak_price": 1.2046,
-    "peak_time": 1789711457700,
-    "last_price": 1.2046,
-    "last_time": 1789711457700,
-    "max_gain_pct": 5.031,
+    "peak_price": 1.2447,
+    "peak_time": 1789783071980,
+    "last_price": 1.2447,
+    "last_time": 1789783071980,
+    "max_gain_pct": 8.5273,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
       5
@@ -6010,15 +7122,19 @@
     "anchor_price": 8.318e-05,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789647112560,
-    "peak_price": 8.581e-05,
-    "peak_time": 1789711457700,
-    "last_price": 8.581e-05,
-    "last_time": 1789711457700,
-    "max_gain_pct": 3.1618,
+    "peak_price": 8.87e-05,
+    "peak_time": 1789783071980,
+    "last_price": 8.87e-05,
+    "last_time": 1789783071980,
+    "max_gain_pct": 6.6362,
     "drawdown_from_peak_pct": 0.0,
-    "up_levels_sent": [],
+    "up_levels_sent": [
+      5
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -6048,7 +7164,33 @@
       "fast_anchor_price": null,
       "sequence_score_v1": 0.0
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 8.87e-05,
+        "anchor_price": 8.318e-05,
+        "peak_price": 8.87e-05,
+        "gain_pct": 6.6362,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      }
+    ]
   },
   "MTLIRT": {
     "symbol": "MTLIRT",
@@ -6102,20 +7244,26 @@
     "anchor_price": 130978.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789647112560,
-    "peak_price": 150043.0,
-    "peak_time": 1789711457700,
-    "last_price": 150043.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 14.5559,
+    "peak_price": 168833.0,
+    "peak_time": 1789783071980,
+    "last_price": 168833.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 28.9018,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
       5,
-      10
+      10,
+      15,
+      20,
+      25
     ],
     "dd_levels_sent": [],
     "up_levels_notified": [
       5,
-      10
+      10,
+      15,
+      20,
+      25
     ],
     "dd_levels_notified": [],
     "anchor_context": {
@@ -6195,6 +7343,78 @@
           "fast_anchor_price": null,
           "sequence_score_v1": 0.0
         }
+      },
+      {
+        "type": "UP",
+        "level": 15,
+        "time": 1789783071980,
+        "price": 168833.0,
+        "anchor_price": 130978.0,
+        "peak_price": 168833.0,
+        "gain_pct": 28.9018,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 20,
+        "time": 1789783071980,
+        "price": 168833.0,
+        "anchor_price": 130978.0,
+        "peak_price": 168833.0,
+        "gain_pct": 28.9018,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 25,
+        "time": 1789783071980,
+        "price": 168833.0,
+        "anchor_price": 130978.0,
+        "peak_price": 168833.0,
+        "gain_pct": 28.9018,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
       }
     ]
   },
@@ -6204,24 +7424,26 @@
     "anchor_price": 1573056.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789647112560,
-    "peak_price": 1933995.0,
-    "peak_time": 1789711457700,
-    "last_price": 1933995.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 22.9451,
+    "peak_price": 1998707.0,
+    "peak_time": 1789783071980,
+    "last_price": 1998707.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 27.0589,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
       5,
       10,
       15,
-      20
+      20,
+      25
     ],
     "dd_levels_sent": [],
     "up_levels_notified": [
       5,
       10,
       15,
-      20
+      20,
+      25
     ],
     "dd_levels_notified": [],
     "anchor_context": {
@@ -6239,10 +7461,10 @@
       "sequence_score_v1": 0.0
     },
     "last_context": {
-      "status": "SCANNED",
-      "vr": 0.0,
-      "va": 0.01,
-      "bs": 0.11,
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
       "breakout": false,
       "fast_shadow": false,
       "fast_kind": null,
@@ -6250,7 +7472,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 9.5
+      "sequence_score_v1": 1.0
     },
     "tracker_version": "move-tracker-v1",
     "milestone_events": [
@@ -6348,6 +7570,30 @@
           "fast_anchor_time": null,
           "fast_anchor_price": null,
           "sequence_score_v1": 9.5
+        }
+      },
+      {
+        "type": "UP",
+        "level": 25,
+        "time": 1789783071980,
+        "price": 1998707.0,
+        "anchor_price": 1573056.0,
+        "peak_price": 1998707.0,
+        "gain_pct": 27.0589,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 1.0
         }
       }
     ]
@@ -6450,15 +7696,21 @@
     "anchor_price": 1719952.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789647112560,
-    "peak_price": 1787987.0,
-    "peak_time": 1789711457700,
-    "last_price": 1787987.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 3.9556,
+    "peak_price": 1924063.0,
+    "peak_time": 1789783071980,
+    "last_price": 1924063.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 11.8672,
     "drawdown_from_peak_pct": 0.0,
-    "up_levels_sent": [],
+    "up_levels_sent": [
+      5,
+      10
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5,
+      10
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -6475,20 +7727,70 @@
       "sequence_score_v1": 0.0
     },
     "last_context": {
-      "status": "WATCH",
-      "vr": null,
-      "va": null,
-      "bs": null,
-      "breakout": false,
+      "status": "EARLY",
+      "vr": 0.0,
+      "va": 0.0,
+      "bs": 3.0,
+      "breakout": true,
       "fast_shadow": false,
       "fast_kind": null,
       "fast_active": false,
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 0.0
+      "sequence_score_v1": 17.0
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 1924063.0,
+        "anchor_price": 1719952.0,
+        "peak_price": 1924063.0,
+        "gain_pct": 11.8672,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "EARLY",
+          "vr": 0.0,
+          "va": 0.0,
+          "bs": 3.0,
+          "breakout": true,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 17.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 1924063.0,
+        "anchor_price": 1719952.0,
+        "peak_price": 1924063.0,
+        "gain_pct": 11.8672,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "EARLY",
+          "vr": 0.0,
+          "va": 0.0,
+          "bs": 3.0,
+          "breakout": true,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 17.0
+        }
+      }
+    ]
   },
   "OXTIRT": {
     "symbol": "OXTIRT",
@@ -6890,10 +8192,10 @@
     "created_time": 1789647112560,
     "peak_price": 9032.0,
     "peak_time": 1789647112560,
-    "last_price": 9032.0,
-    "last_time": 1789647112560,
+    "last_price": 8811.0,
+    "last_time": 1789783071980,
     "max_gain_pct": 0.0,
-    "drawdown_from_peak_pct": 0.0,
+    "drawdown_from_peak_pct": -2.4469,
     "up_levels_sent": [],
     "dd_levels_sent": [],
     "up_levels_notified": [],
@@ -6934,18 +8236,24 @@
     "anchor_price": 6047.0,
     "anchor_kind": "WAKE_SHORT",
     "created_time": 1789647112560,
-    "peak_price": 6573.0,
-    "peak_time": 1789711457700,
-    "last_price": 6573.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 8.6985,
+    "peak_price": 7555.0,
+    "peak_time": 1789783071980,
+    "last_price": 7555.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 24.938,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
-      5
+      5,
+      10,
+      15,
+      20
     ],
     "dd_levels_sent": [],
     "up_levels_notified": [
-      5
+      5,
+      10,
+      15,
+      20
     ],
     "dd_levels_notified": [],
     "anchor_context": {
@@ -6974,7 +8282,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 2.5
+      "sequence_score_v1": 1.6
     },
     "tracker_version": "move-tracker-v1",
     "milestone_events": [
@@ -7000,6 +8308,78 @@
           "fast_anchor_time": null,
           "fast_anchor_price": null,
           "sequence_score_v1": 2.5
+        }
+      },
+      {
+        "type": "UP",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 7555.0,
+        "anchor_price": 6047.0,
+        "peak_price": 7555.0,
+        "gain_pct": 24.938,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 1.6
+        }
+      },
+      {
+        "type": "UP",
+        "level": 15,
+        "time": 1789783071980,
+        "price": 7555.0,
+        "anchor_price": 6047.0,
+        "peak_price": 7555.0,
+        "gain_pct": 24.938,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 1.6
+        }
+      },
+      {
+        "type": "UP",
+        "level": 20,
+        "time": 1789783071980,
+        "price": 7555.0,
+        "anchor_price": 6047.0,
+        "peak_price": 7555.0,
+        "gain_pct": 24.938,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 1.6
         }
       }
     ]
@@ -7194,11 +8574,11 @@
     "anchor_price": 1460.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789647112560,
-    "peak_price": 1485.0,
-    "peak_time": 1789694230075,
-    "last_price": 1485.0,
-    "last_time": 1789694230075,
-    "max_gain_pct": 1.7123,
+    "peak_price": 1522.0,
+    "peak_time": 1789783071980,
+    "last_price": 1522.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 4.2466,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [],
     "dd_levels_sent": [],
@@ -7422,10 +8802,10 @@
     "created_time": 1789656179626,
     "peak_price": 13.1,
     "peak_time": 1789711457700,
-    "last_price": 13.1,
-    "last_time": 1789711457700,
+    "last_price": 13.0,
+    "last_time": 1789783071980,
     "max_gain_pct": 2.3438,
-    "drawdown_from_peak_pct": 0.0,
+    "drawdown_from_peak_pct": -0.7634,
     "up_levels_sent": [],
     "dd_levels_sent": [],
     "up_levels_notified": [],
@@ -7445,10 +8825,10 @@
       "sequence_score_v1": 0.0
     },
     "last_context": {
-      "status": "PRE_EARLY",
-      "vr": 0.17,
-      "va": 0.32,
-      "bs": 3.0,
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
       "breakout": false,
       "fast_shadow": false,
       "fast_kind": null,
@@ -7456,7 +8836,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 20.0
+      "sequence_score_v1": 1.9
     },
     "tracker_version": "move-tracker-v1"
   },
@@ -7512,24 +8892,26 @@
     "anchor_price": 39205.0,
     "anchor_kind": "WAKE_SHORT",
     "created_time": 1789664716709,
-    "peak_price": 48211.0,
-    "peak_time": 1789711457700,
-    "last_price": 48211.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 22.9716,
+    "peak_price": 49168.0,
+    "peak_time": 1789783071980,
+    "last_price": 49168.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 25.4126,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
       5,
       10,
       15,
-      20
+      20,
+      25
     ],
     "dd_levels_sent": [],
     "up_levels_notified": [
       5,
       10,
       15,
-      20
+      20,
+      25
     ],
     "dd_levels_notified": [],
     "anchor_context": {
@@ -7550,15 +8932,15 @@
       "status": "WATCH_ACCUMULATION",
       "vr": null,
       "va": 0.0,
-      "bs": 0.99,
+      "bs": 4.49,
       "breakout": false,
       "fast_shadow": false,
       "fast_kind": null,
-      "fast_active": true,
-      "confirmed_fast": true,
-      "fast_anchor_time": 1789694230075,
-      "fast_anchor_price": 41865.0,
-      "sequence_score_v1": 23.1
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 29.4
     },
     "tracker_version": "move-tracker-v1",
     "milestone_events": [
@@ -7656,6 +9038,30 @@
           "fast_anchor_time": 1789694230075,
           "fast_anchor_price": 41865.0,
           "sequence_score_v1": 23.1
+        }
+      },
+      {
+        "type": "UP",
+        "level": 25,
+        "time": 1789783071980,
+        "price": 49168.0,
+        "anchor_price": 39205.0,
+        "peak_price": 49168.0,
+        "gain_pct": 25.4126,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH_ACCUMULATION",
+          "vr": null,
+          "va": 0.0,
+          "bs": 4.49,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 29.4
         }
       }
     ]
@@ -7758,12 +9164,12 @@
     "anchor_price": 13900000.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789664716709,
-    "peak_price": 14073290.0,
-    "peak_time": 1789676646061,
-    "last_price": 13990385.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 1.2467,
-    "drawdown_from_peak_pct": -0.5891,
+    "peak_price": 14103254.0,
+    "peak_time": 1789783071980,
+    "last_price": 14103254.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 1.4623,
+    "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [],
     "dd_levels_sent": [],
     "up_levels_notified": [],
@@ -7804,15 +9210,19 @@
     "anchor_price": 0.6196,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789664716709,
-    "peak_price": 0.6196,
-    "peak_time": 1789664716709,
-    "last_price": 0.6196,
-    "last_time": 1789664716709,
-    "max_gain_pct": 0.0,
+    "peak_price": 0.68,
+    "peak_time": 1789783071980,
+    "last_price": 0.68,
+    "last_time": 1789783071980,
+    "max_gain_pct": 9.7482,
     "drawdown_from_peak_pct": 0.0,
-    "up_levels_sent": [],
+    "up_levels_sent": [
+      5
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -7842,7 +9252,33 @@
       "fast_anchor_price": null,
       "sequence_score_v1": 0.0
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 0.68,
+        "anchor_price": 0.6196,
+        "peak_price": 0.68,
+        "gain_pct": 9.7482,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      }
+    ]
   },
   "ACEIRT": {
     "symbol": "ACEIRT",
@@ -8018,15 +9454,19 @@
     "anchor_price": 29053737.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789676646061,
-    "peak_price": 29053737.0,
-    "peak_time": 1789676646061,
-    "last_price": 29053737.0,
-    "last_time": 1789676646061,
-    "max_gain_pct": 0.0,
+    "peak_price": 31664875.0,
+    "peak_time": 1789783071980,
+    "last_price": 31664875.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 8.9873,
     "drawdown_from_peak_pct": 0.0,
-    "up_levels_sent": [],
+    "up_levels_sent": [
+      5
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -8056,7 +9496,33 @@
       "fast_anchor_price": null,
       "sequence_score_v1": 0.0
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 31664875.0,
+        "anchor_price": 29053737.0,
+        "peak_price": 31664875.0,
+        "gain_pct": 8.9873,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      }
+    ]
   },
   "FTTIRT": {
     "symbol": "FTTIRT",
@@ -8204,10 +9670,10 @@
     "created_time": 1789676646061,
     "peak_price": 11953.0,
     "peak_time": 1789686230975,
-    "last_price": 11661.0,
-    "last_time": 1789711457700,
+    "last_price": 11281.0,
+    "last_time": 1789783071980,
     "max_gain_pct": 0.4538,
-    "drawdown_from_peak_pct": -2.4429,
+    "drawdown_from_peak_pct": -5.622,
     "up_levels_sent": [],
     "dd_levels_sent": [],
     "up_levels_notified": [],
@@ -8238,7 +9704,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 0.3
+      "sequence_score_v1": 0.0
     },
     "tracker_version": "move-tracker-v1"
   },
@@ -8248,11 +9714,11 @@
     "anchor_price": 6660.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789676646061,
-    "peak_price": 6738.0,
-    "peak_time": 1789711457700,
-    "last_price": 6738.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 1.1712,
+    "peak_price": 6950.0,
+    "peak_time": 1789783071980,
+    "last_price": 6950.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 4.3544,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [],
     "dd_levels_sent": [],
@@ -8294,11 +9760,11 @@
     "anchor_price": 36.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789676646061,
-    "peak_price": 36.0,
-    "peak_time": 1789676646061,
-    "last_price": 36.0,
-    "last_time": 1789676646061,
-    "max_gain_pct": 0.0,
+    "peak_price": 37.2,
+    "peak_time": 1789783071980,
+    "last_price": 37.2,
+    "last_time": 1789783071980,
+    "max_gain_pct": 3.3333,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [],
     "dd_levels_sent": [],
@@ -8386,11 +9852,11 @@
     "anchor_price": 32469.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789676646061,
-    "peak_price": 33370.0,
-    "peak_time": 1789711457700,
-    "last_price": 33370.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 2.775,
+    "peak_price": 34057.0,
+    "peak_time": 1789783071980,
+    "last_price": 34057.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 4.8908,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [],
     "dd_levels_sent": [],
@@ -8411,10 +9877,10 @@
       "sequence_score_v1": 10.2
     },
     "last_context": {
-      "status": "WATCH_ACCUMULATION",
+      "status": "WATCH",
       "vr": null,
-      "va": 10.0,
-      "bs": 0.35,
+      "va": null,
+      "bs": null,
       "breakout": false,
       "fast_shadow": false,
       "fast_kind": null,
@@ -8422,7 +9888,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 14.1
+      "sequence_score_v1": 12.2
     },
     "tracker_version": "move-tracker-v1"
   },
@@ -8524,14 +9990,16 @@
     "anchor_price": 1.7101,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789676646061,
-    "peak_price": 1.8042,
-    "peak_time": 1789711457700,
-    "last_price": 1.8042,
-    "last_time": 1789711457700,
-    "max_gain_pct": 5.5026,
+    "peak_price": 1.9944,
+    "peak_time": 1789783071980,
+    "last_price": 1.9944,
+    "last_time": 1789783071980,
+    "max_gain_pct": 16.6248,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [
-      5
+      5,
+      10,
+      15
     ],
     "dd_levels_sent": [],
     "up_levels_notified": [
@@ -8564,7 +10032,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 6.5
+      "sequence_score_v1": 4.8
     },
     "tracker_version": "move-tracker-v1",
     "milestone_events": [
@@ -8590,6 +10058,54 @@
           "fast_anchor_time": null,
           "fast_anchor_price": null,
           "sequence_score_v1": 6.5
+        }
+      },
+      {
+        "type": "UP",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 1.9944,
+        "anchor_price": 1.7101,
+        "peak_price": 1.9944,
+        "gain_pct": 16.6248,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 4.8
+        }
+      },
+      {
+        "type": "UP",
+        "level": 15,
+        "time": 1789783071980,
+        "price": 1.9944,
+        "anchor_price": 1.7101,
+        "peak_price": 1.9944,
+        "gain_pct": 16.6248,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 4.8
         }
       }
     ]
@@ -8738,15 +10254,31 @@
     "anchor_price": 1132.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789686230975,
-    "peak_price": 1132.0,
-    "peak_time": 1789686230975,
-    "last_price": 1078.0,
-    "last_time": 1789694230075,
-    "max_gain_pct": 0.0,
-    "drawdown_from_peak_pct": -4.7703,
-    "up_levels_sent": [],
+    "peak_price": 1626.0,
+    "peak_time": 1789783071980,
+    "last_price": 1626.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 43.6396,
+    "drawdown_from_peak_pct": 0.0,
+    "up_levels_sent": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      40
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      40
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -8763,10 +10295,10 @@
       "sequence_score_v1": 0.0
     },
     "last_context": {
-      "status": "WATCH",
+      "status": "WATCH_ACCUMULATION",
       "vr": null,
-      "va": null,
-      "bs": null,
+      "va": 0.02,
+      "bs": 5.0,
       "breakout": false,
       "fast_shadow": false,
       "fast_kind": null,
@@ -8774,9 +10306,179 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 0.0
+      "sequence_score_v1": 9.0
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 1626.0,
+        "anchor_price": 1132.0,
+        "peak_price": 1626.0,
+        "gain_pct": 43.6396,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH_ACCUMULATION",
+          "vr": null,
+          "va": 0.02,
+          "bs": 5.0,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 9.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 10,
+        "time": 1789783071980,
+        "price": 1626.0,
+        "anchor_price": 1132.0,
+        "peak_price": 1626.0,
+        "gain_pct": 43.6396,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH_ACCUMULATION",
+          "vr": null,
+          "va": 0.02,
+          "bs": 5.0,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 9.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 15,
+        "time": 1789783071980,
+        "price": 1626.0,
+        "anchor_price": 1132.0,
+        "peak_price": 1626.0,
+        "gain_pct": 43.6396,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH_ACCUMULATION",
+          "vr": null,
+          "va": 0.02,
+          "bs": 5.0,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 9.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 20,
+        "time": 1789783071980,
+        "price": 1626.0,
+        "anchor_price": 1132.0,
+        "peak_price": 1626.0,
+        "gain_pct": 43.6396,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH_ACCUMULATION",
+          "vr": null,
+          "va": 0.02,
+          "bs": 5.0,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 9.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 25,
+        "time": 1789783071980,
+        "price": 1626.0,
+        "anchor_price": 1132.0,
+        "peak_price": 1626.0,
+        "gain_pct": 43.6396,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH_ACCUMULATION",
+          "vr": null,
+          "va": 0.02,
+          "bs": 5.0,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 9.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 30,
+        "time": 1789783071980,
+        "price": 1626.0,
+        "anchor_price": 1132.0,
+        "peak_price": 1626.0,
+        "gain_pct": 43.6396,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH_ACCUMULATION",
+          "vr": null,
+          "va": 0.02,
+          "bs": 5.0,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 9.0
+        }
+      },
+      {
+        "type": "UP",
+        "level": 40,
+        "time": 1789783071980,
+        "price": 1626.0,
+        "anchor_price": 1132.0,
+        "peak_price": 1626.0,
+        "gain_pct": 43.6396,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH_ACCUMULATION",
+          "vr": null,
+          "va": 0.02,
+          "bs": 5.0,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 9.0
+        }
+      }
+    ]
   },
   "HIPPOIRT": {
     "symbol": "HIPPOIRT",
@@ -8784,11 +10486,11 @@
     "anchor_price": 26.6,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789686230975,
-    "peak_price": 26.6,
-    "peak_time": 1789686230975,
-    "last_price": 26.6,
-    "last_time": 1789686230975,
-    "max_gain_pct": 0.0,
+    "peak_price": 27.3,
+    "peak_time": 1789783071980,
+    "last_price": 27.3,
+    "last_time": 1789783071980,
+    "max_gain_pct": 2.6316,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [],
     "dd_levels_sent": [],
@@ -8832,10 +10534,10 @@
     "created_time": 1789686230975,
     "peak_price": 968.4,
     "peak_time": 1789711457700,
-    "last_price": 968.4,
-    "last_time": 1789711457700,
+    "last_price": 960.5,
+    "last_time": 1789783071980,
     "max_gain_pct": 5.4098,
-    "drawdown_from_peak_pct": 0.0,
+    "drawdown_from_peak_pct": -0.8158,
     "up_levels_sent": [
       5
     ],
@@ -8859,10 +10561,10 @@
       "sequence_score_v1": 5.0
     },
     "last_context": {
-      "status": "WATCH_ACCUMULATION",
+      "status": "WATCH",
       "vr": null,
-      "va": 0.0,
-      "bs": 5.0,
+      "va": null,
+      "bs": null,
       "breakout": false,
       "fast_shadow": false,
       "fast_kind": null,
@@ -8870,7 +10572,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 19.4
+      "sequence_score_v1": 16.1
     },
     "tracker_version": "move-tracker-v1",
     "milestone_events": [
@@ -9000,10 +10702,10 @@
     "created_time": 1789694230075,
     "peak_price": 381.0,
     "peak_time": 1789694230075,
-    "last_price": 378.0,
-    "last_time": 1789711457700,
+    "last_price": 368.0,
+    "last_time": 1789783071980,
     "max_gain_pct": 0.0,
-    "drawdown_from_peak_pct": -0.7874,
+    "drawdown_from_peak_pct": -3.4121,
     "up_levels_sent": [],
     "dd_levels_sent": [],
     "up_levels_notified": [],
@@ -9023,10 +10725,10 @@
       "sequence_score_v1": 8.6
     },
     "last_context": {
-      "status": "WATCH",
-      "vr": null,
-      "va": null,
-      "bs": null,
+      "status": "SCANNED",
+      "vr": 0.0,
+      "va": 0.58,
+      "bs": 3.0,
       "breakout": false,
       "fast_shadow": false,
       "fast_kind": null,
@@ -9034,7 +10736,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 2.3
+      "sequence_score_v1": 3.2
     },
     "tracker_version": "move-tracker-v1"
   },
@@ -9044,15 +10746,19 @@
     "anchor_price": 24819.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789711457700,
-    "peak_price": 24819.0,
-    "peak_time": 1789711457700,
-    "last_price": 24819.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 0.0,
+    "peak_price": 26624.0,
+    "peak_time": 1789783071980,
+    "last_price": 26624.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 7.2727,
     "drawdown_from_peak_pct": 0.0,
-    "up_levels_sent": [],
+    "up_levels_sent": [
+      5
+    ],
     "dd_levels_sent": [],
-    "up_levels_notified": [],
+    "up_levels_notified": [
+      5
+    ],
     "dd_levels_notified": [],
     "anchor_context": {
       "status": "WATCH",
@@ -9082,7 +10788,33 @@
       "fast_anchor_price": null,
       "sequence_score_v1": 0.0
     },
-    "tracker_version": "move-tracker-v1"
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1789783071980,
+        "price": 26624.0,
+        "anchor_price": 24819.0,
+        "peak_price": 26624.0,
+        "gain_pct": 7.2727,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0
+        }
+      }
+    ]
   },
   "SUIIRT": {
     "symbol": "SUIIRT",
@@ -9090,11 +10822,11 @@
     "anchor_price": 176288.0,
     "anchor_kind": "WAKE_DEEP",
     "created_time": 1789711457700,
-    "peak_price": 176288.0,
-    "peak_time": 1789711457700,
-    "last_price": 176288.0,
-    "last_time": 1789711457700,
-    "max_gain_pct": 0.0,
+    "peak_price": 184939.0,
+    "peak_time": 1789783071980,
+    "last_price": 184939.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 4.9073,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [],
     "dd_levels_sent": [],
@@ -9322,10 +11054,10 @@
     "created_time": 1789711457700,
     "peak_price": 61850.0,
     "peak_time": 1789711457700,
-    "last_price": 61850.0,
-    "last_time": 1789711457700,
+    "last_price": 52232.0,
+    "last_time": 1789783071980,
     "max_gain_pct": 0.0,
-    "drawdown_from_peak_pct": 0.0,
+    "drawdown_from_peak_pct": -15.5505,
     "up_levels_sent": [],
     "dd_levels_sent": [],
     "up_levels_notified": [],
@@ -9356,7 +11088,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 20.8
+      "sequence_score_v1": 16.2
     },
     "tracker_version": "move-tracker-v1"
   },
@@ -9368,10 +11100,10 @@
     "created_time": 1789711457700,
     "peak_price": 22.9,
     "peak_time": 1789711457700,
-    "last_price": 22.9,
-    "last_time": 1789711457700,
+    "last_price": 21.8,
+    "last_time": 1789783071980,
     "max_gain_pct": 0.0,
-    "drawdown_from_peak_pct": 0.0,
+    "drawdown_from_peak_pct": -4.8035,
     "up_levels_sent": [],
     "dd_levels_sent": [],
     "up_levels_notified": [],
@@ -9402,7 +11134,7 @@
       "confirmed_fast": false,
       "fast_anchor_time": null,
       "fast_anchor_price": null,
-      "sequence_score_v1": 11.7
+      "sequence_score_v1": 8.4
     },
     "tracker_version": "move-tracker-v1"
   },
@@ -9508,6 +11240,374 @@
     "peak_time": 1789711457700,
     "last_price": 13489.0,
     "last_time": 1789711457700,
+    "max_gain_pct": 0.0,
+    "drawdown_from_peak_pct": 0.0,
+    "up_levels_sent": [],
+    "dd_levels_sent": [],
+    "up_levels_notified": [],
+    "dd_levels_notified": [],
+    "anchor_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 0.0
+    },
+    "last_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 0.0
+    },
+    "tracker_version": "move-tracker-v1"
+  },
+  "ARIRT": {
+    "symbol": "ARIRT",
+    "anchor_time": 1789783071980,
+    "anchor_price": 811288.0,
+    "anchor_kind": "WAKE_DEEP",
+    "created_time": 1789783071980,
+    "peak_price": 811288.0,
+    "peak_time": 1789783071980,
+    "last_price": 811288.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 0.0,
+    "drawdown_from_peak_pct": 0.0,
+    "up_levels_sent": [],
+    "dd_levels_sent": [],
+    "up_levels_notified": [],
+    "dd_levels_notified": [],
+    "anchor_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 0.0
+    },
+    "last_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 0.0
+    },
+    "tracker_version": "move-tracker-v1"
+  },
+  "XCNIRT": {
+    "symbol": "XCNIRT",
+    "anchor_time": 1789783071980,
+    "anchor_price": 964.0,
+    "anchor_kind": "WAKE_SHORT",
+    "created_time": 1789783071980,
+    "peak_price": 964.0,
+    "peak_time": 1789783071980,
+    "last_price": 964.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 0.0,
+    "drawdown_from_peak_pct": 0.0,
+    "up_levels_sent": [],
+    "dd_levels_sent": [],
+    "up_levels_notified": [],
+    "dd_levels_notified": [],
+    "anchor_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 0.0
+    },
+    "last_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 0.0
+    },
+    "tracker_version": "move-tracker-v1"
+  },
+  "WIRT": {
+    "symbol": "WIRT",
+    "anchor_time": 1789783071980,
+    "anchor_price": 2483.0,
+    "anchor_kind": "WAKE_SHORT",
+    "created_time": 1789783071980,
+    "peak_price": 2483.0,
+    "peak_time": 1789783071980,
+    "last_price": 2483.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 0.0,
+    "drawdown_from_peak_pct": 0.0,
+    "up_levels_sent": [],
+    "dd_levels_sent": [],
+    "up_levels_notified": [],
+    "dd_levels_notified": [],
+    "anchor_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 8.0
+    },
+    "last_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 8.0
+    },
+    "tracker_version": "move-tracker-v1"
+  },
+  "CROSSIRT": {
+    "symbol": "CROSSIRT",
+    "anchor_time": 1789783071980,
+    "anchor_price": 33576.0,
+    "anchor_kind": "WAKE_DEEP",
+    "created_time": 1789783071980,
+    "peak_price": 33576.0,
+    "peak_time": 1789783071980,
+    "last_price": 33576.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 0.0,
+    "drawdown_from_peak_pct": 0.0,
+    "up_levels_sent": [],
+    "dd_levels_sent": [],
+    "up_levels_notified": [],
+    "dd_levels_notified": [],
+    "anchor_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 3.9
+    },
+    "last_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 3.9
+    },
+    "tracker_version": "move-tracker-v1"
+  },
+  "CIRT": {
+    "symbol": "CIRT",
+    "anchor_time": 1789783071980,
+    "anchor_price": 14678.0,
+    "anchor_kind": "WAKE_DEEP",
+    "created_time": 1789783071980,
+    "peak_price": 14678.0,
+    "peak_time": 1789783071980,
+    "last_price": 14678.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 0.0,
+    "drawdown_from_peak_pct": 0.0,
+    "up_levels_sent": [],
+    "dd_levels_sent": [],
+    "up_levels_notified": [],
+    "dd_levels_notified": [],
+    "anchor_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 0.0
+    },
+    "last_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 0.0
+    },
+    "tracker_version": "move-tracker-v1"
+  },
+  "BRIRT": {
+    "symbol": "BRIRT",
+    "anchor_time": 1789783071980,
+    "anchor_price": 194827.0,
+    "anchor_kind": "WAKE_DEEP",
+    "created_time": 1789783071980,
+    "peak_price": 194827.0,
+    "peak_time": 1789783071980,
+    "last_price": 194827.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 0.0,
+    "drawdown_from_peak_pct": 0.0,
+    "up_levels_sent": [],
+    "dd_levels_sent": [],
+    "up_levels_notified": [],
+    "dd_levels_notified": [],
+    "anchor_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 3.0
+    },
+    "last_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 3.0
+    },
+    "tracker_version": "move-tracker-v1"
+  },
+  "ALLOIRT": {
+    "symbol": "ALLOIRT",
+    "anchor_time": 1789783071980,
+    "anchor_price": 50065.0,
+    "anchor_kind": "WAKE_DEEP",
+    "created_time": 1789783071980,
+    "peak_price": 50065.0,
+    "peak_time": 1789783071980,
+    "last_price": 50065.0,
+    "last_time": 1789783071980,
+    "max_gain_pct": 0.0,
+    "drawdown_from_peak_pct": 0.0,
+    "up_levels_sent": [],
+    "dd_levels_sent": [],
+    "up_levels_notified": [],
+    "dd_levels_notified": [],
+    "anchor_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 0.0
+    },
+    "last_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 0.0
+    },
+    "tracker_version": "move-tracker-v1"
+  },
+  "OPGIRT": {
+    "symbol": "OPGIRT",
+    "anchor_time": 1789783071980,
+    "anchor_price": 25245.0,
+    "anchor_kind": "WAKE_SHORT",
+    "created_time": 1789783071980,
+    "peak_price": 25245.0,
+    "peak_time": 1789783071980,
+    "last_price": 25245.0,
+    "last_time": 1789783071980,
     "max_gain_pct": 0.0,
     "drawdown_from_peak_pct": 0.0,
     "up_levels_sent": [],
