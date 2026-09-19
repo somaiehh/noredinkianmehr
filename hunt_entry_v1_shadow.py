@@ -37,7 +37,7 @@ def register_entry_v1(candidates, now_ms=None):
     state = load_state()
     added = []
 
-    for x in candidates:
+    for candidate_rank, x in enumerate(candidates, start=1):
         if not is_entry_v1(x):
             continue
 
@@ -66,6 +66,8 @@ def register_entry_v1(candidates, now_ms=None):
             "symbol": symbol,
             "time": now_ms,
             "price": price,
+            "candidate_rank": candidate_rank,
+            "is_best": candidate_rank == 1,
             "hunt_score": x.get("hunt_score"),
             "status": x.get("status"),
             "p15": x.get("p15"),
