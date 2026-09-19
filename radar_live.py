@@ -1979,7 +1979,7 @@ def safe_score(m):
         return False, None, e
 
 
-def run_once(max_markets=0, alerts_enabled=True):
+def run_once(max_markets=0, alerts_enabled=True, entry_v1_shadow=False):
     markets=get_markets()
     if max_markets: markets=markets[:max_markets]
 
@@ -2181,19 +2181,19 @@ def run_once(max_markets=0, alerts_enabled=True):
                 f"P={s.get('persistence',0)} "
                 f"{s.get('status','?')}"
             )
-    # Update previous V1 shadows on EVERY scan,
-    # even when there are no new Hunt candidates.
-    try:
-        with open("tabdeal_radar_v21_data.json", "r") as f:
-            v1_history = json.load(f)
-        update_entry_v1_outcomes(v1_history)
-    except Exception as e:
-        print(f"HUNT_V1_OUTCOME_ERROR: {type(e).__name__}: {e}")
+    # HUNT ENTRY V1 SHADOW — Termux prospective cohort only.
+    if entry_v1_shadow:
+        try:
+            with open("tabdeal_radar_v21_data.json", "r") as f:
+                v1_history = json.load(f)
+            update_entry_v1_outcomes(v1_history)
+        except Exception as e:
+            print(f"HUNT_V1_OUTCOME_ERROR: {type(e).__name__}: {e}")
 
     if candidates:
-        # HUNT ENTRY V1 SHADOW
-        # Frozen prospective research only; NO phone alert.
-        register_entry_v1(candidates)
+        if entry_v1_shadow:
+            # Frozen prospective research only; NO phone alert.
+            register_entry_v1(candidates)
 
         # انتخاب اصلی = قوی‌ترین Hunt Score واقعی.
         # EARLY و PRE_EARLY هر دو در یک رتبه‌بندی قرار دارند.
@@ -2226,11 +2226,12 @@ def main():
     p.add_argument("--interval",type=int,default=60)
     p.add_argument("--max-markets",type=int,default=0)
     p.add_argument("--no-alerts",action="store_true")
+    p.add_argument("--entry-v1-shadow",action="store_true")
     a=p.parse_args()
     if a.once:
-        run_once(a.max_markets, alerts_enabled=not a.no_alerts); return
+        run_once(a.max_markets, alerts_enabled=not a.no_alerts, entry_v1_shadow=a.entry_v1_shadow); return
     while True:
-        try: run_once(a.max_markets, alerts_enabled=not a.no_alerts)
+        try: run_once(a.max_markets, alerts_enabled=not a.no_alerts, entry_v1_shadow=a.entry_v1_shadow)
         except Exception as e: print("RADAR ERROR:",e)
         time.sleep(max(15,a.interval))
 
