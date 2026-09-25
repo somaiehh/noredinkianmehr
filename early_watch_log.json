@@ -12527,7 +12527,10 @@
       "max_up": 0.5,
       "max_down": -1.02
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.5,
+      "max_down": -1.82
+    },
     "result_12h": null
   },
   {
@@ -12552,7 +12555,10 @@
       "max_up": 0.0,
       "max_down": -1.14
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -2.87
+    },
     "result_12h": null
   },
   {
@@ -12730,6 +12736,25 @@
     "va": 6.22,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LSKIRT",
+    "time": 1790355606582,
+    "price": 79757.0,
+    "level": "WATCH",
+    "hunt": 49.2,
+    "persistence": 1,
+    "p15": 0.57,
+    "vr": 0.37,
+    "va": 3.21,
+    "buy": 53.333333333333336,
+    "bs": 1.6,
     "breakout": false,
     "priority": false,
     "result_15m": null,
