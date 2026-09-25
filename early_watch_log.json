@@ -12460,5 +12460,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "FORTHIRT",
+    "time": 1790328801298,
+    "price": 69626.0,
+    "level": "STRONG",
+    "hunt": 59.3,
+    "persistence": 1,
+    "p15": 1.17,
+    "vr": 2.38,
+    "va": 1.1,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
