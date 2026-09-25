@@ -1857,5 +1857,24 @@
       "max_up": -0.68,
       "max_down": -4.27
     }
+  },
+  {
+    "symbol": "SEIIRT",
+    "time": 1790361907402,
+    "price": 16574.0,
+    "pre30": 3.29,
+    "pre60": 3.07,
+    "pre120": 5.16,
+    "hunt": 94.5,
+    "persistence": 2,
+    "vr": 2.73,
+    "va": 2.3,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.88,
+    "p15": 0.92,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
