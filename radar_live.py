@@ -1779,6 +1779,31 @@ def save_dashboard_data(out, alerts_enabled=True):
             and 0 < wake_prev_age_ms <= WAKE_PREV_MAX_AGE_MS
         )
 
+        # Price Direction Shadow - research/logging only.
+        # Find the most recent non-zero price within the same 60m lookback.
+        wake_prev_price = None
+        wake_prev_price_gap_min = None
+        wake_pre_price_move_pct = None
+
+        for pr in reversed(rh):
+            pr_time = int(pr.get("time") or 0)
+            pr_price = float(pr.get("price") or 0)
+            pr_age_ms = now - pr_time if pr_time > 0 else None
+
+            if (
+                pr_price > 0
+                and pr_age_ms is not None
+                and 0 < pr_age_ms <= WAKE_PREV_MAX_AGE_MS
+            ):
+                wake_prev_price = pr_price
+                wake_prev_price_gap_min = pr_age_ms / 60000.0
+
+                if cur_price_wake > 0:
+                    wake_pre_price_move_pct = (
+                        100.0 * (cur_price_wake / wake_prev_price - 1.0)
+                    )
+                break
+
         if wake_prev_valid:
             prev_t1h_wake = float(prev.get("trades1h") or 0)
             prev_t4h_wake = float(prev.get("trades4h") or 0)
@@ -2008,6 +2033,19 @@ def save_dashboard_data(out, alerts_enabled=True):
                 else None
             ),
             "wake_prev_valid": wake_prev_valid,
+
+            # Price Direction Shadow - research/logging only.
+            "wake_prev_price": wake_prev_price,
+            "wake_prev_price_gap_min": (
+                round(wake_prev_price_gap_min, 4)
+                if wake_prev_price_gap_min is not None
+                else None
+            ),
+            "wake_pre_price_move_pct": (
+                round(wake_pre_price_move_pct, 4)
+                if wake_pre_price_move_pct is not None
+                else None
+            ),
 
             "strong_wake": strong_wake,
             "wake_anchor_time": wake_anchor_time,
