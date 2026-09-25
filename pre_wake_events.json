@@ -58,7 +58,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 3.3355,
+    "max_move": 5.8679,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -80,6 +80,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 9.0749,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "PHAIRT",
+    "event_time": 1790345901535,
+    "event_price": 17495.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 66.8,
+    "p15": -1.4,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 1.51,
+    "book": 0.7,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
