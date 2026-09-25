@@ -1263,6 +1263,8 @@ def move_tracker_context(row):
         "trades1h": row.get("trades1h"),
         "trades4h": row.get("trades4h"),
         "wake_fresh_ratio": row.get("wake_fresh_ratio"),
+        "wake_a1": row.get("wake_a1"),
+        "wake_a4": row.get("wake_a4"),
         "p15": row.get("p15"),
         "book": row.get("book"),
     }
@@ -1973,6 +1975,11 @@ def save_dashboard_data(out, alerts_enabled=True):
             "wake_deep": wake_deep,
             "wake_follow": wake_follow,
             "wake_fresh_ratio": round(wake_fresh_ratio, 4),
+
+            # Wake acceleration - research/logging only.
+            "wake_a1": wake_a1,
+            "wake_a4": wake_a4,
+
             "strong_wake": strong_wake,
             "wake_anchor_time": wake_anchor_time,
             "wake_anchor_price": wake_anchor_price,
