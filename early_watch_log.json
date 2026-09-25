@@ -12848,7 +12848,10 @@
       "max_up": 1.11,
       "max_down": -2.24
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.22,
+      "max_down": -2.24
+    },
     "result_12h": null
   },
   {
@@ -12873,7 +12876,10 @@
       "max_up": 1.73,
       "max_down": 0.54
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.18,
+      "max_down": 0.54
+    },
     "result_12h": null
   },
   {
@@ -12898,7 +12904,10 @@
       "max_up": -0.2,
       "max_down": -1.01
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.05,
+      "max_down": -2.36
+    },
     "result_12h": null
   },
   {
@@ -13013,7 +13022,10 @@
       "max_up": -0.73,
       "max_down": -0.73
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.23,
+      "max_down": -1.79
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -13035,6 +13047,66 @@
       "max_up": 0.54,
       "max_down": 0.54
     },
+    "result_1h": {
+      "max_up": 0.54,
+      "max_down": -1.7
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WIFIRT",
+    "time": 1790375694542,
+    "price": 57648.0,
+    "level": "STRONG",
+    "hunt": 56.8,
+    "persistence": 1,
+    "p15": 0.41,
+    "vr": 0.2,
+    "va": 2.15,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HIRT",
+    "time": 1790375694542,
+    "price": 18356.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.92,
+    "vr": 1.02,
+    "va": 10.0,
+    "buy": 41.66666666666667,
+    "bs": 1.25,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1790375694542,
+    "price": 334999.0,
+    "level": "STRONG",
+    "hunt": 51.0,
+    "persistence": 1,
+    "p15": 0.54,
+    "vr": 0.04,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
