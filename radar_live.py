@@ -7,31 +7,83 @@ from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 import requests
 from breakout_observer_v1 import update_breakout_observer
+from ignition_history_logger import save_ignition_history
+from move_early_v2_shadow import run_shadow as run_move_early_v2_shadow
 from hunt_quiet_wake_v1 import update_quiet_wake, update_quiet_wake_outcomes, update_quiet_wake_snapshots
 
 BASE = "https://api1.tabdeal.org"
 TIMEOUT = 15
 
 NTFY_TOPIC = "tabdeal-radar-kian-8264"
+NTFY_MOVE_TOPIC = "tabdeal-move-kian-8264"
 
-def send_ntfy(message, title="Tabdeal Radar"):
-    try:
-        r = requests.post(
-            f"https://ntfy.sh/{NTFY_TOPIC}",
-            data=message.encode("utf-8"),
-            headers={
-                "Title": title,
-                "Priority": "high",
-                "Tags": "rotating_light"
-            },
-            timeout=10
-        )
-        r.raise_for_status()
-        print("NTFY: sent |", title, "|", message.replace("\n", " "))
-        return True
-    except requests.RequestException as e:
-        print("NTFY error:", e)
+NTFY_CIRCUIT_OPEN = False
+
+def send_ntfy(message, title="Tabdeal Radar", topic=None):
+    global NTFY_CIRCUIT_OPEN
+
+    if NTFY_CIRCUIT_OPEN:
+        print("NTFY: skipped | circuit open |", title)
         return False
+
+    url = f"https://ntfy.sh/{topic or NTFY_TOPIC}"
+    if "MOVE UP" in title:
+        priority = "default"
+        tags = "green_circle,chart_with_upwards_trend"
+    elif "PULLBACK" in title:
+        priority = "default"
+        tags = "red_circle,chart_with_downwards_trend"
+    else:
+        priority = "high"
+        tags = "dart,fire"
+
+    headers = {
+        "Title": title,
+        "Priority": priority,
+        "Tags": tags
+    }
+
+    for attempt in range(2):
+        try:
+            r = requests.post(
+                url,
+                data=message.encode("utf-8"),
+                headers=headers,
+                timeout=10
+            )
+
+            if r.status_code == 429:
+                if attempt == 0:
+                    retry_after = r.headers.get("Retry-After", "3")
+                    try:
+                        wait_s = float(retry_after)
+                    except (TypeError, ValueError):
+                        wait_s = 3.0
+
+                    wait_s = max(1.0, min(wait_s, 10.0))
+                    print(f"NTFY 429: retry in {wait_s:.1f}s")
+                    time.sleep(wait_s)
+                    continue
+
+                print("NTFY 429: retry exhausted | circuit opened")
+                NTFY_CIRCUIT_OPEN = True
+                return False
+
+            r.raise_for_status()
+
+            print(
+                "NTFY: sent |",
+                title,
+                "|",
+                message.replace("\n", " ")
+            )
+            return True
+
+        except requests.RequestException as e:
+            print("NTFY error:", e)
+            return False
+
+    return False
 
 
 ALERT_HISTORY_FILE = os.path.join(
@@ -611,6 +663,7 @@ def save_persistence(state):
     os.replace(tmp, PERSIST_FILE)
 
 DATA_FILE = os.path.join(os.path.dirname(__file__), "tabdeal_radar_v21_data.json")
+IGNITION_HISTORY_FILE = os.path.join(os.path.dirname(__file__), "ignition_history.json")
 
 def sequence_score_v0(history, current):
     recent = history[-6:]
@@ -1203,6 +1256,15 @@ def move_tracker_context(row):
         "fast_anchor_time": row.get("fast_anchor_time"),
         "fast_anchor_price": row.get("fast_anchor_price"),
         "sequence_score_v1": row.get("sequence_score_v1"),
+
+        # Raw anchor features - research/logging only.
+        # No effect on Wake, Hunt, status, alerts, or trading logic.
+        "trades15": row.get("trades15"),
+        "trades1h": row.get("trades1h"),
+        "trades4h": row.get("trades4h"),
+        "wake_fresh_ratio": row.get("wake_fresh_ratio"),
+        "p15": row.get("p15"),
+        "book": row.get("book"),
     }
 
 
@@ -1403,7 +1465,7 @@ def update_move_tracker(data, now_ms, alerts_enabled=False):
                     f"{symbol} | +{level}% from anchor | "
                     f"Price={price:.8g} | Anchor={anchor_price:.8g} | "
                     f"Peak={peak_price:.8g}",
-                    title="Tabdeal MOVE UP"
+                    title="Tabdeal MOVE UP", topic=NTFY_MOVE_TOPIC
                 )
                 if ok:
                     up_notified.add(level)
@@ -1414,7 +1476,7 @@ def update_move_tracker(data, now_ms, alerts_enabled=False):
                     f"Price={price:.8g} | Peak={peak_price:.8g} | "
                     f"Anchor={anchor_price:.8g} | "
                     f"Gain={gain_pct:+.1f}%",
-                    title="Tabdeal MOVE PULLBACK"
+                    title="Tabdeal MOVE PULLBACK", topic=NTFY_MOVE_TOPIC
                 )
                 if ok:
                     dd_notified.add(level)
@@ -1979,7 +2041,7 @@ def safe_score(m):
         return False, None, e
 
 
-def run_once(max_markets=0, alerts_enabled=True, entry_v1_shadow=False):
+def run_once(max_markets=0, alerts_enabled=True, entry_v1_shadow=False, move_early_v2_shadow=False):
     markets=get_markets()
     if max_markets: markets=markets[:max_markets]
 
@@ -2101,6 +2163,11 @@ def run_once(max_markets=0, alerts_enabled=True, entry_v1_shadow=False):
                         ):
                             hunt = min(hunt, 78.0)
 
+                        ignition_bonus = (status == "EARLY" and 0 <= float(s.get("p15") or 0) <= 1 and float(s.get("va") or 0) >= 5 and float(s.get("bs") or 0) >= 2 and bool(s.get("breakout")) and float(s.get("book") or 0) >= 1 and float(s.get("sequence_score_v1") or 0) >= 40)
+                        s["ignition_bonus"] = bool(ignition_bonus)
+                        if ignition_bonus:
+                            hunt += 5.0
+
                         s["hunt_score"] = round(
                             min(100.0, hunt),
                             1
@@ -2141,6 +2208,14 @@ def run_once(max_markets=0, alerts_enabled=True, entry_v1_shadow=False):
 
     # Only healthy scans are allowed into dashboard/history.
     save_dashboard_data(out, alerts_enabled=alerts_enabled)
+    save_ignition_history(out, IGNITION_HISTORY_FILE)
+
+    # MOVE-EARLY V2 SHADOW — Termux prospective research only.
+    if move_early_v2_shadow:
+        try:
+            run_move_early_v2_shadow()
+        except Exception as e:
+            print(f"MOVE_EARLY_V2_CALL_ERROR: {type(e).__name__}: {e}")
 
     # Terminal ranking must contain only true hunt candidates.
     candidates = [
@@ -2178,6 +2253,7 @@ def run_once(max_markets=0, alerts_enabled=True, entry_v1_shadow=False):
                 f"B/S={s['bs']:.1f} "
                 f"Book={s['book']:.2f} "
                 f"BO={'Y' if s['breakout'] else 'N'} "
+                f"IGN={'Y' if s.get('ignition_bonus') else 'N'} "
                 f"P={s.get('persistence',0)} "
                 f"{s.get('status','?')}"
             )
@@ -2227,11 +2303,12 @@ def main():
     p.add_argument("--max-markets",type=int,default=0)
     p.add_argument("--no-alerts",action="store_true")
     p.add_argument("--entry-v1-shadow",action="store_true")
+    p.add_argument("--move-early-v2-shadow",action="store_true")
     a=p.parse_args()
     if a.once:
-        run_once(a.max_markets, alerts_enabled=not a.no_alerts, entry_v1_shadow=a.entry_v1_shadow); return
+        run_once(a.max_markets, alerts_enabled=not a.no_alerts, entry_v1_shadow=a.entry_v1_shadow, move_early_v2_shadow=a.move_early_v2_shadow); return
     while True:
-        try: run_once(a.max_markets, alerts_enabled=not a.no_alerts, entry_v1_shadow=a.entry_v1_shadow)
+        try: run_once(a.max_markets, alerts_enabled=not a.no_alerts, entry_v1_shadow=a.entry_v1_shadow, move_early_v2_shadow=a.move_early_v2_shadow)
         except Exception as e: print("RADAR ERROR:",e)
         time.sleep(max(15,a.interval))
 
