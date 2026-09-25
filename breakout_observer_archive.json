@@ -173,5 +173,29 @@
     "confirmed_time": 1790328801298,
     "confirmed_price": 368494112.0,
     "expired_time": 1790328801298
+  },
+  {
+    "symbol": "BRIRT",
+    "anchor_time": 1789800202587,
+    "anchor_price": 210081.0,
+    "status": "EXPIRED",
+    "created_time": 1789800202587,
+    "last_time": 1790363889543,
+    "last_price": 211000.0,
+    "max_gain_pct": 23.7618,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790328801298,
+    "confirmed_price": 229255.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790328801298,
+        "price": 229255.0,
+        "gain_pct": 9.127
+      }
+    ],
+    "expired_time": 1790328801298
   }
 ]
