@@ -1879,5 +1879,24 @@
       "max_down": -0.57
     },
     "result_4h": null
+  },
+  {
+    "symbol": "SUIIRT",
+    "time": 1790368370207,
+    "price": 270000.0,
+    "pre30": 2.08,
+    "pre60": 3.17,
+    "pre120": 3.4,
+    "hunt": 92.5,
+    "persistence": 2,
+    "vr": 1.49,
+    "va": 5.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.5,
+    "p15": 1.31,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

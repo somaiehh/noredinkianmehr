@@ -221,5 +221,18 @@
       }
     ],
     "expired_time": 1789711457700
+  },
+  {
+    "symbol": "GALAIRT",
+    "anchor_time": 1789664716709,
+    "anchor_price": 431.1,
+    "status": "FAILED",
+    "created_time": 1789664716709,
+    "last_time": 1790367343176,
+    "last_price": 499.9,
+    "max_gain_pct": 15.9592,
+    "levels": [],
+    "failed_time": 1789686230975,
+    "failed_price": 415.1
   }
 ]
