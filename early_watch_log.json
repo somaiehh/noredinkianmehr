@@ -12583,7 +12583,10 @@
       "max_up": 0.0,
       "max_down": -1.98
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -4.27
+    },
     "result_12h": null
   },
   {
@@ -12738,7 +12741,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.19,
+      "max_down": -0.19
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -12756,6 +12762,25 @@
     "buy": 53.333333333333336,
     "bs": 1.6,
     "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARKIRT",
+    "time": 1790356531698,
+    "price": 54035.0,
+    "level": "STRONG",
+    "hunt": 71.1,
+    "persistence": 1,
+    "p15": 0.92,
+    "vr": 0.4,
+    "va": 5.27,
+    "buy": 75.33333333333333,
+    "bs": 2.26,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
