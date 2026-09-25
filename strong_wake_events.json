@@ -731,7 +731,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -0.8176,
+    "min_move": -1.918,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "GIRT",
+    "event_time": 1790358310271,
+    "event_price": 1346.0,
+    "anchor_time": 1790354876160,
+    "anchor_price": 1339.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 1.0,
+    "tm_e15_e1": 1.0,
+    "tm_e1_e4": 0.36,
+    "tm_g15": 3.0,
+    "tm_g1": 0.6923,
+    "tm_g4": 1.25,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]

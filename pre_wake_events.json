@@ -103,5 +103,26 @@
     "max_move": 6.3561,
     "min_move": -3.7897,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ONEIRT",
+    "event_time": 1790358310271,
+    "event_price": 588.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 35.2,
+    "p15": -1.51,
+    "vr": null,
+    "va": 3.75,
+    "ta": null,
+    "bs": 1.54,
+    "book": 0.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
