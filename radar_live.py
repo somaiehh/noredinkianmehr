@@ -1265,6 +1265,8 @@ def move_tracker_context(row):
         "wake_fresh_ratio": row.get("wake_fresh_ratio"),
         "wake_a1": row.get("wake_a1"),
         "wake_a4": row.get("wake_a4"),
+        "wake_prev_gap_min": row.get("wake_prev_gap_min"),
+        "wake_prev_valid": row.get("wake_prev_valid"),
         "p15": row.get("p15"),
         "book": row.get("book"),
     }
@@ -1761,14 +1763,34 @@ def save_dashboard_data(out, alerts_enabled=True):
         cur_t4h = float(x.get("trades4h") or 0)
         cur_price_wake = float(x.get("price") or 0)
 
-        prev_t1h_wake = float(prev.get("trades1h") or 0)
-        prev_t4h_wake = float(prev.get("trades4h") or 0)
+        # A previous snapshot is valid for Wake acceleration only when recent.
+        # This prevents stale snapshots after scan outages/restarts from creating
+        # artificial A1/A4 acceleration.
+        WAKE_PREV_MAX_AGE_MS = 60 * 60 * 1000
+        prev_time_wake = int(prev.get("time") or 0)
+        wake_prev_age_ms = (now - prev_time_wake) if prev_time_wake > 0 else None
+        wake_prev_gap_min = (
+            wake_prev_age_ms / 60000.0
+            if wake_prev_age_ms is not None
+            else None
+        )
+        wake_prev_valid = bool(
+            wake_prev_age_ms is not None
+            and 0 < wake_prev_age_ms <= WAKE_PREV_MAX_AGE_MS
+        )
 
-        wake_a1 = cur_t1h - prev_t1h_wake
-        wake_a4 = cur_t4h - prev_t4h_wake
+        if wake_prev_valid:
+            prev_t1h_wake = float(prev.get("trades1h") or 0)
+            prev_t4h_wake = float(prev.get("trades4h") or 0)
+            wake_a1 = cur_t1h - prev_t1h_wake
+            wake_a4 = cur_t4h - prev_t4h_wake
+        else:
+            wake_a1 = None
+            wake_a4 = None
 
         wake_short_raw = (
-            x.get("p15") is None
+            wake_prev_valid
+            and x.get("p15") is None
             and cur_price_wake > 0
             and cur_t15 >= 2
             and cur_t1h >= 6
@@ -1778,7 +1800,8 @@ def save_dashboard_data(out, alerts_enabled=True):
         )
 
         wake_deep_raw = (
-            x.get("p15") is None
+            wake_prev_valid
+            and x.get("p15") is None
             and cur_price_wake > 0
             and cur_t4h >= 20
             and wake_a4 >= 8
@@ -1976,9 +1999,15 @@ def save_dashboard_data(out, alerts_enabled=True):
             "wake_follow": wake_follow,
             "wake_fresh_ratio": round(wake_fresh_ratio, 4),
 
-            # Wake acceleration - research/logging only.
+            # Wake acceleration / previous-snapshot validity.
             "wake_a1": wake_a1,
             "wake_a4": wake_a4,
+            "wake_prev_gap_min": (
+                round(wake_prev_gap_min, 4)
+                if wake_prev_gap_min is not None
+                else None
+            ),
+            "wake_prev_valid": wake_prev_valid,
 
             "strong_wake": strong_wake,
             "wake_anchor_time": wake_anchor_time,
