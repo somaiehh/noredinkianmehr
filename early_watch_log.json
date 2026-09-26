@@ -12717,7 +12717,10 @@
       "max_up": 5.69,
       "max_down": -3.73
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 11.33,
+      "max_down": -3.73
+    }
   },
   {
     "symbol": "TACIRT",
@@ -12745,7 +12748,10 @@
       "max_up": 0.27,
       "max_down": -0.8
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.27,
+      "max_down": -3.71
+    }
   },
   {
     "symbol": "LABIRT",
@@ -13187,7 +13193,10 @@
       "max_up": -0.31,
       "max_down": -0.43
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.57,
+      "max_down": -0.82
+    },
     "result_12h": null
   },
   {
@@ -13209,6 +13218,25 @@
       "max_up": 0.0,
       "max_down": -0.75
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PUMPIRT",
+    "time": 1790393405421,
+    "price": 1009.3,
+    "level": "STRONG",
+    "hunt": 54.5,
+    "persistence": 1,
+    "p15": 0.71,
+    "vr": 0.37,
+    "va": 10.0,
+    "buy": 93.0,
+    "bs": 2.79,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
