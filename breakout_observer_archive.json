@@ -724,5 +724,73 @@
     "max_gain_pct": 2.7439,
     "levels": [],
     "expired_time": 1790398788722
+  },
+  {
+    "symbol": "SANDIRT",
+    "anchor_time": 1790340823815,
+    "anchor_price": 10536.2352,
+    "status": "FAILED",
+    "created_time": 1790340823815,
+    "last_time": 1790433137312,
+    "last_price": 10688.987,
+    "max_gain_pct": 2.2162,
+    "levels": [],
+    "failed_time": 1790345901535,
+    "failed_price": 10214.1953
+  },
+  {
+    "symbol": "AVAXIRT",
+    "anchor_time": 1789783071980,
+    "anchor_price": 1924063.0,
+    "status": "EXPIRED",
+    "created_time": 1789783071980,
+    "last_time": 1790433137312,
+    "last_price": 2544205.0,
+    "max_gain_pct": 33.5054,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790328801298,
+    "confirmed_price": 2408516.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790328801298,
+        "price": 2408516.0,
+        "gain_pct": 25.1786
+      },
+      {
+        "level": 10,
+        "time": 1790328801298,
+        "price": 2408516.0,
+        "gain_pct": 25.1786
+      }
+    ],
+    "expired_time": 1790328801298
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1789653957633,
+    "anchor_price": 0.80785,
+    "status": "EXPIRED",
+    "created_time": 1789653957633,
+    "last_time": 1790433137312,
+    "last_price": 1.02382,
+    "max_gain_pct": 30.2222,
+    "levels": [],
+    "expired_time": 1789711457700
+  },
+  {
+    "symbol": "WIFIRT",
+    "anchor_time": 1790375694542,
+    "anchor_price": 57648.0,
+    "status": "EXPIRED",
+    "created_time": 1790375694542,
+    "last_time": 1790433137312,
+    "last_price": 58386.0,
+    "max_gain_pct": 2.4407,
+    "levels": [],
+    "expired_time": 1790419546457
   }
 ]

@@ -13780,7 +13780,10 @@
       "max_up": 1.96,
       "max_down": 0.21
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.96,
+      "max_down": -1.17
+    },
     "result_12h": null
   },
   {
@@ -13805,7 +13808,10 @@
       "max_up": 0.9,
       "max_down": -1.07
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.14,
+      "max_down": -1.07
+    },
     "result_12h": null
   },
   {
@@ -13830,7 +13836,10 @@
       "max_up": 1.1,
       "max_down": 0.41
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.1,
+      "max_down": -1.37
+    },
     "result_12h": null
   },
   {
@@ -14064,7 +14073,10 @@
       "max_up": -0.77,
       "max_down": -0.77
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.48,
+      "max_down": -0.77
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -14148,6 +14160,28 @@
     "bs": 1.09,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WIFIRT",
+    "time": 1790433896638,
+    "price": 59283.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.54,
+    "vr": 3.8,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
