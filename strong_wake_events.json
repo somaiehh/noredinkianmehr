@@ -581,7 +581,7 @@
     "tm_g4": 1.0667,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1790358310271,
+    "result_time": 1790360189808,
     "result_move": -5.0584,
     "max_move": 0.0,
     "min_move": -5.642,
@@ -707,8 +707,8 @@
     "tm_g4": 1.1818,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1790358310271,
-    "result_move": -10.2825,
+    "result_time": 1790359198557,
+    "result_move": -9.4216,
     "max_move": 0.0,
     "min_move": -10.2825,
     "ledger_version": "wake-ledger-v1"
@@ -983,7 +983,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.4218,
-    "min_move": -0.9479,
+    "min_move": -1.1848,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -1319,7 +1319,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -2.4379,
+    "min_move": -2.6291,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -1382,7 +1382,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.1376,
-    "min_move": 0.0,
+    "min_move": -1.3907,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -1404,6 +1404,48 @@
     "result_move": null,
     "max_move": 0.0883,
     "min_move": -0.4226,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "MDTIRT",
+    "event_time": 1790451145294,
+    "event_price": 1820.0,
+    "anchor_time": 1790448415954,
+    "anchor_price": 1853.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.3158,
+    "tm_e15_e1": 0.3158,
+    "tm_e1_e4": 0.7308,
+    "tm_g15": 0.4615,
+    "tm_g1": 1.4615,
+    "tm_g4": 1.2381,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "SLVONIRT",
+    "event_time": 1790451145294,
+    "event_price": 13442000.0,
+    "anchor_time": 1790450301490,
+    "anchor_price": 13391775.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.8485,
+    "tm_e15_e1": 0.8485,
+    "tm_e1_e4": 0.8571,
+    "tm_g15": 6.2222,
+    "tm_g1": 6.6,
+    "tm_g4": 3.6667,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
