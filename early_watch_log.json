@@ -13242,5 +13242,43 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "time": 1790396112952,
+    "price": 13114.0,
+    "level": "STRONG",
+    "hunt": 54.4,
+    "persistence": 1,
+    "p15": 0.59,
+    "vr": 0.5,
+    "va": 3.7,
+    "buy": 64.66666666666666,
+    "bs": 1.94,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1790396112952,
+    "price": 341048.0,
+    "level": "STRONG",
+    "hunt": 100.0,
+    "persistence": 3,
+    "p15": 1.07,
+    "vr": 3.33,
+    "va": 10.0,
+    "buy": 53.333333333333336,
+    "bs": 1.6,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]

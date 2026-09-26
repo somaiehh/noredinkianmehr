@@ -1976,5 +1976,43 @@
       "max_down": 0.81
     },
     "result_4h": null
+  },
+  {
+    "symbol": "PUMPIRT",
+    "time": 1790396112952,
+    "price": 1023.0,
+    "pre30": 1.68,
+    "pre60": 2.08,
+    "pre120": 3.33,
+    "hunt": 93.6,
+    "persistence": 2,
+    "vr": 11.05,
+    "va": 10.0,
+    "buy": 50.33333333333333,
+    "bs": 1.51,
+    "ob": 0.77,
+    "p15": 0.79,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1790396112952,
+    "price": 341048.0,
+    "pre30": 0.95,
+    "pre60": 1.13,
+    "pre120": 1.39,
+    "hunt": 100.0,
+    "persistence": 3,
+    "vr": 3.33,
+    "va": 10.0,
+    "buy": 53.333333333333336,
+    "bs": 1.6,
+    "ob": 0.21,
+    "p15": 1.07,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

@@ -5,8 +5,8 @@
     "anchor_price": 0.80785,
     "status": "EXPIRED",
     "created_time": 1789653957633,
-    "last_time": 1790395171643,
-    "last_price": 1.04128,
+    "last_time": 1790396112952,
+    "last_price": 1.04434,
     "max_gain_pct": 30.2222,
     "levels": [],
     "expired_time": 1789711457700
@@ -60,8 +60,8 @@
     "anchor_price": 96882.0,
     "status": "FAILED",
     "created_time": 1789694230075,
-    "last_time": 1790395171643,
-    "last_price": 80189.0,
+    "last_time": 1790396112952,
+    "last_price": 80934.0,
     "max_gain_pct": 0.0,
     "levels": [],
     "failed_time": 1789800202587,
@@ -99,8 +99,8 @@
     "anchor_price": 1924063.0,
     "status": "EXPIRED",
     "created_time": 1789783071980,
-    "last_time": 1790395171643,
-    "last_price": 2484352.0,
+    "last_time": 1790396112952,
+    "last_price": 2495872.0,
     "max_gain_pct": 31.9147,
     "levels": [
       5,
@@ -130,8 +130,8 @@
     "anchor_price": 48838.0,
     "status": "EXPIRED",
     "created_time": 1789800202587,
-    "last_time": 1790385163562,
-    "last_price": 52463.0,
+    "last_time": 1790396112952,
+    "last_price": 52497.0,
     "max_gain_pct": 8.3971,
     "levels": [],
     "confirmed_time": 1790328801298,
@@ -158,7 +158,7 @@
     "anchor_price": 1142300.0,
     "status": "EXPIRED",
     "created_time": 1790328801298,
-    "last_time": 1790395171643,
+    "last_time": 1790396112952,
     "last_price": 1141022.0,
     "max_gain_pct": 5.3131,
     "levels": [
@@ -182,7 +182,7 @@
     "anchor_price": 19304.0,
     "status": "EXPIRED",
     "created_time": 1790328801298,
-    "last_time": 1790395171643,
+    "last_time": 1790396112952,
     "last_price": 17357.0,
     "max_gain_pct": 9.2105,
     "levels": [
@@ -198,18 +198,6 @@
         "gain_pct": 9.2105
       }
     ],
-    "expired_time": 1790372086415
-  },
-  "GRAMIRT": {
-    "symbol": "GRAMIRT",
-    "anchor_time": 1790328801298,
-    "anchor_price": 330840.0,
-    "status": "EXPIRED",
-    "created_time": 1790328801298,
-    "last_time": 1790395171643,
-    "last_price": 337442.0,
-    "max_gain_pct": 2.1902,
-    "levels": [],
     "expired_time": 1790372086415
   },
   "FETIRT": {
@@ -230,8 +218,8 @@
     "anchor_price": 10536.2352,
     "status": "FAILED",
     "created_time": 1790340823815,
-    "last_time": 1790390727363,
-    "last_price": 10593.3417,
+    "last_time": 1790396112952,
+    "last_price": 10520.6743,
     "max_gain_pct": 0.542,
     "levels": [],
     "failed_time": 1790345901535,
@@ -243,8 +231,8 @@
     "anchor_price": 15859.0,
     "status": "EXPIRED",
     "created_time": 1790341308647,
-    "last_time": 1790395171643,
-    "last_price": 18330.0,
+    "last_time": 1790396112952,
+    "last_price": 18380.0,
     "max_gain_pct": 16.6026,
     "levels": [
       5,
@@ -274,8 +262,8 @@
     "anchor_price": 10908.0,
     "status": "EXPIRED",
     "created_time": 1790341586016,
-    "last_time": 1790395171643,
-    "last_price": 13037.0,
+    "last_time": 1790396112952,
+    "last_price": 13114.0,
     "max_gain_pct": 23.304,
     "levels": [
       5,
@@ -305,7 +293,7 @@
     "anchor_price": 127861.0,
     "status": "FAILED",
     "created_time": 1790343923360,
-    "last_time": 1790395171643,
+    "last_time": 1790396112952,
     "last_price": 125437.0,
     "max_gain_pct": 0.3551,
     "levels": [],
@@ -318,8 +306,8 @@
     "anchor_price": 372.0,
     "status": "EXPIRED",
     "created_time": 1790345901535,
-    "last_time": 1790395171643,
-    "last_price": 365.0,
+    "last_time": 1790396112952,
+    "last_price": 364.0,
     "max_gain_pct": 1.6129,
     "levels": [],
     "expired_time": 1790389862828
@@ -330,8 +318,8 @@
     "anchor_price": 18100.0,
     "status": "FAILED",
     "created_time": 1790346869703,
-    "last_time": 1790395171643,
-    "last_price": 18964.0,
+    "last_time": 1790396112952,
+    "last_price": 19184.0,
     "max_gain_pct": 24.6298,
     "levels": [],
     "failed_time": 1790351118358,
@@ -343,9 +331,9 @@
     "anchor_price": 57924.0,
     "status": "EXPIRED",
     "created_time": 1790347497602,
-    "last_time": 1790395171643,
-    "last_price": 62386.0,
-    "max_gain_pct": 9.0308,
+    "last_time": 1790396112952,
+    "last_price": 64720.0,
+    "max_gain_pct": 11.7326,
     "levels": [
       5
     ],
@@ -367,7 +355,7 @@
     "anchor_price": 13700.0,
     "status": "EXPIRED",
     "created_time": 1790347497602,
-    "last_time": 1790395171643,
+    "last_time": 1790396112952,
     "last_price": 13730.0,
     "max_gain_pct": 1.8394,
     "levels": [],
@@ -379,8 +367,8 @@
     "anchor_price": 433.0,
     "status": "EXPIRED",
     "created_time": 1790349384424,
-    "last_time": 1790395171643,
-    "last_price": 591.6,
+    "last_time": 1790396112952,
+    "last_price": 605.7,
     "max_gain_pct": 59.3995,
     "levels": [
       5,
@@ -445,22 +433,23 @@
     "symbol": "LTCIRT",
     "anchor_time": 1790352062136,
     "anchor_price": 16307901.0,
-    "status": "CONFIRMED_MOVE",
+    "status": "EXPIRED",
     "created_time": 1790352062136,
-    "last_time": 1790392454090,
-    "last_price": 17004261.0,
+    "last_time": 1790396112952,
+    "last_price": 16917130.0,
     "max_gain_pct": 4.5852,
     "levels": [],
     "confirmed_time": 1790375694542,
-    "confirmed_price": 16872152.0
+    "confirmed_price": 16872152.0,
+    "expired_time": 1790396112952
   },
   "ARKIRT": {
     "symbol": "ARKIRT",
     "anchor_time": 1790352062136,
     "anchor_price": 53421.0,
-    "status": "CONFIRMED_MOVE",
+    "status": "EXPIRED",
     "created_time": 1790352062136,
-    "last_time": 1790395171643,
+    "last_time": 1790396112952,
     "last_price": 65093.0,
     "max_gain_pct": 21.8491,
     "levels": [
@@ -482,16 +471,17 @@
         "price": 60045.0,
         "gain_pct": 12.3996
       }
-    ]
+    ],
+    "expired_time": 1790396112952
   },
   "SEIIRT": {
     "symbol": "SEIIRT",
     "anchor_time": 1790352864040,
     "anchor_price": 15832.0,
-    "status": "CONFIRMED_MOVE",
+    "status": "EXPIRED",
     "created_time": 1790352864040,
-    "last_time": 1790395171643,
-    "last_price": 17016.0,
+    "last_time": 1790396112952,
+    "last_price": 17046.0,
     "max_gain_pct": 12.6137,
     "levels": [
       5,
@@ -512,18 +502,20 @@
         "price": 17690.0,
         "gain_pct": 11.7357
       }
-    ]
+    ],
+    "expired_time": 1790396112952
   },
   "TUTIRT": {
     "symbol": "TUTIRT",
     "anchor_time": 1790352864040,
     "anchor_price": 5966.0,
-    "status": "WATCHING",
+    "status": "EXPIRED",
     "created_time": 1790352864040,
-    "last_time": 1790395171643,
-    "last_price": 5914.0,
+    "last_time": 1790396112952,
+    "last_price": 5921.0,
     "max_gain_pct": 2.0282,
-    "levels": []
+    "levels": [],
+    "expired_time": 1790396112952
   },
   "SHIBIRT": {
     "symbol": "SHIBIRT",
@@ -531,8 +523,8 @@
     "anchor_price": 1.363,
     "status": "WATCHING",
     "created_time": 1790354876160,
-    "last_time": 1790395171643,
-    "last_price": 1.3825,
+    "last_time": 1790396112952,
+    "last_price": 1.3843,
     "max_gain_pct": 2.7439,
     "levels": []
   },
@@ -553,8 +545,8 @@
     "anchor_price": 122185.0,
     "status": "CONFIRMED_MOVE",
     "created_time": 1790356531698,
-    "last_time": 1790395171643,
-    "last_price": 117110.0,
+    "last_time": 1790396112952,
+    "last_price": 117000.0,
     "max_gain_pct": 7.4346,
     "levels": [
       5
@@ -587,7 +579,7 @@
     "anchor_price": 1296.0,
     "status": "FAILED",
     "created_time": 1790359198557,
-    "last_time": 1790395171643,
+    "last_time": 1790396112952,
     "last_price": 1204.0,
     "max_gain_pct": 1.0031,
     "levels": [],
@@ -624,8 +616,8 @@
     "anchor_price": 360832633.0,
     "status": "WATCHING",
     "created_time": 1790363889543,
-    "last_time": 1790395171643,
-    "last_price": 358778611.0,
+    "last_time": 1790396112952,
+    "last_price": 358300000.0,
     "max_gain_pct": 0.3235,
     "levels": []
   },
@@ -635,8 +627,8 @@
     "anchor_price": 113.5,
     "status": "WATCHING",
     "created_time": 1790363889543,
-    "last_time": 1790395171643,
-    "last_price": 115.8,
+    "last_time": 1790396112952,
+    "last_price": 116.2,
     "max_gain_pct": 2.3789,
     "levels": []
   },
@@ -646,8 +638,8 @@
     "anchor_price": 107672.0,
     "status": "CONFIRMED_MOVE",
     "created_time": 1790364592992,
-    "last_time": 1790395171643,
-    "last_price": 112670.0,
+    "last_time": 1790396112952,
+    "last_price": 112842.0,
     "max_gain_pct": 7.7346,
     "levels": [
       5
@@ -669,7 +661,7 @@
     "anchor_price": 220000.0,
     "status": "FAILED",
     "created_time": 1790364592992,
-    "last_time": 1790395171643,
+    "last_time": 1790396112952,
     "last_price": 223907.0,
     "max_gain_pct": 1.7759,
     "levels": [],
@@ -682,8 +674,8 @@
     "anchor_price": 9634.0,
     "status": "WATCHING",
     "created_time": 1790366573200,
-    "last_time": 1790395171643,
-    "last_price": 9542.0,
+    "last_time": 1790396112952,
+    "last_price": 9618.0,
     "max_gain_pct": 0.3944,
     "levels": []
   },
@@ -693,8 +685,8 @@
     "anchor_price": 8602.0,
     "status": "FAILED",
     "created_time": 1790367343176,
-    "last_time": 1790395171643,
-    "last_price": 9723.0,
+    "last_time": 1790396112952,
+    "last_price": 9038.0,
     "max_gain_pct": 13.6596,
     "levels": [],
     "failed_time": 1790373568372,
@@ -706,9 +698,9 @@
     "anchor_price": 505.3,
     "status": "WATCHING",
     "created_time": 1790368370207,
-    "last_time": 1790395171643,
-    "last_price": 502.2,
-    "max_gain_pct": 0.0792,
+    "last_time": 1790396112952,
+    "last_price": 507.4,
+    "max_gain_pct": 0.4156,
     "levels": []
   },
   "BTRIRT": {
@@ -717,9 +709,9 @@
     "anchor_price": 11521.0,
     "status": "WATCHING",
     "created_time": 1790368370207,
-    "last_time": 1790395171643,
-    "last_price": 11602.0,
-    "max_gain_pct": 0.9287,
+    "last_time": 1790396112952,
+    "last_price": 11640.0,
+    "max_gain_pct": 1.0329,
     "levels": []
   },
   "WENSOLIRT": {
@@ -728,9 +720,9 @@
     "anchor_price": 1.859,
     "status": "FAILED",
     "created_time": 1790369909988,
-    "last_time": 1790395171643,
-    "last_price": 1.8455,
-    "max_gain_pct": 0.5917,
+    "last_time": 1790396112952,
+    "last_price": 1.8931,
+    "max_gain_pct": 1.8343,
     "levels": [],
     "failed_time": 1790373568372,
     "failed_price": 1.8009
@@ -752,8 +744,8 @@
     "anchor_price": 276936.0,
     "status": "WATCHING",
     "created_time": 1790377795404,
-    "last_time": 1790395171643,
-    "last_price": 273405.0,
+    "last_time": 1790396112952,
+    "last_price": 272959.0,
     "max_gain_pct": 0.9847,
     "levels": []
   },
@@ -763,12 +755,22 @@
     "anchor_price": 972.0,
     "status": "CONFIRMED_MOVE",
     "created_time": 1790377795404,
-    "last_time": 1790395171643,
-    "last_price": 1012.0,
-    "max_gain_pct": 4.1152,
-    "levels": [],
+    "last_time": 1790396112952,
+    "last_price": 1023.0,
+    "max_gain_pct": 5.2469,
+    "levels": [
+      5
+    ],
     "confirmed_time": 1790389036241,
-    "confirmed_price": 1003.0
+    "confirmed_price": 1003.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790396112952,
+        "price": 1023.0,
+        "gain_pct": 5.2469
+      }
+    ]
   },
   "MPLXIRT": {
     "symbol": "MPLXIRT",
@@ -776,7 +778,7 @@
     "anchor_price": 14722.0,
     "status": "CONFIRMED_MOVE",
     "created_time": 1790385163562,
-    "last_time": 1790395171643,
+    "last_time": 1790396112952,
     "last_price": 15034.0,
     "max_gain_pct": 7.6824,
     "levels": [
@@ -799,8 +801,8 @@
     "anchor_price": 36.6,
     "status": "CONFIRMED_MOVE",
     "created_time": 1790386787042,
-    "last_time": 1790395171643,
-    "last_price": 33.5,
+    "last_time": 1790396112952,
+    "last_price": 34.3,
     "max_gain_pct": 6.0109,
     "levels": [
       5
@@ -822,8 +824,19 @@
     "anchor_price": 81313.0,
     "status": "WATCHING",
     "created_time": 1790389862828,
-    "last_time": 1790395171643,
-    "last_price": 80225.0,
+    "last_time": 1790396112952,
+    "last_price": 80355.0,
+    "max_gain_pct": 0.0,
+    "levels": []
+  },
+  "GRAMIRT": {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1790396112952,
+    "anchor_price": 341048.0,
+    "status": "WATCHING",
+    "created_time": 1790396112952,
+    "last_time": 1790396112952,
+    "last_price": 341048.0,
     "max_gain_pct": 0.0,
     "levels": []
   }
