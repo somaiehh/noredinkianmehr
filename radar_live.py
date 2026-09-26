@@ -2136,7 +2136,7 @@ def save_dashboard_data(out, alerts_enabled=True):
 
         history = data.get(symbol, [])
         history.append(row)
-        data[symbol] = history[-120:]
+        data[symbol] = history[-100:]
 
     tmp = DATA_FILE + ".tmp"
 
@@ -2145,7 +2145,7 @@ def save_dashboard_data(out, alerts_enabled=True):
 
     os.replace(tmp, DATA_FILE)
 
-    # Persist Strong Wake forward events independently of the 120-row history cap.
+    # Persist Strong Wake forward events independently of the 100-row history cap.
     update_strong_wake_ledger(data, now)
 
     # PRE-WAKE V1 forward research only; no Hunt/status/phone-alert effect.
