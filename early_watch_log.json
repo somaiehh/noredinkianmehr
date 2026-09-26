@@ -12537,7 +12537,10 @@
       "max_up": 0.5,
       "max_down": -1.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.69,
+      "max_down": -1.82
+    }
   },
   {
     "symbol": "FLOKIIRT",
@@ -12565,7 +12568,10 @@
       "max_up": 0.0,
       "max_down": -2.87
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.19,
+      "max_down": -2.87
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -12593,7 +12599,10 @@
       "max_up": 0.0,
       "max_down": -4.27
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -4.27
+    }
   },
   {
     "symbol": "WENSOLIRT",
@@ -13041,7 +13050,10 @@
       "max_up": -0.23,
       "max_down": -1.79
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.92,
+      "max_down": -1.79
+    },
     "result_12h": null
   },
   {
