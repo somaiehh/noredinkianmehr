@@ -12630,7 +12630,10 @@
       "max_up": 2.62,
       "max_down": -1.21
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.62,
+      "max_down": -3.59
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -12655,7 +12658,10 @@
       "max_up": 0.78,
       "max_down": -0.6
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.43,
+      "max_down": -0.6
+    }
   },
   {
     "symbol": "TUTIRT",
@@ -12680,7 +12686,10 @@
       "max_up": 3.48,
       "max_down": 0.19
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.93,
+      "max_down": 0.19
+    }
   },
   {
     "symbol": "MUBARAKIRT",
@@ -13103,7 +13112,10 @@
       "max_up": 0.83,
       "max_down": 0.52
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.44,
+      "max_down": 0.52
+    },
     "result_12h": null
   },
   {
@@ -13125,7 +13137,10 @@
       "max_up": 0.02,
       "max_down": -0.72
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.74,
+      "max_down": -1.97
+    },
     "result_12h": null
   },
   {
@@ -13147,7 +13162,10 @@
       "max_up": 0.6,
       "max_down": 0.23
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.9,
+      "max_down": -0.47
+    },
     "result_12h": null
   },
   {
