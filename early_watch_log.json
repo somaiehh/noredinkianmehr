@@ -13485,7 +13485,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.34,
+      "max_down": -0.6
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -13504,7 +13507,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.19,
+      "max_down": -1.05
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -13558,6 +13564,25 @@
     "va": 1.99,
     "buy": 100,
     "bs": 3.08,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ENJIRT",
+    "time": 1790410494937,
+    "price": 7260.0,
+    "level": "STRONG",
+    "hunt": 69.5,
+    "persistence": 1,
+    "p15": 1.41,
+    "vr": 9.34,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 4.06,
     "breakout": false,
     "priority": false,
     "result_15m": null,
