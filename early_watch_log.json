@@ -14313,5 +14313,43 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1790441133813,
+    "price": 1.4094,
+    "level": "STRONG",
+    "hunt": 52.8,
+    "persistence": 2,
+    "p15": 0.21,
+    "vr": 0.3,
+    "va": 8.23,
+    "buy": 100,
+    "bs": 3.47,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "time": 1790441133813,
+    "price": 35.7,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 2.0,
+    "vr": 3.51,
+    "va": 10.0,
+    "buy": 54.99999999999999,
+    "bs": 1.65,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
