@@ -13133,7 +13133,10 @@
       "max_up": 0.58,
       "max_down": -6.25
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 15.31,
+      "max_down": -8.01
+    }
   },
   {
     "symbol": "WIFIRT",
@@ -13416,7 +13419,10 @@
       "max_up": 0.71,
       "max_down": -1.42
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.71,
+      "max_down": -8.42
+    },
     "result_12h": null
   },
   {
