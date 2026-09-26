@@ -12922,7 +12922,10 @@
       "max_up": 5.18,
       "max_down": 0.54
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.77,
+      "max_down": 0.54
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -12950,7 +12953,10 @@
       "max_up": -0.05,
       "max_down": -2.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.78,
+      "max_down": -2.36
+    }
   },
   {
     "symbol": "WODIRT",
@@ -13397,6 +13403,47 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": 1.3,
+      "max_down": 0.81
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DOGSIRT",
+    "time": 1790405240949,
+    "price": 11.58,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.7,
+    "vr": 1.01,
+    "va": 10.0,
+    "buy": 88.66666666666667,
+    "bs": 2.66,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "RVVIRT",
+    "time": 1790405240949,
+    "price": 22.4,
+    "level": "STRONG",
+    "hunt": 62.5,
+    "persistence": 1,
+    "p15": 1.36,
+    "vr": 1.0,
+    "va": 0.01,
+    "buy": 83.0,
+    "bs": 2.49,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
