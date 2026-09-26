@@ -13422,7 +13422,10 @@
       "max_up": 0.57,
       "max_down": -0.48
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.57,
+      "max_down": -0.57
+    }
   },
   {
     "symbol": "HIRT",
@@ -13450,7 +13453,10 @@
       "max_up": 0.71,
       "max_down": -8.42
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.71,
+      "max_down": -14.5
+    }
   },
   {
     "symbol": "LABIRT",
@@ -14088,7 +14094,10 @@
       "max_up": 1.38,
       "max_down": -5.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.38,
+      "max_down": -5.0
+    },
     "result_12h": null
   },
   {
@@ -14297,7 +14306,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.38,
+      "max_down": -0.87
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -14375,6 +14387,25 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BTRIRT",
+    "time": 1790443018895,
+    "price": 11663.0,
+    "level": "STRONG",
+    "hunt": 57.0,
+    "persistence": 1,
+    "p15": 0.37,
+    "vr": 0.0,
+    "va": 4.71,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
