@@ -13945,7 +13945,10 @@
       "max_up": 0.08,
       "max_down": -3.33
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 7.01,
+      "max_down": -3.33
+    },
     "result_12h": null
   },
   {
@@ -14107,7 +14110,10 @@
       "max_up": 0.09,
       "max_down": 0.09
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.85,
+      "max_down": 0.09
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -14129,7 +14135,10 @@
       "max_up": -1.45,
       "max_down": -1.45
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -1.45,
+      "max_down": -1.45
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -14151,7 +14160,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -0.22
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -14191,6 +14203,44 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DOTIRT",
+    "time": 1790435777635,
+    "price": 294000.0,
+    "level": "STRONG",
+    "hunt": 53.3,
+    "persistence": 1,
+    "p15": 0.34,
+    "vr": 3.6,
+    "va": 1.1,
+    "buy": 86.66666666666667,
+    "bs": 2.6,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1790435777635,
+    "price": 8990.0,
+    "level": "STRONG",
+    "hunt": 77.2,
+    "persistence": 1,
+    "p15": 1.49,
+    "vr": 5.38,
+    "va": 8.53,
+    "buy": 100,
+    "bs": 4.92,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
