@@ -581,7 +581,7 @@
     "tm_g4": 1.0667,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1790363069205,
+    "result_time": 1790363889543,
     "result_move": -5.0584,
     "max_move": 0.0,
     "min_move": -5.642,
@@ -707,8 +707,8 @@
     "tm_g4": 1.1818,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1790363069205,
-    "result_move": -6.5583,
+    "result_time": 1790363889543,
+    "result_move": -7.3612,
     "max_move": 0.0,
     "min_move": -10.2825,
     "ledger_version": "wake-ledger-v1"
@@ -983,7 +983,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.4218,
-    "min_move": -1.1848,
+    "min_move": -2.1327,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -1004,7 +1004,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 3.7726,
-    "min_move": -0.688,
+    "min_move": -1.0049,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -1042,11 +1042,11 @@
     "tm_g1": 2.3333,
     "tm_g4": 1.7037,
     "legacy": false,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1790455727478,
+    "result_move": -6.1501,
     "max_move": 1.1531,
-    "min_move": -4.5114,
+    "min_move": -6.1501,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -1298,7 +1298,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -2.9088,
+    "min_move": -3.2006,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -1403,7 +1403,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0883,
-    "min_move": -0.4226,
+    "min_move": -1.8609,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -1467,6 +1467,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -1.634,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "HYPEIRT",
+    "event_time": 1790455727478,
+    "event_price": 21346829.0,
+    "anchor_time": 1790454774986,
+    "anchor_price": 21354172.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1429,
+    "tm_e15_e1": 0.1429,
+    "tm_e1_e4": 0.4667,
+    "tm_g15": 0.2,
+    "tm_g1": 1.1667,
+    "tm_g4": 1.0345,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
