@@ -2132,5 +2132,24 @@
       "max_up": 1.38,
       "max_down": -5.0
     }
+  },
+  {
+    "symbol": "NOTIRT",
+    "time": 1790448415954,
+    "price": 121.4,
+    "pre30": 0.91,
+    "pre60": 1.25,
+    "pre120": 1.34,
+    "hunt": 72.3,
+    "persistence": 3,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 12.666666666666668,
+    "bs": 0.38,
+    "ob": 1.0,
+    "p15": 0.5,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
