@@ -2014,5 +2014,24 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "LSKIRT",
+    "time": 1790398788722,
+    "price": 82101.0,
+    "pre30": 2.17,
+    "pre60": 2.34,
+    "pre120": 1.74,
+    "hunt": 71.9,
+    "persistence": 2,
+    "vr": 1.9,
+    "va": 10.0,
+    "buy": 79.33333333333333,
+    "bs": 2.38,
+    "ob": 0.36,
+    "p15": 0.1,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
