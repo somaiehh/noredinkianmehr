@@ -534,5 +534,18 @@
     "max_gain_pct": 1.2447,
     "levels": [],
     "expired_time": 1790400588705
+  },
+  {
+    "symbol": "WODIRT",
+    "anchor_time": 1790359198557,
+    "anchor_price": 1296.0,
+    "status": "FAILED",
+    "created_time": 1790359198557,
+    "last_time": 1790414991272,
+    "last_price": 1233.0,
+    "max_gain_pct": 1.5432,
+    "levels": [],
+    "failed_time": 1790360189808,
+    "failed_price": 1220.0
   }
 ]
