@@ -13993,7 +13993,10 @@
       "max_up": 1.05,
       "max_down": -1.65
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.05,
+      "max_down": -7.07
+    }
   },
   {
     "symbol": "BRIRT",
