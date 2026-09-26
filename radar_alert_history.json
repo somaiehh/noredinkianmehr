@@ -840,5 +840,18 @@
     "bs": 1.87,
     "breakout": true,
     "persistence": 1
+  },
+  {
+    "time": 1790457462718,
+    "symbol": "DASHIRT",
+    "price": 16954374.0,
+    "hunt_score": 89.4,
+    "status": "EARLY",
+    "p15": 1.09,
+    "vr": 1.88,
+    "va": 10.0,
+    "bs": 1.99,
+    "breakout": true,
+    "persistence": 2
   }
 ]
