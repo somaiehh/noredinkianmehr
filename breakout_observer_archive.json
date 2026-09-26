@@ -854,5 +854,30 @@
     "max_gain_pct": 0.9847,
     "levels": [],
     "expired_time": 1790421302570
+  },
+  {
+    "symbol": "LSKIRT",
+    "anchor_time": 1790389862828,
+    "anchor_price": 81313.0,
+    "status": "FAILED",
+    "created_time": 1790389862828,
+    "last_time": 1790439932105,
+    "last_price": 79209.0,
+    "max_gain_pct": 0.9691,
+    "levels": [],
+    "failed_time": 1790427655785,
+    "failed_price": 78796.0
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1790396112952,
+    "anchor_price": 341048.0,
+    "status": "EXPIRED",
+    "created_time": 1790396112952,
+    "last_time": 1790439932105,
+    "last_price": 347441.0,
+    "max_gain_pct": 1.8745,
+    "levels": [],
+    "expired_time": 1790439932105
   }
 ]
