@@ -2003,7 +2003,10 @@
       "max_up": 2.14,
       "max_down": -1.69
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 5.28,
+      "max_down": -1.69
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -2025,7 +2028,10 @@
       "max_up": -0.11,
       "max_down": -0.64
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.11,
+      "max_down": -1.01
+    }
   },
   {
     "symbol": "LSKIRT",
