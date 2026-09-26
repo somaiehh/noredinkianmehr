@@ -1993,7 +1993,10 @@
     "ob": 0.77,
     "p15": 0.79,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.14,
+      "max_down": -1.69
+    },
     "result_4h": null
   },
   {
@@ -2012,7 +2015,10 @@
     "ob": 0.21,
     "p15": 1.07,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.11,
+      "max_down": -0.64
+    },
     "result_4h": null
   },
   {
