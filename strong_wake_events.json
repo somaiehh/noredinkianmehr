@@ -877,7 +877,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.515,
+    "max_move": 0.9442,
     "min_move": -0.7725,
     "ledger_version": "wake-ledger-v1"
   },
