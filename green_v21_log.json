@@ -2103,7 +2103,10 @@
       "max_up": -0.57,
       "max_down": -0.57
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.11,
+      "max_down": -1.01
+    }
   },
   {
     "symbol": "KAIOIRT",
