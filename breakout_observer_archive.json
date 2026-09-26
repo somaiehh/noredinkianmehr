@@ -382,5 +382,48 @@
     "max_gain_pct": 1.6129,
     "levels": [],
     "expired_time": 1790389862828
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "anchor_time": 1790341586016,
+    "anchor_price": 10908.0,
+    "status": "EXPIRED",
+    "created_time": 1790341586016,
+    "last_time": 1790398788722,
+    "last_price": 13320.0,
+    "max_gain_pct": 23.304,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790346869703,
+    "confirmed_price": 11633.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790346869703,
+        "price": 11633.0,
+        "gain_pct": 6.6465
+      },
+      {
+        "level": 10,
+        "time": 1790349384424,
+        "price": 12061.0,
+        "gain_pct": 10.5702
+      }
+    ],
+    "expired_time": 1790385163562
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1790347497602,
+    "anchor_price": 13700.0,
+    "status": "EXPIRED",
+    "created_time": 1790347497602,
+    "last_time": 1790398788722,
+    "last_price": 13805.0,
+    "max_gain_pct": 1.8394,
+    "levels": [],
+    "expired_time": 1790390727363
   }
 ]
