@@ -14021,7 +14021,10 @@
       "max_up": 7.01,
       "max_down": -3.33
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.01,
+      "max_down": -6.26
+    }
   },
   {
     "symbol": "LINKIRT",
@@ -14657,6 +14660,25 @@
       "max_up": 0.62,
       "max_down": -0.58
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1790465415058,
+    "price": 368055.0,
+    "level": "STRONG",
+    "hunt": 67.8,
+    "persistence": 1,
+    "p15": 0.59,
+    "vr": 1.05,
+    "va": 7.99,
+    "buy": 85.66666666666666,
+    "bs": 2.57,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
