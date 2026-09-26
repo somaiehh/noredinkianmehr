@@ -788,5 +788,18 @@
     "bs": 0.22,
     "breakout": false,
     "persistence": 3
+  },
+  {
+    "time": 1790423196211,
+    "symbol": "LINKIRT",
+    "price": 3345999.0,
+    "hunt_score": 94.2,
+    "status": "EARLY",
+    "p15": 0.48,
+    "vr": 2.96,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]

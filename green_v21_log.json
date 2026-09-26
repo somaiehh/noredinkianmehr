@@ -2082,5 +2082,24 @@
       "max_up": 1.59,
       "max_down": -0.67
     }
+  },
+  {
+    "symbol": "LINKIRT",
+    "time": 1790423189802,
+    "price": 3345999.0,
+    "pre30": 0.68,
+    "pre60": 1.64,
+    "pre120": 2.67,
+    "hunt": 94.2,
+    "persistence": 2,
+    "vr": 2.96,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.48,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
