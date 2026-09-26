@@ -13304,7 +13304,10 @@
       "max_up": 6.71,
       "max_down": -0.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.71,
+      "max_down": -0.36
+    }
   },
   {
     "symbol": "MUBARAKIRT",
@@ -14185,7 +14188,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -2.55
+    },
     "result_4h": null,
     "result_12h": null
   },
