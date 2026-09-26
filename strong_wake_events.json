@@ -877,7 +877,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.0601,
+    "max_move": 2.9185,
     "min_move": -0.7725,
     "ledger_version": "wake-ledger-v1"
   },
@@ -982,7 +982,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.7109,
+    "max_move": 0.9479,
     "min_move": -0.9479,
     "ledger_version": "wake-ledger-v1"
   },
@@ -1066,7 +1066,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 0.5581,
     "min_move": -2.9484,
     "ledger_version": "wake-ledger-v1"
   },
@@ -1172,7 +1172,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.3667,
-    "min_move": -0.5445,
+    "min_move": -0.8668,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -1213,8 +1213,50 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.1287,
+    "max_move": 0.7076,
     "min_move": -0.9328,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "B3IRT",
+    "event_time": 1790439932105,
+    "event_price": 190.0,
+    "anchor_time": 1790438527865,
+    "anchor_price": 190.4,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.25,
+    "tm_e15_e1": 0.25,
+    "tm_e1_e4": 0.4878,
+    "tm_g15": 2.5,
+    "tm_g1": 1.6667,
+    "tm_g4": 1.2812,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "RSS3IRT",
+    "event_time": 1790439932105,
+    "event_price": 636.0,
+    "anchor_time": 1790436696461,
+    "anchor_price": 639.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.3824,
+    "tm_e15_e1": 0.3824,
+    "tm_e1_e4": 0.6667,
+    "tm_g15": 1.0,
+    "tm_g1": 2.6154,
+    "tm_g4": 1.4571,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
