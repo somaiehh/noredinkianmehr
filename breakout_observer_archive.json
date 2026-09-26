@@ -640,5 +640,17 @@
       }
     ],
     "expired_time": 1790421302570
+  },
+  {
+    "symbol": "TUTIRT",
+    "anchor_time": 1790352864040,
+    "anchor_price": 5966.0,
+    "status": "EXPIRED",
+    "created_time": 1790352864040,
+    "last_time": 1790430390009,
+    "last_price": 5992.0,
+    "max_gain_pct": 2.0282,
+    "levels": [],
+    "expired_time": 1790396112952
   }
 ]

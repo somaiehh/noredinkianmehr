@@ -13273,7 +13273,10 @@
       "max_up": 0.0,
       "max_down": -1.66
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -2.56
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -14005,7 +14008,10 @@
       "max_up": 3.06,
       "max_down": 3.06
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 9.14,
+      "max_down": 3.06
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -14044,6 +14050,28 @@
     "buy": 35.0,
     "bs": 1.05,
     "breakout": true,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.77,
+      "max_down": -0.77
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PHAIRT",
+    "time": 1790431314879,
+    "price": 18971.0,
+    "level": "STRONG",
+    "hunt": 69.9,
+    "persistence": 1,
+    "p15": 1.35,
+    "vr": 2.99,
+    "va": 2.0,
+    "buy": 71.33333333333334,
+    "bs": 2.14,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
