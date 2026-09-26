@@ -13161,7 +13161,10 @@
       "max_up": 2.44,
       "max_down": 0.52
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.44,
+      "max_down": -1.29
+    }
   },
   {
     "symbol": "HIRT",
@@ -13186,7 +13189,10 @@
       "max_up": 0.74,
       "max_down": -1.97
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.85,
+      "max_down": -8.39
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -13211,7 +13217,10 @@
       "max_up": 0.9,
       "max_down": -0.47
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.81,
+      "max_down": -0.47
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -13756,6 +13765,44 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DOGSIRT",
+    "time": 1790419546457,
+    "price": 11.6,
+    "level": "STRONG",
+    "hunt": 50.1,
+    "persistence": 1,
+    "p15": 0.52,
+    "vr": 0.09,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TUTIRT",
+    "time": 1790419546457,
+    "price": 5940.0,
+    "level": "STRONG",
+    "hunt": 64.1,
+    "persistence": 1,
+    "p15": 0.73,
+    "vr": 2.39,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.41,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
