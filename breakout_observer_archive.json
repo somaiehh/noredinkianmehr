@@ -482,5 +482,45 @@
     "levels": [],
     "failed_time": 1790352062136,
     "failed_price": 123244.0
+  },
+  {
+    "symbol": "LTCIRT",
+    "anchor_time": 1790352062136,
+    "anchor_price": 16307901.0,
+    "status": "EXPIRED",
+    "created_time": 1790352062136,
+    "last_time": 1790406993285,
+    "last_price": 17028364.0,
+    "max_gain_pct": 4.7095,
+    "levels": [],
+    "confirmed_time": 1790375694542,
+    "confirmed_price": 16872152.0,
+    "expired_time": 1790396112952
+  },
+  {
+    "symbol": "RAREIRT",
+    "anchor_time": 1790363069205,
+    "anchor_price": 3979.0,
+    "status": "FAILED",
+    "created_time": 1790363069205,
+    "last_time": 1790406993285,
+    "last_price": 5330.0,
+    "max_gain_pct": 33.9533,
+    "levels": [],
+    "failed_time": 1790363889543,
+    "failed_price": 3837.0
+  },
+  {
+    "symbol": "BRIRT",
+    "anchor_time": 1790364592992,
+    "anchor_price": 220000.0,
+    "status": "FAILED",
+    "created_time": 1790364592992,
+    "last_time": 1790406993285,
+    "last_price": 207927.0,
+    "max_gain_pct": 3.3255,
+    "levels": [],
+    "failed_time": 1790366573200,
+    "failed_price": 212901.0
   }
 ]
