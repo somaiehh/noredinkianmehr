@@ -1833,6 +1833,48 @@ def save_dashboard_data(out, alerts_enabled=True):
             and (wake_a4 / max(cur_t4h, 1)) >= 0.30
         )
 
+        # P15-Wake Shadow - research/logging only.
+        # Tests the same raw Wake activity fingerprint when p15 exists.
+        # NO effect on Wake, Hunt, status, alerts, or trading logic.
+        p15_wake_shadow_short = bool(
+            wake_prev_valid
+            and x.get("p15") is not None
+            and cur_price_wake > 0
+            and cur_t15 >= 2
+            and cur_t1h >= 6
+            and cur_t4h >= 8
+            and wake_a1 >= 2
+            and wake_a4 >= 2
+        )
+
+        p15_wake_shadow_deep = bool(
+            wake_prev_valid
+            and x.get("p15") is not None
+            and cur_price_wake > 0
+            and cur_t4h >= 20
+            and wake_a4 >= 8
+            and (wake_a4 / max(cur_t4h, 1)) >= 0.30
+        )
+
+        p15_wake_shadow_raw = bool(
+            p15_wake_shadow_short or p15_wake_shadow_deep
+        )
+
+        p15_wake_shadow_dt15 = None
+        p15_wake_shadow_dt1 = None
+        p15_wake_shadow_da1 = None
+
+        if wake_prev_valid:
+            prev_t15_shadow = float(prev.get("trades15") or 0)
+            p15_wake_shadow_dt15 = cur_t15 - prev_t15_shadow
+            p15_wake_shadow_dt1 = cur_t1h - prev_t1h_wake
+
+            prev_wake_a1_shadow = prev.get("wake_a1")
+            if prev_wake_a1_shadow is not None and wake_a1 is not None:
+                p15_wake_shadow_da1 = (
+                    wake_a1 - float(prev_wake_a1_shadow)
+                )
+
         recent_short = any(
             bool(r.get("wake_short"))
             and 0 < now - int(r.get("time", 0)) < WAKE_WAVE_MS
@@ -2033,6 +2075,27 @@ def save_dashboard_data(out, alerts_enabled=True):
                 else None
             ),
             "wake_prev_valid": wake_prev_valid,
+
+            # P15-Wake Shadow - research/logging only.
+            # No effect on Wake, Hunt, status, alerts, or trading logic.
+            "p15_wake_shadow_raw": p15_wake_shadow_raw,
+            "p15_wake_shadow_short": p15_wake_shadow_short,
+            "p15_wake_shadow_deep": p15_wake_shadow_deep,
+            "p15_wake_shadow_da1": (
+                round(p15_wake_shadow_da1, 4)
+                if p15_wake_shadow_da1 is not None
+                else None
+            ),
+            "p15_wake_shadow_dt15": (
+                round(p15_wake_shadow_dt15, 4)
+                if p15_wake_shadow_dt15 is not None
+                else None
+            ),
+            "p15_wake_shadow_dt1": (
+                round(p15_wake_shadow_dt1, 4)
+                if p15_wake_shadow_dt1 is not None
+                else None
+            ),
 
             # Price Direction Shadow - research/logging only.
             "wake_prev_price": wake_prev_price,
