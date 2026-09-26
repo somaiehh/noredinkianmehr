@@ -469,5 +469,18 @@
       }
     ],
     "expired_time": 1790396112952
+  },
+  {
+    "symbol": "ONDOIRT",
+    "anchor_time": 1790343923360,
+    "anchor_price": 127861.0,
+    "status": "FAILED",
+    "created_time": 1790343923360,
+    "last_time": 1790403258178,
+    "last_price": 126536.0,
+    "max_gain_pct": 0.3551,
+    "levels": [],
+    "failed_time": 1790352062136,
+    "failed_price": 123244.0
   }
 ]
