@@ -13615,7 +13615,10 @@
       "max_up": -0.21,
       "max_down": -0.63
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.09,
+      "max_down": -1.12
+    },
     "result_12h": null
   },
   {
@@ -13640,7 +13643,10 @@
       "max_up": 0.85,
       "max_down": -0.41
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.85,
+      "max_down": -0.97
+    },
     "result_12h": null
   },
   {
@@ -13880,7 +13886,10 @@
       "max_up": 0.66,
       "max_down": 0.66
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.05,
+      "max_down": 0.66
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -13935,6 +13944,25 @@
     "buy": 60.66666666666667,
     "bs": 1.82,
     "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "AVAXIRT",
+    "time": 1790424286834,
+    "price": 2555237.0,
+    "level": "STRONG",
+    "hunt": 62.1,
+    "persistence": 1,
+    "p15": 0.28,
+    "vr": 1.35,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
