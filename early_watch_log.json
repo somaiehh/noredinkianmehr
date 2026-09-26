@@ -13665,5 +13665,43 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1790417764444,
+    "price": 1.377,
+    "level": "STRONG",
+    "hunt": 60.5,
+    "persistence": 1,
+    "p15": 0.55,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1790417764444,
+    "price": 9.901e-05,
+    "level": "STRONG",
+    "hunt": 55.5,
+    "persistence": 2,
+    "p15": 0.2,
+    "vr": 1.59,
+    "va": 2.0,
+    "buy": 37.333333333333336,
+    "bs": 1.12,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
