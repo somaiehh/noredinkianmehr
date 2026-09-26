@@ -13931,7 +13931,10 @@
       "max_up": 0.43,
       "max_down": -0.95
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.17,
+      "max_down": -0.95
+    }
   },
   {
     "symbol": "TUTIRT",
@@ -13959,7 +13962,10 @@
       "max_up": 1.82,
       "max_down": -1.08
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.03,
+      "max_down": -1.08
+    }
   },
   {
     "symbol": "XPLIRT",
