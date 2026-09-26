@@ -14023,6 +14023,28 @@
     "bs": 1.0,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 1.38,
+      "max_down": 1.38
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "REZIRT",
+    "time": 1790429549961,
+    "price": 1045.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.19,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 35.0,
+    "bs": 1.05,
+    "breakout": true,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
