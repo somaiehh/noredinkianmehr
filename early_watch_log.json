@@ -13779,7 +13779,10 @@
       "max_up": 0.76,
       "max_down": -0.9
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.7,
+      "max_down": -1.12
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -13804,7 +13807,10 @@
       "max_up": 0.32,
       "max_down": -0.72
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.32,
+      "max_down": -2.2
+    }
   },
   {
     "symbol": "GALAIRT",
@@ -14585,7 +14591,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.91,
+      "max_down": 0.28
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -14604,7 +14613,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -2.17,
+      "max_down": -3.81
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -14623,7 +14635,10 @@
     "breakout": true,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.62,
+      "max_down": -0.58
+    },
     "result_4h": null,
     "result_12h": null
   }
