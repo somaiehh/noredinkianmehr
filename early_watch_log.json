@@ -13658,7 +13658,10 @@
       "max_up": -0.09,
       "max_down": -1.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.09,
+      "max_down": -1.73
+    }
   },
   {
     "symbol": "SIRT",
@@ -13686,7 +13689,10 @@
       "max_up": 0.85,
       "max_down": -0.97
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.85,
+      "max_down": -2.47
+    }
   },
   {
     "symbol": "ENJIRT",
@@ -13714,7 +13720,10 @@
       "max_up": 2.62,
       "max_down": -1.03
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.62,
+      "max_down": -2.29
+    }
   },
   {
     "symbol": "LSKIRT",
@@ -14352,7 +14361,10 @@
       "max_up": -0.38,
       "max_down": -0.87
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.38,
+      "max_down": -3.26
+    },
     "result_12h": null
   },
   {
@@ -14487,6 +14499,25 @@
       "max_up": 0.14,
       "max_down": 0.0
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DEGENIRT",
+    "time": 1790453764223,
+    "price": 262.0,
+    "level": "WATCH",
+    "hunt": 43.4,
+    "persistence": 1,
+    "p15": 0.38,
+    "vr": 0.12,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
