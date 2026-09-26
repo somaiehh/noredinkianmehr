@@ -827,5 +827,18 @@
     "bs": 1.84,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1790446550978,
+    "symbol": "DOGSIRT",
+    "price": 11.94,
+    "hunt_score": 84.0,
+    "status": "PRE_EARLY",
+    "p15": 0.34,
+    "vr": 1.36,
+    "va": 10.0,
+    "bs": 1.87,
+    "breakout": true,
+    "persistence": 1
   }
 ]

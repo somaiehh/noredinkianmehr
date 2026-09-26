@@ -879,5 +879,45 @@
     "max_gain_pct": 1.8745,
     "levels": [],
     "expired_time": 1790439932105
+  },
+  {
+    "symbol": "NOTIRT",
+    "anchor_time": 1790363889543,
+    "anchor_price": 113.5,
+    "status": "EXPIRED",
+    "created_time": 1790363889543,
+    "last_time": 1790445581901,
+    "last_price": 119.8,
+    "max_gain_pct": 5.6388,
+    "levels": [],
+    "confirmed_time": 1790405240949,
+    "confirmed_price": 117.1,
+    "expired_time": 1790408087584
+  },
+  {
+    "symbol": "DOGSIRT",
+    "anchor_time": 1790403258178,
+    "anchor_price": 11.42,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1790403258178,
+    "last_time": 1790445581901,
+    "last_price": 11.9,
+    "max_gain_pct": 4.4658,
+    "levels": [],
+    "confirmed_time": 1790440528996,
+    "confirmed_price": 11.78
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1789694230075,
+    "anchor_price": 96882.0,
+    "status": "FAILED",
+    "created_time": 1789694230075,
+    "last_time": 1790445581901,
+    "last_price": 77221.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1789800202587,
+    "failed_price": 90074.0
   }
 ]
