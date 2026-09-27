@@ -15105,7 +15105,10 @@
       "max_up": 0.24,
       "max_down": -1.22
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.24,
+      "max_down": -2.56
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -15130,7 +15133,10 @@
       "max_up": -0.66,
       "max_down": -1.99
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.49,
+      "max_down": -2.23
+    }
   },
   {
     "symbol": "QIRT",
@@ -15827,7 +15833,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.24,
+      "max_down": -0.61
+    },
     "result_4h": null,
     "result_12h": null
   },
