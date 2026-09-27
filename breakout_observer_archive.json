@@ -1699,5 +1699,30 @@
     "max_gain_pct": 2.8815,
     "levels": [],
     "expired_time": 1790498684428
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "anchor_time": 1790399134049,
+    "anchor_price": 13763.0,
+    "status": "FAILED",
+    "created_time": 1790399134049,
+    "last_time": 1790507981866,
+    "last_price": 12544.0,
+    "max_gain_pct": 7.3385,
+    "levels": [],
+    "failed_time": 1790400588705,
+    "failed_price": 13288.0
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1790460904981,
+    "anchor_price": 13862.0,
+    "status": "EXPIRED",
+    "created_time": 1790460904981,
+    "last_time": 1790507981866,
+    "last_price": 13583.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "expired_time": 1790504285570
   }
 ]
