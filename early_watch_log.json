@@ -15480,5 +15480,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1790505269295,
+    "price": 9081.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.42,
+    "vr": 18.67,
+    "va": 5.7,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]

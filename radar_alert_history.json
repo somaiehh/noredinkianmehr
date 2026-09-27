@@ -866,5 +866,18 @@
     "bs": 0.77,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1790505273263,
+    "symbol": "AMPIRT",
+    "price": 162.2,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 0.81,
+    "vr": 3.8,
+    "va": 10.0,
+    "bs": 0.05,
+    "breakout": false,
+    "persistence": 4
   }
 ]
