@@ -905,5 +905,18 @@
     "bs": 0.08,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1790539424055,
+    "symbol": "KERNELIRT",
+    "price": 13482.0,
+    "hunt_score": 86.2,
+    "status": "EARLY",
+    "p15": 0.2,
+    "vr": 13.03,
+    "va": 10.0,
+    "bs": 0.05,
+    "breakout": true,
+    "persistence": 2
   }
 ]
