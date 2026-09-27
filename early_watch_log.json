@@ -14198,7 +14198,10 @@
       "max_up": 0.48,
       "max_down": -1.05
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.48,
+      "max_down": -4.11
+    }
   },
   {
     "symbol": "PHAIRT",
