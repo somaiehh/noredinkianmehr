@@ -16291,7 +16291,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.19,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -16350,6 +16353,25 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "RAREIRT",
+    "time": 1790545197054,
+    "price": 4918.0,
+    "level": "STRONG",
+    "hunt": 59.9,
+    "persistence": 1,
+    "p15": 0.1,
+    "vr": 0.01,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
