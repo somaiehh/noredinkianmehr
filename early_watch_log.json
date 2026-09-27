@@ -14493,7 +14493,10 @@
       "max_up": 0.34,
       "max_down": -2.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.34,
+      "max_down": -3.39
+    }
   },
   {
     "symbol": "HIPPOIRT",
@@ -14518,7 +14521,10 @@
       "max_up": 7.56,
       "max_down": -1.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.56,
+      "max_down": -1.4
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -14954,6 +14960,25 @@
     "persistence": 1,
     "p15": 0.4,
     "vr": 1.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "AGIIRT",
+    "time": 1790485176705,
+    "price": 1692.0,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 2,
+    "p15": 1.38,
+    "vr": 0.12,
     "va": 10.0,
     "buy": 100,
     "bs": 5.0,
