@@ -14049,7 +14049,10 @@
       "max_up": 1.11,
       "max_down": -1.01
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.11,
+      "max_down": -3.16
+    }
   },
   {
     "symbol": "DASHIRT",
@@ -14074,7 +14077,10 @@
       "max_up": 8.94,
       "max_down": 0.83
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.15,
+      "max_down": 0.83
+    }
   },
   {
     "symbol": "AVAXIRT",
@@ -14677,7 +14683,10 @@
     "bs": 2.57,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.96,
+      "max_down": 0.96
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
