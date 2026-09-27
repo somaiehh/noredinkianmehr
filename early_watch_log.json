@@ -14549,7 +14549,10 @@
       "max_up": 1.25,
       "max_down": -2.5
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.25,
+      "max_down": -2.5
+    }
   },
   {
     "symbol": "BTRIRT",
@@ -14982,6 +14985,44 @@
     "va": 10.0,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ANIMEIRT",
+    "time": 1790486126247,
+    "price": 820.0,
+    "level": "STRONG",
+    "hunt": 59.9,
+    "persistence": 1,
+    "p15": 1.49,
+    "vr": 4.16,
+    "va": 1.55,
+    "buy": 35.66666666666667,
+    "bs": 1.07,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1790486126247,
+    "price": 9033.0,
+    "level": "WATCH",
+    "hunt": 45.3,
+    "persistence": 1,
+    "p15": 0.14,
+    "vr": 0.51,
+    "va": 10.0,
+    "buy": 72.00000000000001,
+    "bs": 2.16,
     "breakout": false,
     "priority": false,
     "result_15m": null,
