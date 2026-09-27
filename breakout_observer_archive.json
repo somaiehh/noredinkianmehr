@@ -1750,5 +1750,31 @@
     "levels": [],
     "failed_time": 1790484270584,
     "failed_price": 532.3
+  },
+  {
+    "symbol": "DEGENIRT",
+    "anchor_time": 1790451145294,
+    "anchor_price": 262.0,
+    "status": "FAILED",
+    "created_time": 1790451145294,
+    "last_time": 1790517998349,
+    "last_price": 263.0,
+    "max_gain_pct": 0.3817,
+    "levels": [],
+    "failed_time": 1790476246292,
+    "failed_price": 252.0
+  },
+  {
+    "symbol": "PTBIRT",
+    "anchor_time": 1790468126181,
+    "anchor_price": 242.0,
+    "status": "FAILED",
+    "created_time": 1790468126181,
+    "last_time": 1790517998349,
+    "last_price": 228.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1790469887509,
+    "failed_price": 231.0
   }
 ]
