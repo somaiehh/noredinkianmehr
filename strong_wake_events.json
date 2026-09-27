@@ -1085,8 +1085,8 @@
     "tm_g4": 1.1667,
     "legacy": false,
     "result": "HIT_FIRST",
-    "result_time": 1790433896638,
-    "result_move": 31.5102,
+    "result_time": 1790434872817,
+    "result_move": 26.5306,
     "max_move": 38.0408,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
@@ -1719,6 +1719,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -0.6932,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "JUPIRT",
+    "event_time": 1790525731469,
+    "event_price": 78536.0,
+    "anchor_time": 1790524816534,
+    "anchor_price": 78535.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.35,
+    "tm_e15_e1": 0.35,
+    "tm_e1_e4": 0.7143,
+    "tm_g15": 0.5833,
+    "tm_g1": 1.5385,
+    "tm_g4": 1.3333,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
