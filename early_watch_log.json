@@ -16036,5 +16036,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "QIRT",
+    "time": 1790534239210,
+    "price": 7872.7,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 1,
+    "p15": 1.32,
+    "vr": 0.15,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
