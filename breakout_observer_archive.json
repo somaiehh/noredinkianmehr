@@ -1972,5 +1972,30 @@
       }
     ],
     "expired_time": 1790529365061
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1790495089933,
+    "anchor_price": 1.3961,
+    "status": "EXPIRED",
+    "created_time": 1790495089933,
+    "last_time": 1790539419959,
+    "last_price": 1.3953,
+    "max_gain_pct": 0.9956,
+    "levels": [],
+    "expired_time": 1790538394984
+  },
+  {
+    "symbol": "ARBIRT",
+    "anchor_time": 1790496004056,
+    "anchor_price": 53960.0,
+    "status": "FAILED",
+    "created_time": 1790496004056,
+    "last_time": 1790539419959,
+    "last_price": 53668.0,
+    "max_gain_pct": 2.0293,
+    "levels": [],
+    "failed_time": 1790516095399,
+    "failed_price": 52207.0
   }
 ]

@@ -15406,7 +15406,10 @@
       "max_up": 1.15,
       "max_down": -1.22
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.8,
+      "max_down": -1.22
+    }
   },
   {
     "symbol": "WIRT",
@@ -15434,7 +15437,10 @@
       "max_up": 3.14,
       "max_down": -5.48
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.22,
+      "max_down": -7.06
+    }
   },
   {
     "symbol": "OSMOIRT",
@@ -15873,7 +15879,10 @@
       "max_up": -0.24,
       "max_down": -0.61
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.69,
+      "max_down": -0.61
+    },
     "result_12h": null
   },
   {
@@ -16132,7 +16141,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.72,
+      "max_down": -0.49
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -16151,7 +16163,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.67,
+      "max_down": -2.68
+    },
     "result_4h": null,
     "result_12h": null
   },
