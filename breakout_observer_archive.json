@@ -1997,5 +1997,41 @@
     "levels": [],
     "failed_time": 1790516095399,
     "failed_price": 52207.0
+  },
+  {
+    "symbol": "AVAXIRT",
+    "anchor_time": 1790494228332,
+    "anchor_price": 2600000.0,
+    "status": "EXPIRED",
+    "created_time": 1790494228332,
+    "last_time": 1790540459635,
+    "last_price": 2618261.0,
+    "max_gain_pct": 1.1923,
+    "levels": [],
+    "expired_time": 1790537444385
+  },
+  {
+    "symbol": "GALAIRT",
+    "anchor_time": 1790418875639,
+    "anchor_price": 514.5,
+    "status": "EXPIRED",
+    "created_time": 1790418875639,
+    "last_time": 1790540459635,
+    "last_price": 550.9,
+    "max_gain_pct": 8.552,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790436696461,
+    "confirmed_price": 530.8,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790441133813,
+        "price": 546.8,
+        "gain_pct": 6.2779
+      }
+    ],
+    "expired_time": 1790462699969
   }
 ]
