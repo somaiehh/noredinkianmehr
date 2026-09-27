@@ -1531,5 +1531,49 @@
     "levels": [],
     "failed_time": 1790456425822,
     "failed_price": 2204101.0
+  },
+  {
+    "symbol": "XAIIRT",
+    "anchor_time": 1790418875639,
+    "anchor_price": 2186.0,
+    "status": "FAILED",
+    "created_time": 1790418875639,
+    "last_time": 1790502352970,
+    "last_price": 2221.0,
+    "max_gain_pct": 1.6011,
+    "levels": [],
+    "failed_time": 1790455727478,
+    "failed_price": 2114.0
+  },
+  {
+    "symbol": "BRIRT",
+    "anchor_time": 1790408087584,
+    "anchor_price": 210448.0,
+    "status": "EXPIRED",
+    "created_time": 1790408087584,
+    "last_time": 1790502352970,
+    "last_price": 213626.0,
+    "max_gain_pct": 18.7942,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790408748795,
+    "confirmed_price": 220680.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790409651008,
+        "price": 224920.0,
+        "gain_pct": 6.8768
+      },
+      {
+        "level": 10,
+        "time": 1790414991272,
+        "price": 231726.0,
+        "gain_pct": 10.1108
+      }
+    ],
+    "expired_time": 1790452032859
   }
 ]
