@@ -15164,7 +15164,10 @@
       "max_up": 9.26,
       "max_down": -1.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 32.14,
+      "max_down": -30.02
+    }
   },
   {
     "symbol": "VELVETIRT",
@@ -15192,7 +15195,10 @@
       "max_up": 0.0,
       "max_down": -2.3
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -5.27
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
