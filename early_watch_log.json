@@ -15303,5 +15303,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "OSMOIRT",
+    "time": 1790497900867,
+    "price": 9193.0,
+    "level": "STRONG",
+    "hunt": 61.1,
+    "persistence": 1,
+    "p15": 0.12,
+    "vr": 4.2,
+    "va": 2.17,
+    "buy": 89.0,
+    "bs": 2.67,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
