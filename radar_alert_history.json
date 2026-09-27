@@ -892,5 +892,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1790536253038,
+    "symbol": "WIRT",
+    "price": 3691.0,
+    "hunt_score": 89.6,
+    "status": "EARLY",
+    "p15": 1.51,
+    "vr": 0.43,
+    "va": 3.39,
+    "bs": 0.08,
+    "breakout": true,
+    "persistence": 2
   }
 ]
