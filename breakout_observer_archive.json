@@ -1213,5 +1213,43 @@
       }
     ],
     "expired_time": 1790484270584
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1790409651008,
+    "anchor_price": 9.942e-05,
+    "status": "EXPIRED",
+    "created_time": 1790409651008,
+    "last_time": 1790487030726,
+    "last_price": 9.784e-05,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "expired_time": 1790453764223
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1790433896638,
+    "anchor_price": 1.03164,
+    "status": "FAILED",
+    "created_time": 1790433896638,
+    "last_time": 1790487030726,
+    "last_price": 1.01319,
+    "max_gain_pct": 1.1322,
+    "levels": [],
+    "failed_time": 1790455727478,
+    "failed_price": 1.0
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1790438527865,
+    "anchor_price": 276871.0,
+    "status": "FAILED",
+    "created_time": 1790438527865,
+    "last_time": 1790487030726,
+    "last_price": 273370.0,
+    "max_gain_pct": 0.0545,
+    "levels": [],
+    "failed_time": 1790455727478,
+    "failed_price": 265143.0
   }
 ]
