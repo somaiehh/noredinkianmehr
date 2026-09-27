@@ -14605,7 +14605,10 @@
       "max_up": 1.62,
       "max_down": -1.46
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.37,
+      "max_down": -1.46
+    }
   },
   {
     "symbol": "DEGENIRT",
@@ -15000,7 +15003,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.24,
+      "max_down": -1.54
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -15100,7 +15106,10 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.88,
+      "max_down": 0.88
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -15119,7 +15128,10 @@
     "bs": 2.63,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 4.24,
+      "max_down": 4.24
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
