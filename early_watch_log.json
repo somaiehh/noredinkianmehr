@@ -14810,7 +14810,10 @@
       "max_up": 1.44,
       "max_down": -2.62
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.44,
+      "max_down": -9.09
+    }
   },
   {
     "symbol": "SAGAIRT",
@@ -15342,7 +15345,10 @@
       "max_up": 0.11,
       "max_down": -1.22
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.15,
+      "max_down": -1.22
+    },
     "result_12h": null
   },
   {
@@ -15367,7 +15373,10 @@
       "max_up": 0.42,
       "max_down": -1.5
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.14,
+      "max_down": -5.48
+    },
     "result_12h": null
   },
   {
@@ -15583,6 +15592,25 @@
     "persistence": 1,
     "p15": 1.11,
     "vr": 6.05,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "OPNIRT",
+    "time": 1790512278120,
+    "price": 13597.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.58,
+    "vr": 20.0,
     "va": 10.0,
     "buy": 100,
     "bs": 5.0,
