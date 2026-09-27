@@ -2226,5 +2226,24 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "KERNELIRT",
+    "time": 1790519589253,
+    "price": 13108.0,
+    "pre30": 0.69,
+    "pre60": -0.14,
+    "pre120": 0.73,
+    "hunt": 67.5,
+    "persistence": 3,
+    "vr": 1.62,
+    "va": 6.23,
+    "buy": 31.666666666666664,
+    "bs": 0.95,
+    "ob": 1.0,
+    "p15": 0.37,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
