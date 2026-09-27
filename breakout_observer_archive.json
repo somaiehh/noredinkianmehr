@@ -2077,5 +2077,28 @@
     "levels": [],
     "failed_time": 1790514091692,
     "failed_price": 1.7176
+  },
+  {
+    "symbol": "JASMYIRT",
+    "anchor_time": 1790501682161,
+    "anchor_price": 1198.6,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1790501682161,
+    "last_time": 1790543829494,
+    "last_price": 1258.0,
+    "max_gain_pct": 5.7901,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790514091692,
+    "confirmed_price": 1244.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790518673547,
+        "price": 1268.0,
+        "gain_pct": 5.7901
+      }
+    ]
   }
 ]

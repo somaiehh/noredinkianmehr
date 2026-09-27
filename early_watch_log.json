@@ -15527,7 +15527,10 @@
       "max_up": 1.64,
       "max_down": -0.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.13,
+      "max_down": -1.15
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -16323,6 +16326,28 @@
     "va": 2.84,
     "buy": 65.0,
     "bs": 1.95,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.91,
+      "max_down": 0.91
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PIGGYIRT",
+    "time": 1790544898815,
+    "price": 3130.0,
+    "level": "STRONG",
+    "hunt": 56.6,
+    "persistence": 1,
+    "p15": 0.13,
+    "vr": 0.63,
+    "va": 2.7,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
