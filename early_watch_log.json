@@ -14876,5 +14876,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "INIRT",
+    "time": 1790479802446,
+    "price": 10203.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.52,
+    "vr": 15.86,
+    "va": 4.76,
+    "buy": 54.666666666666664,
+    "bs": 1.64,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
