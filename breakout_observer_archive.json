@@ -1097,5 +1097,18 @@
     "levels": [],
     "failed_time": 1790408748795,
     "failed_price": 5187.0
+  },
+  {
+    "symbol": "SAGAIRT",
+    "anchor_time": 1790367343176,
+    "anchor_price": 8602.0,
+    "status": "FAILED",
+    "created_time": 1790367343176,
+    "last_time": 1790473526442,
+    "last_price": 7598.0,
+    "max_gain_pct": 13.6596,
+    "levels": [],
+    "failed_time": 1790373568372,
+    "failed_price": 8335.0
   }
 ]
