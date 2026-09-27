@@ -1406,5 +1406,49 @@
       }
     ],
     "expired_time": 1790450301490
+  },
+  {
+    "symbol": "ARBIRT",
+    "anchor_time": 1790435777635,
+    "anchor_price": 53606.0,
+    "status": "FAILED",
+    "created_time": 1790435777635,
+    "last_time": 1790495089933,
+    "last_price": 53831.0,
+    "max_gain_pct": 0.4197,
+    "levels": [],
+    "failed_time": 1790450301490,
+    "failed_price": 51966.0
+  },
+  {
+    "symbol": "SEIIRT",
+    "anchor_time": 1790352864040,
+    "anchor_price": 15832.0,
+    "status": "EXPIRED",
+    "created_time": 1790352864040,
+    "last_time": 1790495089933,
+    "last_price": 17539.0,
+    "max_gain_pct": 12.6137,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790361069376,
+    "confirmed_price": 16391.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790363889543,
+        "price": 16675.0,
+        "gain_pct": 5.3247
+      },
+      {
+        "level": 10,
+        "time": 1790385163562,
+        "price": 17690.0,
+        "gain_pct": 11.7357
+      }
+    ],
+    "expired_time": 1790396112952
   }
 ]
