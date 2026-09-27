@@ -14959,7 +14959,10 @@
       "max_up": 12.05,
       "max_down": 2.32
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 12.05,
+      "max_down": -0.29
+    }
   },
   {
     "symbol": "INIRT",
@@ -14987,7 +14990,10 @@
       "max_up": 3.26,
       "max_down": -5.14
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.26,
+      "max_down": -7.1
+    }
   },
   {
     "symbol": "AKITAIRT",
