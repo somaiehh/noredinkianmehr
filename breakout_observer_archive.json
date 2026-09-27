@@ -2113,5 +2113,36 @@
     "levels": [],
     "failed_time": 1790516958553,
     "failed_price": 17256.0
+  },
+  {
+    "symbol": "COMMONIRT",
+    "anchor_time": 1790431314879,
+    "anchor_price": 14.3,
+    "status": "EXPIRED",
+    "created_time": 1790431314879,
+    "last_time": 1790548592094,
+    "last_price": 14.9,
+    "max_gain_pct": 22.3776,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790433137312,
+    "confirmed_price": 14.8,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790434872817,
+        "price": 15.3,
+        "gain_pct": 6.993
+      },
+      {
+        "level": 10,
+        "time": 1790443018895,
+        "price": 16.3,
+        "gain_pct": 13.986
+      }
+    ],
+    "expired_time": 1790475335574
   }
 ]
