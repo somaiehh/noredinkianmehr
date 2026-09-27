@@ -1312,5 +1312,17 @@
     "levels": [],
     "failed_time": 1790430390009,
     "failed_price": 1016.2
+  },
+  {
+    "symbol": "ONDOIRT",
+    "anchor_time": 1790404231754,
+    "anchor_price": 127966.0,
+    "status": "EXPIRED",
+    "created_time": 1790404231754,
+    "last_time": 1790491505937,
+    "last_price": 126788.0,
+    "max_gain_pct": 2.0029,
+    "levels": [],
+    "expired_time": 1790447492026
   }
 ]

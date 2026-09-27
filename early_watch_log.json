@@ -15162,5 +15162,43 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "BCHIRT",
+    "time": 1790492455240,
+    "price": 80463316.0,
+    "level": "STRONG",
+    "hunt": 65.9,
+    "persistence": 1,
+    "p15": 0.77,
+    "vr": 0.49,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "AURORAIRT",
+    "time": 1790492455240,
+    "price": 17380.0,
+    "level": "STRONG",
+    "hunt": 71.1,
+    "persistence": 1,
+    "p15": 0.77,
+    "vr": 5.52,
+    "va": 1.7,
+    "buy": 54.333333333333336,
+    "bs": 1.63,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
