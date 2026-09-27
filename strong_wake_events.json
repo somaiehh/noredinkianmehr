@@ -1085,8 +1085,8 @@
     "tm_g4": 1.1667,
     "legacy": false,
     "result": "HIT_FIRST",
-    "result_time": 1790443018895,
-    "result_move": 40.898,
+    "result_time": 1790443946463,
+    "result_move": 36.5714,
     "max_move": 41.7143,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
@@ -1525,7 +1525,7 @@
     "tm_g1": 1.1818,
     "tm_g4": 1.0952,
     "legacy": false,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 4.4623,
@@ -1738,7 +1738,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.9461,
+    "max_move": 1.8514,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   },

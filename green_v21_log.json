@@ -2228,7 +2228,10 @@
       "max_up": 2.94,
       "max_down": 1.16
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 6.58,
+      "max_down": 1.16
+    }
   },
   {
     "symbol": "KERNELIRT",
