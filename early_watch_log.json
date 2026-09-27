@@ -14465,7 +14465,10 @@
       "max_up": 6.42,
       "max_down": 0.13
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.42,
+      "max_down": -3.74
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -14770,7 +14773,10 @@
       "max_up": 0.91,
       "max_down": 0.11
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.44,
+      "max_down": -2.62
+    },
     "result_12h": null
   },
   {
@@ -14910,7 +14916,10 @@
       "max_up": 3.26,
       "max_down": 3.26
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.26,
+      "max_down": -0.89
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -14924,6 +14933,28 @@
     "p15": 0.16,
     "vr": 1.13,
     "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 1.21,
+      "max_down": 1.21
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HEIIRT",
+    "time": 1790484270584,
+    "price": 36956.0,
+    "level": "STRONG",
+    "hunt": 60.7,
+    "persistence": 1,
+    "p15": 0.4,
+    "vr": 1.0,
+    "va": 10.0,
     "buy": 100,
     "bs": 5.0,
     "breakout": false,
