@@ -271,5 +271,26 @@
     "max_move": 0.6799,
     "min_move": -1.5993,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "WODIRT",
+    "event_time": 1790502352970,
+    "event_price": 1262.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 33.1,
+    "p15": -0.86,
+    "vr": null,
+    "va": 2.0,
+    "ta": null,
+    "bs": 5.0,
+    "book": 0.26,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
