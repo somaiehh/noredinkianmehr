@@ -15226,7 +15226,10 @@
       "max_up": 2.05,
       "max_down": 0.06
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.78,
+      "max_down": 0.06
+    }
   },
   {
     "symbol": "NEARIRT",
@@ -15254,7 +15257,10 @@
       "max_up": 5.33,
       "max_down": 1.8
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.33,
+      "max_down": -1.06
+    }
   },
   {
     "symbol": "BCHIRT",
@@ -15749,7 +15755,10 @@
       "max_up": -0.31,
       "max_down": -0.56
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.31,
+      "max_down": -2.34
+    },
     "result_12h": null
   },
   {
@@ -15864,7 +15873,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -15886,6 +15898,28 @@
       "max_up": -0.7,
       "max_down": -0.7
     },
+    "result_1h": {
+      "max_up": -0.7,
+      "max_down": -1.05
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "AINIRT",
+    "time": 1790531211642,
+    "price": 5194.0,
+    "level": "STRONG",
+    "hunt": 57.2,
+    "persistence": 1,
+    "p15": 0.39,
+    "vr": 0.65,
+    "va": 2.0,
+    "buy": 53.333333333333336,
+    "bs": 1.6,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
