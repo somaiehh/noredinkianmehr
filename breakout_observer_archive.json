@@ -1650,5 +1650,42 @@
     "levels": [],
     "failed_time": 1790427953018,
     "failed_price": 160.9
+  },
+  {
+    "symbol": "DOGSIRT",
+    "anchor_time": 1790446547357,
+    "anchor_price": 11.94,
+    "status": "EXPIRED",
+    "created_time": 1790446547357,
+    "last_time": 1790506010085,
+    "last_price": 12.34,
+    "max_gain_pct": 5.5276,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790472686421,
+    "confirmed_price": 12.6,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790472686421,
+        "price": 12.6,
+        "gain_pct": 5.5276
+      }
+    ],
+    "expired_time": 1790490607414
+  },
+  {
+    "symbol": "GRASSIRT",
+    "anchor_time": 1790463604318,
+    "anchor_price": 140329.0,
+    "status": "FAILED",
+    "created_time": 1790463604318,
+    "last_time": 1790506010085,
+    "last_price": 145072.0,
+    "max_gain_pct": 3.3799,
+    "levels": [],
+    "failed_time": 1790482537396,
+    "failed_price": 133509.0
   }
 ]
