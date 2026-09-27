@@ -1790,5 +1790,18 @@
     "confirmed_time": 1790460000252,
     "confirmed_price": 5252.0,
     "expired_time": 1790497079814
+  },
+  {
+    "symbol": "AGIIRT",
+    "anchor_time": 1790455727478,
+    "anchor_price": 1646.0,
+    "status": "FAILED",
+    "created_time": 1790455727478,
+    "last_time": 1790520590873,
+    "last_price": 1641.0,
+    "max_gain_pct": 9.356,
+    "levels": [],
+    "failed_time": 1790460000252,
+    "failed_price": 1595.0
   }
 ]
