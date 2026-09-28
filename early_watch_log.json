@@ -15962,7 +15962,10 @@
       "max_up": 4.65,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.93,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "KERNELIRT",
@@ -15990,7 +15993,10 @@
       "max_up": 1.63,
       "max_down": -1.05
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.12,
+      "max_down": -4.22
+    }
   },
   {
     "symbol": "AINIRT",
@@ -16510,7 +16516,10 @@
       "max_up": 2.46,
       "max_down": 2.46
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.39,
+      "max_down": -2.01
+    },
     "result_12h": null
   },
   {
@@ -16557,6 +16566,25 @@
       "max_up": 1.85,
       "max_down": -0.11
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NOTIRT",
+    "time": 1790570779807,
+    "price": 120.9,
+    "level": "STRONG",
+    "hunt": 51.5,
+    "persistence": 1,
+    "p15": 0.08,
+    "vr": 0.33,
+    "va": 10.0,
+    "buy": 81.33333333333333,
+    "bs": 2.44,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
