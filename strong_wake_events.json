@@ -1949,7 +1949,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -1.2765,
+    "min_move": -2.0505,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -1970,7 +1970,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -0.1172,
+    "min_move": -1.3415,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -1991,7 +1991,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -3.4212,
+    "min_move": -4.1784,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -2012,6 +2012,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.7558,
+    "min_move": -0.1223,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "BOMEIRT",
+    "event_time": 1790574285184,
+    "event_price": 236.0,
+    "anchor_time": 1790572567760,
+    "anchor_price": 238.2,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1429,
+    "tm_e15_e1": 0.1429,
+    "tm_e1_e4": 0.6364,
+    "tm_g15": 0.1667,
+    "tm_g1": 1.0769,
+    "tm_g4": 1.1,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }

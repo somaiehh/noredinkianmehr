@@ -2294,5 +2294,18 @@
     "levels": [],
     "failed_time": 1790523950494,
     "failed_price": 12715.0
+  },
+  {
+    "symbol": "KAIOIRT",
+    "anchor_time": 1790451145294,
+    "anchor_price": 3581.0,
+    "status": "FAILED",
+    "created_time": 1790451145294,
+    "last_time": 1790573433877,
+    "last_price": 8450.0,
+    "max_gain_pct": 135.9676,
+    "levels": [],
+    "failed_time": 1790452032859,
+    "failed_price": 3437.0
   }
 ]
