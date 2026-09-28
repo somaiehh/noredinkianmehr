@@ -16962,7 +16962,10 @@
       "max_up": 2.37,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.37,
+      "max_down": -0.95
+    }
   },
   {
     "symbol": "ALGOIRT",
@@ -16987,7 +16990,10 @@
       "max_up": 5.02,
       "max_down": 0.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.1,
+      "max_down": 0.61
+    }
   },
   {
     "symbol": "LSKIRT",
@@ -17672,7 +17678,10 @@
       "max_up": -0.09,
       "max_down": -0.2
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.06,
+      "max_down": -1.46
+    },
     "result_12h": null
   },
   {
@@ -17694,7 +17703,10 @@
       "max_up": -0.71,
       "max_down": -1.47
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.71,
+      "max_down": -1.93
+    },
     "result_12h": null
   },
   {
@@ -17784,6 +17796,25 @@
     "va": 3.01,
     "buy": 59.0,
     "bs": 1.77,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "time": 1790635005772,
+    "price": 1.7821,
+    "level": "STRONG",
+    "hunt": 69.8,
+    "persistence": 1,
+    "p15": 1.2,
+    "vr": 5.91,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
