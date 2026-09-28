@@ -2219,5 +2219,36 @@
       }
     ],
     "expired_time": 1790560944752
+  },
+  {
+    "symbol": "SOONIRT",
+    "anchor_time": 1790516095399,
+    "anchor_price": 69000.0,
+    "status": "EXPIRED",
+    "created_time": 1790516095399,
+    "last_time": 1790568931483,
+    "last_price": 78707.0,
+    "max_gain_pct": 21.2362,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790523950494,
+    "confirmed_price": 78500.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790523950494,
+        "price": 78500.0,
+        "gain_pct": 13.7681
+      },
+      {
+        "level": 10,
+        "time": 1790523950494,
+        "price": 78500.0,
+        "gain_pct": 13.7681
+      }
+    ],
+    "expired_time": 1790559318317
   }
 ]
