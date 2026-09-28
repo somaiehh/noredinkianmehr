@@ -16316,7 +16316,10 @@
       "max_up": 1.44,
       "max_down": -0.03
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.4,
+      "max_down": -1.22
+    }
   },
   {
     "symbol": "SEIIRT",
@@ -16341,7 +16344,10 @@
       "max_up": 3.36,
       "max_down": -1.22
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 14.26,
+      "max_down": -1.22
+    }
   },
   {
     "symbol": "MAJORIRT",
@@ -16366,7 +16372,10 @@
       "max_up": -0.1,
       "max_down": -0.27
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 31.63,
+      "max_down": -0.27
+    }
   },
   {
     "symbol": "KERNELIRT",
