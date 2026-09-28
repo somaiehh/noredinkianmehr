@@ -2332,5 +2332,24 @@
       "max_up": -0.2,
       "max_down": -2.5
     }
+  },
+  {
+    "symbol": "MAJORIRT",
+    "time": 1790577215368,
+    "price": 10677.0,
+    "pre30": 6.77,
+    "pre60": 10.47,
+    "pre120": 12.4,
+    "hunt": 71.9,
+    "persistence": 2,
+    "vr": 1.38,
+    "va": 2.54,
+    "buy": 97.66666666666667,
+    "bs": 2.93,
+    "ob": 1.0,
+    "p15": 1.42,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
