@@ -16841,7 +16841,10 @@
       "max_up": -0.15,
       "max_down": -0.73
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.15,
+      "max_down": -5.58
+    },
     "result_12h": null
   },
   {
@@ -17173,6 +17176,25 @@
     "va": 2.0,
     "buy": 100,
     "bs": 3.42,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MAJORIRT",
+    "time": 1790604121812,
+    "price": 8972.0,
+    "level": "WATCH",
+    "hunt": 48.6,
+    "persistence": 1,
+    "p15": 0.5,
+    "vr": 0.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
