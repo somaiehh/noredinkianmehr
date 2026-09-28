@@ -2279,5 +2279,24 @@
       "max_down": -1.05
     },
     "result_4h": null
+  },
+  {
+    "symbol": "INXIRT",
+    "time": 1790553925585,
+    "price": 1823.8,
+    "pre30": -1.74,
+    "pre60": -0.91,
+    "pre120": 0.32,
+    "hunt": 67.8,
+    "persistence": 3,
+    "vr": 1.6,
+    "va": 2.45,
+    "buy": 20.333333333333332,
+    "bs": 0.61,
+    "ob": 1.0,
+    "p15": 0.32,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

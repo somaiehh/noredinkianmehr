@@ -15698,7 +15698,10 @@
       "max_up": 0.34,
       "max_down": -1.51
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.34,
+      "max_down": -1.53
+    }
   },
   {
     "symbol": "INXIRT",
@@ -15723,7 +15726,10 @@
       "max_up": 5.4,
       "max_down": -8.69
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.38,
+      "max_down": -8.69
+    }
   },
   {
     "symbol": "OPNIRT",
