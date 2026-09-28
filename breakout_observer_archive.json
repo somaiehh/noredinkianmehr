@@ -2671,5 +2671,61 @@
     "levels": [],
     "failed_time": 1790504285570,
     "failed_price": 216000.0
+  },
+  {
+    "symbol": "SEIIRT",
+    "anchor_time": 1790546739085,
+    "anchor_price": 18156.0,
+    "status": "EXPIRED",
+    "created_time": 1790546739085,
+    "last_time": 1790594777139,
+    "last_price": 19474.0,
+    "max_gain_pct": 12.646,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790553183998,
+    "confirmed_price": 18803.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790554765274,
+        "price": 19326.0,
+        "gain_pct": 6.4442
+      },
+      {
+        "level": 10,
+        "time": 1790559318317,
+        "price": 20268.0,
+        "gain_pct": 11.6325
+      }
+    ],
+    "expired_time": 1790590658467
+  },
+  {
+    "symbol": "HYPEIRT",
+    "anchor_time": 1790439932105,
+    "anchor_price": 21619967.0,
+    "status": "EXPIRED",
+    "created_time": 1790439932105,
+    "last_time": 1790594777139,
+    "last_price": 21863340.0,
+    "max_gain_pct": 1.848,
+    "levels": [],
+    "expired_time": 1790483395647
+  },
+  {
+    "symbol": "XPLIRT",
+    "anchor_time": 1790419546457,
+    "anchor_price": 27869.0,
+    "status": "FAILED",
+    "created_time": 1790419546457,
+    "last_time": 1790594777139,
+    "last_price": 24708.0,
+    "max_gain_pct": 1.2272,
+    "levels": [],
+    "failed_time": 1790454774986,
+    "failed_price": 26512.0
   }
 ]
