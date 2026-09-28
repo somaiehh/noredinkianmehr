@@ -2250,5 +2250,49 @@
       }
     ],
     "expired_time": 1790559318317
+  },
+  {
+    "symbol": "AGIIRT",
+    "anchor_time": 1790521559445,
+    "anchor_price": 1752.0,
+    "status": "EXPIRED",
+    "created_time": 1790521559445,
+    "last_time": 1790571620418,
+    "last_price": 1634.0,
+    "max_gain_pct": 12.3288,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790522143956,
+    "confirmed_price": 1858.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790522143956,
+        "price": 1858.0,
+        "gain_pct": 6.0502
+      },
+      {
+        "level": 10,
+        "time": 1790531211642,
+        "price": 1968.0,
+        "gain_pct": 12.3288
+      }
+    ],
+    "expired_time": 1790565284697
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "anchor_time": 1790510513074,
+    "anchor_price": 13140.0,
+    "status": "FAILED",
+    "created_time": 1790510513074,
+    "last_time": 1790571620418,
+    "last_price": 12958.0,
+    "max_gain_pct": 0.4566,
+    "levels": [],
+    "failed_time": 1790523950494,
+    "failed_price": 12715.0
   }
 ]
