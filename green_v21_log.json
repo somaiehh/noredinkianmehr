@@ -2298,5 +2298,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1790554765274,
+    "price": 13334.0,
+    "pre30": 0.4,
+    "pre60": 1.05,
+    "pre120": 0.76,
+    "hunt": 71.8,
+    "persistence": 4,
+    "vr": 2.6,
+    "va": 3.23,
+    "buy": 31.0,
+    "bs": 0.93,
+    "ob": 1.0,
+    "p15": 0.52,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
