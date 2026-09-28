@@ -2856,5 +2856,18 @@
     "levels": [],
     "failed_time": 1790572567760,
     "failed_price": 14.7
+  },
+  {
+    "symbol": "WODIRT",
+    "anchor_time": 1790416148009,
+    "anchor_price": 1283.0,
+    "status": "FAILED",
+    "created_time": 1790416148009,
+    "last_time": 1790610618797,
+    "last_price": 1300.0,
+    "max_gain_pct": 3.5074,
+    "levels": [],
+    "failed_time": 1790427953018,
+    "failed_price": 1233.0
   }
 ]
