@@ -3000,5 +3000,49 @@
     "confirmed_time": 1790596982593,
     "confirmed_price": 6800.0,
     "expired_time": 1790621460270
+  },
+  {
+    "symbol": "HBARIRT",
+    "anchor_time": 1790585241378,
+    "anchor_price": 25701.0,
+    "status": "EXPIRED",
+    "created_time": 1790585241378,
+    "last_time": 1790635005772,
+    "last_price": 30315.0,
+    "max_gain_pct": 23.0069,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790586088905,
+    "confirmed_price": 27000.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790586088905,
+        "price": 27000.0,
+        "gain_pct": 5.0543
+      },
+      {
+        "level": 10,
+        "time": 1790591559997,
+        "price": 28364.0,
+        "gain_pct": 10.3615
+      }
+    ],
+    "expired_time": 1790628888647
+  },
+  {
+    "symbol": "SOONIRT",
+    "anchor_time": 1790569786045,
+    "anchor_price": 84090.0,
+    "status": "FAILED",
+    "created_time": 1790569786045,
+    "last_time": 1790635005772,
+    "last_price": 84888.0,
+    "max_gain_pct": 4.1182,
+    "levels": [],
+    "failed_time": 1790571620418,
+    "failed_price": 81312.0
   }
 ]
