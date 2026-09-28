@@ -16232,7 +16232,10 @@
       "max_up": 0.04,
       "max_down": -3.97
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.04,
+      "max_down": -7.39
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -16697,6 +16700,25 @@
     "buy": 100,
     "bs": 5.0,
     "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SAGAIRT",
+    "time": 1790578853676,
+    "price": 6670.0,
+    "level": "STRONG",
+    "hunt": 100.0,
+    "persistence": 3,
+    "p15": 1.61,
+    "vr": 8.64,
+    "va": 10.0,
+    "buy": 64.66666666666666,
+    "bs": 1.94,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,

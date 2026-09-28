@@ -944,5 +944,18 @@
     "bs": 4.42,
     "breakout": false,
     "persistence": 3
+  },
+  {
+    "time": 1790578856901,
+    "symbol": "SAGAIRT",
+    "price": 6670.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.61,
+    "vr": 8.64,
+    "va": 10.0,
+    "bs": 1.94,
+    "breakout": true,
+    "persistence": 3
   }
 ]
