@@ -17077,7 +17077,10 @@
       "max_up": 3.89,
       "max_down": -3.23
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.89,
+      "max_down": -5.99
+    }
   },
   {
     "symbol": "ZECIRT",
