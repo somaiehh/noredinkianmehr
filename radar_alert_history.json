@@ -983,5 +983,18 @@
     "bs": 0.51,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1790598633691,
+    "symbol": "HBARIRT",
+    "price": 30025.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.69,
+    "vr": 4.3,
+    "va": 5.85,
+    "bs": 1.99,
+    "breakout": true,
+    "persistence": 2
   }
 ]
