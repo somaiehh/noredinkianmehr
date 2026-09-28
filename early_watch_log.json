@@ -16667,7 +16667,10 @@
       "max_up": 0.58,
       "max_down": -1.49
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.31,
+      "max_down": -1.49
+    }
   },
   {
     "symbol": "ONDOIRT",
@@ -16695,7 +16698,10 @@
       "max_up": -1.35,
       "max_down": -14.25
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.35,
+      "max_down": -14.58
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -16720,7 +16726,10 @@
       "max_up": -0.26,
       "max_down": -7.62
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.39,
+      "max_down": -7.85
+    }
   },
   {
     "symbol": "MAJORIRT",
@@ -17421,7 +17430,10 @@
       "max_up": -0.92,
       "max_down": -0.92
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.19,
+      "max_down": -0.92
+    },
     "result_4h": null,
     "result_12h": null
   }
