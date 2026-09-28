@@ -15872,7 +15872,10 @@
       "max_up": 6.58,
       "max_down": 1.16
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 12.03,
+      "max_down": 1.16
+    }
   },
   {
     "symbol": "WIRT",
