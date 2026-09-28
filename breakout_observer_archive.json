@@ -2397,5 +2397,18 @@
     "levels": [],
     "failed_time": 1790567076690,
     "failed_price": 1.00359
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1790486126247,
+    "anchor_price": 384500123.0,
+    "status": "FAILED",
+    "created_time": 1790486126247,
+    "last_time": 1790584408983,
+    "last_price": 373000000.0,
+    "max_gain_pct": 2.3029,
+    "levels": [],
+    "failed_time": 1790523078534,
+    "failed_price": 372000000.0
   }
 ]
