@@ -17470,7 +17470,10 @@
       "max_up": 0.19,
       "max_down": -0.92
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.56,
+      "max_down": -1.24
+    },
     "result_12h": null
   },
   {
@@ -17661,6 +17664,63 @@
       "max_up": -0.71,
       "max_down": -1.47
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NMRIRT",
+    "time": 1790627021862,
+    "price": 2842154.0,
+    "level": "STRONG",
+    "hunt": 56.7,
+    "persistence": 1,
+    "p15": 0.14,
+    "vr": 0.75,
+    "va": 3.31,
+    "buy": 100,
+    "bs": 3.58,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WIRT",
+    "time": 1790627021862,
+    "price": 3291.0,
+    "level": "STRONG",
+    "hunt": 59.4,
+    "persistence": 1,
+    "p15": 1.07,
+    "vr": 1.09,
+    "va": 0.77,
+    "buy": 63.33333333333333,
+    "bs": 1.9,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "XMNIRT",
+    "time": 1790627021862,
+    "price": 117.0,
+    "level": "WATCH",
+    "hunt": 40.9,
+    "persistence": 1,
+    "p15": 0.86,
+    "vr": 0.01,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
