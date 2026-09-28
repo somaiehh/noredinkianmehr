@@ -16490,7 +16490,10 @@
       "max_up": 0.91,
       "max_down": -11.55
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.5,
+      "max_down": -11.55
+    }
   },
   {
     "symbol": "PIGGYIRT",
