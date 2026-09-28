@@ -16145,7 +16145,10 @@
       "max_up": 3.63,
       "max_down": -0.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.34,
+      "max_down": -3.02
+    }
   },
   {
     "symbol": "INXIRT",
