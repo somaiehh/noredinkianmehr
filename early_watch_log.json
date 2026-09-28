@@ -17018,7 +17018,10 @@
       "max_up": 3.82,
       "max_down": -3.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.82,
+      "max_down": -5.98
+    }
   },
   {
     "symbol": "HBARIRT",
@@ -17043,7 +17046,10 @@
       "max_up": 5.53,
       "max_down": -1.98
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 11.12,
+      "max_down": -1.98
+    }
   },
   {
     "symbol": "USELESSIRT",
@@ -17799,7 +17805,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.73,
+      "max_down": 0.67
+    },
     "result_4h": null,
     "result_12h": null
   },
