@@ -2909,5 +2909,42 @@
     "confirmed_time": 1790504285570,
     "confirmed_price": 12499.0,
     "expired_time": 1790544898815
+  },
+  {
+    "symbol": "UNIIRT",
+    "anchor_time": 1790502352970,
+    "anchor_price": 2379014.0,
+    "status": "FAILED",
+    "created_time": 1790502352970,
+    "last_time": 1790615804863,
+    "last_price": 2168524.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1790514614341,
+    "failed_price": 2300000.0
+  },
+  {
+    "symbol": "WLDIRT",
+    "anchor_time": 1790501682161,
+    "anchor_price": 129812.0,
+    "status": "EXPIRED",
+    "created_time": 1790501682161,
+    "last_time": 1790615804863,
+    "last_price": 121318.0,
+    "max_gain_pct": 6.2629,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790506010085,
+    "confirmed_price": 134111.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790512278120,
+        "price": 137052.0,
+        "gain_pct": 5.5773
+      }
+    ],
+    "expired_time": 1790544898815
   }
 ]

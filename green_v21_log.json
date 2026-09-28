@@ -2457,5 +2457,24 @@
       "max_up": 2.92,
       "max_down": -1.65
     }
+  },
+  {
+    "symbol": "AINIRT",
+    "time": 1790616276565,
+    "price": 5587.0,
+    "pre30": 1.38,
+    "pre60": 1.77,
+    "pre120": 3.08,
+    "hunt": 81.3,
+    "persistence": 3,
+    "vr": 1.92,
+    "va": 10.0,
+    "buy": 60.0,
+    "bs": 1.8,
+    "ob": 1.0,
+    "p15": 0.47,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
