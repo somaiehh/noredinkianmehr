@@ -2428,7 +2428,10 @@
       "max_up": 1.51,
       "max_down": 0.52
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.65,
+      "max_down": -0.69
+    }
   },
   {
     "symbol": "SAGAIRT",

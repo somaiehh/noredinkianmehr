@@ -2843,5 +2843,18 @@
     "max_gain_pct": 7.567,
     "levels": [],
     "expired_time": 1790562843662
+  },
+  {
+    "symbol": "COMMONIRT",
+    "anchor_time": 1790548855180,
+    "anchor_price": 15.2,
+    "status": "FAILED",
+    "created_time": 1790548855180,
+    "last_time": 1790607677582,
+    "last_price": 16.0,
+    "max_gain_pct": 5.9211,
+    "levels": [],
+    "failed_time": 1790572567760,
+    "failed_price": 14.7
   }
 ]
