@@ -16785,7 +16785,10 @@
       "max_up": -0.52,
       "max_down": -3.12
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.52,
+      "max_down": -4.02
+    },
     "result_12h": null
   },
   {
@@ -16828,7 +16831,10 @@
       "max_up": -0.15,
       "max_down": -0.15
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.15,
+      "max_down": -0.73
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -16909,6 +16915,44 @@
     "bs": 3.26,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LSKIRT",
+    "time": 1790593300042,
+    "price": 78500.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.46,
+    "vr": 0.84,
+    "va": 4.2,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HBARIRT",
+    "time": 1790593300042,
+    "price": 28451.0,
+    "level": "STRONG",
+    "hunt": 65.3,
+    "persistence": 1,
+    "p15": 0.76,
+    "vr": 0.55,
+    "va": 3.61,
+    "buy": 82.66666666666667,
+    "bs": 2.48,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
