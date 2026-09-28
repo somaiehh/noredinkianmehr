@@ -16841,7 +16841,10 @@
       "max_up": 2.47,
       "max_down": -0.2
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.47,
+      "max_down": -1.87
+    }
   },
   {
     "symbol": "RSS3IRT",
@@ -16869,7 +16872,10 @@
       "max_up": -0.15,
       "max_down": -5.58
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.15,
+      "max_down": -5.58
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -16897,7 +16903,10 @@
       "max_up": 10.75,
       "max_down": -0.45
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 14.93,
+      "max_down": -0.45
+    }
   },
   {
     "symbol": "COMMONIRT",
@@ -16925,7 +16934,10 @@
       "max_up": 5.23,
       "max_down": 1.31
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 11.11,
+      "max_down": 0.65
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -17632,7 +17644,10 @@
       "max_up": 0.25,
       "max_down": -4.52
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.25,
+      "max_down": -4.52
+    },
     "result_12h": null
   },
   {
@@ -17754,6 +17769,25 @@
       "max_up": -0.85,
       "max_down": -2.56
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "QIRT",
+    "time": 1790633626832,
+    "price": 5159.0,
+    "level": "STRONG",
+    "hunt": 51.3,
+    "persistence": 1,
+    "p15": 0.51,
+    "vr": 0.59,
+    "va": 3.01,
+    "buy": 59.0,
+    "bs": 1.77,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
