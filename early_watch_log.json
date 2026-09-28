@@ -16587,5 +16587,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "ONDOIRT",
+    "time": 1790571056709,
+    "price": 145160.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.56,
+    "vr": 1.88,
+    "va": 10.0,
+    "buy": 40.0,
+    "bs": 1.2,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
