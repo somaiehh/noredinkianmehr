@@ -16521,7 +16521,10 @@
       "max_up": 0.06,
       "max_down": -0.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.06,
+      "max_down": -1.53
+    }
   },
   {
     "symbol": "RAREIRT",
@@ -16773,6 +16776,25 @@
       "max_up": -0.52,
       "max_down": -3.12
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LTCIRT",
+    "time": 1790588212143,
+    "price": 17110238.0,
+    "level": "STRONG",
+    "hunt": 93.7,
+    "persistence": 2,
+    "p15": 1.23,
+    "vr": 9.21,
+    "va": 10.0,
+    "buy": 70.0,
+    "bs": 2.1,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }

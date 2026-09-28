@@ -2354,5 +2354,24 @@
       "max_down": -2.95
     },
     "result_4h": null
+  },
+  {
+    "symbol": "LTCIRT",
+    "time": 1790588212143,
+    "price": 17110238.0,
+    "pre30": 0.59,
+    "pre60": 0.96,
+    "pre120": 0.79,
+    "hunt": 93.7,
+    "persistence": 2,
+    "vr": 9.21,
+    "va": 10.0,
+    "buy": 70.0,
+    "bs": 2.1,
+    "ob": 1.0,
+    "p15": 1.23,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

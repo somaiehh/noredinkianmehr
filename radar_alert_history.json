@@ -957,5 +957,18 @@
     "bs": 1.94,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1790588216488,
+    "symbol": "LTCIRT",
+    "price": 17110238.0,
+    "hunt_score": 93.7,
+    "status": "EARLY",
+    "p15": 1.23,
+    "vr": 9.21,
+    "va": 10.0,
+    "bs": 2.1,
+    "breakout": true,
+    "persistence": 2
   }
 ]
