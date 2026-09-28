@@ -2353,7 +2353,10 @@
       "max_up": 20.17,
       "max_down": -2.95
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 20.17,
+      "max_down": -9.19
+    }
   },
   {
     "symbol": "LTCIRT",
@@ -2371,7 +2374,10 @@
     "ob": 1.0,
     "p15": 1.23,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.04,
+      "max_down": -0.2
+    },
     "result_4h": null
   },
   {
