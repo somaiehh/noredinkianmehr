@@ -1867,5 +1867,26 @@
     "max_move": 17.4247,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "SLVONIRT",
+    "event_time": 1790563508022,
+    "event_price": 13366080.0,
+    "anchor_time": 1790559318317,
+    "anchor_price": 13500000.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.8889,
+    "tm_e15_e1": 0.8889,
+    "tm_e1_e4": 0.1731,
+    "tm_g15": 8.0,
+    "tm_g1": 0.4286,
+    "tm_g4": 1.1304,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
