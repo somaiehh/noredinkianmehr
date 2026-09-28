@@ -16813,7 +16813,10 @@
       "max_up": 1.04,
       "max_down": -0.2
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.47,
+      "max_down": -0.2
+    },
     "result_12h": null
   },
   {
@@ -17136,6 +17139,44 @@
       "max_up": 0.0,
       "max_down": -1.2
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LINKIRT",
+    "time": 1790603287809,
+    "price": 3579063.0,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 1,
+    "p15": 1.14,
+    "vr": 0.13,
+    "va": 3.13,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ATOMIRT",
+    "time": 1790603287809,
+    "price": 421850.0,
+    "level": "WATCH",
+    "hunt": 48.4,
+    "persistence": 1,
+    "p15": 0.83,
+    "vr": 0.4,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.42,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
