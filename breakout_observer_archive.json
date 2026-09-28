@@ -2740,5 +2740,45 @@
     "levels": [],
     "failed_time": 1790454774986,
     "failed_price": 3190.0
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1790540459635,
+    "anchor_price": 1.4096,
+    "status": "FAILED",
+    "created_time": 1790540459635,
+    "last_time": 1790596982593,
+    "last_price": 1.3855,
+    "max_gain_pct": 0.525,
+    "levels": [],
+    "failed_time": 1790567076690,
+    "failed_price": 1.36
+  },
+  {
+    "symbol": "ARBIRT",
+    "anchor_time": 1790540459635,
+    "anchor_price": 54861.0,
+    "status": "FAILED",
+    "created_time": 1790540459635,
+    "last_time": 1790596982593,
+    "last_price": 50827.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1790546739085,
+    "failed_price": 52860.0
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1790531485467,
+    "anchor_price": 294970.0,
+    "status": "EXPIRED",
+    "created_time": 1790531485467,
+    "last_time": 1790596982593,
+    "last_price": 288146.0,
+    "max_gain_pct": 3.5207,
+    "levels": [],
+    "confirmed_time": 1790555740054,
+    "confirmed_price": 305355.0,
+    "expired_time": 1790575226649
   }
 ]
