@@ -2980,5 +2980,26 @@
     "max_move": 0.0,
     "min_move": -3.1779,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "DENTIRT",
+    "event_time": 1790721676462,
+    "event_price": 17.472,
+    "anchor_time": 1790721396568,
+    "anchor_price": 17.048,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1,
+    "tm_e15_e1": 0.1,
+    "tm_e1_e4": 0.5263,
+    "tm_g15": 2.0,
+    "tm_g1": 1.1111,
+    "tm_g4": 1.0556,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
