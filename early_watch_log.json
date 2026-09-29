@@ -18217,7 +18217,10 @@
       "max_up": 0.96,
       "max_down": 0.37
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.48,
+      "max_down": 0.09
+    },
     "result_12h": null
   },
   {
@@ -18458,6 +18461,25 @@
     "va": 2.36,
     "buy": 80.66666666666666,
     "bs": 2.42,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ICPIRT",
+    "time": 1790667294906,
+    "price": 830397.0,
+    "level": "STRONG",
+    "hunt": 53.8,
+    "persistence": 1,
+    "p15": 0.67,
+    "vr": 0.67,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
