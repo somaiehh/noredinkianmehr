@@ -3955,5 +3955,19 @@
     "levels": [],
     "failed_time": 1790624004656,
     "failed_price": 217786.0
+  },
+  {
+    "symbol": "PENGUIRT",
+    "anchor_time": 1790512278120,
+    "anchor_price": 2463.6,
+    "status": "EXPIRED",
+    "created_time": 1790512278120,
+    "last_time": 1790685235096,
+    "last_price": 2510.3,
+    "max_gain_pct": 4.4812,
+    "levels": [],
+    "confirmed_time": 1790513178561,
+    "confirmed_price": 2574.0,
+    "expired_time": 1790572567760
   }
 ]

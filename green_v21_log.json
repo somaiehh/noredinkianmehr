@@ -2578,7 +2578,10 @@
       "max_up": 0.02,
       "max_down": -0.59
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.31,
+      "max_down": -0.59
+    }
   },
   {
     "symbol": "SHIBIRT",
