@@ -4083,5 +4083,78 @@
       }
     ],
     "expired_time": 1790703442856
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1790664590734,
+    "anchor_price": 1.4095,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1790664590734,
+    "last_time": 1790706878133,
+    "last_price": 1.4536,
+    "max_gain_pct": 5.1224,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790674314496,
+    "confirmed_price": 1.4575,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790686947829,
+        "price": 1.4817,
+        "gain_pct": 5.1224
+      }
+    ]
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1790662530275,
+    "anchor_price": 1.04854,
+    "status": "EXPIRED",
+    "created_time": 1790662530275,
+    "last_time": 1790706878133,
+    "last_price": 1.07513,
+    "max_gain_pct": 4.8668,
+    "levels": [],
+    "confirmed_time": 1790676012999,
+    "confirmed_price": 1.08975,
+    "expired_time": 1790706232007
+  },
+  {
+    "symbol": "WLDIRT",
+    "anchor_time": 1790661813010,
+    "anchor_price": 120732.0,
+    "status": "EXPIRED",
+    "created_time": 1790661813010,
+    "last_time": 1790706878133,
+    "last_price": 122986.0,
+    "max_gain_pct": 7.6757,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790666356969,
+    "confirmed_price": 124909.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790677003025,
+        "price": 126807.0,
+        "gain_pct": 5.0318
+      }
+    ],
+    "expired_time": 1790705132196
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1790507981866,
+    "anchor_price": 16739.0,
+    "status": "EXPIRED",
+    "created_time": 1790507981866,
+    "last_time": 1790706878133,
+    "last_price": 17054.0,
+    "max_gain_pct": 5.1437,
+    "levels": [],
+    "expired_time": 1790552071221
   }
 ]
