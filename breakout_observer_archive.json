@@ -3326,5 +3326,18 @@
     "levels": [],
     "failed_time": 1790605996771,
     "failed_price": 282500.0
+  },
+  {
+    "symbol": "AURORAIRT",
+    "anchor_time": 1790613146332,
+    "anchor_price": 16068.0,
+    "status": "FAILED",
+    "created_time": 1790613146332,
+    "last_time": 1790659955505,
+    "last_price": 15412.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1790615282178,
+    "failed_price": 15294.0
   }
 ]

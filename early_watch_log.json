@@ -17698,7 +17698,10 @@
       "max_up": 4.59,
       "max_down": -0.75
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 14.39,
+      "max_down": -0.75
+    }
   },
   {
     "symbol": "IOTAIRT",
@@ -18124,7 +18127,10 @@
       "max_up": 21.66,
       "max_down": 13.61
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 21.66,
+      "max_down": -6.84
+    },
     "result_12h": null
   },
   {
@@ -18236,7 +18242,10 @@
     "breakout": true,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.38,
+      "max_down": -2.75
+    },
     "result_4h": null,
     "result_12h": null
   },
