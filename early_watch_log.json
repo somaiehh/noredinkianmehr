@@ -17929,7 +17929,10 @@
       "max_up": 0.11,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.11,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -17951,7 +17954,10 @@
       "max_up": 0.0,
       "max_down": -0.23
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.34,
+      "max_down": -0.93
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -17973,7 +17979,10 @@
       "max_up": -0.13,
       "max_down": -0.13
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.13,
+      "max_down": -0.75
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -17991,6 +18000,28 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": -1.48,
+      "max_down": -1.48
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1790644638915,
+    "price": 640.0,
+    "level": "STRONG",
+    "hunt": 53.7,
+    "persistence": 1,
+    "p15": 0.31,
+    "vr": 3.9,
+    "va": 1.0,
+    "buy": 100,
+    "bs": 4.39,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
