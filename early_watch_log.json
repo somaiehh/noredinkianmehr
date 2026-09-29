@@ -17369,7 +17369,10 @@
       "max_up": 8.25,
       "max_down": -2.66
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.25,
+      "max_down": -2.66
+    }
   },
   {
     "symbol": "COMMONIRT",
@@ -17397,7 +17400,10 @@
       "max_up": 8.28,
       "max_down": -1.91
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.28,
+      "max_down": -1.91
+    }
   },
   {
     "symbol": "WIFIRT",
