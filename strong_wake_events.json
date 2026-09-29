@@ -1862,8 +1862,8 @@
     "tm_g4": 2.7083,
     "legacy": false,
     "result": "HIT_FIRST",
-    "result_time": 1790599526797,
-    "result_move": 75.4004,
+    "result_time": 1790600551020,
+    "result_move": 76.2332,
     "max_move": 102.8614,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
@@ -2093,7 +2093,7 @@
     "tm_g4": 1.0833,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1790599526797,
+    "result_time": 1790600551020,
     "result_move": -5.9549,
     "max_move": 0.0,
     "min_move": -5.9549,
@@ -2705,7 +2705,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -0.7593,
+    "min_move": -0.993,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -2747,6 +2747,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.5875,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "VENOMIRT",
+    "event_time": 1790689352177,
+    "event_price": 3095.0,
+    "anchor_time": 1790688977434,
+    "anchor_price": 3103.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.4167,
+    "tm_e15_e1": 0.4167,
+    "tm_e1_e4": 0.4444,
+    "tm_g15": 0.5556,
+    "tm_g1": 1.2,
+    "tm_g4": 1.08,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
