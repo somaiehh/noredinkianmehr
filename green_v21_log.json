@@ -2753,7 +2753,10 @@
       "max_up": 1.06,
       "max_down": -0.89
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.06,
+      "max_down": -6.47
+    }
   },
   {
     "symbol": "AINIRT",
@@ -2775,7 +2778,10 @@
       "max_up": 1.73,
       "max_down": 0.02
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.74,
+      "max_down": -0.82
+    }
   },
   {
     "symbol": "AVAXIRT",
@@ -2797,7 +2803,10 @@
       "max_up": 1.25,
       "max_down": 0.01
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.66,
+      "max_down": 0.01
+    }
   },
   {
     "symbol": "AINIRT",
