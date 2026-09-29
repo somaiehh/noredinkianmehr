@@ -3710,5 +3710,31 @@
     "max_gain_pct": 2.3457,
     "levels": [],
     "expired_time": 1790475335574
+  },
+  {
+    "symbol": "BCHIRT",
+    "anchor_time": 1790492455240,
+    "anchor_price": 80463316.0,
+    "status": "FAILED",
+    "created_time": 1790492455240,
+    "last_time": 1790671942621,
+    "last_price": 77937696.0,
+    "max_gain_pct": 0.8449,
+    "levels": [],
+    "failed_time": 1790522143956,
+    "failed_price": 77442089.0
+  },
+  {
+    "symbol": "DOGSIRT",
+    "anchor_time": 1790592572166,
+    "anchor_price": 12.08,
+    "status": "FAILED",
+    "created_time": 1790592572166,
+    "last_time": 1790671942621,
+    "last_price": 12.22,
+    "max_gain_pct": 1.1589,
+    "levels": [],
+    "failed_time": 1790605052760,
+    "failed_price": 11.67
   }
 ]
