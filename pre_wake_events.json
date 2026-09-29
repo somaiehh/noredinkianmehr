@@ -859,5 +859,26 @@
     "max_move": 1.2901,
     "min_move": -0.3305,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "AURORAIRT",
+    "event_time": 1790685235096,
+    "event_price": 18339.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 30.0,
+    "p15": -1.81,
+    "vr": null,
+    "va": 2.0,
+    "ta": null,
+    "bs": 5.0,
+    "book": 0.17,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
