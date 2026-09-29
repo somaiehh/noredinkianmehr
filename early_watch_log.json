@@ -19119,7 +19119,10 @@
       "max_up": 0.47,
       "max_down": 0.37
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.97,
+      "max_down": -0.16
+    },
     "result_12h": null
   },
   {
@@ -19141,7 +19144,10 @@
       "max_up": 0.74,
       "max_down": 0.62
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.74,
+      "max_down": -0.72
+    },
     "result_12h": null
   },
   {
@@ -19352,6 +19358,28 @@
     "buy": 67.33333333333333,
     "bs": 2.02,
     "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "time": 1790695080027,
+    "price": 15533.0,
+    "level": "STRONG",
+    "hunt": 68.4,
+    "persistence": 1,
+    "p15": 0.62,
+    "vr": 0.43,
+    "va": 10.0,
+    "buy": 64.0,
+    "bs": 1.92,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
