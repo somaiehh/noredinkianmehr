@@ -18294,7 +18294,10 @@
       "max_up": 5.05,
       "max_down": -1.25
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.74,
+      "max_down": -1.25
+    }
   },
   {
     "symbol": "HBARIRT",
@@ -19272,7 +19275,10 @@
       "max_up": 0.33,
       "max_down": -0.33
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.33,
+      "max_down": -2.34
+    },
     "result_12h": null
   },
   {
@@ -19412,7 +19418,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.53,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   }
