@@ -1113,5 +1113,18 @@
     "bs": 1.42,
     "breakout": true,
     "persistence": 6
+  },
+  {
+    "time": 1790692168397,
+    "symbol": "0GIRT",
+    "price": 89865.0,
+    "hunt_score": 92.7,
+    "status": "EARLY",
+    "p15": 2.21,
+    "vr": 1.59,
+    "va": 10.0,
+    "bs": 1.99,
+    "breakout": true,
+    "persistence": 2
   }
 ]
