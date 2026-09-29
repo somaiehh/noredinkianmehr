@@ -2557,5 +2557,24 @@
       "max_up": 5.05,
       "max_down": -1.25
     }
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1790671556600,
+    "price": 0.00010598,
+    "pre30": 1.46,
+    "pre60": 1.23,
+    "pre120": 1.27,
+    "hunt": 92.7,
+    "persistence": 3,
+    "vr": 7.59,
+    "va": 4.89,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.82,
+    "p15": 0.95,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

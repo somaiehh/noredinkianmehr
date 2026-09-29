@@ -18276,7 +18276,10 @@
       "max_up": -0.38,
       "max_down": -2.75
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.38,
+      "max_down": -4.35
+    },
     "result_12h": null
   },
   {
@@ -18507,7 +18510,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.35,
+      "max_down": 0.59
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -18563,6 +18569,44 @@
     "bs": 2.76,
     "breakout": true,
     "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NAKAIRT",
+    "time": 1790671556600,
+    "price": 31987.0,
+    "level": "WATCH",
+    "hunt": 45.5,
+    "persistence": 1,
+    "p15": 0.47,
+    "vr": 0.51,
+    "va": 2.33,
+    "buy": 53.66666666666667,
+    "bs": 1.61,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SLVONIRT",
+    "time": 1790671556600,
+    "price": 13740000.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.31,
+    "vr": 0.83,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
