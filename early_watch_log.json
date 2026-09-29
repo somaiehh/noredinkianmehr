@@ -17105,7 +17105,10 @@
       "max_up": 0.18,
       "max_down": -3.92
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.18,
+      "max_down": -8.8
+    }
   },
   {
     "symbol": "PEPEIRT",
@@ -17130,7 +17133,10 @@
       "max_up": 0.56,
       "max_down": -2.85
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.56,
+      "max_down": -2.88
+    }
   },
   {
     "symbol": "PROMIRT",
@@ -17155,7 +17161,10 @@
       "max_up": 0.6,
       "max_down": -0.91
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.6,
+      "max_down": -0.91
+    }
   },
   {
     "symbol": "COMMONIRT",
@@ -17180,7 +17189,10 @@
       "max_up": 6.29,
       "max_down": -2.52
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.92,
+      "max_down": -3.14
+    }
   },
   {
     "symbol": "AINIRT",
@@ -17205,7 +17217,10 @@
       "max_up": 2.56,
       "max_down": -0.32
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 12.96,
+      "max_down": -0.32
+    }
   },
   {
     "symbol": "NOTIRT",
