@@ -18353,7 +18353,10 @@
       "max_up": 2.72,
       "max_down": -0.8
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.17,
+      "max_down": -0.8
+    }
   },
   {
     "symbol": "NMRIRT",
@@ -18381,7 +18384,10 @@
       "max_up": 2.54,
       "max_down": -7.89
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.54,
+      "max_down": -9.74
+    }
   },
   {
     "symbol": "TACIRT",
@@ -19428,6 +19434,44 @@
       "max_up": 1.53,
       "max_down": 0.0
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "COQIRT",
+    "time": 1790703442856,
+    "price": 0.0347,
+    "level": "WATCH",
+    "hunt": 48.5,
+    "persistence": 1,
+    "p15": 0.29,
+    "vr": 1.06,
+    "va": 2.16,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1790703442856,
+    "price": 77486.0,
+    "level": "STRONG",
+    "hunt": 54.9,
+    "persistence": 1,
+    "p15": 1.03,
+    "vr": 0.05,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
