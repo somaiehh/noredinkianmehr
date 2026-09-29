@@ -18741,7 +18741,10 @@
       "max_up": 23.02,
       "max_down": 3.92
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 23.02,
+      "max_down": -10.85
+    }
   },
   {
     "symbol": "SLVONIRT",
@@ -18769,7 +18772,10 @@
       "max_up": 1.83,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.95,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -19829,7 +19835,10 @@
       "max_up": 0.02,
       "max_down": 0.02
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.93,
+      "max_down": 0.02
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -19851,7 +19860,10 @@
       "max_up": 0.73,
       "max_down": 0.73
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.86,
+      "max_down": 0.11
+    },
     "result_4h": null,
     "result_12h": null
   },
