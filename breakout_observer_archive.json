@@ -3535,5 +3535,54 @@
     "max_gain_pct": 0.6851,
     "levels": [],
     "expired_time": 1790410494937
+  },
+  {
+    "symbol": "BONKIRT",
+    "anchor_time": 1790539419959,
+    "anchor_price": 0.881,
+    "status": "FAILED",
+    "created_time": 1790539419959,
+    "last_time": 1790667294906,
+    "last_price": 0.88919,
+    "max_gain_pct": 1.252,
+    "levels": [],
+    "failed_time": 1790566203558,
+    "failed_price": 0.85269
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1790613146332,
+    "anchor_price": 9095.0,
+    "status": "EXPIRED",
+    "created_time": 1790613146332,
+    "last_time": 1790667294906,
+    "last_price": 9262.0,
+    "max_gain_pct": 1.8362,
+    "levels": [],
+    "expired_time": 1790657104934
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1790583392408,
+    "anchor_price": 394999.0,
+    "status": "EXPIRED",
+    "created_time": 1790583392408,
+    "last_time": 1790667294906,
+    "last_price": 393785.0,
+    "max_gain_pct": 5.5175,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790589810097,
+    "confirmed_price": 408770.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790591559997,
+        "price": 416000.0,
+        "gain_pct": 5.3167
+      }
+    ],
+    "expired_time": 1790627021862
   }
 ]
