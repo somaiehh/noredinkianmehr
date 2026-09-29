@@ -2595,5 +2595,43 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1790673331166,
+    "price": 9325.0,
+    "pre30": 1.08,
+    "pre60": 0.43,
+    "pre120": 0.92,
+    "hunt": 84.0,
+    "persistence": 3,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 46.33333333333333,
+    "bs": 1.39,
+    "ob": 1.0,
+    "p15": 1.36,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "time": 1790673331166,
+    "price": 1.81,
+    "pre30": 1.12,
+    "pre60": 2.98,
+    "pre120": 2.5,
+    "hunt": 90.6,
+    "persistence": 2,
+    "vr": 8.21,
+    "va": 5.1,
+    "buy": 100,
+    "bs": 3.0,
+    "ob": 1.0,
+    "p15": 1.39,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

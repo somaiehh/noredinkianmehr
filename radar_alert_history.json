@@ -1074,5 +1074,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1790673334986,
+    "symbol": "WENSOLIRT",
+    "price": 1.81,
+    "hunt_score": 90.6,
+    "status": "EARLY",
+    "p15": 1.39,
+    "vr": 8.21,
+    "va": 5.1,
+    "bs": 3.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
