@@ -18912,7 +18912,10 @@
       "max_up": 0.38,
       "max_down": 0.38
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.86,
+      "max_down": 0.22
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -18934,7 +18937,10 @@
       "max_up": 0.22,
       "max_down": 0.22
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.22,
+      "max_down": -1.32
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -18956,7 +18962,10 @@
       "max_up": -0.24,
       "max_down": -0.24
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.16,
+      "max_down": -0.24
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -19037,6 +19046,82 @@
     "bs": 2.45,
     "breakout": false,
     "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ICPIRT",
+    "time": 1790683196062,
+    "price": 857394.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.33,
+    "vr": 0.26,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1790683196062,
+    "price": 0.00010692,
+    "level": "STRONG",
+    "hunt": 56.0,
+    "persistence": 1,
+    "p15": 0.12,
+    "vr": 1.9,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ACAIRT",
+    "time": 1790683196062,
+    "price": 98.0,
+    "level": "STRONG",
+    "hunt": 52.5,
+    "persistence": 1,
+    "p15": 1.03,
+    "vr": 0.41,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WODIRT",
+    "time": 1790683196062,
+    "price": 1422.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.57,
+    "vr": 7.19,
+    "va": 7.38,
+    "buy": 100,
+    "bs": 4.69,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
