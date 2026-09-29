@@ -4353,5 +4353,86 @@
     "levels": [],
     "failed_time": 1790514091692,
     "failed_price": 14001.0
+  },
+  {
+    "symbol": "DOTIRT",
+    "anchor_time": 1790666356969,
+    "anchor_price": 294578.0,
+    "status": "EXPIRED",
+    "created_time": 1790666356969,
+    "last_time": 1790710605255,
+    "last_price": 300810.0,
+    "max_gain_pct": 5.8429,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790676012999,
+    "confirmed_price": 306849.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790683196062,
+        "price": 311790.0,
+        "gain_pct": 5.8429
+      }
+    ],
+    "expired_time": 1790709611412
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1790640556068,
+    "anchor_price": 0.00010466,
+    "status": "FAILED",
+    "created_time": 1790640556068,
+    "last_time": 1790710605255,
+    "last_price": 0.00010477,
+    "max_gain_pct": 2.704,
+    "levels": [],
+    "failed_time": 1790650818331,
+    "failed_price": 0.00010106
+  },
+  {
+    "symbol": "NAKAIRT",
+    "anchor_time": 1790649229231,
+    "anchor_price": 24675.0,
+    "status": "EXPIRED",
+    "created_time": 1790649229231,
+    "last_time": 1790710605255,
+    "last_price": 32109.0,
+    "max_gain_pct": 59.4732,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790651664281,
+    "confirmed_price": 27282.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790651664281,
+        "price": 27282.0,
+        "gain_pct": 10.5653
+      },
+      {
+        "level": 10,
+        "time": 1790651664281,
+        "price": 27282.0,
+        "gain_pct": 10.5653
+      }
+    ],
+    "expired_time": 1790693474220
+  },
+  {
+    "symbol": "GRASSIRT",
+    "anchor_time": 1790662530275,
+    "anchor_price": 183334.0,
+    "status": "FAILED",
+    "created_time": 1790662530275,
+    "last_time": 1790710605255,
+    "last_price": 184000.0,
+    "max_gain_pct": 0.3633,
+    "levels": [],
+    "failed_time": 1790664590734,
+    "failed_price": 172000.0
   }
 ]
