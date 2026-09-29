@@ -1152,5 +1152,18 @@
     "bs": 2.25,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1790713310112,
+    "symbol": "ICPIRT",
+    "price": 888888.0,
+    "hunt_score": 93.4,
+    "status": "EARLY",
+    "p15": 1.28,
+    "vr": 0.81,
+    "va": 8.17,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 3
   }
 ]
