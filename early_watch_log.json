@@ -17757,7 +17757,10 @@
       "max_up": -0.06,
       "max_down": -1.46
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.18,
+      "max_down": -1.46
+    }
   },
   {
     "symbol": "XLMIRT",
@@ -18158,7 +18161,10 @@
       "max_up": 0.96,
       "max_down": -0.61
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.26,
+      "max_down": -0.61
+    },
     "result_12h": null
   },
   {
@@ -18310,7 +18316,10 @@
     "bs": 2.47,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.27,
+      "max_down": 0.27
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
