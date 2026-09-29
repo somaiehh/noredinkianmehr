@@ -3225,5 +3225,36 @@
       }
     ],
     "expired_time": 1790648383543
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1790593300042,
+    "anchor_price": 1185.9,
+    "status": "EXPIRED",
+    "created_time": 1790593300042,
+    "last_time": 1790655351028,
+    "last_price": 1198.5,
+    "max_gain_pct": 12.792,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790595931094,
+    "confirmed_price": 1227.6,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790597716430,
+        "price": 1254.9,
+        "gain_pct": 5.8184
+      },
+      {
+        "level": 10,
+        "time": 1790613146332,
+        "price": 1337.6,
+        "gain_pct": 12.792
+      }
+    ],
+    "expired_time": 1790637430524
   }
 ]
