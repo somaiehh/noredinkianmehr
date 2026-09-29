@@ -3787,5 +3787,44 @@
     "confirmed_time": 1790527638563,
     "confirmed_price": 240.0,
     "expired_time": 1790562534273
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1790633626832,
+    "anchor_price": 361136987.0,
+    "status": "FAILED",
+    "created_time": 1790633626832,
+    "last_time": 1790676012999,
+    "last_price": 360274978.0,
+    "max_gain_pct": 1.7262,
+    "levels": [],
+    "failed_time": 1790645574363,
+    "failed_price": 344444033.0
+  },
+  {
+    "symbol": "SEIIRT",
+    "anchor_time": 1790595931094,
+    "anchor_price": 19634.0,
+    "status": "FAILED",
+    "created_time": 1790595931094,
+    "last_time": 1790676012999,
+    "last_price": 19091.0,
+    "max_gain_pct": 1.8641,
+    "levels": [],
+    "failed_time": 1790605052760,
+    "failed_price": 18836.0
+  },
+  {
+    "symbol": "BTRIRT",
+    "anchor_time": 1790613146332,
+    "anchor_price": 11980.0,
+    "status": "FAILED",
+    "created_time": 1790613146332,
+    "last_time": 1790676012999,
+    "last_price": 11915.0,
+    "max_gain_pct": 1.1603,
+    "levels": [],
+    "failed_time": 1790645574363,
+    "failed_price": 11400.0
   }
 ]

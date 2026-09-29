@@ -2596,7 +2596,10 @@
     "ob": 1.0,
     "p15": 0.72,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.69,
+      "max_down": 0.14
+    },
     "result_4h": null
   },
   {
@@ -2615,7 +2618,10 @@
     "ob": 1.0,
     "p15": 1.36,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.6,
+      "max_down": 0.35
+    },
     "result_4h": null
   },
   {
@@ -2634,7 +2640,10 @@
     "ob": 1.0,
     "p15": 1.39,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.55,
+      "max_down": 0.0
+    },
     "result_4h": null
   },
   {
