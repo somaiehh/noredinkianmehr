@@ -4304,5 +4304,54 @@
     "levels": [],
     "failed_time": 1790627751258,
     "failed_price": 8110.0
+  },
+  {
+    "symbol": "PHAIRT",
+    "anchor_time": 1790661813010,
+    "anchor_price": 16000.0,
+    "status": "EXPIRED",
+    "created_time": 1790661813010,
+    "last_time": 1790709611412,
+    "last_price": 17085.0,
+    "max_gain_pct": 9.375,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790662530275,
+    "confirmed_price": 16507.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790668958114,
+        "price": 16850.0,
+        "gain_pct": 5.3125
+      }
+    ],
+    "expired_time": 1790705132196
+  },
+  {
+    "symbol": "DEXEIRT",
+    "anchor_time": 1790640556068,
+    "anchor_price": 458266.0,
+    "status": "EXPIRED",
+    "created_time": 1790640556068,
+    "last_time": 1790709611412,
+    "last_price": 462000.0,
+    "max_gain_pct": 1.4588,
+    "levels": [],
+    "expired_time": 1790684164573
+  },
+  {
+    "symbol": "VELVETIRT",
+    "anchor_time": 1790487030726,
+    "anchor_price": 14579.0,
+    "status": "FAILED",
+    "created_time": 1790487030726,
+    "last_time": 1790709611412,
+    "last_price": 14415.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1790514091692,
+    "failed_price": 14001.0
   }
 ]

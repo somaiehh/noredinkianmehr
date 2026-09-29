@@ -2470,7 +2470,7 @@
     "tm_g1": 1.2857,
     "tm_g4": 1.2083,
     "legacy": false,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 7.4831,
@@ -2894,7 +2894,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.2183,
-    "min_move": -1.31,
+    "min_move": -1.6157,
     "ledger_version": "wake-ledger-v1"
   },
   {
