@@ -2729,5 +2729,24 @@
       "max_down": -0.85
     },
     "result_4h": null
+  },
+  {
+    "symbol": "AURORAIRT",
+    "time": 1790705132196,
+    "price": 18207.0,
+    "pre30": 0.65,
+    "pre60": 8.19,
+    "pre120": 7.84,
+    "hunt": 72.8,
+    "persistence": 2,
+    "vr": 3.83,
+    "va": 2.14,
+    "buy": 16.0,
+    "bs": 0.48,
+    "ob": 1.0,
+    "p15": 1.43,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
