@@ -2628,7 +2628,10 @@
       "max_up": 0.6,
       "max_down": 0.35
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.88,
+      "max_down": -0.79
+    }
   },
   {
     "symbol": "WENSOLIRT",
@@ -2650,7 +2653,10 @@
       "max_up": 0.55,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 4.42,
+      "max_down": -0.82
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -2672,7 +2678,10 @@
       "max_up": 1.52,
       "max_down": 0.64
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.66,
+      "max_down": 0.4
+    }
   },
   {
     "symbol": "SIRT",
