@@ -3826,5 +3826,28 @@
     "levels": [],
     "failed_time": 1790645574363,
     "failed_price": 11400.0
+  },
+  {
+    "symbol": "SAGAIRT",
+    "anchor_time": 1790635005772,
+    "anchor_price": 6757.0,
+    "status": "WATCHING",
+    "created_time": 1790635005772,
+    "last_time": 1790677823721,
+    "last_price": 6753.0,
+    "max_gain_pct": 2.0275,
+    "levels": []
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1790361907402,
+    "anchor_price": 8805.0,
+    "status": "EXPIRED",
+    "created_time": 1790361907402,
+    "last_time": 1790677823721,
+    "last_price": 9141.0,
+    "max_gain_pct": 4.6564,
+    "levels": [],
+    "expired_time": 1790405240949
   }
 ]
