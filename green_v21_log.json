@@ -2532,5 +2532,24 @@
       "max_up": 0.27,
       "max_down": -1.07
     }
+  },
+  {
+    "symbol": "ICPIRT",
+    "time": 1790655351028,
+    "price": 804860.0,
+    "pre30": 3.87,
+    "pre60": 3.87,
+    "pre120": 3.87,
+    "hunt": 62.1,
+    "persistence": 3,
+    "vr": 1.79,
+    "va": 2.71,
+    "buy": 91.66666666666666,
+    "bs": 2.75,
+    "ob": 1.0,
+    "p15": 0.39,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

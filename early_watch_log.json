@@ -17975,7 +17975,10 @@
       "max_up": 0.11,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.09,
+      "max_down": -0.57
+    },
     "result_12h": null
   },
   {
@@ -18000,7 +18003,10 @@
       "max_up": 0.34,
       "max_down": -0.93
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.34,
+      "max_down": -2.31
+    },
     "result_12h": null
   },
   {
@@ -18025,7 +18031,10 @@
       "max_up": -0.13,
       "max_down": -0.75
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.13,
+      "max_down": -3.44
+    },
     "result_12h": null
   },
   {
@@ -18162,6 +18171,25 @@
     "va": 10.0,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ICPIRT",
+    "time": 1790655351028,
+    "price": 804860.0,
+    "level": "STRONG",
+    "hunt": 62.1,
+    "persistence": 3,
+    "p15": 0.39,
+    "vr": 1.79,
+    "va": 2.71,
+    "buy": 91.66666666666666,
+    "bs": 2.75,
     "breakout": false,
     "priority": false,
     "result_15m": null,
