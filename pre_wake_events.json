@@ -688,7 +688,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 4.2177,
+    "max_move": 4.2518,
     "min_move": -3.2848,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -815,6 +815,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 2.8605,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ICPIRT",
+    "event_time": 1790668958114,
+    "event_price": 835305.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 36.1,
+    "p15": -1.11,
+    "vr": null,
+    "va": 9.45,
+    "ta": null,
+    "bs": 1.57,
+    "book": 0.76,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
