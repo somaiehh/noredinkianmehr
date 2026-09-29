@@ -18648,7 +18648,10 @@
       "max_up": 2.28,
       "max_down": 0.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.39,
+      "max_down": -1.15
+    }
   },
   {
     "symbol": "FLOKIIRT",
@@ -18676,7 +18679,10 @@
       "max_up": 3.05,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.05,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -18704,7 +18710,10 @@
       "max_up": 2.66,
       "max_down": -0.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.66,
+      "max_down": -1.85
+    }
   },
   {
     "symbol": "NAKAIRT",
@@ -19773,7 +19782,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.66,
+      "max_down": -0.52
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -19792,7 +19804,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.22,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -19911,6 +19926,44 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SUIIRT",
+    "time": 1790714295029,
+    "price": 296549.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.18,
+    "vr": 1.0,
+    "va": 3.69,
+    "buy": 100,
+    "bs": 4.42,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1790714295029,
+    "price": 13612.0,
+    "level": "WATCH",
+    "hunt": 43.3,
+    "persistence": 1,
+    "p15": 0.16,
+    "vr": 0.06,
+    "va": 2.1,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
