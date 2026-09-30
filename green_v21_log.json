@@ -2954,5 +2954,43 @@
       "max_down": -6.71
     },
     "result_4h": null
+  },
+  {
+    "symbol": "WLDIRT",
+    "time": 1790761677708,
+    "price": 133542.0,
+    "pre30": 1.17,
+    "pre60": 5.2,
+    "pre120": 5.24,
+    "hunt": 90.6,
+    "persistence": 3,
+    "vr": 1.13,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.5,
+    "p15": 0.33,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "NOTIRT",
+    "time": 1790761677708,
+    "price": 128.5,
+    "pre30": 1.42,
+    "pre60": 2.15,
+    "pre120": 2.31,
+    "hunt": 84.2,
+    "persistence": 2,
+    "vr": 3.18,
+    "va": 2.68,
+    "buy": 82.33333333333334,
+    "bs": 2.47,
+    "ob": 1.0,
+    "p15": 0.71,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
