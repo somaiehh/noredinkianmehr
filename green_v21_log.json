@@ -3053,7 +3053,10 @@
       "max_up": 1.46,
       "max_down": 0.07
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.46,
+      "max_down": -1.55
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -3203,6 +3206,25 @@
     "ob": 0.0,
     "p15": 1.27,
     "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "GALAIRT",
+    "time": 1790785047200,
+    "price": 584.3,
+    "pre30": 1.18,
+    "pre60": 1.6,
+    "pre120": 1.9,
+    "hunt": 83.6,
+    "persistence": 2,
+    "vr": 17.65,
+    "va": 10.0,
+    "buy": 22.333333333333336,
+    "bs": 0.67,
+    "ob": 0.82,
+    "p15": 0.71,
+    "breakout": false,
     "result_1h": null,
     "result_4h": null
   }
