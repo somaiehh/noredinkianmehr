@@ -3310,11 +3310,11 @@
     "tm_g1": 1.4615,
     "tm_g4": 1.087,
     "legacy": false,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1790768595146,
+    "result_move": -6.7602,
     "max_move": 0.0,
-    "min_move": -0.4293,
+    "min_move": -6.7602,
     "ledger_version": "wake-ledger-v1"
   }
 ]
