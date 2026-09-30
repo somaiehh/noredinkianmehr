@@ -4983,5 +4983,43 @@
       }
     ],
     "expired_time": 1790711628164
+  },
+  {
+    "symbol": "AVAXIRT",
+    "anchor_time": 1790709016664,
+    "anchor_price": 2876403.0,
+    "status": "EXPIRED",
+    "created_time": 1790709016664,
+    "last_time": 1790758957728,
+    "last_price": 2831080.0,
+    "max_gain_pct": 3.0338,
+    "levels": [],
+    "confirmed_time": 1790721396568,
+    "confirmed_price": 2963668.0,
+    "expired_time": 1790752547087
+  },
+  {
+    "symbol": "RVVIRT",
+    "anchor_time": 1790354876160,
+    "anchor_price": 22.5,
+    "status": "EXPIRED",
+    "created_time": 1790354876160,
+    "last_time": 1790758957728,
+    "last_price": 22.9,
+    "max_gain_pct": 5.3333,
+    "levels": [],
+    "expired_time": 1790404231754
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1790704294182,
+    "anchor_price": 6144.0,
+    "status": "EXPIRED",
+    "created_time": 1790704294182,
+    "last_time": 1790758957728,
+    "last_price": 6125.0,
+    "max_gain_pct": 2.653,
+    "levels": [],
+    "expired_time": 1790748126127
   }
 ]
