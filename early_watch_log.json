@@ -20505,7 +20505,10 @@
       "max_up": -0.85,
       "max_down": -1.94
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.85,
+      "max_down": -2.46
+    },
     "result_12h": null
   },
   {
@@ -20900,6 +20903,63 @@
       "max_up": 0.54,
       "max_down": -3.3
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WLDIRT",
+    "time": 1790769714933,
+    "price": 138000.0,
+    "level": "STRONG",
+    "hunt": 61.9,
+    "persistence": 1,
+    "p15": 1.69,
+    "vr": 0.1,
+    "va": 2.86,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NAKAIRT",
+    "time": 1790769714933,
+    "price": 31634.0,
+    "level": "STRONG",
+    "hunt": 72.8,
+    "persistence": 1,
+    "p15": 0.93,
+    "vr": 0.33,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "REZIRT",
+    "time": 1790769714933,
+    "price": 1160.0,
+    "level": "WATCH",
+    "hunt": 49.3,
+    "persistence": 1,
+    "p15": 0.43,
+    "vr": 0.65,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.68,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
