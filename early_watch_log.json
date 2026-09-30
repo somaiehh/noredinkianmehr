@@ -20179,7 +20179,10 @@
       "max_up": 0.15,
       "max_down": -0.69
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.07,
+      "max_down": -1.59
+    }
   },
   {
     "symbol": "LABIRT",
@@ -20204,7 +20207,10 @@
       "max_up": 0.58,
       "max_down": -0.8
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.84,
+      "max_down": -2.01
+    }
   },
   {
     "symbol": "MUBARAKIRT",
@@ -20458,7 +20464,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.36,
+      "max_down": -0.8
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -20532,6 +20541,25 @@
     "buy": 100,
     "bs": 5.0,
     "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1790758046186,
+    "price": 13702.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.65,
+    "vr": 2.46,
+    "va": 4.6,
+    "buy": 40.0,
+    "bs": 1.2,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,

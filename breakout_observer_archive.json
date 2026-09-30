@@ -4890,5 +4890,48 @@
     "max_gain_pct": 2.7557,
     "levels": [],
     "expired_time": 1790750806665
+  },
+  {
+    "symbol": "PHAIRT",
+    "anchor_time": 1790710605255,
+    "anchor_price": 17337.0,
+    "status": "EXPIRED",
+    "created_time": 1790710605255,
+    "last_time": 1790757155903,
+    "last_price": 20200.0,
+    "max_gain_pct": 16.5138,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790721396568,
+    "confirmed_price": 18265.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790721396568,
+        "price": 18265.0,
+        "gain_pct": 5.3527
+      },
+      {
+        "level": 10,
+        "time": 1790748126127,
+        "price": 19197.0,
+        "gain_pct": 10.7285
+      }
+    ],
+    "expired_time": 1790754377946
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1790709016664,
+    "anchor_price": 13469.0,
+    "status": "EXPIRED",
+    "created_time": 1790709016664,
+    "last_time": 1790757155903,
+    "last_price": 13614.0,
+    "max_gain_pct": 2.9178,
+    "levels": [],
+    "expired_time": 1790752547087
   }
 ]
