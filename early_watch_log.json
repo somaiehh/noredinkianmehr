@@ -19747,7 +19747,10 @@
       "max_up": 3.66,
       "max_down": 0.01
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.33,
+      "max_down": 0.01
+    }
   },
   {
     "symbol": "AURORAIRT",
@@ -19772,7 +19775,10 @@
       "max_up": 0.14,
       "max_down": -6.66
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.14,
+      "max_down": -6.66
+    }
   },
   {
     "symbol": "WODIRT",
@@ -19797,7 +19803,10 @@
       "max_up": 0.0,
       "max_down": -1.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -1.82
+    }
   },
   {
     "symbol": "MUBARAKIRT",

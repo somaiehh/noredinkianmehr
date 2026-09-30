@@ -4852,5 +4852,18 @@
     "max_gain_pct": 3.3552,
     "levels": [],
     "expired_time": 1790715780624
+  },
+  {
+    "symbol": "ARKIRT",
+    "anchor_time": 1790403258178,
+    "anchor_price": 67164.0,
+    "status": "FAILED",
+    "created_time": 1790403258178,
+    "last_time": 1790749839389,
+    "last_price": 70925.0,
+    "max_gain_pct": 5.5997,
+    "levels": [],
+    "failed_time": 1790404231754,
+    "failed_price": 64735.0
   }
 ]

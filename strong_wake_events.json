@@ -2957,7 +2957,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.3647,
-    "min_move": -0.6809,
+    "min_move": -1.1279,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -3020,7 +3020,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.856,
-    "min_move": -0.7369,
+    "min_move": -1.5948,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -3062,7 +3062,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -2.442,
+    "min_move": -3.1746,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -3104,7 +3104,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.3677,
-    "min_move": 0.0,
+    "min_move": -1.3864,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -3146,7 +3146,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -0.5186,
+    "min_move": -3.0251,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -3167,7 +3167,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.2465,
-    "min_move": -0.3674,
+    "min_move": -0.9079,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -3188,7 +3188,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0684,
-    "min_move": -1.2011,
+    "min_move": -1.8129,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -3204,6 +3204,27 @@
     "tm_g15": 2.0,
     "tm_g1": 0.12,
     "tm_g4": 1.1154,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -2.7108,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "DEXEIRT",
+    "event_time": 1790750806665,
+    "event_price": 461507.0,
+    "anchor_time": 1790749839389,
+    "anchor_price": 464880.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1818,
+    "tm_e15_e1": 0.1818,
+    "tm_e1_e4": 0.4783,
+    "tm_g15": 0.2222,
+    "tm_g1": 1.2222,
+    "tm_g4": 1.0455,
     "legacy": false,
     "result": "PENDING",
     "result_time": null,
