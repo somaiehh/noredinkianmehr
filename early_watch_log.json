@@ -19921,7 +19921,10 @@
       "max_up": 1.65,
       "max_down": -1.47
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.48,
+      "max_down": -3.11
+    }
   },
   {
     "symbol": "ALICEIRT",

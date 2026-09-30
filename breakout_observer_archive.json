@@ -4865,5 +4865,18 @@
     "levels": [],
     "failed_time": 1790404231754,
     "failed_price": 64735.0
+  },
+  {
+    "symbol": "MOVRIRT",
+    "anchor_time": 1790709611412,
+    "anchor_price": 300144.0,
+    "status": "FAILED",
+    "created_time": 1790709611412,
+    "last_time": 1790752547087,
+    "last_price": 424608.0,
+    "max_gain_pct": 41.4681,
+    "levels": [],
+    "failed_time": 1790711628164,
+    "failed_price": 289593.0
   }
 ]
