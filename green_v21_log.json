@@ -2992,5 +2992,24 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "time": 1790763379538,
+    "price": 16017.0,
+    "pre30": 0.86,
+    "pre60": 3.42,
+    "pre120": 5.16,
+    "hunt": 98.1,
+    "persistence": 2,
+    "vr": 1.48,
+    "va": 10.0,
+    "buy": 57.333333333333336,
+    "bs": 1.72,
+    "ob": 0.51,
+    "p15": 0.74,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

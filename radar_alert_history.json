@@ -1256,5 +1256,18 @@
     "bs": 3.8,
     "breakout": true,
     "persistence": 4
+  },
+  {
+    "time": 1790763383944,
+    "symbol": "MUBARAKIRT",
+    "price": 16017.0,
+    "hunt_score": 98.1,
+    "status": "EARLY",
+    "p15": 0.74,
+    "vr": 1.48,
+    "va": 10.0,
+    "bs": 1.72,
+    "breakout": true,
+    "persistence": 2
   }
 ]

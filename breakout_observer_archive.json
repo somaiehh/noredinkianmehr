@@ -5252,5 +5252,49 @@
     "levels": [],
     "failed_time": 1790624004656,
     "failed_price": 1421.2
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "anchor_time": 1790718263658,
+    "anchor_price": 15793.0,
+    "status": "FAILED",
+    "created_time": 1790718263658,
+    "last_time": 1790762508245,
+    "last_price": 15881.0,
+    "max_gain_pct": 1.3107,
+    "levels": [],
+    "failed_time": 1790750806665,
+    "failed_price": 15258.0
+  },
+  {
+    "symbol": "NIGHTIRT",
+    "anchor_time": 1790677003025,
+    "anchor_price": 7558.9,
+    "status": "EXPIRED",
+    "created_time": 1790677003025,
+    "last_time": 1790762508245,
+    "last_price": 8762.5,
+    "max_gain_pct": 15.923,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790681887009,
+    "confirmed_price": 7965.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790681887009,
+        "price": 7965.0,
+        "gain_pct": 5.3725
+      },
+      {
+        "level": 10,
+        "time": 1790715780624,
+        "price": 8391.6,
+        "gain_pct": 11.0162
+      }
+    ],
+    "expired_time": 1790721396568
   }
 ]
