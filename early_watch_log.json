@@ -20912,7 +20912,10 @@
       "max_up": -0.26,
       "max_down": -3.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.26,
+      "max_down": -6.23
+    }
   },
   {
     "symbol": "SOONIRT",
@@ -20937,7 +20940,10 @@
       "max_up": 3.47,
       "max_down": -4.08
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 20.88,
+      "max_down": -4.08
+    }
   },
   {
     "symbol": "AINIRT",
@@ -20962,7 +20968,10 @@
       "max_up": 0.0,
       "max_down": -3.26
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -6.44
+    }
   },
   {
     "symbol": "PROMIRT",
