@@ -19862,7 +19862,10 @@
       "max_up": 3.59,
       "max_down": -1.06
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 18.52,
+      "max_down": -1.06
+    }
   },
   {
     "symbol": "SIRT",
@@ -19890,7 +19893,10 @@
       "max_up": 0.28,
       "max_down": -0.58
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.08,
+      "max_down": -2.91
+    }
   },
   {
     "symbol": "NOMIRT",
@@ -20376,6 +20382,25 @@
       "max_up": 0.24,
       "max_down": -0.4
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SANDIRT",
+    "time": 1790752547087,
+    "price": 11141.9022,
+    "level": "WATCH",
+    "hunt": 45.2,
+    "persistence": 1,
+    "p15": 0.5,
+    "vr": 0.34,
+    "va": 4.61,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
