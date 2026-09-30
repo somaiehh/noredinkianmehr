@@ -20505,7 +20505,10 @@
       "max_up": 1.81,
       "max_down": -0.8
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.81,
+      "max_down": -4.55
+    }
   },
   {
     "symbol": "COWIRT",
@@ -21442,7 +21445,10 @@
       "max_up": 2.96,
       "max_down": 0.99
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.96,
+      "max_down": -2.63
+    },
     "result_12h": null
   },
   {
@@ -21467,7 +21473,10 @@
       "max_up": -0.04,
       "max_down": -0.44
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.49,
+      "max_down": -1.64
+    },
     "result_12h": null
   },
   {
@@ -21492,7 +21501,10 @@
       "max_up": 2.78,
       "max_down": 1.01
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.78,
+      "max_down": -1.52
+    },
     "result_12h": null
   },
   {
@@ -21514,7 +21526,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -21536,7 +21551,10 @@
       "max_up": -0.33,
       "max_down": -0.75
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.33,
+      "max_down": -5.92
+    },
     "result_12h": null
   },
   {
@@ -21654,7 +21672,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -1.65,
+      "max_down": -4.76
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -21747,6 +21768,25 @@
     "buy": 100,
     "bs": 3.0,
     "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NEARIRT",
+    "time": 1790797717250,
+    "price": 1373254.0,
+    "level": "STRONG",
+    "hunt": 64.2,
+    "persistence": 2,
+    "p15": 0.83,
+    "vr": 3.0,
+    "va": 0.66,
+    "buy": 100,
+    "bs": 4.69,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
