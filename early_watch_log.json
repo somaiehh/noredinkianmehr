@@ -20676,7 +20676,10 @@
       "max_up": 2.5,
       "max_down": -0.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.71,
+      "max_down": -2.4
+    }
   },
   {
     "symbol": "WLDIRT",
@@ -20701,7 +20704,10 @@
       "max_up": 5.81,
       "max_down": -0.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.83,
+      "max_down": -0.82
+    }
   },
   {
     "symbol": "BONKIRT",
@@ -20726,7 +20732,10 @@
       "max_up": 4.35,
       "max_down": 0.19
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.35,
+      "max_down": -4.88
+    }
   },
   {
     "symbol": "SIRT",
@@ -20751,7 +20760,10 @@
       "max_up": 1.64,
       "max_down": -0.58
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.42,
+      "max_down": -1.95
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -21678,7 +21690,10 @@
       "max_up": -0.53,
       "max_down": -1.78
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.36,
+      "max_down": -2.8
+    },
     "result_12h": null
   },
   {
