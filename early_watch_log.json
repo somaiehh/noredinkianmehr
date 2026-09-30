@@ -19719,7 +19719,10 @@
       "max_up": 1.74,
       "max_down": -0.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.74,
+      "max_down": -3.21
+    }
   },
   {
     "symbol": "AVAXIRT",
@@ -20357,7 +20360,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.24,
+      "max_down": -0.4
+    },
     "result_4h": null,
     "result_12h": null
   }
