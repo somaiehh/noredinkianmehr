@@ -19567,7 +19567,10 @@
       "max_up": 1.76,
       "max_down": -2.98
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.01,
+      "max_down": -2.98
+    }
   },
   {
     "symbol": "COQIRT",
@@ -20214,7 +20217,10 @@
       "max_up": -0.39,
       "max_down": -0.39
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.08,
+      "max_down": -1.33
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -20236,7 +20242,10 @@
       "max_up": 0.61,
       "max_down": 0.61
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.28,
+      "max_down": -0.74
+    },
     "result_4h": null,
     "result_12h": null
   }
