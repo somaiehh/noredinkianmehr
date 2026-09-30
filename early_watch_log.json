@@ -20530,7 +20530,10 @@
       "max_up": 5.26,
       "max_down": 1.25
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 6.36,
+      "max_down": -5.69
+    },
     "result_12h": null
   },
   {
@@ -20552,7 +20555,10 @@
       "max_up": -1.2,
       "max_down": -1.44
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.84,
+      "max_down": -1.44
+    },
     "result_12h": null
   },
   {
@@ -20577,7 +20583,10 @@
       "max_up": 0.36,
       "max_down": -1.18
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.48,
+      "max_down": -1.18
+    },
     "result_12h": null
   },
   {
@@ -20920,7 +20929,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.96,
+      "max_down": -0.96
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -20939,7 +20951,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.24,
+      "max_down": 0.24
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -20956,6 +20971,47 @@
     "va": 2.0,
     "buy": 100,
     "bs": 3.68,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1790771660064,
+    "price": 1.4935,
+    "level": "WATCH",
+    "hunt": 41.1,
+    "persistence": 2,
+    "p15": 0.05,
+    "vr": 0.22,
+    "va": 5.13,
+    "buy": 44.333333333333336,
+    "bs": 1.33,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BTRIRT",
+    "time": 1790771660064,
+    "price": 12321.0,
+    "level": "STRONG",
+    "hunt": 70.6,
+    "persistence": 1,
+    "p15": 0.16,
+    "vr": 2.69,
+    "va": 10.0,
+    "buy": 73.33333333333334,
+    "bs": 2.2,
     "breakout": false,
     "priority": false,
     "result_15m": null,
