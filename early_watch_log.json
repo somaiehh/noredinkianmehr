@@ -19831,7 +19831,10 @@
       "max_up": 5.83,
       "max_down": -0.01
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.83,
+      "max_down": -0.01
+    }
   },
   {
     "symbol": "ZBCNIRT",
