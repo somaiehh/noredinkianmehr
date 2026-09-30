@@ -4770,5 +4770,18 @@
       }
     ],
     "expired_time": 1790702133322
+  },
+  {
+    "symbol": "COQIRT",
+    "anchor_time": 1790688977434,
+    "anchor_price": 0.0388,
+    "status": "FAILED",
+    "created_time": 1790688977434,
+    "last_time": 1790743556322,
+    "last_price": 0.0387,
+    "max_gain_pct": 1.0309,
+    "levels": [],
+    "failed_time": 1790690153728,
+    "failed_price": 0.0375
   }
 ]
