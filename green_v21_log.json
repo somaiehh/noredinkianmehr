@@ -2882,5 +2882,24 @@
       "max_up": -1.99,
       "max_down": -3.21
     }
+  },
+  {
+    "symbol": "KAIOIRT",
+    "time": 1790739897331,
+    "price": 7280.0,
+    "pre30": 2.18,
+    "pre60": 4.46,
+    "pre120": 6.03,
+    "hunt": 81.1,
+    "persistence": 3,
+    "vr": 1.02,
+    "va": 10.0,
+    "buy": 77.66666666666667,
+    "bs": 2.33,
+    "ob": 0.68,
+    "p15": 0.41,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
