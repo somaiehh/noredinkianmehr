@@ -3058,11 +3058,11 @@
     "tm_g1": 1.0909,
     "tm_g4": 1.069,
     "legacy": false,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1790776517537,
+    "result_move": -5.7387,
     "max_move": 0.0,
-    "min_move": -4.7619,
+    "min_move": -5.7387,
     "ledger_version": "wake-ledger-v1"
   },
   {

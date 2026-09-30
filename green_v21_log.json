@@ -2978,7 +2978,10 @@
       "max_up": -1.23,
       "max_down": -1.78
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 8.56,
+      "max_down": -1.96
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -3000,7 +3003,10 @@
       "max_up": -0.31,
       "max_down": -0.93
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.01,
+      "max_down": -0.93
+    }
   },
   {
     "symbol": "MUBARAKIRT",
@@ -3062,7 +3068,10 @@
     "ob": 0.65,
     "p15": 1.09,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.84,
+      "max_down": 0.34
+    },
     "result_4h": null
   },
   {
