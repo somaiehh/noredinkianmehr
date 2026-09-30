@@ -1321,5 +1321,18 @@
     "bs": 0.59,
     "breakout": true,
     "persistence": 7
+  },
+  {
+    "time": 1790778526929,
+    "symbol": "NAKAIRT",
+    "price": 32397.0,
+    "hunt_score": 85.0,
+    "status": "EARLY",
+    "p15": 0.9,
+    "vr": 1.02,
+    "va": 2.0,
+    "bs": 3.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
