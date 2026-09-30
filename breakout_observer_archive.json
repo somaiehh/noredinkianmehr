@@ -4594,5 +4594,44 @@
       }
     ],
     "expired_time": 1790705132196
+  },
+  {
+    "symbol": "LSKIRT",
+    "anchor_time": 1790679648632,
+    "anchor_price": 77999.0,
+    "status": "EXPIRED",
+    "created_time": 1790679648632,
+    "last_time": 1790731153088,
+    "last_price": 77918.0,
+    "max_gain_pct": 1.1449,
+    "levels": [],
+    "expired_time": 1790727426039
+  },
+  {
+    "symbol": "FLOKIIRT",
+    "anchor_time": 1790671556600,
+    "anchor_price": 6.8201,
+    "status": "EXPIRED",
+    "created_time": 1790671556600,
+    "last_time": 1790731153088,
+    "last_price": 7.13194,
+    "max_gain_pct": 4.5724,
+    "levels": [],
+    "confirmed_time": 1790677003025,
+    "confirmed_price": 7.0283,
+    "expired_time": 1790715267976
+  },
+  {
+    "symbol": "SAGAIRT",
+    "anchor_time": 1790678907552,
+    "anchor_price": 6810.0,
+    "status": "FAILED",
+    "created_time": 1790678907552,
+    "last_time": 1790731153088,
+    "last_price": 6710.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1790691234182,
+    "failed_price": 6600.0
   }
 ]

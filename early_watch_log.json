@@ -20153,7 +20153,10 @@
       "max_up": 1.4,
       "max_down": 0.64
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.96,
+      "max_down": 0.64
+    },
     "result_12h": null
   },
   {
