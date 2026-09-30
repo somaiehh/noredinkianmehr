@@ -5424,5 +5424,18 @@
     "levels": [],
     "failed_time": 1790698006552,
     "failed_price": 11630.0
+  },
+  {
+    "symbol": "KERNELIRT",
+    "anchor_time": 1790538394984,
+    "anchor_price": 13455.0,
+    "status": "FAILED",
+    "created_time": 1790538394984,
+    "last_time": 1790774242340,
+    "last_price": 14479.0,
+    "max_gain_pct": 7.6106,
+    "levels": [],
+    "failed_time": 1790563508022,
+    "failed_price": 12929.0
   }
 ]
