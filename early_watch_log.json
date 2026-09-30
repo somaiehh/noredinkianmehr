@@ -20067,7 +20067,10 @@
       "max_up": 4.37,
       "max_down": 1.08
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.37,
+      "max_down": -2.56
+    }
   },
   {
     "symbol": "ONEIRT",
@@ -20092,7 +20095,10 @@
       "max_up": 0.18,
       "max_down": -1.1
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.18,
+      "max_down": -4.95
+    }
   },
   {
     "symbol": "CELRIRT",
@@ -20117,7 +20123,10 @@
       "max_up": 0.62,
       "max_down": -0.87
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.86,
+      "max_down": -3.11
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -20421,7 +20430,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.23,
+      "max_down": -0.98
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -20458,6 +20470,44 @@
     "bs": 3.0,
     "breakout": false,
     "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PHAIRT",
+    "time": 1790756232962,
+    "price": 19951.0,
+    "level": "STRONG",
+    "hunt": 62.5,
+    "persistence": 1,
+    "p15": 1.89,
+    "vr": 1.05,
+    "va": 1.2,
+    "buy": 100,
+    "bs": 3.17,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "COQIRT",
+    "time": 1790756232962,
+    "price": 0.0417,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.71,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
