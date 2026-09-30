@@ -3289,11 +3289,32 @@
     "tm_g1": 1.3571,
     "tm_g4": 1.32,
     "legacy": false,
+    "result": "STOP_FIRST",
+    "result_time": 1790767075281,
+    "result_move": -5.5276,
+    "max_move": 0.0,
+    "min_move": -5.5276,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "TRACIRT",
+    "event_time": 1790767075281,
+    "event_price": 112985.0,
+    "anchor_time": 1790765279062,
+    "anchor_price": 114000.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.2105,
+    "tm_e15_e1": 0.2105,
+    "tm_e1_e4": 0.76,
+    "tm_g15": 0.3333,
+    "tm_g1": 1.4615,
+    "tm_g4": 1.087,
+    "legacy": false,
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -4.0201,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
