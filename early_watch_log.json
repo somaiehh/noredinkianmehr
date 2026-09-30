@@ -20151,7 +20151,10 @@
       "max_up": 0.24,
       "max_down": -1.52
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.54,
+      "max_down": -4.36
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -20390,7 +20393,10 @@
       "max_up": 1.56,
       "max_down": 0.25
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.56,
+      "max_down": -4.96
+    },
     "result_12h": null
   },
   {
@@ -20508,6 +20514,25 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BRIRT",
+    "time": 1790757155903,
+    "price": 196339.0,
+    "level": "STRONG",
+    "hunt": 68.8,
+    "persistence": 1,
+    "p15": 0.65,
+    "vr": 0.74,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
