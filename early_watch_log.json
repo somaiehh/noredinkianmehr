@@ -21315,6 +21315,28 @@
     "bs": 1.72,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": -0.49,
+      "max_down": -0.49
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "CRVIRT",
+    "time": 1790781259925,
+    "price": 98881.0,
+    "level": "STRONG",
+    "hunt": 58.0,
+    "persistence": 1,
+    "p15": 0.48,
+    "vr": 0.93,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.38,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
