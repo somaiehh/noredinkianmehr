@@ -20791,7 +20791,10 @@
       "max_up": 1.41,
       "max_down": -0.55
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.41,
+      "max_down": -3.2
+    }
   },
   {
     "symbol": "DOGSIRT",
@@ -20819,7 +20822,10 @@
       "max_up": 0.71,
       "max_down": -1.19
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.71,
+      "max_down": -4.36
+    }
   },
   {
     "symbol": "SOPHIRT",
@@ -20847,7 +20853,10 @@
       "max_up": 0.0,
       "max_down": -2.95
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -2.95
+    }
   },
   {
     "symbol": "DEXEIRT",
