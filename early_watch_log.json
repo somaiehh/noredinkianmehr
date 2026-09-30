@@ -21714,5 +21714,43 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "FILIRT",
+    "time": 1790796834623,
+    "price": 265153.0,
+    "level": "STRONG",
+    "hunt": 73.6,
+    "persistence": 1,
+    "p15": 0.86,
+    "vr": 0.79,
+    "va": 6.63,
+    "buy": 64.33333333333333,
+    "bs": 1.93,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TUTIRT",
+    "time": 1790796834623,
+    "price": 6208.0,
+    "level": "WATCH",
+    "hunt": 41.3,
+    "persistence": 1,
+    "p15": 0.21,
+    "vr": 0.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
