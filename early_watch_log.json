@@ -20683,7 +20683,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.39,
+      "max_down": 0.39
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -20702,7 +20705,10 @@
     "bs": 1.92,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.24,
+      "max_down": 0.24
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -20721,6 +20727,28 @@
     "bs": 3.0,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DEXEIRT",
+    "time": 1790762508245,
+    "price": 476457.0,
+    "level": "STRONG",
+    "hunt": 68.2,
+    "persistence": 1,
+    "p15": 0.74,
+    "vr": 0.04,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
