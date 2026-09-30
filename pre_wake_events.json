@@ -1024,8 +1024,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 2.1198,
     "min_move": -0.219,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "MOVRIRT",
+    "event_time": 1790760914255,
+    "event_price": 503000.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 51.3,
+    "p15": -1.76,
+    "vr": null,
+    "va": 3.51,
+    "ta": null,
+    "bs": 2.33,
+    "book": 0.24,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
