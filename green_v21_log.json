@@ -3153,7 +3153,10 @@
       "max_up": -1.36,
       "max_down": -2.72
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.46,
+      "max_down": -3.84
+    }
   },
   {
     "symbol": "LABIRT",
@@ -3175,7 +3178,10 @@
       "max_up": -1.05,
       "max_down": -2.76
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.34,
+      "max_down": -3.62
+    }
   },
   {
     "symbol": "NAKAIRT",
