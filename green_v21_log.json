@@ -2928,7 +2928,10 @@
       "max_up": 0.0,
       "max_down": -5.94
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.98,
+      "max_down": -5.94
+    }
   },
   {
     "symbol": "NAKAIRT",

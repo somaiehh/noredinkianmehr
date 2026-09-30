@@ -20008,7 +20008,10 @@
       "max_up": 3.8,
       "max_down": -0.1
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 13.95,
+      "max_down": -0.1
+    }
   },
   {
     "symbol": "GRASSIRT",
@@ -20036,7 +20039,10 @@
       "max_up": 2.16,
       "max_down": -1.42
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.07,
+      "max_down": -7.42
+    }
   },
   {
     "symbol": "ICPIRT",
@@ -20347,7 +20353,10 @@
       "max_up": 2.45,
       "max_down": 0.73
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.28,
+      "max_down": -9.29
+    },
     "result_12h": null
   },
   {
@@ -20428,6 +20437,25 @@
     "va": 3.38,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "COWIRT",
+    "time": 1790755314883,
+    "price": 43213.0,
+    "level": "STRONG",
+    "hunt": 56.6,
+    "persistence": 1,
+    "p15": 0.83,
+    "vr": 0.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
