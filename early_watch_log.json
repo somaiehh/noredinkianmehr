@@ -20292,7 +20292,10 @@
       "max_up": 1.79,
       "max_down": 1.79
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.45,
+      "max_down": 0.73
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -20314,6 +20317,25 @@
       "max_up": 0.25,
       "max_down": 0.25
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TUTIRT",
+    "time": 1790746089764,
+    "price": 6234.0,
+    "level": "WATCH",
+    "hunt": 42.1,
+    "persistence": 2,
+    "p15": 0.23,
+    "vr": 4.39,
+    "va": 1.7,
+    "buy": 35.66666666666667,
+    "bs": 1.07,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

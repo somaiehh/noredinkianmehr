@@ -2827,7 +2827,7 @@
     "tm_g1": 0.875,
     "tm_g4": 1.0667,
     "legacy": false,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 4.6003,
@@ -2848,7 +2848,7 @@
     "tm_g1": 0.4615,
     "tm_g4": 1.0333,
     "legacy": false,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 2.9455,
@@ -2872,7 +2872,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 1.127,
     "min_move": -2.1478,
     "ledger_version": "wake-ledger-v1"
   },
@@ -2893,7 +2893,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.3493,
+    "max_move": 2.4017,
     "min_move": -1.6157,
     "ledger_version": "wake-ledger-v1"
   },
@@ -3124,7 +3124,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 0.5199,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   },
@@ -3167,7 +3167,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": 0.0,
+    "min_move": -0.3674,
     "ledger_version": "wake-ledger-v1"
   }
 ]

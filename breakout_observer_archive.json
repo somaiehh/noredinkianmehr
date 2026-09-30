@@ -4783,5 +4783,49 @@
     "levels": [],
     "failed_time": 1790690153728,
     "failed_price": 0.0375
+  },
+  {
+    "symbol": "SOONIRT",
+    "anchor_time": 1790702133322,
+    "anchor_price": 104197.0,
+    "status": "FAILED",
+    "created_time": 1790702133322,
+    "last_time": 1790744438084,
+    "last_price": 108000.0,
+    "max_gain_pct": 4.9762,
+    "levels": [],
+    "failed_time": 1790705132196,
+    "failed_price": 100361.0
+  },
+  {
+    "symbol": "0GIRT",
+    "anchor_time": 1790681887009,
+    "anchor_price": 81577.0,
+    "status": "EXPIRED",
+    "created_time": 1790681887009,
+    "last_time": 1790744438084,
+    "last_price": 89053.0,
+    "max_gain_pct": 10.1597,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790684164573,
+    "confirmed_price": 85176.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790685235096,
+        "price": 86768.0,
+        "gain_pct": 6.3633
+      },
+      {
+        "level": 10,
+        "time": 1790692164024,
+        "price": 89865.0,
+        "gain_pct": 10.1597
+      }
+    ],
+    "expired_time": 1790727426039
   }
 ]
