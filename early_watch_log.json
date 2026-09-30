@@ -20633,7 +20633,10 @@
       "max_up": 1.23,
       "max_down": 0.33
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.5,
+      "max_down": -0.11
+    },
     "result_12h": null
   },
   {
@@ -20655,7 +20658,10 @@
       "max_up": 1.17,
       "max_down": -0.63
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.81,
+      "max_down": -0.82
+    },
     "result_12h": null
   },
   {
@@ -20677,7 +20683,10 @@
       "max_up": 1.36,
       "max_down": 0.91
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.35,
+      "max_down": 0.19
+    },
     "result_12h": null
   },
   {
@@ -20699,7 +20708,10 @@
       "max_up": 1.33,
       "max_down": 0.54
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.64,
+      "max_down": -0.58
+    },
     "result_12h": null
   },
   {
@@ -21089,6 +21101,25 @@
     "bs": 3.04,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ETHFIIRT",
+    "time": 1790774242340,
+    "price": 198954.0,
+    "level": "WATCH",
+    "hunt": 42.9,
+    "persistence": 1,
+    "p15": 0.13,
+    "vr": 1.0,
+    "va": 1.93,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

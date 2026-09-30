@@ -3040,7 +3040,10 @@
     "ob": 0.86,
     "p15": 0.19,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.46,
+      "max_down": 0.07
+    },
     "result_4h": null
   },
   {
@@ -3077,6 +3080,25 @@
     "bs": 5.0,
     "ob": 0.35,
     "p15": 1.02,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "SUIIRT",
+    "time": 1790774242340,
+    "price": 307000.0,
+    "pre30": 3.52,
+    "pre60": 4.54,
+    "pre120": 3.68,
+    "hunt": 93.5,
+    "persistence": 3,
+    "vr": 14.17,
+    "va": 6.04,
+    "buy": 90.33333333333333,
+    "bs": 2.71,
+    "ob": 1.0,
+    "p15": 1.39,
     "breakout": true,
     "result_1h": null,
     "result_4h": null
