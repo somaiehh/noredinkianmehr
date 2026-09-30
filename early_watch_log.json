@@ -20608,7 +20608,10 @@
       "max_up": 0.53,
       "max_down": -0.45
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.72,
+      "max_down": -0.45
+    },
     "result_12h": null
   },
   {
@@ -21012,6 +21015,25 @@
     "va": 10.0,
     "buy": 73.33333333333334,
     "bs": 2.2,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SEIIRT",
+    "time": 1790772521079,
+    "price": 18927.0,
+    "level": "STRONG",
+    "hunt": 58.1,
+    "persistence": 1,
+    "p15": 0.71,
+    "vr": 1.48,
+    "va": 2.21,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
