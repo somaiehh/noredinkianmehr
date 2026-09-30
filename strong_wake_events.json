@@ -2743,7 +2743,7 @@
     "tm_g1": 1.0,
     "tm_g4": 1.04,
     "legacy": false,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 4.4386,
@@ -3000,6 +3000,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -1.511,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "SLVONIRT",
+    "event_time": 1790730836239,
+    "event_price": 14226889.0,
+    "anchor_time": 1790728487721,
+    "anchor_price": 14220226.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.35,
+    "tm_e15_e1": 0.35,
+    "tm_e1_e4": 0.5405,
+    "tm_g15": 1.0,
+    "tm_g1": 1.4286,
+    "tm_g4": 1.2333,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
