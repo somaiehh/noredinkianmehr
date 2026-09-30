@@ -20936,7 +20936,10 @@
       "max_up": -0.96,
       "max_down": -0.96
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.21,
+      "max_down": -0.96
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -20958,7 +20961,10 @@
       "max_up": 0.24,
       "max_down": 0.24
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.06,
+      "max_down": 0.18
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -20980,7 +20986,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.86,
+      "max_down": -1.12
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -20998,7 +21007,10 @@
     "bs": 1.33,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 1.03,
+      "max_down": 1.03
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -21017,7 +21029,10 @@
     "bs": 2.2,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.03,
+      "max_down": 0.03
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -21036,6 +21051,44 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SUIIRT",
+    "time": 1790773432149,
+    "price": 302798.0,
+    "level": "STRONG",
+    "hunt": 96.8,
+    "persistence": 2,
+    "p15": 1.02,
+    "vr": 3.46,
+    "va": 5.98,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NOTIRT",
+    "time": 1790773432149,
+    "price": 129.8,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.78,
+    "vr": 2.88,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.04,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
