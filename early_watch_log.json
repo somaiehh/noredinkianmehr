@@ -20699,7 +20699,10 @@
       "max_up": 0.39,
       "max_down": 0.39
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.39,
+      "max_down": -0.55
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -20721,7 +20724,10 @@
       "max_up": 0.24,
       "max_down": 0.24
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.24,
+      "max_down": -0.32
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -20743,7 +20749,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -2.22
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -20819,6 +20828,44 @@
     "va": 1.75,
     "buy": 100,
     "bs": 4.83,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PROMIRT",
+    "time": 1790765279062,
+    "price": 1658769.0,
+    "level": "STRONG",
+    "hunt": 75.6,
+    "persistence": 1,
+    "p15": 0.62,
+    "vr": 5.88,
+    "va": 10.0,
+    "buy": 77.33333333333333,
+    "bs": 2.32,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BERAIRT",
+    "time": 1790765279062,
+    "price": 63736.0,
+    "level": "STRONG",
+    "hunt": 54.4,
+    "persistence": 1,
+    "p15": 0.26,
+    "vr": 0.89,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,

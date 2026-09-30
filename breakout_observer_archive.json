@@ -5332,5 +5332,44 @@
     "max_gain_pct": 4.0443,
     "levels": [],
     "expired_time": 1790751632966
+  },
+  {
+    "symbol": "BCHIRT",
+    "anchor_time": 1790672523834,
+    "anchor_price": 78079029.0,
+    "status": "EXPIRED",
+    "created_time": 1790672523834,
+    "last_time": 1790764364069,
+    "last_price": 79358007.0,
+    "max_gain_pct": 1.9774,
+    "levels": [],
+    "expired_time": 1790715780624
+  },
+  {
+    "symbol": "PENGUIRT",
+    "anchor_time": 1790686032093,
+    "anchor_price": 2529.0,
+    "status": "FAILED",
+    "created_time": 1790686032093,
+    "last_time": 1790764364069,
+    "last_price": 2561.2,
+    "max_gain_pct": 3.4875,
+    "levels": [],
+    "failed_time": 1790702133322,
+    "failed_price": 2430.8
+  },
+  {
+    "symbol": "NOMIRT",
+    "anchor_time": 1790709016664,
+    "anchor_price": 544.0,
+    "status": "EXPIRED",
+    "created_time": 1790709016664,
+    "last_time": 1790764364069,
+    "last_price": 567.0,
+    "max_gain_pct": 4.2279,
+    "levels": [],
+    "confirmed_time": 1790743556322,
+    "confirmed_price": 565.0,
+    "expired_time": 1790752547087
   }
 ]
