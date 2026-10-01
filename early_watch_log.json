@@ -22306,7 +22306,10 @@
       "max_up": 0.63,
       "max_down": -4.64
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.63,
+      "max_down": -7.4
+    }
   },
   {
     "symbol": "OPNIRT",
@@ -22975,6 +22978,25 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PUMPIRT",
+    "time": 1790880340696,
+    "price": 1499.9,
+    "level": "STRONG",
+    "hunt": 57.5,
+    "persistence": 1,
+    "p15": 0.92,
+    "vr": 0.36,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.39,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
