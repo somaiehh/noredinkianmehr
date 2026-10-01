@@ -1412,5 +1412,18 @@
     "bs": 0.09,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1790857039222,
+    "symbol": "SUIIRT",
+    "price": 303643.0,
+    "hunt_score": 95.9,
+    "status": "EARLY",
+    "p15": 0.82,
+    "vr": 1.73,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 3
   }
 ]
