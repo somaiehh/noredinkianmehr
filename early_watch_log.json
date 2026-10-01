@@ -21244,7 +21244,10 @@
       "max_up": 1.46,
       "max_down": -2.94
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.46,
+      "max_down": -3.57
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -21272,7 +21275,10 @@
       "max_up": -0.15,
       "max_down": -2.39
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.15,
+      "max_down": -4.55
+    }
   },
   {
     "symbol": "ETHFIIRT",
@@ -21300,7 +21306,10 @@
       "max_up": 3.04,
       "max_down": -1.45
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.55,
+      "max_down": -2.83
+    }
   },
   {
     "symbol": "TUTIRT",

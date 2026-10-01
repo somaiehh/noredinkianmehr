@@ -1090,5 +1090,26 @@
     "max_move": 0.4975,
     "min_move": -4.2289,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ARKIRT",
+    "event_time": 1790818296046,
+    "event_price": 72622.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 42.0,
+    "p15": -1.86,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 5.0,
+    "book": 0.6,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
