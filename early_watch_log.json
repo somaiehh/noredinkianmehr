@@ -21849,7 +21849,10 @@
       "max_up": 1.12,
       "max_down": -0.75
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.99,
+      "max_down": -0.75
+    }
   },
   {
     "symbol": "SEIIRT",
@@ -21874,7 +21877,10 @@
       "max_up": 0.25,
       "max_down": -3.15
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.02,
+      "max_down": -3.15
+    }
   },
   {
     "symbol": "BRIRT",
@@ -21899,7 +21905,10 @@
       "max_up": 1.63,
       "max_down": -2.79
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.55,
+      "max_down": -3.08
+    }
   },
   {
     "symbol": "FILIRT",
