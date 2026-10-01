@@ -1360,5 +1360,18 @@
     "bs": 0.67,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1790836543443,
+    "symbol": "SOONIRT",
+    "price": 120495.0,
+    "hunt_score": 83.2,
+    "status": "PRE_EARLY",
+    "p15": 0.29,
+    "vr": 2.8,
+    "va": 10.0,
+    "bs": 1.98,
+    "breakout": true,
+    "persistence": 1
   }
 ]
