@@ -6114,5 +6114,80 @@
     "levels": [],
     "failed_time": 1790763379538,
     "failed_price": 16.2
+  },
+  {
+    "symbol": "MOVRIRT",
+    "anchor_time": 1790804379986,
+    "anchor_price": 534000.0,
+    "status": "FAILED",
+    "created_time": 1790804379986,
+    "last_time": 1790852372250,
+    "last_price": 738048.0,
+    "max_gain_pct": 43.4581,
+    "levels": [],
+    "failed_time": 1790807087027,
+    "failed_price": 502000.0
+  },
+  {
+    "symbol": "NAKAIRT",
+    "anchor_time": 1790760914255,
+    "anchor_price": 30218.0,
+    "status": "EXPIRED",
+    "created_time": 1790760914255,
+    "last_time": 1790852372250,
+    "last_price": 31186.0,
+    "max_gain_pct": 14.2233,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790761677708,
+    "confirmed_price": 31400.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790769211908,
+        "price": 32111.0,
+        "gain_pct": 6.2645
+      },
+      {
+        "level": 10,
+        "time": 1790783084127,
+        "price": 34087.0,
+        "gain_pct": 12.8036
+      }
+    ],
+    "expired_time": 1790804379986
+  },
+  {
+    "symbol": "KAIOIRT",
+    "anchor_time": 1790709611412,
+    "anchor_price": 6813.0,
+    "status": "EXPIRED",
+    "created_time": 1790709611412,
+    "last_time": 1790852372250,
+    "last_price": 5963.0,
+    "max_gain_pct": 11.2579,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790727426039,
+    "confirmed_price": 7030.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790736336713,
+        "price": 7165.0,
+        "gain_pct": 5.1666
+      },
+      {
+        "level": 10,
+        "time": 1790743556322,
+        "price": 7500.0,
+        "gain_pct": 10.0837
+      }
+    ],
+    "expired_time": 1790753509608
   }
 ]
