@@ -22966,7 +22966,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.82,
+      "max_down": 2.42
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -23006,7 +23009,10 @@
     "bs": 4.39,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -2.03,
+      "max_down": -2.03
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -23023,6 +23029,44 @@
     "va": 2.0,
     "buy": 100,
     "bs": 3.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "RSS3IRT",
+    "time": 1790882236424,
+    "price": 870.0,
+    "level": "STRONG",
+    "hunt": 53.9,
+    "persistence": 2,
+    "p15": 0.58,
+    "vr": 0.69,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "COQIRT",
+    "time": 1790882236424,
+    "price": 0.04,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.01,
+    "vr": 0.24,
+    "va": 9.73,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": true,
     "priority": true,
     "result_15m": null,
