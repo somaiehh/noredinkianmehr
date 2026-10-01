@@ -22247,7 +22247,10 @@
       "max_up": -5.66,
       "max_down": -9.07
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.64,
+      "max_down": -9.07
+    }
   },
   {
     "symbol": "STXIRT",
@@ -22810,7 +22813,10 @@
       "max_up": 0.39,
       "max_down": 0.39
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.67,
+      "max_down": -0.13
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -22832,7 +22838,10 @@
       "max_up": -0.14,
       "max_down": -0.14
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.05,
+      "max_down": -1.49
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -22854,7 +22863,10 @@
       "max_up": 0.57,
       "max_down": 0.57
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.18,
+      "max_down": 0.57
+    },
     "result_4h": null,
     "result_12h": null
   },
