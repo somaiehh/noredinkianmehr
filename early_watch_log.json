@@ -22655,7 +22655,10 @@
       "max_up": 0.82,
       "max_down": -0.16
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.82,
+      "max_down": -2.78
+    },
     "result_12h": null
   },
   {
@@ -22722,6 +22725,44 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SEIIRT",
+    "time": 1790871328667,
+    "price": 18447.0,
+    "level": "STRONG",
+    "hunt": 53.4,
+    "persistence": 1,
+    "p15": 0.44,
+    "vr": 6.14,
+    "va": 1.56,
+    "buy": 100,
+    "bs": 3.29,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "COQIRT",
+    "time": 1790871328667,
+    "price": 0.0373,
+    "level": "STRONG",
+    "hunt": 52.7,
+    "persistence": 1,
+    "p15": 0.27,
+    "vr": 6.01,
+    "va": 1.89,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
