@@ -6284,5 +6284,31 @@
     "levels": [],
     "failed_time": 1790775843232,
     "failed_price": 15486.0
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1790759842012,
+    "anchor_price": 6156.0,
+    "status": "FAILED",
+    "created_time": 1790759842012,
+    "last_time": 1790867863117,
+    "last_price": 5794.0,
+    "max_gain_pct": 0.7147,
+    "levels": [],
+    "failed_time": 1790789794472,
+    "failed_price": 5960.0
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "anchor_time": 1790811721524,
+    "anchor_price": 1.8368,
+    "status": "FAILED",
+    "created_time": 1790811721524,
+    "last_time": 1790867863117,
+    "last_price": 1.8396,
+    "max_gain_pct": 0.1524,
+    "levels": [],
+    "failed_time": 1790814329104,
+    "failed_price": 1.7806
   }
 ]
