@@ -22505,7 +22505,10 @@
       "max_up": 0.76,
       "max_down": -0.68
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.91,
+      "max_down": -1.25
+    }
   },
   {
     "symbol": "GTCIRT",
@@ -22530,7 +22533,10 @@
       "max_up": 3.08,
       "max_down": -1.04
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 34.33,
+      "max_down": -2.75
+    }
   },
   {
     "symbol": "NAKAIRT",
@@ -23175,6 +23181,44 @@
       "max_up": 0.73,
       "max_down": -0.14
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "XAUTIRT",
+    "time": 1790890444732,
+    "price": 1080314219.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.44,
+    "vr": 9.55,
+    "va": 3.67,
+    "buy": 100,
+    "bs": 4.71,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "RSS3IRT",
+    "time": 1790890444732,
+    "price": 886.0,
+    "level": "STRONG",
+    "hunt": 53.1,
+    "persistence": 4,
+    "p15": 0.23,
+    "vr": 0.19,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
