@@ -6227,5 +6227,36 @@
     "confirmed_time": 1790837450789,
     "confirmed_price": 6400.0,
     "expired_time": 1790841050618
+  },
+  {
+    "symbol": "HEIIRT",
+    "anchor_time": 1790445581901,
+    "anchor_price": 34664.0,
+    "status": "EXPIRED",
+    "created_time": 1790445581901,
+    "last_time": 1790858274615,
+    "last_price": 39414.0,
+    "max_gain_pct": 17.084,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790483395647,
+    "confirmed_price": 36428.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790483395647,
+        "price": 36428.0,
+        "gain_pct": 5.0889
+      },
+      {
+        "level": 10,
+        "time": 1790486126247,
+        "price": 38510.0,
+        "gain_pct": 11.0951
+      }
+    ],
+    "expired_time": 1790489670002
   }
 ]
