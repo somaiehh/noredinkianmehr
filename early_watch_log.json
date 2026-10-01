@@ -21337,7 +21337,10 @@
       "max_up": -0.46,
       "max_down": -3.84
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.46,
+      "max_down": -6.36
+    }
   },
   {
     "symbol": "KERNELIRT",
@@ -21365,7 +21368,10 @@
       "max_up": -0.25,
       "max_down": -2.6
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.25,
+      "max_down": -3.24
+    }
   },
   {
     "symbol": "LINKIRT",
