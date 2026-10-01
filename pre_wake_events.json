@@ -1172,7 +1172,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 2.4431,
-    "min_move": -4.572,
+    "min_move": -4.9182,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -1255,7 +1255,28 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.2048,
+    "max_move": 1.6848,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "NIGHTIRT",
+    "event_time": 1790861554628,
+    "event_price": 10195.9,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 31.0,
+    "p15": -1.32,
+    "vr": null,
+    "va": 2.45,
+    "ta": null,
+    "bs": 2.38,
+    "book": 0.3,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
