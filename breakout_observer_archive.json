@@ -6589,5 +6589,18 @@
       }
     ],
     "expired_time": 1790884451363
+  },
+  {
+    "symbol": "SOONIRT",
+    "anchor_time": 1790836539416,
+    "anchor_price": 120495.0,
+    "status": "FAILED",
+    "created_time": 1790836539416,
+    "last_time": 1790886818344,
+    "last_price": 110053.0,
+    "max_gain_pct": 1.8598,
+    "levels": [],
+    "failed_time": 1790838536329,
+    "failed_price": 114300.0
   }
 ]
