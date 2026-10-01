@@ -22300,7 +22300,10 @@
       "max_up": -0.88,
       "max_down": -1.61
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.06,
+      "max_down": -1.61
+    },
     "result_12h": null
   },
   {
@@ -22491,6 +22494,47 @@
     "va": 3.93,
     "buy": 100,
     "bs": 4.33,
+    "breakout": true,
+    "priority": true,
+    "result_15m": {
+      "max_up": -2.03,
+      "max_down": -2.03
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NOMIRT",
+    "time": 1790852372250,
+    "price": 798.0,
+    "level": "STRONG",
+    "hunt": 53.1,
+    "persistence": 1,
+    "p15": 0.38,
+    "vr": 0.65,
+    "va": 3.24,
+    "buy": 47.333333333333336,
+    "bs": 1.42,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1790852372250,
+    "price": 390001.0,
+    "level": "STRONG",
+    "hunt": 63.4,
+    "persistence": 2,
+    "p15": 0.39,
+    "vr": 0.37,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": true,
     "priority": true,
     "result_15m": null,
