@@ -22328,5 +22328,43 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "AVAXIRT",
+    "time": 1790843315615,
+    "price": 2802926.0,
+    "level": "STRONG",
+    "hunt": 62.2,
+    "persistence": 1,
+    "p15": 0.21,
+    "vr": 5.42,
+    "va": 10.0,
+    "buy": 52.33333333333333,
+    "bs": 1.57,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARKIRT",
+    "time": 1790843315615,
+    "price": 64086.0,
+    "level": "STRONG",
+    "hunt": 55.3,
+    "persistence": 1,
+    "p15": 1.06,
+    "vr": 1.07,
+    "va": 0.91,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
