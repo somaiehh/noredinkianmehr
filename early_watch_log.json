@@ -22362,7 +22362,10 @@
       "max_up": 8.49,
       "max_down": -5.44
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.49,
+      "max_down": -12.07
+    }
   },
   {
     "symbol": "KAIOIRT",
@@ -22779,7 +22782,10 @@
       "max_up": 0.17,
       "max_down": -0.16
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.84,
+      "max_down": -0.62
+    },
     "result_12h": null
   },
   {
@@ -22804,7 +22810,10 @@
       "max_up": 1.07,
       "max_down": 0.8
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 7.24,
+      "max_down": 0.8
+    },
     "result_12h": null
   },
   {
@@ -23122,7 +23131,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.06,
+      "max_down": -0.06
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
