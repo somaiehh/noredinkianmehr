@@ -3414,5 +3414,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "SOPHIRT",
+    "time": 1790884451363,
+    "price": 988.0,
+    "pre30": 4.0,
+    "pre60": 6.12,
+    "pre120": 6.12,
+    "hunt": 100.0,
+    "persistence": 2,
+    "vr": 6.48,
+    "va": 3.18,
+    "buy": 65.0,
+    "bs": 1.95,
+    "ob": 1.0,
+    "p15": 0.82,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
