@@ -1132,5 +1132,26 @@
     "max_move": 0.0,
     "min_move": -5.4887,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "PUMPIRT",
+    "event_time": 1790837450789,
+    "event_price": 1499.7,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 65.3,
+    "p15": -0.99,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 3.77,
+    "book": 0.44,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
