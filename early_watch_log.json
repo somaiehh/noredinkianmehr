@@ -21061,7 +21061,10 @@
       "max_up": 5.06,
       "max_down": -2.29
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.06,
+      "max_down": -3.99
+    }
   },
   {
     "symbol": "NAKAIRT",
@@ -21089,7 +21092,10 @@
       "max_up": 9.11,
       "max_down": 0.02
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.11,
+      "max_down": -4.92
+    }
   },
   {
     "symbol": "REZIRT",
@@ -21117,7 +21123,10 @@
       "max_up": 7.5,
       "max_down": -1.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.84,
+      "max_down": -1.12
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -21898,7 +21907,10 @@
       "max_up": 0.02,
       "max_down": -2.28
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.02,
+      "max_down": -3.27
+    },
     "result_12h": null
   },
   {
@@ -21941,7 +21953,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.64,
+      "max_down": 0.64
+    },
     "result_4h": null,
     "result_12h": null
   },
