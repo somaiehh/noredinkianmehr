@@ -22284,6 +22284,28 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
+    "result_1h": {
+      "max_up": -0.88,
+      "max_down": -1.61
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NOMIRT",
+    "time": 1790841717024,
+    "price": 754.0,
+    "level": "STRONG",
+    "hunt": 68.7,
+    "persistence": 2,
+    "p15": 1.75,
+    "vr": 0.71,
+    "va": 3.83,
+    "buy": 37.666666666666664,
+    "bs": 1.13,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
