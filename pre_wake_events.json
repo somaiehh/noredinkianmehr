@@ -1147,11 +1147,11 @@
     "book": 0.44,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1790844316831,
+    "result_move": -5.3144,
     "max_move": 0.0,
-    "min_move": -4.0008,
+    "min_move": -5.3144,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
