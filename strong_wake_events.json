@@ -3650,7 +3650,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.423,
-    "min_move": -0.7232,
+    "min_move": -1.4755,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -3671,7 +3671,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 2.68,
-    "min_move": -0.3984,
+    "min_move": -0.5224,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -3713,7 +3713,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": 0.0,
+    "min_move": -1.0604,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -3734,7 +3734,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -0.8763,
+    "min_move": -1.2106,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -3771,6 +3771,27 @@
     "tm_g15": 3.0,
     "tm_g1": 0.9524,
     "tm_g4": 1.2432,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -1.968,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "LPTIRT",
+    "event_time": 1790834623117,
+    "event_price": 450002.0,
+    "anchor_time": 1790833915584,
+    "anchor_price": 452301.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.8824,
+    "tm_e15_e1": 0.8824,
+    "tm_e1_e4": 0.5667,
+    "tm_g15": 1.25,
+    "tm_g1": 1.3077,
+    "tm_g4": 1.1111,
     "legacy": false,
     "result": "PENDING",
     "result_time": null,
