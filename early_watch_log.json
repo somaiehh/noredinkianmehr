@@ -21399,7 +21399,10 @@
       "max_up": -0.84,
       "max_down": -2.8
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.78,
+      "max_down": -2.88
+    }
   },
   {
     "symbol": "FLOKIIRT",
@@ -21427,7 +21430,10 @@
       "max_up": 0.46,
       "max_down": -2.2
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.46,
+      "max_down": -4.03
+    }
   },
   {
     "symbol": "NAKAIRT",
@@ -21455,7 +21461,10 @@
       "max_up": 6.71,
       "max_down": -2.74
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.71,
+      "max_down": -7.01
+    }
   },
   {
     "symbol": "BRIRT",
@@ -21959,7 +21968,10 @@
       "max_up": 0.42,
       "max_down": 0.42
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.25,
+      "max_down": -1.98
+    },
     "result_12h": null
   },
   {
