@@ -6399,5 +6399,60 @@
     "levels": [],
     "failed_time": 1790783084127,
     "failed_price": 180476.0
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1790754377946,
+    "anchor_price": 1284500.0,
+    "status": "EXPIRED",
+    "created_time": 1790754377946,
+    "last_time": 1790876050731,
+    "last_price": 1270588.0,
+    "max_gain_pct": 10.1607,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790765279062,
+    "confirmed_price": 1330974.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790766051706,
+        "price": 1354029.0,
+        "gain_pct": 5.4129
+      }
+    ],
+    "expired_time": 1790797717250
+  },
+  {
+    "symbol": "WLDIRT",
+    "anchor_time": 1790758957728,
+    "anchor_price": 131000.0,
+    "status": "EXPIRED",
+    "created_time": 1790758957728,
+    "last_time": 1790876050731,
+    "last_price": 128532.0,
+    "max_gain_pct": 10.6695,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790769211908,
+    "confirmed_price": 134973.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790769714933,
+        "price": 138000.0,
+        "gain_pct": 5.3435
+      },
+      {
+        "level": 10,
+        "time": 1790775107101,
+        "price": 144977.0,
+        "gain_pct": 10.6695
+      }
+    ],
+    "expired_time": 1790802455036
   }
 ]
