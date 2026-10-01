@@ -3541,7 +3541,7 @@
     "tm_g1": 1.2941,
     "tm_g4": 1.3478,
     "legacy": false,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 2.2867,
