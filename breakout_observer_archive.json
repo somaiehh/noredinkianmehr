@@ -6558,5 +6558,36 @@
     "levels": [],
     "failed_time": 1790841050618,
     "failed_price": 1462.2
+  },
+  {
+    "symbol": "GTCIRT",
+    "anchor_time": 1790841050618,
+    "anchor_price": 24700.0,
+    "status": "EXPIRED",
+    "created_time": 1790841050618,
+    "last_time": 1790884451363,
+    "last_price": 30159.0,
+    "max_gain_pct": 22.1012,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790845281235,
+    "confirmed_price": 25688.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790849924074,
+        "price": 26475.0,
+        "gain_pct": 7.1862
+      },
+      {
+        "level": 10,
+        "time": 1790871328667,
+        "price": 27423.0,
+        "gain_pct": 11.0243
+      }
+    ],
+    "expired_time": 1790884451363
   }
 ]
