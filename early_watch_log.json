@@ -22620,7 +22620,10 @@
       "max_up": -0.88,
       "max_down": -13.53
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.88,
+      "max_down": -16.92
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -22645,7 +22648,10 @@
       "max_up": 0.37,
       "max_down": -1.46
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.42,
+      "max_down": -1.46
+    }
   },
   {
     "symbol": "TUTIRT",
@@ -23105,7 +23111,10 @@
       "max_up": -0.45,
       "max_down": -0.65
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.06,
+      "max_down": -2.48
+    },
     "result_12h": null
   },
   {
@@ -23249,6 +23258,25 @@
       "max_up": -0.56,
       "max_down": -0.56
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1790895689806,
+    "price": 1.4872,
+    "level": "WATCH",
+    "hunt": 41.5,
+    "persistence": 1,
+    "p15": 0.2,
+    "vr": 1.07,
+    "va": 0.79,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }

@@ -3403,7 +3403,10 @@
       "max_up": 1.62,
       "max_down": -0.99
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 7.72,
+      "max_down": -0.99
+    }
   },
   {
     "symbol": "COMMONIRT",
