@@ -5890,5 +5890,62 @@
     "levels": [],
     "failed_time": 1790776517537,
     "failed_price": 14024.0
+  },
+  {
+    "symbol": "LTCIRT",
+    "anchor_time": 1790785047200,
+    "anchor_price": 17194229.0,
+    "status": "FAILED",
+    "created_time": 1790785047200,
+    "last_time": 1790844316831,
+    "last_price": 17085393.0,
+    "max_gain_pct": 1.3149,
+    "levels": [],
+    "failed_time": 1790802455036,
+    "failed_price": 16660000.0
+  },
+  {
+    "symbol": "AVAXIRT",
+    "anchor_time": 1790759842012,
+    "anchor_price": 2854945.0,
+    "status": "FAILED",
+    "created_time": 1790759842012,
+    "last_time": 1790844316831,
+    "last_price": 2818660.0,
+    "max_gain_pct": 1.5812,
+    "levels": [],
+    "failed_time": 1790781259925,
+    "failed_price": 2762548.0
+  },
+  {
+    "symbol": "NIGHTIRT",
+    "anchor_time": 1790763379538,
+    "anchor_price": 8938.6,
+    "status": "EXPIRED",
+    "created_time": 1790763379538,
+    "last_time": 1790844316831,
+    "last_price": 10613.5,
+    "max_gain_pct": 20.0412,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790764364069,
+    "confirmed_price": 9263.6,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790766051706,
+        "price": 9418.4,
+        "gain_pct": 5.3677
+      },
+      {
+        "level": 10,
+        "time": 1790791479705,
+        "price": 10000.0,
+        "gain_pct": 11.8743
+      }
+    ],
+    "expired_time": 1790807087027
   }
 ]
