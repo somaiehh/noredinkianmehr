@@ -6201,5 +6201,31 @@
     "max_gain_pct": 2.7778,
     "levels": [],
     "expired_time": 1790828793596
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1790761677708,
+    "anchor_price": 299869.0,
+    "status": "EXPIRED",
+    "created_time": 1790761677708,
+    "last_time": 1790855317290,
+    "last_price": 299879.0,
+    "max_gain_pct": 2.7115,
+    "levels": [],
+    "expired_time": 1790806280242
+  },
+  {
+    "symbol": "TUTIRT",
+    "anchor_time": 1790796834623,
+    "anchor_price": 6208.0,
+    "status": "EXPIRED",
+    "created_time": 1790796834623,
+    "last_time": 1790855317290,
+    "last_price": 6377.0,
+    "max_gain_pct": 3.27,
+    "levels": [],
+    "confirmed_time": 1790837450789,
+    "confirmed_price": 6400.0,
+    "expired_time": 1790841050618
   }
 ]
