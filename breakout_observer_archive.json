@@ -6454,5 +6454,32 @@
       }
     ],
     "expired_time": 1790802455036
+  },
+  {
+    "symbol": "ICPIRT",
+    "anchor_time": 1790712152786,
+    "anchor_price": 872330.0,
+    "status": "EXPIRED",
+    "created_time": 1790712152786,
+    "last_time": 1790876929148,
+    "last_price": 849445.0,
+    "max_gain_pct": 4.3701,
+    "levels": [],
+    "confirmed_time": 1790714295029,
+    "confirmed_price": 910452.0,
+    "expired_time": 1790756232962
+  },
+  {
+    "symbol": "USELESSIRT",
+    "anchor_time": 1790772521079,
+    "anchor_price": 64000.0,
+    "status": "FAILED",
+    "created_time": 1790772521079,
+    "last_time": 1790876929148,
+    "last_price": 59692.0,
+    "max_gain_pct": 1.5062,
+    "levels": [],
+    "failed_time": 1790778522675,
+    "failed_price": 62000.0
   }
 ]
