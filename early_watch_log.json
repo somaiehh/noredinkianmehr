@@ -22135,7 +22135,10 @@
       "max_up": 0.03,
       "max_down": -0.97
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.14,
+      "max_down": -2.12
+    }
   },
   {
     "symbol": "DOTIRT",
@@ -22160,7 +22163,10 @@
       "max_up": 0.06,
       "max_down": -2.92
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.06,
+      "max_down": -6.52
+    }
   },
   {
     "symbol": "PEPEIRT",
@@ -22185,7 +22191,10 @@
       "max_up": -0.03,
       "max_down": -2.17
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.48,
+      "max_down": -2.39
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -22210,7 +22219,10 @@
       "max_up": 0.42,
       "max_down": -1.37
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.42,
+      "max_down": -1.98
+    }
   },
   {
     "symbol": "MOVEIRT",
