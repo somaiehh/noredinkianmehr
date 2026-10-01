@@ -3376,7 +3376,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.46,
+    "max_move": 1.9959,
     "min_move": -1.6448,
     "ledger_version": "wake-ledger-v1"
   },
@@ -3546,6 +3546,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -0.5381,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "event_time": 1790815248372,
+    "event_price": 42.5,
+    "anchor_time": 1790810700149,
+    "anchor_price": 42.5,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1765,
+    "tm_e15_e1": 0.1765,
+    "tm_e1_e4": 0.4857,
+    "tm_g15": 0.25,
+    "tm_g1": 1.3077,
+    "tm_g4": 1.5217,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]

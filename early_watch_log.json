@@ -21154,7 +21154,10 @@
       "max_up": 1.87,
       "max_down": -1.07
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.87,
+      "max_down": -3.58
+    }
   },
   {
     "symbol": "BTRIRT",
@@ -21182,7 +21185,10 @@
       "max_up": 4.61,
       "max_down": 0.03
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.63,
+      "max_down": 0.03
+    }
   },
   {
     "symbol": "SEIIRT",
