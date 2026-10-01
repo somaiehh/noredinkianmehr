@@ -5674,5 +5674,18 @@
     "levels": [],
     "failed_time": 1790690153728,
     "failed_price": 212111.0
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1790712152786,
+    "anchor_price": 566.0,
+    "status": "FAILED",
+    "created_time": 1790712152786,
+    "last_time": 1790821830863,
+    "last_price": 499.2,
+    "max_gain_pct": 0.1767,
+    "levels": [],
+    "failed_time": 1790738111671,
+    "failed_price": 547.0
   }
 ]

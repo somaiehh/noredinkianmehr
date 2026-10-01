@@ -22017,5 +22017,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "ARKIRT",
+    "time": 1790822095743,
+    "price": 68788.0,
+    "level": "STRONG",
+    "hunt": 60.5,
+    "persistence": 1,
+    "p15": 0.22,
+    "vr": 2.49,
+    "va": 7.33,
+    "buy": 59.333333333333336,
+    "bs": 1.78,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
