@@ -6310,5 +6310,30 @@
     "levels": [],
     "failed_time": 1790814329104,
     "failed_price": 1.7806
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1790826091178,
+    "anchor_price": 1.124,
+    "status": "EXPIRED",
+    "created_time": 1790826091178,
+    "last_time": 1790869590362,
+    "last_price": 1.12884,
+    "max_gain_pct": 1.4795,
+    "levels": [],
+    "expired_time": 1790869590362
+  },
+  {
+    "symbol": "COQIRT",
+    "anchor_time": 1790744438084,
+    "anchor_price": 0.0391,
+    "status": "FAILED",
+    "created_time": 1790744438084,
+    "last_time": 1790869590362,
+    "last_price": 0.0366,
+    "max_gain_pct": 40.4092,
+    "levels": [],
+    "failed_time": 1790751632966,
+    "failed_price": 0.0369
   }
 ]
