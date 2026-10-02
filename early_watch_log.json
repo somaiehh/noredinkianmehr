@@ -23644,7 +23644,10 @@
       "max_up": 13.69,
       "max_down": -5.6
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 13.69,
+      "max_down": -5.6
+    }
   },
   {
     "symbol": "ONEIRT",
@@ -23672,7 +23675,10 @@
       "max_up": 2.27,
       "max_down": -1.56
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.27,
+      "max_down": -4.0
+    }
   },
   {
     "symbol": "SIRT",
