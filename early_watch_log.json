@@ -23485,7 +23485,10 @@
       "max_up": 0.46,
       "max_down": -0.47
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.78,
+      "max_down": -0.48
+    },
     "result_12h": null
   },
   {
@@ -23510,7 +23513,10 @@
       "max_up": 0.08,
       "max_down": -0.53
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.21,
+      "max_down": -0.53
+    },
     "result_12h": null
   },
   {
@@ -23744,7 +23750,10 @@
       "max_up": -0.3,
       "max_down": -0.3
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.44,
+      "max_down": -0.3
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -23766,7 +23775,10 @@
       "max_up": 0.41,
       "max_down": 0.41
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.41,
+      "max_down": 0.06
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -23788,7 +23800,10 @@
       "max_up": -0.61,
       "max_down": -0.61
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.61,
+      "max_down": -0.71
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -23810,7 +23825,10 @@
       "max_up": 1.39,
       "max_down": 1.39
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.99,
+      "max_down": 1.39
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -23828,7 +23846,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -23866,6 +23887,25 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "time": 1790945273983,
+    "price": 36.1,
+    "level": "STRONG",
+    "hunt": 69.5,
+    "persistence": 1,
+    "p15": 1.98,
+    "vr": 1.14,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

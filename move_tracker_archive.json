@@ -40161,5 +40161,143 @@
     "closed_price": 56774.0,
     "close_reason": "NEW_WAKE_AFTER_DRAWDOWN",
     "next_trigger_kind": "WAKE_SHORT"
+  },
+  {
+    "symbol": "IRIRT",
+    "anchor_time": 1789626919305,
+    "anchor_price": 1433.0,
+    "anchor_kind": "WAKE_DEEP",
+    "created_time": 1789626919305,
+    "peak_price": 1573.0,
+    "peak_time": 1790574285184,
+    "last_price": 1524.0,
+    "last_time": 1790923845820,
+    "max_gain_pct": 9.7697,
+    "drawdown_from_peak_pct": -3.1151,
+    "up_levels_sent": [
+      5
+    ],
+    "dd_levels_sent": [
+      5
+    ],
+    "up_levels_notified": [
+      5
+    ],
+    "dd_levels_notified": [
+      5
+    ],
+    "anchor_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 0.0
+    },
+    "last_context": {
+      "status": "WATCH",
+      "vr": null,
+      "va": null,
+      "bs": null,
+      "breakout": false,
+      "fast_shadow": false,
+      "fast_kind": null,
+      "fast_active": false,
+      "confirmed_fast": false,
+      "fast_anchor_time": null,
+      "fast_anchor_price": null,
+      "sequence_score_v1": 0.0,
+      "trades15": 0,
+      "trades1h": 5,
+      "trades4h": 5,
+      "wake_fresh_ratio": 0.0,
+      "wake_a1": 0.0,
+      "wake_a4": 0.0,
+      "wake_prev_gap_min": 7.0,
+      "wake_prev_valid": true,
+      "p15": null,
+      "book": 0
+    },
+    "tracker_version": "move-tracker-v1",
+    "milestone_events": [
+      {
+        "type": "UP",
+        "level": 5,
+        "time": 1790559587364,
+        "price": 1525.0,
+        "anchor_price": 1433.0,
+        "peak_price": 1525.0,
+        "gain_pct": 6.4201,
+        "drawdown_from_peak_pct": 0.0,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0,
+          "trades15": 4,
+          "trades1h": 4,
+          "trades4h": 21,
+          "wake_fresh_ratio": 1.0,
+          "wake_a1": 4.0,
+          "wake_a4": 4.0,
+          "wake_prev_gap_min": 4.4841,
+          "wake_prev_valid": true,
+          "p15": null,
+          "book": 0
+        }
+      },
+      {
+        "type": "PULLBACK",
+        "level": 5,
+        "time": 1790589235382,
+        "price": 1425.0,
+        "anchor_price": 1433.0,
+        "peak_price": 1573.0,
+        "gain_pct": -0.5583,
+        "drawdown_from_peak_pct": -9.4088,
+        "context": {
+          "status": "WATCH",
+          "vr": null,
+          "va": null,
+          "bs": null,
+          "breakout": false,
+          "fast_shadow": false,
+          "fast_kind": null,
+          "fast_active": false,
+          "confirmed_fast": false,
+          "fast_anchor_time": null,
+          "fast_anchor_price": null,
+          "sequence_score_v1": 0.0,
+          "trades15": 4,
+          "trades1h": 8,
+          "trades4h": 16,
+          "wake_fresh_ratio": 0.5,
+          "wake_a1": 4.0,
+          "wake_a4": 4.0,
+          "wake_prev_gap_min": 17.054,
+          "wake_prev_valid": true,
+          "p15": null,
+          "book": 0
+        }
+      }
+    ],
+    "closed_time": 1790945273983,
+    "closed_price": 1386.0,
+    "close_reason": "NEW_WAKE_AFTER_DRAWDOWN",
+    "next_trigger_kind": "WAKE_SHORT"
   }
 ]
