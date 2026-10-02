@@ -3496,7 +3496,10 @@
     "ob": 1.0,
     "p15": 1.44,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.39,
+      "max_down": -2.5
+    },
     "result_4h": null
   }
 ]

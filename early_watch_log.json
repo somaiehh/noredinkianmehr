@@ -23563,7 +23563,10 @@
       "max_up": 0.54,
       "max_down": 0.54
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.54,
+      "max_down": -0.36
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -23600,7 +23603,10 @@
     "bs": 1.12,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 2.27,
+      "max_down": 2.27
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -23618,6 +23624,44 @@
     "buy": 100,
     "bs": 5.0,
     "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FLOKIIRT",
+    "time": 1790936478014,
+    "price": 7.37308,
+    "level": "STRONG",
+    "hunt": 61.3,
+    "persistence": 1,
+    "p15": 0.18,
+    "vr": 2.12,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "RSS3IRT",
+    "time": 1790936478014,
+    "price": 847.0,
+    "level": "STRONG",
+    "hunt": 76.6,
+    "persistence": 1,
+    "p15": 0.59,
+    "vr": 15.05,
+    "va": 2.0,
+    "buy": 33.666666666666664,
+    "bs": 1.01,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
