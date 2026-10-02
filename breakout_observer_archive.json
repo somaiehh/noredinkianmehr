@@ -7601,5 +7601,18 @@
       }
     ],
     "expired_time": 1790969581146
+  },
+  {
+    "symbol": "LSKIRT",
+    "anchor_time": 1790895151550,
+    "anchor_price": 78569.0,
+    "status": "FAILED",
+    "created_time": 1790895151550,
+    "last_time": 1790973242003,
+    "last_price": 73800.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1790917465126,
+    "failed_price": 75035.0
   }
 ]
