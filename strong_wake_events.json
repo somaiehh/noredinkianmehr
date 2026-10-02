@@ -3691,7 +3691,7 @@
     "result": "STOP_FIRST",
     "result_time": 1790855679476,
     "result_move": -5.2164,
-    "max_move": 0.7029,
+    "max_move": 2.2937,
     "min_move": -8.4351,
     "ledger_version": "wake-ledger-v1"
   },
@@ -4091,7 +4091,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.847,
-    "min_move": -1.4952,
+    "min_move": -2.0229,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -4112,7 +4112,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.8196,
-    "min_move": -1.5323,
+    "min_move": -1.8024,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -4197,6 +4197,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -2.1774,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "RONIRT",
+    "event_time": 1790963194990,
+    "event_price": 17579.0,
+    "anchor_time": 1790961898146,
+    "anchor_price": 17621.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.4,
+    "tm_e15_e1": 0.4,
+    "tm_e1_e4": 0.8621,
+    "tm_g15": 5.0,
+    "tm_g1": 1.3889,
+    "tm_g4": 1.45,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
