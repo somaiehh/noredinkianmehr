@@ -23557,7 +23557,10 @@
       "max_up": 9.83,
       "max_down": 3.57
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 13.29,
+      "max_down": 3.57
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -23582,7 +23585,10 @@
       "max_up": 1.05,
       "max_down": -0.64
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.96,
+      "max_down": -0.64
+    }
   },
   {
     "symbol": "LABIRT",
@@ -24388,7 +24394,10 @@
       "max_up": -0.22,
       "max_down": -1.48
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.22,
+      "max_down": -8.58
+    },
     "result_12h": null
   },
   {
@@ -24410,7 +24419,10 @@
       "max_up": -0.03,
       "max_down": -2.34
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.03,
+      "max_down": -3.31
+    },
     "result_12h": null
   },
   {
