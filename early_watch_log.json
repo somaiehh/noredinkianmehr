@@ -23616,7 +23616,10 @@
       "max_up": 1.27,
       "max_down": -0.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.52,
+      "max_down": -3.47
+    }
   },
   {
     "symbol": "SANDIRT",
@@ -24558,7 +24561,10 @@
     "bs": 1.67,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.65,
+      "max_down": 0.65
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
