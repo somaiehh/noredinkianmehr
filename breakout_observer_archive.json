@@ -6775,5 +6775,42 @@
     "levels": [],
     "failed_time": 1790778522675,
     "failed_price": 268000.0
+  },
+  {
+    "symbol": "NOTIRT",
+    "anchor_time": 1790760914255,
+    "anchor_price": 128.0,
+    "status": "FAILED",
+    "created_time": 1790760914255,
+    "last_time": 1790927639523,
+    "last_price": 129.4,
+    "max_gain_pct": 1.4063,
+    "levels": [],
+    "failed_time": 1790794014886,
+    "failed_price": 124.0
+  },
+  {
+    "symbol": "NIGHTIRT",
+    "anchor_time": 1790845281235,
+    "anchor_price": 10800.0,
+    "status": "EXPIRED",
+    "created_time": 1790845281235,
+    "last_time": 1790927639523,
+    "last_price": 10716.6,
+    "max_gain_pct": 6.9778,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790848058545,
+    "confirmed_price": 11262.4,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790850797139,
+        "price": 11373.4,
+        "gain_pct": 5.3093
+      }
+    ],
+    "expired_time": 1790888834079
   }
 ]
