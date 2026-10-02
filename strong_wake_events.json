@@ -3689,8 +3689,8 @@
     "tm_g4": 1.8182,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1790833915584,
-    "result_move": -7.1772,
+    "result_time": 1790834623117,
+    "result_move": -5.5124,
     "max_move": 0.7029,
     "min_move": -7.1772,
     "ledger_version": "wake-ledger-v1"
@@ -4092,6 +4092,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -0.3518,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "HYPEIRT",
+    "event_time": 1790939805054,
+    "event_price": 23727664.0,
+    "anchor_time": 1790937206911,
+    "anchor_price": 23462704.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1579,
+    "tm_e15_e1": 0.1579,
+    "tm_e1_e4": 0.7037,
+    "tm_g15": 0.2308,
+    "tm_g1": 1.3571,
+    "tm_g4": 1.125,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
