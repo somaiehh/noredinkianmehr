@@ -23971,7 +23971,10 @@
       "max_up": 1.11,
       "max_down": -0.55
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.6,
+      "max_down": -0.55
+    },
     "result_12h": null
   },
   {
@@ -24267,7 +24270,10 @@
     "bs": 1.81,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -1.51,
+      "max_down": -1.51
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -24285,6 +24291,44 @@
     "buy": 92.33333333333333,
     "bs": 2.77,
     "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GALAIRT",
+    "time": 1790960615992,
+    "price": 691.2,
+    "level": "STRONG",
+    "hunt": 59.5,
+    "persistence": 1,
+    "p15": 1.25,
+    "vr": 2.32,
+    "va": 1.79,
+    "buy": 57.333333333333336,
+    "bs": 1.72,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1790960615992,
+    "price": 9700.0,
+    "level": "STRONG",
+    "hunt": 75.4,
+    "persistence": 5,
+    "p15": 0.86,
+    "vr": 1.21,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 4.22,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,

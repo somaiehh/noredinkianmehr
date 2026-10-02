@@ -3595,5 +3595,43 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1790960615992,
+    "price": 1.5394,
+    "pre30": -0.04,
+    "pre60": 0.67,
+    "pre120": 0.62,
+    "hunt": 63.9,
+    "persistence": 2,
+    "vr": 2.98,
+    "va": 7.15,
+    "buy": 24.666666666666668,
+    "bs": 0.74,
+    "ob": 1.0,
+    "p15": 0.45,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1790960615992,
+    "price": 9700.0,
+    "pre30": 0.13,
+    "pre60": 0.36,
+    "pre120": 0.54,
+    "hunt": 75.4,
+    "persistence": 5,
+    "vr": 1.21,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 4.22,
+    "ob": 1.0,
+    "p15": 0.86,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
