@@ -23163,7 +23163,10 @@
       "max_up": 4.06,
       "max_down": -2.48
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.06,
+      "max_down": -3.73
+    }
   },
   {
     "symbol": "RSS3IRT",
