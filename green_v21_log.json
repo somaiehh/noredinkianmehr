@@ -3618,7 +3618,10 @@
     "ob": 1.0,
     "p15": 0.45,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.6,
+      "max_down": -0.97
+    },
     "result_4h": null
   },
   {
@@ -3637,7 +3640,10 @@
     "ob": 1.0,
     "p15": 0.86,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.03,
+      "max_down": -2.34
+    },
     "result_4h": null
   },
   {
