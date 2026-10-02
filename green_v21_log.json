@@ -3529,5 +3529,24 @@
       "max_down": -0.87
     },
     "result_4h": null
+  },
+  {
+    "symbol": "PTBIRT",
+    "time": 1790949052493,
+    "price": 257.0,
+    "pre30": 2.8,
+    "pre60": 4.05,
+    "pre120": 2.8,
+    "hunt": 86.0,
+    "persistence": 2,
+    "vr": 3.48,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.47,
+    "ob": 0.32,
+    "p15": 0.78,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

@@ -7430,5 +7430,31 @@
       }
     ],
     "expired_time": 1790869590362
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1790876929148,
+    "anchor_price": 1277938.0,
+    "status": "FAILED",
+    "created_time": 1790876929148,
+    "last_time": 1790948065440,
+    "last_price": 1276000.0,
+    "max_gain_pct": 1.7684,
+    "levels": [],
+    "failed_time": 1790883450831,
+    "failed_price": 1232711.0
+  },
+  {
+    "symbol": "WIFIRT",
+    "anchor_time": 1790761677708,
+    "anchor_price": 65219.0,
+    "status": "FAILED",
+    "created_time": 1790761677708,
+    "last_time": 1790948065440,
+    "last_price": 66101.0,
+    "max_gain_pct": 4.5723,
+    "levels": [],
+    "failed_time": 1790789794472,
+    "failed_price": 63222.0
   }
 ]

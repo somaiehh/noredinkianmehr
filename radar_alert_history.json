@@ -1542,5 +1542,18 @@
     "bs": 0.15,
     "breakout": true,
     "persistence": 1
+  },
+  {
+    "time": 1790949059364,
+    "symbol": "PTBIRT",
+    "price": 257.0,
+    "hunt_score": 86.0,
+    "status": "EARLY",
+    "p15": 0.78,
+    "vr": 3.48,
+    "va": 10.0,
+    "bs": 4.47,
+    "breakout": true,
+    "persistence": 2
   }
 ]
