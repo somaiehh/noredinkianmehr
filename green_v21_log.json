@@ -3503,7 +3503,10 @@
       "max_up": 3.39,
       "max_down": -2.5
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.39,
+      "max_down": -2.5
+    }
   },
   {
     "symbol": "DEXEIRT",
@@ -3521,7 +3524,10 @@
     "ob": 1.0,
     "p15": 0.44,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.37,
+      "max_down": -0.87
+    },
     "result_4h": null
   }
 ]
