@@ -6660,5 +6660,16 @@
     "confirmed_time": 1790880340696,
     "confirmed_price": 75000.0,
     "expired_time": 1790890444732
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1790872908057,
+    "anchor_price": 1.4883,
+    "status": "WATCHING",
+    "created_time": 1790872908057,
+    "last_time": 1790898719519,
+    "last_price": 1.474,
+    "max_gain_pct": 0.7861,
+    "levels": []
   }
 ]
