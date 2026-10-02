@@ -23893,7 +23893,10 @@
       "max_up": 0.47,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.47,
+      "max_down": -1.33
+    },
     "result_12h": null
   },
   {
@@ -24192,7 +24195,10 @@
     "bs": 2.82,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.2,
+      "max_down": -0.2
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -24228,6 +24234,25 @@
     "va": 2.82,
     "buy": 78.33333333333333,
     "bs": 2.35,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WLDIRT",
+    "time": 1790958754639,
+    "price": 151534.0,
+    "level": "STRONG",
+    "hunt": 56.5,
+    "persistence": 1,
+    "p15": 0.22,
+    "vr": 1.17,
+    "va": 4.25,
+    "buy": 60.333333333333336,
+    "bs": 1.81,
     "breakout": false,
     "priority": false,
     "result_15m": null,

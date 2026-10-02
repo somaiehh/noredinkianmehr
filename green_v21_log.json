@@ -3528,7 +3528,10 @@
       "max_up": 0.37,
       "max_down": -0.87
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.63,
+      "max_down": -0.87
+    }
   },
   {
     "symbol": "PTBIRT",
