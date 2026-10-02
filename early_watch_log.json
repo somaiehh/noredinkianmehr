@@ -23669,7 +23669,10 @@
       "max_up": 0.32,
       "max_down": -0.1
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.22,
+      "max_down": -0.67
+    },
     "result_12h": null
   },
   {
@@ -23694,7 +23697,10 @@
       "max_up": -0.13,
       "max_down": -0.19
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.36,
+      "max_down": -0.19
+    },
     "result_12h": null
   },
   {
@@ -23719,7 +23725,10 @@
       "max_up": 1.53,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.13,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -24012,7 +24021,10 @@
     "bs": 1.02,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.25,
+      "max_down": -0.25
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -24031,7 +24043,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.12,
+      "max_down": 0.12
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -24050,7 +24065,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.96,
+      "max_down": -0.96
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -24069,6 +24087,28 @@
     "bs": 3.0,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NAKAIRT",
+    "time": 1790951018957,
+    "price": 35607.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.87,
+    "vr": 3.82,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
