@@ -7204,5 +7204,49 @@
     "levels": [],
     "failed_time": 1790855317290,
     "failed_price": 5855.0
+  },
+  {
+    "symbol": "JASMYIRT",
+    "anchor_time": 1790836539416,
+    "anchor_price": 1379.8,
+    "status": "EXPIRED",
+    "created_time": 1790836539416,
+    "last_time": 1790939805054,
+    "last_price": 1410.8,
+    "max_gain_pct": 15.7849,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790841717024,
+    "confirmed_price": 1442.8,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790842702982,
+        "price": 1500.0,
+        "gain_pct": 8.7114
+      },
+      {
+        "level": 10,
+        "time": 1790843315615,
+        "price": 1522.3,
+        "gain_pct": 10.3276
+      }
+    ],
+    "expired_time": 1790880340696
+  },
+  {
+    "symbol": "NOMIRT",
+    "anchor_time": 1790891151397,
+    "anchor_price": 709.0,
+    "status": "FAILED",
+    "created_time": 1790891151397,
+    "last_time": 1790939805054,
+    "last_price": 649.0,
+    "max_gain_pct": 0.8463,
+    "levels": [],
+    "failed_time": 1790917465126,
+    "failed_price": 680.0
   }
 ]
