@@ -23405,7 +23405,10 @@
       "max_up": 0.58,
       "max_down": -4.49
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.0,
+      "max_down": -10.11
+    }
   },
   {
     "symbol": "GALAIRT",
@@ -24470,7 +24473,10 @@
       "max_up": -8.71,
       "max_down": -8.71
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -7.39,
+      "max_down": -8.71
+    },
     "result_4h": null,
     "result_12h": null
   },
