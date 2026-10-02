@@ -3633,5 +3633,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1790962357637,
+    "price": 9697.0,
+    "pre30": 0.83,
+    "pre60": 0.1,
+    "pre120": 0.54,
+    "hunt": 70.3,
+    "persistence": 5,
+    "vr": 3.43,
+    "va": 2.0,
+    "buy": 12.0,
+    "bs": 0.36,
+    "ob": 1.0,
+    "p15": 0.63,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
