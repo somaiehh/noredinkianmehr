@@ -23381,6 +23381,28 @@
     "bs": 4.23,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 0.58,
+      "max_down": 0.58
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GALAIRT",
+    "time": 1790927639523,
+    "price": 644.5,
+    "level": "STRONG",
+    "hunt": 56.2,
+    "persistence": 1,
+    "p15": 0.7,
+    "vr": 0.04,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

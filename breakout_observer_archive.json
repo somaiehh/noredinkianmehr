@@ -6749,5 +6749,31 @@
     "levels": [],
     "failed_time": 1790779668717,
     "failed_price": 569.3
+  },
+  {
+    "symbol": "SANDIRT",
+    "anchor_time": 1790761677708,
+    "anchor_price": 11770.0275,
+    "status": "FAILED",
+    "created_time": 1790761677708,
+    "last_time": 1790927035074,
+    "last_price": 14882.9072,
+    "max_gain_pct": 26.4475,
+    "levels": [],
+    "failed_time": 1790776517537,
+    "failed_price": 11305.4018
+  },
+  {
+    "symbol": "FILIRT",
+    "anchor_time": 1790773432149,
+    "anchor_price": 277518.0,
+    "status": "FAILED",
+    "created_time": 1790773432149,
+    "last_time": 1790927035074,
+    "last_price": 266841.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1790778522675,
+    "failed_price": 268000.0
   }
 ]
