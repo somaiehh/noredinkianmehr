@@ -23312,7 +23312,10 @@
       "max_up": -0.14,
       "max_down": -1.6
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.27,
+      "max_down": -1.6
+    }
   },
   {
     "symbol": "RSS3IRT",
@@ -23340,7 +23343,10 @@
       "max_up": 0.45,
       "max_down": -4.97
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.45,
+      "max_down": -6.66
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -23463,7 +23469,10 @@
       "max_up": 0.46,
       "max_down": 0.46
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.46,
+      "max_down": -0.47
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -23485,7 +23494,10 @@
       "max_up": -0.15,
       "max_down": -0.15
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.08,
+      "max_down": -0.53
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -23541,7 +23553,10 @@
     "bs": 2.21,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.54,
+      "max_down": 0.54
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -23558,6 +23573,25 @@
     "va": 3.36,
     "buy": 55.666666666666664,
     "bs": 1.67,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1790934531392,
+    "price": 467.7,
+    "level": "WATCH",
+    "hunt": 48.8,
+    "persistence": 1,
+    "p15": 0.34,
+    "vr": 0.36,
+    "va": 10.0,
+    "buy": 37.333333333333336,
+    "bs": 1.12,
     "breakout": false,
     "priority": false,
     "result_15m": null,
