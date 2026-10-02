@@ -6722,5 +6722,32 @@
     "levels": [],
     "failed_time": 1790866069808,
     "failed_price": 286.0
+  },
+  {
+    "symbol": "ENJIRT",
+    "anchor_time": 1790873576899,
+    "anchor_price": 7595.0,
+    "status": "EXPIRED",
+    "created_time": 1790873576899,
+    "last_time": 1790925588917,
+    "last_price": 8108.0,
+    "max_gain_pct": 6.7544,
+    "levels": [],
+    "confirmed_time": 1790917465126,
+    "confirmed_price": 7824.0,
+    "expired_time": 1790917465126
+  },
+  {
+    "symbol": "GALAIRT",
+    "anchor_time": 1790747103679,
+    "anchor_price": 588.5,
+    "status": "FAILED",
+    "created_time": 1790747103679,
+    "last_time": 1790925588917,
+    "last_price": 625.0,
+    "max_gain_pct": 6.2022,
+    "levels": [],
+    "failed_time": 1790779668717,
+    "failed_price": 569.3
   }
 ]
