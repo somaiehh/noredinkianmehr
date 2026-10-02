@@ -3501,5 +3501,24 @@
       "max_down": -2.5
     },
     "result_4h": null
+  },
+  {
+    "symbol": "DEXEIRT",
+    "time": 1790943549297,
+    "price": 515834.0,
+    "pre30": -3.04,
+    "pre60": -2.09,
+    "pre120": -4.24,
+    "hunt": 65.3,
+    "persistence": 2,
+    "vr": 1.16,
+    "va": 2.91,
+    "buy": 21.333333333333336,
+    "bs": 0.64,
+    "ob": 1.0,
+    "p15": 0.44,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

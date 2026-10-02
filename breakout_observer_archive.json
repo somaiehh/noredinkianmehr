@@ -7311,5 +7311,44 @@
     "max_gain_pct": 3.2036,
     "levels": [],
     "expired_time": 1790923425821
+  },
+  {
+    "symbol": "GRTIRT",
+    "anchor_time": 1790832677014,
+    "anchor_price": 7744.0,
+    "status": "FAILED",
+    "created_time": 1790832677014,
+    "last_time": 1790942498208,
+    "last_price": 7605.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1790834623117,
+    "failed_price": 7476.0
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1790678907552,
+    "anchor_price": 9400.0,
+    "status": "FAILED",
+    "created_time": 1790678907552,
+    "last_time": 1790942498208,
+    "last_price": 9296.0,
+    "max_gain_pct": 1.0638,
+    "levels": [],
+    "failed_time": 1790692164024,
+    "failed_price": 9000.0
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1790848058545,
+    "anchor_price": 83000.0,
+    "status": "FAILED",
+    "created_time": 1790848058545,
+    "last_time": 1790942498208,
+    "last_price": 77043.0,
+    "max_gain_pct": 19.6711,
+    "levels": [],
+    "failed_time": 1790854193483,
+    "failed_price": 79487.0
   }
 ]
