@@ -24186,7 +24186,10 @@
       "max_up": 1.2,
       "max_down": -2.05
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.84,
+      "max_down": -4.48
+    },
     "result_12h": null
   },
   {
@@ -24430,6 +24433,25 @@
     "va": 1.54,
     "buy": 59.333333333333336,
     "bs": 1.78,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SCRIRT",
+    "time": 1790965953034,
+    "price": 7952.0,
+    "level": "STRONG",
+    "hunt": 77.2,
+    "persistence": 1,
+    "p15": 1.92,
+    "vr": 2.94,
+    "va": 3.65,
+    "buy": 37.333333333333336,
+    "bs": 1.12,
     "breakout": false,
     "priority": false,
     "result_15m": null,
