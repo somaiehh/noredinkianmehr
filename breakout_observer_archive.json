@@ -8759,5 +8759,18 @@
     "max_gain_pct": 2.4612,
     "levels": [],
     "expired_time": 1790974656617
+  },
+  {
+    "symbol": "LINKIRT",
+    "anchor_time": 1790941668287,
+    "anchor_price": 3799999.0,
+    "status": "FAILED",
+    "created_time": 1790941668287,
+    "last_time": 1791058180148,
+    "last_price": 3754922.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1790965953034,
+    "failed_price": 3672000.0
   }
 ]
