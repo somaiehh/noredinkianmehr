@@ -1714,11 +1714,11 @@
     "book": 1.0,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1791054281421,
+    "result_move": -6.8269,
     "max_move": 1.5577,
-    "min_move": -2.75,
+    "min_move": -6.8269,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {

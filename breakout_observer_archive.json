@@ -8648,5 +8648,44 @@
     "confirmed_time": 1791037163489,
     "confirmed_price": 406000.0,
     "expired_time": 1791049781146
+  },
+  {
+    "symbol": "BCHIRT",
+    "anchor_time": 1790765279062,
+    "anchor_price": 79747946.0,
+    "status": "FAILED",
+    "created_time": 1790765279062,
+    "last_time": 1791053538212,
+    "last_price": 84203597.0,
+    "max_gain_pct": 5.944,
+    "levels": [],
+    "failed_time": 1790794014886,
+    "failed_price": 77000000.0
+  },
+  {
+    "symbol": "ETCIRT",
+    "anchor_time": 1790923425821,
+    "anchor_price": 2355205.0,
+    "status": "FAILED",
+    "created_time": 1790923425821,
+    "last_time": 1791051617182,
+    "last_price": 2357994.0,
+    "max_gain_pct": 1.8027,
+    "levels": [],
+    "failed_time": 1790966816252,
+    "failed_price": 2240000.0
+  },
+  {
+    "symbol": "XLMIRT",
+    "anchor_time": 1790934531392,
+    "anchor_price": 58300.0,
+    "status": "FAILED",
+    "created_time": 1790934531392,
+    "last_time": 1791053538212,
+    "last_price": 57705.7,
+    "max_gain_pct": 1.3604,
+    "levels": [],
+    "failed_time": 1790966816252,
+    "failed_price": 56000.0
   }
 ]

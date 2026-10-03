@@ -24929,7 +24929,10 @@
       "max_up": 12.88,
       "max_down": 0.22
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 16.99,
+      "max_down": 0.22
+    }
   },
   {
     "symbol": "LABIRT",
@@ -25736,7 +25739,10 @@
       "max_up": 0.0,
       "max_down": -1.04
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.3,
+      "max_down": -1.1
+    },
     "result_12h": null
   },
   {
@@ -25761,7 +25767,10 @@
       "max_up": 0.0,
       "max_down": -0.33
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -0.33
+    },
     "result_12h": null
   },
   {
@@ -26079,7 +26088,10 @@
     "bs": 4.98,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.86,
+      "max_down": -0.86
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -26097,6 +26109,25 @@
     "buy": 92.66666666666666,
     "bs": 2.78,
     "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ETCIRT",
+    "time": 1791054281421,
+    "price": 2411498.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.78,
+    "vr": 1.55,
+    "va": 2.0,
+    "buy": 75.99999999999999,
+    "bs": 2.28,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
