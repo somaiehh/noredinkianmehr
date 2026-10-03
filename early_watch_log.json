@@ -24277,7 +24277,10 @@
       "max_up": 1.84,
       "max_down": -4.48
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.84,
+      "max_down": -8.0
+    }
   },
   {
     "symbol": "QIRT",
