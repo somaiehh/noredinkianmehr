@@ -24600,7 +24600,10 @@
       "max_up": -3.49,
       "max_down": -8.53
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -3.49,
+      "max_down": -8.53
+    }
   },
   {
     "symbol": "SCRIRT",
@@ -24745,7 +24748,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.5,
+      "max_down": 1.01
+    },
     "result_4h": null,
     "result_12h": null
   },
