@@ -24066,7 +24066,10 @@
       "max_up": 1.05,
       "max_down": -3.04
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.05,
+      "max_down": -3.04
+    }
   },
   {
     "symbol": "PTBIRT",
@@ -24091,7 +24094,10 @@
       "max_up": 0.39,
       "max_down": -2.73
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.78,
+      "max_down": -7.81
+    }
   },
   {
     "symbol": "KAIOIRT",
@@ -24116,7 +24122,10 @@
       "max_up": 4.62,
       "max_down": -4.84
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.62,
+      "max_down": -8.99
+    }
   },
   {
     "symbol": "SHIBIRT",
