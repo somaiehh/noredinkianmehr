@@ -23979,7 +23979,10 @@
       "max_up": 3.39,
       "max_down": -1.85
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.39,
+      "max_down": -11.34
+    }
   },
   {
     "symbol": "SLVONIRT",
@@ -24004,7 +24007,10 @@
       "max_up": 0.53,
       "max_down": -2.2
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.53,
+      "max_down": -2.28
+    }
   },
   {
     "symbol": "HIPPOIRT",
