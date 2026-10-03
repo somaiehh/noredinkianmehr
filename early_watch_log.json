@@ -25172,7 +25172,10 @@
       "max_up": -0.11,
       "max_down": -0.38
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.14,
+      "max_down": -0.38
+    },
     "result_12h": null
   },
   {
@@ -25194,7 +25197,10 @@
       "max_up": 0.39,
       "max_down": 0.04
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.92,
+      "max_down": -0.73
+    },
     "result_12h": null
   },
   {
@@ -25216,7 +25222,10 @@
       "max_up": 6.24,
       "max_down": 3.27
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 7.0,
+      "max_down": 3.27
+    },
     "result_12h": null
   },
   {
@@ -25238,7 +25247,10 @@
       "max_up": 1.35,
       "max_down": -0.94
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.87,
+      "max_down": -2.19
+    },
     "result_12h": null
   },
   {
@@ -25260,7 +25272,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -1.74
+    },
     "result_12h": null
   },
   {
@@ -25441,7 +25456,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.94,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -25460,7 +25478,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -1.64,
+      "max_down": -3.28
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -25497,6 +25518,25 @@
     "bs": 2.17,
     "breakout": true,
     "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GTCIRT",
+    "time": 1791036397689,
+    "price": 34650.0,
+    "level": "STRONG",
+    "hunt": 72.7,
+    "persistence": 1,
+    "p15": 1.03,
+    "vr": 0.15,
+    "va": 9.62,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
