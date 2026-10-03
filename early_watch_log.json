@@ -24485,7 +24485,10 @@
       "max_up": -0.22,
       "max_down": -8.58
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.81,
+      "max_down": -8.58
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -24510,7 +24513,10 @@
       "max_up": -0.03,
       "max_down": -3.31
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.03,
+      "max_down": -4.33
+    }
   },
   {
     "symbol": "PUMPIRT",
