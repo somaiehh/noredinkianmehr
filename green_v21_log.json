@@ -3798,5 +3798,24 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "WLDIRT",
+    "time": 1791024330736,
+    "price": 162549.0,
+    "pre30": 6.24,
+    "pre60": 7.32,
+    "pre120": 9.0,
+    "hunt": 97.4,
+    "persistence": 2,
+    "vr": 4.12,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.45,
+    "ob": 0.28,
+    "p15": 1.24,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
