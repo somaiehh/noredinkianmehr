@@ -24429,7 +24429,10 @@
       "max_up": 0.0,
       "max_down": -8.27
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -8.27
+    }
   },
   {
     "symbol": "DEXEIRT",
@@ -24454,7 +24457,10 @@
       "max_up": -0.39,
       "max_down": -6.3
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.39,
+      "max_down": -6.3
+    }
   },
   {
     "symbol": "GALAIRT",

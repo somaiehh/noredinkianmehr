@@ -4303,5 +4303,26 @@
     "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "BATIRT",
+    "event_time": 1791002861998,
+    "event_price": 25969.0,
+    "anchor_time": 1791001925548,
+    "anchor_price": 25969.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1875,
+    "tm_e15_e1": 0.1875,
+    "tm_e1_e4": 0.5714,
+    "tm_g15": 0.2308,
+    "tm_g1": 1.1429,
+    "tm_g4": 1.12,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
