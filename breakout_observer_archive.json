@@ -8699,5 +8699,41 @@
     "max_gain_pct": 1.381,
     "levels": [],
     "expired_time": 1791049781146
+  },
+  {
+    "symbol": "STGIRT",
+    "anchor_time": 1790941668287,
+    "anchor_price": 42044.0,
+    "status": "EXPIRED",
+    "created_time": 1790941668287,
+    "last_time": 1791055464936,
+    "last_price": 48000.0,
+    "max_gain_pct": 16.2806,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790948065440,
+    "confirmed_price": 43438.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790951691693,
+        "price": 44238.0,
+        "gain_pct": 5.2183
+      }
+    ],
+    "expired_time": 1790987044887
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "anchor_time": 1791008241236,
+    "anchor_price": 16530.0,
+    "status": "EXPIRED",
+    "created_time": 1791008241236,
+    "last_time": 1791055464936,
+    "last_price": 16900.0,
+    "max_gain_pct": 2.686,
+    "levels": [],
+    "expired_time": 1791051617182
   }
 ]
