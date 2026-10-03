@@ -25703,5 +25703,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "COQIRT",
+    "time": 1791042561559,
+    "price": 0.0401,
+    "level": "STRONG",
+    "hunt": 56.3,
+    "persistence": 1,
+    "p15": 0.75,
+    "vr": 0.17,
+    "va": 10.0,
+    "buy": 63.0,
+    "bs": 1.89,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
