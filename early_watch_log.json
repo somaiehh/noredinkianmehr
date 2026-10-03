@@ -24336,7 +24336,10 @@
       "max_up": -0.2,
       "max_down": -5.68
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.2,
+      "max_down": -5.85
+    }
   },
   {
     "symbol": "ENJIRT",
