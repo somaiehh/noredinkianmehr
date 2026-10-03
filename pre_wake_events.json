@@ -1528,7 +1528,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 4.2755,
+    "max_move": 4.8724,
     "min_move": -1.7745,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -1593,6 +1593,27 @@
     "result_move": null,
     "max_move": 1.3065,
     "min_move": -1.4917,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "RESOLVIRT",
+    "event_time": 1791012773407,
+    "event_price": 6752.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 45.5,
+    "p15": -1.23,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 5.0,
+    "book": 0.4,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]

@@ -24662,7 +24662,10 @@
       "max_up": -0.93,
       "max_down": -11.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.93,
+      "max_down": -20.78
+    }
   },
   {
     "symbol": "LSKIRT",
@@ -24851,7 +24854,10 @@
       "max_up": 0.8,
       "max_down": 0.8
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.33,
+      "max_down": 0.53
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -24869,7 +24875,10 @@
     "bs": 2.96,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.22,
+      "max_down": 0.22
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -24887,6 +24896,25 @@
     "buy": 81.0,
     "bs": 2.43,
     "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1791012773407,
+    "price": 43.4,
+    "level": "STRONG",
+    "hunt": 64.3,
+    "persistence": 1,
+    "p15": 1.88,
+    "vr": 4.6,
+    "va": 2.07,
+    "buy": 52.66666666666667,
+    "bs": 1.58,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
