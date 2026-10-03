@@ -24572,7 +24572,10 @@
       "max_up": 1.24,
       "max_down": -2.59
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.24,
+      "max_down": -4.39
+    }
   },
   {
     "symbol": "PTBIRT",
@@ -24720,7 +24723,10 @@
     "breakout": true,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 5.82,
+      "max_down": 0.97
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -24757,7 +24763,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.91,
+      "max_down": 0.17
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -24776,7 +24785,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.5,
+      "max_down": -0.5
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -24794,6 +24806,28 @@
     "buy": 100,
     "bs": 5.0,
     "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "time": 1791008241236,
+    "price": 16530.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.24,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 36.66666666666667,
+    "bs": 1.1,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
