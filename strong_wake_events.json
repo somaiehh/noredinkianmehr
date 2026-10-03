@@ -4489,7 +4489,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 3.5452,
+    "max_move": 4.2236,
     "min_move": -0.9861,
     "ledger_version": "wake-ledger-v1"
   },
@@ -4532,7 +4532,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.6711,
-    "min_move": -0.4362,
+    "min_move": -0.7047,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -4616,6 +4616,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.0835,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "NAKAIRT",
+    "event_time": 1791031095805,
+    "event_price": 33887.0,
+    "anchor_time": 1791029020952,
+    "anchor_price": 33667.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1176,
+    "tm_e15_e1": 0.1176,
+    "tm_e1_e4": 0.6538,
+    "tm_g15": 0.1667,
+    "tm_g1": 1.2143,
+    "tm_g4": 1.0833,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
