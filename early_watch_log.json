@@ -24774,7 +24774,10 @@
       "max_up": 2.5,
       "max_down": 1.01
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.05,
+      "max_down": 1.01
+    }
   },
   {
     "symbol": "SLVONIRT",
@@ -24802,7 +24805,10 @@
       "max_up": 1.69,
       "max_down": 0.17
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.21,
+      "max_down": 0.17
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -25534,7 +25540,10 @@
       "max_up": 0.02,
       "max_down": -1.41
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.02,
+      "max_down": -2.35
+    },
     "result_12h": null
   },
   {
@@ -25865,7 +25874,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.64,
+      "max_down": 0.25
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -25884,7 +25896,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.84,
+      "max_down": 0.34
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -25902,7 +25917,10 @@
     "bs": 3.53,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.3,
+      "max_down": -0.3
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
