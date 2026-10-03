@@ -25510,7 +25510,10 @@
       "max_up": 1.23,
       "max_down": -1.15
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.48,
+      "max_down": -1.31
+    }
   },
   {
     "symbol": "ZROIRT",
@@ -26285,7 +26288,10 @@
       "max_up": 0.71,
       "max_down": -0.41
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.95,
+      "max_down": -0.82
+    },
     "result_12h": null
   },
   {
