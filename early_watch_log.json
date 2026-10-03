@@ -24631,7 +24631,10 @@
       "max_up": -5.67,
       "max_down": -9.24
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -5.67,
+      "max_down": -11.97
+    }
   },
   {
     "symbol": "GTCIRT",
@@ -24835,7 +24838,10 @@
     "bs": 1.1,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.8,
+      "max_down": 0.8
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
