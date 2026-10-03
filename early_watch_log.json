@@ -25484,7 +25484,10 @@
       "max_up": 1.94,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.05,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -25506,7 +25509,10 @@
       "max_up": -1.64,
       "max_down": -3.28
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -1.64,
+      "max_down": -16.39
+    },
     "result_12h": null
   },
   {
@@ -25787,7 +25793,10 @@
       "max_up": -3.52,
       "max_down": -3.52
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.95,
+      "max_down": -3.52
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -25809,7 +25818,10 @@
       "max_up": 0.29,
       "max_down": 0.29
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.29,
+      "max_down": -0.28
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -25831,7 +25843,10 @@
       "max_up": 0.7,
       "max_down": 0.7
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.7,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -25868,6 +25883,25 @@
     "bs": 1.73,
     "breakout": false,
     "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1791047995796,
+    "price": 1.5401,
+    "level": "STRONG",
+    "hunt": 73.2,
+    "persistence": 1,
+    "p15": 0.23,
+    "vr": 1.59,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.53,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
