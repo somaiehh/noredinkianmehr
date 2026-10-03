@@ -3845,5 +3845,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "MAJORIRT",
+    "time": 1791032796053,
+    "price": 9888.0,
+    "pre30": 1.0,
+    "pre60": 1.0,
+    "pre120": 1.62,
+    "hunt": 77.6,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 61.0,
+    "bs": 1.83,
+    "ob": 0.87,
+    "p15": 0.39,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

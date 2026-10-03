@@ -25041,7 +25041,10 @@
       "max_up": 2.48,
       "max_down": -2.48
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.48,
+      "max_down": -3.73
+    },
     "result_12h": null
   },
   {
@@ -25063,7 +25066,10 @@
       "max_up": -0.31,
       "max_down": -0.68
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.6,
+      "max_down": -0.68
+    },
     "result_12h": null
   },
   {
@@ -25379,7 +25385,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.02
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -25401,6 +25410,44 @@
       "max_up": 0.42,
       "max_down": 0.42
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FLOWIRT",
+    "time": 1791032796053,
+    "price": 8656.0,
+    "level": "STRONG",
+    "hunt": 63.7,
+    "persistence": 1,
+    "p15": 0.91,
+    "vr": 1.71,
+    "va": 0.56,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BLASTIRT",
+    "time": 1791032796053,
+    "price": 61.0,
+    "level": "STRONG",
+    "hunt": 55.4,
+    "persistence": 2,
+    "p15": 1.67,
+    "vr": 0.33,
+    "va": 3.72,
+    "buy": 100,
+    "bs": 3.65,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
