@@ -4130,9 +4130,9 @@
     "tm_g4": 1.4839,
     "legacy": false,
     "result": "HIT_FIRST",
-    "result_time": 1790949052493,
-    "result_move": 13.7676,
-    "max_move": 13.7676,
+    "result_time": 1790949815986,
+    "result_move": 16.8439,
+    "max_move": 16.8439,
     "min_move": -0.7601,
     "ledger_version": "wake-ledger-v1"
   },
