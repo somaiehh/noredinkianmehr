@@ -1646,5 +1646,18 @@
     "bs": 3.45,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791040504873,
+    "symbol": "ZAMAIRT",
+    "price": 22249.0,
+    "hunt_score": 80.1,
+    "status": "PRE_EARLY",
+    "p15": 0.19,
+    "vr": 2.25,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 1
   }
 ]
