@@ -24672,7 +24672,10 @@
     "priority": true,
     "result_15m": null,
     "result_1h": null,
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -3.11,
+      "max_down": -3.31
+    },
     "result_12h": null
   }
 ]

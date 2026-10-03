@@ -7698,5 +7698,67 @@
     "last_price": 9119.0,
     "max_gain_pct": 0.4717,
     "levels": []
+  },
+  {
+    "symbol": "SANDIRT",
+    "anchor_time": 1790927639523,
+    "anchor_price": 15758.9059,
+    "status": "EXPIRED",
+    "created_time": 1790927639523,
+    "last_time": 1790995546796,
+    "last_price": 18077.8975,
+    "max_gain_pct": 20.5667,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790930861115,
+    "confirmed_price": 16486.4208,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790932786888,
+        "price": 16553.3061,
+        "gain_pct": 5.041
+      },
+      {
+        "level": 10,
+        "time": 1790939206636,
+        "price": 17357.2778,
+        "gain_pct": 10.1427
+      }
+    ],
+    "expired_time": 1790971019446
+  },
+  {
+    "symbol": "ENJIRT",
+    "anchor_time": 1790926240600,
+    "anchor_price": 8380.0,
+    "status": "EXPIRED",
+    "created_time": 1790926240600,
+    "last_time": 1790995546796,
+    "last_price": 9274.0,
+    "max_gain_pct": 23.926,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790942498208,
+    "confirmed_price": 8632.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790943549297,
+        "price": 10385.0,
+        "gain_pct": 23.926
+      },
+      {
+        "level": 10,
+        "time": 1790943549297,
+        "price": 10385.0,
+        "gain_pct": 23.926
+      }
+    ],
+    "expired_time": 1790969581146
   }
 ]
