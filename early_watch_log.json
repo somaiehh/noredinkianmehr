@@ -24932,7 +24932,10 @@
       "max_up": 0.16,
       "max_down": 0.01
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.48,
+      "max_down": 0.01
+    },
     "result_12h": null
   },
   {
