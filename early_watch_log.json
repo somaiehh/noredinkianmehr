@@ -24901,7 +24901,10 @@
     "breakout": true,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.16,
+      "max_down": 0.01
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -24939,6 +24942,25 @@
     "va": 10.0,
     "buy": 61.0,
     "bs": 1.83,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SLVONIRT",
+    "time": 1791015384493,
+    "price": 14516060.0,
+    "level": "STRONG",
+    "hunt": 53.0,
+    "persistence": 2,
+    "p15": 0.06,
+    "vr": 1.71,
+    "va": 2.0,
+    "buy": 40.0,
+    "bs": 1.2,
     "breakout": false,
     "priority": false,
     "result_15m": null,
