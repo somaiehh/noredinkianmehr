@@ -24153,7 +24153,10 @@
       "max_up": -0.08,
       "max_down": -1.31
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.08,
+      "max_down": -6.42
+    }
   },
   {
     "symbol": "FILIRT",
@@ -24181,7 +24184,10 @@
       "max_up": 0.86,
       "max_down": -2.08
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.86,
+      "max_down": -5.17
+    }
   },
   {
     "symbol": "NEARIRT",
@@ -24209,7 +24215,10 @@
       "max_up": -0.54,
       "max_down": -3.46
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.54,
+      "max_down": -7.03
+    }
   },
   {
     "symbol": "RAYIRT",
@@ -24237,7 +24246,10 @@
       "max_up": 0.0,
       "max_down": -0.09
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -5.08
+    }
   },
   {
     "symbol": "NAKAIRT",
