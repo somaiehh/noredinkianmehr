@@ -1720,5 +1720,26 @@
     "max_move": 1.5577,
     "min_move": -0.4808,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "STRKIRT",
+    "event_time": 1791046275787,
+    "event_price": 13078.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 43.5,
+    "p15": -0.87,
+    "vr": null,
+    "va": 2.0,
+    "ta": null,
+    "bs": 1.83,
+    "book": 0.34,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]

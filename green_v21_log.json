@@ -3853,7 +3853,10 @@
       "max_up": 2.93,
       "max_down": -1.56
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 5.88,
+      "max_down": -1.56
+    }
   },
   {
     "symbol": "MAJORIRT",

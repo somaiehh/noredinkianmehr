@@ -8531,5 +8531,30 @@
     "levels": [],
     "failed_time": 1790987044887,
     "failed_price": 21005.0
+  },
+  {
+    "symbol": "WIFIRT",
+    "anchor_time": 1790949052493,
+    "anchor_price": 67310.0,
+    "status": "FAILED",
+    "created_time": 1790949052493,
+    "last_time": 1791045093625,
+    "last_price": 67662.0,
+    "max_gain_pct": 1.2242,
+    "levels": [],
+    "failed_time": 1790964067630,
+    "failed_price": 65000.0
+  },
+  {
+    "symbol": "TUTIRT",
+    "anchor_time": 1790855679476,
+    "anchor_price": 6418.0,
+    "status": "EXPIRED",
+    "created_time": 1790855679476,
+    "last_time": 1791045093625,
+    "last_price": 6464.0,
+    "max_gain_pct": 3.4434,
+    "levels": [],
+    "expired_time": 1790924490613
   }
 ]
