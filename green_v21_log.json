@@ -3701,5 +3701,43 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1791007251789,
+    "price": 1.5094,
+    "pre30": 1.9,
+    "pre60": 1.99,
+    "pre120": 1.34,
+    "hunt": 76.4,
+    "persistence": 2,
+    "vr": 18.67,
+    "va": 6.66,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.99,
+    "p15": 0.35,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1791007251789,
+    "price": 9560.0,
+    "pre30": 0.01,
+    "pre60": 0.01,
+    "pre120": 2.25,
+    "hunt": 73.6,
+    "persistence": 2,
+    "vr": 1.75,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.23,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
