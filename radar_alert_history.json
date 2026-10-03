@@ -1620,5 +1620,18 @@
     "bs": 1.87,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791021842633,
+    "symbol": "ARBIRT",
+    "price": 54116.0,
+    "hunt_score": 89.9,
+    "status": "EARLY",
+    "p15": 1.15,
+    "vr": 4.91,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]

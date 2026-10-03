@@ -8229,5 +8229,83 @@
     "max_gain_pct": 0.0,
     "levels": [],
     "expired_time": 1790968995422
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1790976168739,
+    "anchor_price": 1.4691,
+    "status": "EXPIRED",
+    "created_time": 1790976168739,
+    "last_time": 1791020637254,
+    "last_price": 1.5124,
+    "max_gain_pct": 3.2605,
+    "levels": [],
+    "confirmed_time": 1791006816172,
+    "confirmed_price": 1.517,
+    "expired_time": 1791020103241
+  },
+  {
+    "symbol": "WLDIRT",
+    "anchor_time": 1790934531392,
+    "anchor_price": 141698.0,
+    "status": "EXPIRED",
+    "created_time": 1790934531392,
+    "last_time": 1791020637254,
+    "last_price": 151460.0,
+    "max_gain_pct": 7.5209,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790946145103,
+    "confirmed_price": 147986.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790949052493,
+        "price": 152333.0,
+        "gain_pct": 7.5054
+      }
+    ],
+    "expired_time": 1790978219172
+  },
+  {
+    "symbol": "RAYIRT",
+    "anchor_time": 1790497079814,
+    "anchor_price": 523534.0,
+    "status": "EXPIRED",
+    "created_time": 1790497079814,
+    "last_time": 1791020637254,
+    "last_price": 544302.0,
+    "max_gain_pct": 5.4115,
+    "levels": [],
+    "confirmed_time": 1790503313719,
+    "confirmed_price": 546345.0,
+    "expired_time": 1790592572166
+  },
+  {
+    "symbol": "POLIRT",
+    "anchor_time": 1790685235096,
+    "anchor_price": 31219.0,
+    "status": "FAILED",
+    "created_time": 1790685235096,
+    "last_time": 1791020637254,
+    "last_price": 28727.0,
+    "max_gain_pct": 1.3581,
+    "levels": [],
+    "failed_time": 1790695595631,
+    "failed_price": 29747.0
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1790847172316,
+    "anchor_price": 18250.0,
+    "status": "FAILED",
+    "created_time": 1790847172316,
+    "last_time": 1791020637254,
+    "last_price": 18583.0,
+    "max_gain_pct": 2.8329,
+    "levels": [],
+    "failed_time": 1790860676166,
+    "failed_price": 17681.0
   }
 ]

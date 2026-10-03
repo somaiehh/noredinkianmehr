@@ -3703,7 +3703,10 @@
       "max_up": 0.44,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 12.31,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -3725,7 +3728,10 @@
       "max_up": 0.18,
       "max_down": -0.38
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.48,
+      "max_down": -0.52
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -3747,7 +3753,10 @@
       "max_up": -0.05,
       "max_down": -0.97
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.42,
+      "max_down": -2.47
+    }
   },
   {
     "symbol": "LABIRT",
@@ -3769,6 +3778,25 @@
       "max_up": 0.16,
       "max_down": 0.01
     },
+    "result_4h": null
+  },
+  {
+    "symbol": "ARBIRT",
+    "time": 1791021838014,
+    "price": 54116.0,
+    "pre30": 2.4,
+    "pre60": 2.4,
+    "pre120": 3.55,
+    "hunt": 89.9,
+    "persistence": 2,
+    "vr": 4.91,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.89,
+    "p15": 1.15,
+    "breakout": true,
+    "result_1h": null,
     "result_4h": null
   }
 ]
