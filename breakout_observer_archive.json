@@ -8621,5 +8621,18 @@
     "max_gain_pct": 5.9974,
     "levels": [],
     "expired_time": 1790888834079
+  },
+  {
+    "symbol": "CYSIRT",
+    "anchor_time": 1790876050731,
+    "anchor_price": 42232.0,
+    "status": "FAILED",
+    "created_time": 1790876050731,
+    "last_time": 1791052450904,
+    "last_price": 44558.0,
+    "max_gain_pct": 7.4754,
+    "levels": [],
+    "failed_time": 1790883139975,
+    "failed_price": 40872.0
   }
 ]
