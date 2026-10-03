@@ -24801,7 +24801,10 @@
       "max_up": -0.5,
       "max_down": -0.5
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.32,
+      "max_down": -0.88
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -24823,7 +24826,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -0.97
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -24845,6 +24851,25 @@
       "max_up": 0.8,
       "max_down": 0.8
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1791010982090,
+    "price": 465.0,
+    "level": "STRONG",
+    "hunt": 71.9,
+    "persistence": 1,
+    "p15": 1.09,
+    "vr": 0.35,
+    "va": 10.0,
+    "buy": 98.66666666666667,
+    "bs": 2.96,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
