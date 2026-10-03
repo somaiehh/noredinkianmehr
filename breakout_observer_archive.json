@@ -8581,5 +8581,33 @@
     "max_gain_pct": 25.4941,
     "levels": [],
     "expired_time": 1790740881771
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1791006406313,
+    "anchor_price": 0.00010709,
+    "status": "EXPIRED",
+    "created_time": 1791006406313,
+    "last_time": 1791049781146,
+    "last_price": 0.00011022,
+    "max_gain_pct": 3.9966,
+    "levels": [],
+    "confirmed_time": 1791047995796,
+    "confirmed_price": 0.0001112,
+    "expired_time": 1791049781146
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1791006406313,
+    "anchor_price": 13800.0,
+    "status": "EXPIRED",
+    "created_time": 1791006406313,
+    "last_time": 1791049781146,
+    "last_price": 14041.0,
+    "max_gain_pct": 3.2609,
+    "levels": [],
+    "confirmed_time": 1791023709349,
+    "confirmed_price": 14250.0,
+    "expired_time": 1791049781146
   }
 ]
