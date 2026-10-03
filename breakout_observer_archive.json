@@ -7928,5 +7928,44 @@
     "levels": [],
     "failed_time": 1790967777011,
     "failed_price": 390622.0
+  },
+  {
+    "symbol": "SAGAIRT",
+    "anchor_time": 1790846266354,
+    "anchor_price": 6417.0,
+    "status": "EXPIRED",
+    "created_time": 1790846266354,
+    "last_time": 1791006406313,
+    "last_price": 5821.0,
+    "max_gain_pct": 1.2934,
+    "levels": [],
+    "expired_time": 1790890444732
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1790939805054,
+    "anchor_price": 1540.7,
+    "status": "EXPIRED",
+    "created_time": 1790939805054,
+    "last_time": 1791006406313,
+    "last_price": 1450.3,
+    "max_gain_pct": 4.0112,
+    "levels": [],
+    "confirmed_time": 1790952718647,
+    "confirmed_price": 1594.2,
+    "expired_time": 1790987044887
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1790943549297,
+    "anchor_price": 77572.0,
+    "status": "FAILED",
+    "created_time": 1790943549297,
+    "last_time": 1791006406313,
+    "last_price": 76496.0,
+    "max_gain_pct": 1.3304,
+    "levels": [],
+    "failed_time": 1790947127292,
+    "failed_price": 75202.0
   }
 ]

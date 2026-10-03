@@ -3682,5 +3682,24 @@
       "max_up": -0.05,
       "max_down": -3.28
     }
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1791006816172,
+    "price": 458.0,
+    "pre30": 2.69,
+    "pre60": 1.33,
+    "pre120": 0.44,
+    "hunt": 66.9,
+    "persistence": 2,
+    "vr": 3.55,
+    "va": 10.0,
+    "buy": 14.666666666666666,
+    "bs": 0.44,
+    "ob": 1.0,
+    "p15": 0.62,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
