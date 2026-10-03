@@ -25457,5 +25457,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "HOMEIRT",
+    "time": 1791034479925,
+    "price": 1535.0,
+    "level": "STRONG",
+    "hunt": 69.6,
+    "persistence": 1,
+    "p15": 0.56,
+    "vr": 3.7,
+    "va": 3.33,
+    "buy": 62.33333333333334,
+    "bs": 1.87,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
