@@ -8307,5 +8307,19 @@
     "levels": [],
     "failed_time": 1790860676166,
     "failed_price": 17681.0
+  },
+  {
+    "symbol": "DOTIRT",
+    "anchor_time": 1790711628164,
+    "anchor_price": 304576.0,
+    "status": "EXPIRED",
+    "created_time": 1790711628164,
+    "last_time": 1791021838014,
+    "last_price": 312000.0,
+    "max_gain_pct": 5.7887,
+    "levels": [],
+    "confirmed_time": 1790733656050,
+    "confirmed_price": 313996.0,
+    "expired_time": 1790755314883
   }
 ]
