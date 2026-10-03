@@ -25224,7 +25224,10 @@
       "max_up": 0.14,
       "max_down": -0.38
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.43,
+      "max_down": -0.38
+    }
   },
   {
     "symbol": "ARBIRT",
@@ -25249,7 +25252,10 @@
       "max_up": 0.92,
       "max_down": -0.73
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.14,
+      "max_down": -1.15
+    }
   },
   {
     "symbol": "WLDIRT",
@@ -25274,7 +25280,10 @@
       "max_up": 7.0,
       "max_down": 3.27
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.08,
+      "max_down": 2.62
+    }
   },
   {
     "symbol": "ATHIRT",
@@ -25299,7 +25308,10 @@
       "max_up": 2.87,
       "max_down": -2.19
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.87,
+      "max_down": -2.66
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -25324,7 +25336,10 @@
       "max_up": 0.0,
       "max_down": -1.74
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -2.49
+    }
   },
   {
     "symbol": "MANTRAIRT",
@@ -26062,7 +26077,10 @@
       "max_up": 0.83,
       "max_down": -0.19
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.32,
+      "max_down": -0.19
+    },
     "result_12h": null
   },
   {
@@ -26087,7 +26105,10 @@
       "max_up": 1.54,
       "max_down": 0.34
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.54,
+      "max_down": -1.31
+    },
     "result_12h": null
   },
   {
@@ -26112,7 +26133,10 @@
       "max_up": 0.42,
       "max_down": -1.97
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.42,
+      "max_down": -4.93
+    },
     "result_12h": null
   },
   {
@@ -26137,7 +26161,10 @@
       "max_up": 0.49,
       "max_down": -1.7
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.49,
+      "max_down": -3.87
+    },
     "result_12h": null
   },
   {
@@ -26281,6 +26308,25 @@
       "max_up": 0.0,
       "max_down": -0.36
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRT",
+    "time": 1791066391368,
+    "price": 10698.0,
+    "level": "STRONG",
+    "hunt": 54.8,
+    "persistence": 1,
+    "p15": 0.45,
+    "vr": 0.17,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
