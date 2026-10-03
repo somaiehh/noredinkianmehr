@@ -24367,7 +24367,10 @@
       "max_up": 7.52,
       "max_down": -3.71
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 11.76,
+      "max_down": -3.71
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -24395,7 +24398,10 @@
       "max_up": -0.37,
       "max_down": -6.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.37,
+      "max_down": -6.4
+    }
   },
   {
     "symbol": "WLDIRT",
