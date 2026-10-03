@@ -7760,5 +7760,18 @@
       }
     ],
     "expired_time": 1790969581146
+  },
+  {
+    "symbol": "MANAIRT",
+    "anchor_time": 1790933589798,
+    "anchor_price": 27372.0,
+    "status": "FAILED",
+    "created_time": 1790933589798,
+    "last_time": 1790998266019,
+    "last_price": 27739.0,
+    "max_gain_pct": 3.7374,
+    "levels": [],
+    "failed_time": 1790934531392,
+    "failed_price": 26204.0
   }
 ]
