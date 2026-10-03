@@ -8059,5 +8059,29 @@
     "levels": [],
     "failed_time": 1790968603698,
     "failed_price": 293200.0
+  },
+  {
+    "symbol": "ARKIRT",
+    "anchor_time": 1790873576899,
+    "anchor_price": 62421.0,
+    "status": "EXPIRED",
+    "created_time": 1790873576899,
+    "last_time": 1791012773407,
+    "last_price": 57410.0,
+    "max_gain_pct": 6.7477,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790876050731,
+    "confirmed_price": 65744.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790876050731,
+        "price": 65744.0,
+        "gain_pct": 5.3235
+      }
+    ],
+    "expired_time": 1790917465126
   }
 ]
