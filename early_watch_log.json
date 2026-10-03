@@ -24695,5 +24695,24 @@
       "max_down": -3.31
     },
     "result_12h": null
+  },
+  {
+    "symbol": "MANAIRT",
+    "time": 1791003662542,
+    "price": 28351.0,
+    "level": "STRONG",
+    "hunt": 63.8,
+    "persistence": 1,
+    "p15": 0.68,
+    "vr": 0.44,
+    "va": 2.43,
+    "buy": 34.66666666666667,
+    "bs": 1.04,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
