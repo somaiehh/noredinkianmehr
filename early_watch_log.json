@@ -25019,7 +25019,10 @@
       "max_up": 3.15,
       "max_down": -0.99
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.5,
+      "max_down": -0.99
+    }
   },
   {
     "symbol": "SLVONIRT",
@@ -25801,7 +25804,10 @@
       "max_up": 1.75,
       "max_down": -1.25
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.24,
+      "max_down": -3.99
+    },
     "result_12h": null
   },
   {
@@ -25823,7 +25829,10 @@
       "max_up": 4.55,
       "max_down": 1.61
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 7.35,
+      "max_down": 1.61
+    },
     "result_12h": null
   },
   {
@@ -26135,7 +26144,10 @@
       "max_up": 0.07,
       "max_down": 0.07
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.07,
+      "max_down": -0.81
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -26157,7 +26169,10 @@
       "max_up": -1.81,
       "max_down": -1.81
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -1.81,
+      "max_down": -1.81
+    },
     "result_4h": null,
     "result_12h": null
   },

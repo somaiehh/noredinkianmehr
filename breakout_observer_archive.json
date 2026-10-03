@@ -8735,5 +8735,29 @@
     "max_gain_pct": 2.686,
     "levels": [],
     "expired_time": 1791051617182
+  },
+  {
+    "symbol": "AAVEIRT",
+    "anchor_time": 1790935418932,
+    "anchor_price": 48097767.0,
+    "status": "EXPIRED",
+    "created_time": 1790935418932,
+    "last_time": 1791056707815,
+    "last_price": 48097925.0,
+    "max_gain_pct": 1.89,
+    "levels": [],
+    "expired_time": 1790980619094
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1790930861115,
+    "anchor_price": 9467.0,
+    "status": "EXPIRED",
+    "created_time": 1790930861115,
+    "last_time": 1791056707815,
+    "last_price": 9524.0,
+    "max_gain_pct": 2.4612,
+    "levels": [],
+    "expired_time": 1790974656617
   }
 ]
