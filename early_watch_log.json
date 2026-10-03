@@ -24544,7 +24544,10 @@
       "max_up": -1.6,
       "max_down": -12.17
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.6,
+      "max_down": -12.17
+    }
   },
   {
     "symbol": "RSS3IRT",
@@ -24733,6 +24736,25 @@
     "va": 2.0,
     "buy": 100,
     "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SLVONIRT",
+    "time": 1791006406313,
+    "price": 14357418.0,
+    "level": "STRONG",
+    "hunt": 63.3,
+    "persistence": 1,
+    "p15": 1.87,
+    "vr": 1.27,
+    "va": 0.54,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
