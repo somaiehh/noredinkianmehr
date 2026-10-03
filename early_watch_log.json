@@ -25078,7 +25078,10 @@
       "max_up": 2.48,
       "max_down": -3.73
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.21,
+      "max_down": -3.73
+    }
   },
   {
     "symbol": "API3IRT",
@@ -26209,7 +26212,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.71,
+      "max_down": -0.41
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -26226,6 +26232,25 @@
     "buy": 100,
     "bs": 5.0,
     "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1791060541647,
+    "price": 9523.0,
+    "level": "STRONG",
+    "hunt": 64.7,
+    "persistence": 2,
+    "p15": 0.54,
+    "vr": 11.67,
+    "va": 4.07,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
