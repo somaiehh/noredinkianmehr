@@ -9244,5 +9244,42 @@
     "levels": [],
     "failed_time": 1791020103241,
     "failed_price": 15.7
+  },
+  {
+    "symbol": "SLVONIRT",
+    "anchor_time": 1791007251789,
+    "anchor_price": 14487494.0,
+    "status": "EXPIRED",
+    "created_time": 1791007251789,
+    "last_time": 1791103340910,
+    "last_price": 14769949.0,
+    "max_gain_pct": 2.0742,
+    "levels": [],
+    "expired_time": 1791050735810
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "anchor_time": 1791008241236,
+    "anchor_price": 46.1,
+    "status": "EXPIRED",
+    "created_time": 1791008241236,
+    "last_time": 1791104572149,
+    "last_price": 46.9,
+    "max_gain_pct": 1.7354,
+    "levels": [],
+    "expired_time": 1791051617182
+  },
+  {
+    "symbol": "MAJORIRT",
+    "anchor_time": 1791032796053,
+    "anchor_price": 9888.0,
+    "status": "FAILED",
+    "created_time": 1791032796053,
+    "last_time": 1791104572149,
+    "last_price": 9724.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791035733829,
+    "failed_price": 9524.0
   }
 ]
