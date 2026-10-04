@@ -26736,6 +26736,28 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "IOIRT",
+    "time": 1791099744087,
+    "price": 47616.0,
+    "level": "WATCH",
+    "hunt": 49.3,
+    "persistence": 1,
+    "p15": 0.87,
+    "vr": 0.1,
+    "va": 5.82,
+    "buy": 69.0,
+    "bs": 2.07,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
