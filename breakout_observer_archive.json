@@ -9516,5 +9516,42 @@
     "confirmed_time": 1791049781146,
     "confirmed_price": 52080.0,
     "expired_time": 1791060541647
+  },
+  {
+    "symbol": "LTCIRT",
+    "anchor_time": 1791027166390,
+    "anchor_price": 18628290.0,
+    "status": "EXPIRED",
+    "created_time": 1791027166390,
+    "last_time": 1791123964200,
+    "last_price": 18943000.0,
+    "max_gain_pct": 3.0126,
+    "levels": [],
+    "expired_time": 1791070623804
+  },
+  {
+    "symbol": "ONDOIRT",
+    "anchor_time": 1790938063127,
+    "anchor_price": 132863.0,
+    "status": "FAILED",
+    "created_time": 1790938063127,
+    "last_time": 1791125846576,
+    "last_price": 132380.0,
+    "max_gain_pct": 1.2328,
+    "levels": [],
+    "failed_time": 1790965953034,
+    "failed_price": 128010.0
+  },
+  {
+    "symbol": "SEIIRT",
+    "anchor_time": 1791024330736,
+    "anchor_price": 19206.0,
+    "status": "EXPIRED",
+    "created_time": 1791024330736,
+    "last_time": 1791123964200,
+    "last_price": 19526.0,
+    "max_gain_pct": 2.2024,
+    "levels": [],
+    "expired_time": 1791069763025
   }
 ]
