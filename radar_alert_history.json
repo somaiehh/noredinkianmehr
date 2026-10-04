@@ -1724,5 +1724,31 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791103013444,
+    "symbol": "NOTIRT",
+    "price": 137.7,
+    "hunt_score": 97.1,
+    "status": "EARLY",
+    "p15": 1.1,
+    "vr": 3.7,
+    "va": 10.0,
+    "bs": 0.22,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1791103344047,
+    "symbol": "ONEIRT",
+    "price": 503.2,
+    "hunt_score": 82.4,
+    "status": "EARLY",
+    "p15": 0.94,
+    "vr": 0.73,
+    "va": 4.53,
+    "bs": 0.36,
+    "breakout": true,
+    "persistence": 2
   }
 ]
