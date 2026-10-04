@@ -26891,7 +26891,10 @@
       "max_up": 0.29,
       "max_down": -1.84
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.29,
+      "max_down": -1.84
+    }
   },
   {
     "symbol": "DOGSIRT",
@@ -26919,7 +26922,10 @@
       "max_up": 0.08,
       "max_down": -3.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.08,
+      "max_down": -3.07
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -27497,7 +27503,10 @@
       "max_up": -1.23,
       "max_down": -6.7
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 13.11,
+      "max_down": -6.7
+    },
     "result_12h": null
   },
   {
