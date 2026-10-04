@@ -1945,10 +1945,10 @@
     "book": 0.27,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
-    "max_move": 9.9949,
+    "result": "HIT_FIRST",
+    "result_time": 1791139398044,
+    "result_move": 12.8505,
+    "max_move": 12.8505,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -1991,7 +1991,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 6.5435,
-    "min_move": -0.5589,
+    "min_move": -1.9971,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -2034,6 +2034,27 @@
     "result_move": -5.2741,
     "max_move": 4.4699,
     "min_move": -5.2741,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "OXTIRT",
+    "event_time": 1791139758230,
+    "event_price": 3260.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 42.2,
+    "p15": -1.24,
+    "vr": null,
+    "va": 3.16,
+    "ta": null,
+    "bs": 1.59,
+    "book": 0.33,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -4.2331,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
