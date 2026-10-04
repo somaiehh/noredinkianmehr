@@ -9651,5 +9651,48 @@
     "levels": [],
     "failed_time": 1791077708347,
     "failed_price": 810.0
+  },
+  {
+    "symbol": "BEAMXIRT",
+    "anchor_time": 1791101765908,
+    "anchor_price": 683.6,
+    "status": "EXPIRED",
+    "created_time": 1791101765908,
+    "last_time": 1791147452248,
+    "last_price": 687.1,
+    "max_gain_pct": 18.6366,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791102085902,
+    "confirmed_price": 768.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791102085902,
+        "price": 768.0,
+        "gain_pct": 12.3464
+      },
+      {
+        "level": 10,
+        "time": 1791102085902,
+        "price": 768.0,
+        "gain_pct": 12.3464
+      }
+    ],
+    "expired_time": 1791145130978
+  },
+  {
+    "symbol": "FLOKIIRT",
+    "anchor_time": 1791102706377,
+    "anchor_price": 7.39244,
+    "status": "EXPIRED",
+    "created_time": 1791102706377,
+    "last_time": 1791148913957,
+    "last_price": 7.3732,
+    "max_gain_pct": 0.6707,
+    "levels": [],
+    "expired_time": 1791146951535
   }
 ]
