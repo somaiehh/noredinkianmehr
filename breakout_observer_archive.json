@@ -9438,5 +9438,41 @@
       }
     ],
     "expired_time": 1791099395562
+  },
+  {
+    "symbol": "WLDIRT",
+    "anchor_time": 1791021838014,
+    "anchor_price": 153000.0,
+    "status": "EXPIRED",
+    "created_time": 1791021838014,
+    "last_time": 1791118036981,
+    "last_price": 156893.0,
+    "max_gain_pct": 8.081,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791023010770,
+    "confirmed_price": 158000.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791023709349,
+        "price": 161602.0,
+        "gain_pct": 5.6222
+      }
+    ],
+    "expired_time": 1791066391368
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1791021838014,
+    "anchor_price": 18757.0,
+    "status": "EXPIRED",
+    "created_time": 1791021838014,
+    "last_time": 1791118036981,
+    "last_price": 18864.0,
+    "max_gain_pct": 2.3565,
+    "levels": [],
+    "expired_time": 1791092803717
   }
 ]
