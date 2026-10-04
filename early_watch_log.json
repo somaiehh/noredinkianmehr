@@ -25895,7 +25895,10 @@
       "max_up": 2.24,
       "max_down": -3.99
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.49,
+      "max_down": -3.99
+    }
   },
   {
     "symbol": "VELVETIRT",
@@ -25920,7 +25923,10 @@
       "max_up": 7.35,
       "max_down": 1.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.35,
+      "max_down": -7.51
+    }
   },
   {
     "symbol": "STGIRT",
