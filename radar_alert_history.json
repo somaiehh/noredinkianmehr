@@ -1776,5 +1776,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1791117004983,
+    "symbol": "AIOIRT",
+    "price": 12099.0,
+    "hunt_score": 89.0,
+    "status": "EARLY",
+    "p15": 0.83,
+    "vr": 2.06,
+    "va": 2.63,
+    "bs": 3.65,
+    "breakout": true,
+    "persistence": 2
   }
 ]
