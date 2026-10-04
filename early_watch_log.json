@@ -27105,7 +27105,10 @@
       "max_up": 0.27,
       "max_down": -4.5
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.27,
+      "max_down": -11.32
+    }
   },
   {
     "symbol": "SIRT",
@@ -27695,7 +27698,10 @@
       "max_up": 4.33,
       "max_down": 2.65
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 5.04,
+      "max_down": 1.14
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27717,7 +27723,10 @@
       "max_up": 0.0,
       "max_down": -0.69
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -0.69
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27739,7 +27748,10 @@
       "max_up": 0.33,
       "max_down": 0.17
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.93,
+      "max_down": -0.87
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27755,6 +27767,47 @@
     "va": 10.0,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.25,
+      "max_down": 0.24
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FETIRT",
+    "time": 1791153400036,
+    "price": 66520.0,
+    "level": "STRONG",
+    "hunt": 51.5,
+    "persistence": 1,
+    "p15": 0.35,
+    "vr": 1.32,
+    "va": 0.39,
+    "buy": 91.66666666666666,
+    "bs": 2.75,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SUNDOGIRT",
+    "time": 1791153400036,
+    "price": 566.0,
+    "level": "WATCH",
+    "hunt": 46.2,
+    "persistence": 1,
+    "p15": 0.35,
+    "vr": 0.2,
+    "va": 10.0,
+    "buy": 33.666666666666664,
+    "bs": 1.01,
     "breakout": false,
     "priority": false,
     "result_15m": null,
