@@ -26044,7 +26044,10 @@
       "max_up": 0.68,
       "max_down": -0.54
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.01,
+      "max_down": -0.99
+    }
   },
   {
     "symbol": "TUTIRT",
@@ -26069,7 +26072,10 @@
       "max_up": 4.42,
       "max_down": 0.34
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.5,
+      "max_down": 0.34
+    }
   },
   {
     "symbol": "SHIBIRT",
