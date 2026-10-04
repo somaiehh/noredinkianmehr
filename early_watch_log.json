@@ -25715,7 +25715,10 @@
       "max_up": 0.35,
       "max_down": -4.06
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.35,
+      "max_down": -7.77
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -25740,7 +25743,10 @@
       "max_up": 0.44,
       "max_down": -1.25
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.44,
+      "max_down": -1.47
+    }
   },
   {
     "symbol": "LABIRT",
@@ -25765,7 +25771,10 @@
       "max_up": 0.81,
       "max_down": -1.18
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.23,
+      "max_down": -4.38
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -26387,7 +26396,10 @@
       "max_up": 5.04,
       "max_down": 0.02
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 7.59,
+      "max_down": 0.02
+    },
     "result_12h": null
   },
   {
@@ -26408,6 +26420,25 @@
       "max_up": -0.95,
       "max_down": -0.95
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "time": 1791081130406,
+    "price": 18100.0,
+    "level": "WATCH",
+    "hunt": 42.5,
+    "persistence": 1,
+    "p15": 1.6,
+    "vr": 0.02,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
