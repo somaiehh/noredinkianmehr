@@ -26103,7 +26103,10 @@
       "max_up": 0.45,
       "max_down": -0.92
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.45,
+      "max_down": -1.48
+    }
   },
   {
     "symbol": "COMMONIRT",
