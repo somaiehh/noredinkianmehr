@@ -1789,5 +1789,44 @@
     "bs": 3.65,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791117614615,
+    "symbol": "SIRT",
+    "price": 11039.0,
+    "hunt_score": 82.9,
+    "status": "EARLY",
+    "p15": 0.67,
+    "vr": 0.72,
+    "va": 3.71,
+    "bs": 0.04,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1791117819057,
+    "symbol": "MUBARAKIRT",
+    "price": 18905.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.76,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1791118041103,
+    "symbol": "ONEIRT",
+    "price": 512.8,
+    "hunt_score": 92.8,
+    "status": "EARLY",
+    "p15": 1.14,
+    "vr": 1.29,
+    "va": 3.92,
+    "bs": 2.31,
+    "breakout": true,
+    "persistence": 3
   }
 ]

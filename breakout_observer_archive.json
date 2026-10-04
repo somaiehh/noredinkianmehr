@@ -9390,5 +9390,53 @@
     "max_gain_pct": 0.733,
     "levels": [],
     "expired_time": 1791087407477
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1791062193954,
+    "anchor_price": 10487.0,
+    "status": "EXPIRED",
+    "created_time": 1791062193954,
+    "last_time": 1791117239911,
+    "last_price": 11019.0,
+    "max_gain_pct": 9.7549,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791069763025,
+    "confirmed_price": 11237.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791069763025,
+        "price": 11237.0,
+        "gain_pct": 7.1517
+      }
+    ],
+    "expired_time": 1791105643464
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "anchor_time": 1791056046824,
+    "anchor_price": 17150.0,
+    "status": "EXPIRED",
+    "created_time": 1791056046824,
+    "last_time": 1791117239911,
+    "last_price": 18398.0,
+    "max_gain_pct": 7.277,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791081130406,
+    "confirmed_price": 18100.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791081130406,
+        "price": 18100.0,
+        "gain_pct": 5.5394
+      }
+    ],
+    "expired_time": 1791099395562
   }
 ]
