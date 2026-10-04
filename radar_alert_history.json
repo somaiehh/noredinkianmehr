@@ -1698,5 +1698,31 @@
     "bs": 2.42,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791101771353,
+    "symbol": "SUIIRT",
+    "price": 318320.0,
+    "hunt_score": 87.0,
+    "status": "EARLY",
+    "p15": 0.24,
+    "vr": 1.42,
+    "va": 9.69,
+    "bs": 0.08,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1791102090661,
+    "symbol": "SHIBIRT",
+    "price": 1.5438,
+    "hunt_score": 87.7,
+    "status": "EARLY",
+    "p15": 0.17,
+    "vr": 2.87,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
