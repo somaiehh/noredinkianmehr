@@ -9488,5 +9488,19 @@
     "confirmed_time": 1791056046824,
     "confirmed_price": 6750.0,
     "expired_time": 1791089728105
+  },
+  {
+    "symbol": "VELVETIRT",
+    "anchor_time": 1791044314971,
+    "anchor_price": 22100.0,
+    "status": "EXPIRED",
+    "created_time": 1791044314971,
+    "last_time": 1791122118202,
+    "last_price": 19200.0,
+    "max_gain_pct": 3.4887,
+    "levels": [],
+    "confirmed_time": 1791053538212,
+    "confirmed_price": 22871.0,
+    "expired_time": 1791088053464
   }
 ]

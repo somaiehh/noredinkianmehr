@@ -4053,7 +4053,10 @@
       "max_up": -0.46,
       "max_down": -2.24
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.72,
+      "max_down": -2.24
+    }
   },
   {
     "symbol": "AIOIRT",
@@ -4181,7 +4184,10 @@
     "ob": 0.0,
     "p15": 0.12,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.15,
+      "max_down": 0.45
+    },
     "result_4h": null
   },
   {
@@ -4200,7 +4206,10 @@
     "ob": 1.0,
     "p15": 0.18,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.27,
+      "max_down": -0.92
+    },
     "result_4h": null
   },
   {
