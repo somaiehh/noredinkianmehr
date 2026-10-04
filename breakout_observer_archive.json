@@ -9365,5 +9365,18 @@
     "confirmed_time": 1791080133621,
     "confirmed_price": 1306693.0,
     "expired_time": 1791098692314
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "anchor_time": 1790684164573,
+    "anchor_price": 37.7,
+    "status": "FAILED",
+    "created_time": 1790684164573,
+    "last_time": 1791114739413,
+    "last_price": 36.7,
+    "max_gain_pct": 6.6313,
+    "levels": [],
+    "failed_time": 1790698006552,
+    "failed_price": 35.4
   }
 ]

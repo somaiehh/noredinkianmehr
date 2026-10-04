@@ -26820,7 +26820,10 @@
       "max_up": 1.69,
       "max_down": -1.54
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.69,
+      "max_down": -3.7
+    },
     "result_12h": null
   },
   {
@@ -27010,6 +27013,28 @@
     "va": 2.62,
     "buy": 37.333333333333336,
     "bs": 1.12,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": 0.27,
+      "max_down": -4.5
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRT",
+    "time": 1791114975724,
+    "price": 11033.0,
+    "level": "STRONG",
+    "hunt": 50.2,
+    "persistence": 1,
+    "p15": 0.93,
+    "vr": 0.1,
+    "va": 10.0,
+    "buy": 49.666666666666664,
+    "bs": 1.49,
     "breakout": false,
     "priority": false,
     "result_15m": null,
