@@ -26466,7 +26466,10 @@
       "max_up": 7.59,
       "max_down": 0.02
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.59,
+      "max_down": 0.02
+    }
   },
   {
     "symbol": "AINIRT",
@@ -26948,7 +26951,10 @@
       "max_up": -0.99,
       "max_down": -0.99
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.99,
+      "max_down": -4.27
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -26964,6 +26970,28 @@
     "va": 6.11,
     "buy": 85.33333333333334,
     "bs": 2.56,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -3.19,
+      "max_down": -4.12
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NOMIRT",
+    "time": 1791110116630,
+    "price": 733.0,
+    "level": "STRONG",
+    "hunt": 55.8,
+    "persistence": 1,
+    "p15": 0.41,
+    "vr": 0.5,
+    "va": 2.62,
+    "buy": 37.333333333333336,
+    "bs": 1.12,
     "breakout": false,
     "priority": false,
     "result_15m": null,
