@@ -26497,7 +26497,10 @@
       "max_up": 30.77,
       "max_down": -2.26
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 44.76,
+      "max_down": -2.26
+    }
   },
   {
     "symbol": "MUBARAKIRT",
@@ -27084,7 +27087,10 @@
       "max_up": -0.2,
       "max_down": -1.45
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.54,
+      "max_down": -3.41
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27106,7 +27112,10 @@
       "max_up": 0.0,
       "max_down": -0.63
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.71
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27128,7 +27137,10 @@
       "max_up": 3.15,
       "max_down": 2.23
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 5.45,
+      "max_down": 2.23
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27150,7 +27162,10 @@
       "max_up": 0.06,
       "max_down": 0.06
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.06,
+      "max_down": -4.53
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27172,7 +27187,10 @@
       "max_up": -0.09,
       "max_down": -0.09
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.06,
+      "max_down": -0.41
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27190,7 +27208,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.27,
+      "max_down": -0.27
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
