@@ -26832,7 +26832,10 @@
       "max_up": 0.28,
       "max_down": -0.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.1,
+      "max_down": -1.08
+    }
   },
   {
     "symbol": "IOIRT",
@@ -26857,7 +26860,10 @@
       "max_up": 1.69,
       "max_down": -3.7
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.43,
+      "max_down": -3.76
+    }
   },
   {
     "symbol": "PEPEIRT",
@@ -27298,7 +27304,10 @@
       "max_up": 3.48,
       "max_down": 0.88
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.48,
+      "max_down": -0.31
+    },
     "result_12h": null
   },
   {
@@ -27323,7 +27332,10 @@
       "max_up": 0.14,
       "max_down": -0.29
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.22,
+      "max_down": -0.76
+    },
     "result_12h": null
   },
   {
@@ -27348,7 +27360,10 @@
       "max_up": 0.0,
       "max_down": -1.76
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.42,
+      "max_down": -2.8
+    },
     "result_12h": null
   },
   {
