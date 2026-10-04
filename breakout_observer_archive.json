@@ -8854,5 +8854,36 @@
       }
     ],
     "expired_time": 1791050735810
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1791037163489,
+    "anchor_price": 6670.0,
+    "status": "EXPIRED",
+    "created_time": 1791037163489,
+    "last_time": 1791081130406,
+    "last_price": 12631.0,
+    "max_gain_pct": 117.3913,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791037871492,
+    "confirmed_price": 7800.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791037871492,
+        "price": 7800.0,
+        "gain_pct": 16.9415
+      },
+      {
+        "level": 10,
+        "time": 1791037871492,
+        "price": 7800.0,
+        "gain_pct": 16.9415
+      }
+    ],
+    "expired_time": 1791081130406
   }
 ]
