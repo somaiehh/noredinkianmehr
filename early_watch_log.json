@@ -25569,7 +25569,10 @@
       "max_up": 4.05,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.05,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "BLASTIRT",
@@ -25594,7 +25597,10 @@
       "max_up": -1.64,
       "max_down": -16.39
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.64,
+      "max_down": -52.46
+    }
   },
   {
     "symbol": "HOMEIRT",
