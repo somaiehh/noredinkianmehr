@@ -27077,7 +27077,10 @@
       "max_up": -1.15,
       "max_down": -4.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.27,
+      "max_down": -4.12
+    }
   },
   {
     "symbol": "NOMIRT",
@@ -27642,7 +27645,10 @@
       "max_up": 0.3,
       "max_down": 0.28
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.52,
+      "max_down": -0.24
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27664,7 +27670,10 @@
       "max_up": 0.85,
       "max_down": 0.71
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 6.12,
+      "max_down": -0.63
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27730,6 +27739,25 @@
       "max_up": 0.33,
       "max_down": 0.17
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRT",
+    "time": 1791152202693,
+    "price": 10654.0,
+    "level": "STRONG",
+    "hunt": 62.5,
+    "persistence": 1,
+    "p15": 0.18,
+    "vr": 7.75,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
