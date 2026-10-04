@@ -26556,7 +26556,10 @@
       "max_up": 1.5,
       "max_down": -3.91
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.6,
+      "max_down": -3.91
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -26581,7 +26584,10 @@
       "max_up": 0.73,
       "max_down": -0.84
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.01,
+      "max_down": -1.2
+    }
   },
   {
     "symbol": "GALAIRT",
@@ -27075,7 +27081,10 @@
       "max_up": 0.11,
       "max_down": -0.62
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.11,
+      "max_down": -1.7
+    },
     "result_12h": null
   },
   {
@@ -27246,7 +27255,10 @@
       "max_up": 1.26,
       "max_down": 0.88
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.48,
+      "max_down": 0.88
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27264,7 +27276,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.05,
+      "max_down": 0.05
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -27281,6 +27296,66 @@
     "va": 10.0,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "AURORAIRT",
+    "time": 1791130014686,
+    "price": 17550.0,
+    "level": "STRONG",
+    "hunt": 100.0,
+    "persistence": 2,
+    "p15": 1.54,
+    "vr": 8.1,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "time": 1791130014686,
+    "price": 20591.0,
+    "level": "STRONG",
+    "hunt": 63.2,
+    "persistence": 1,
+    "p15": 1.79,
+    "vr": 0.51,
+    "va": 3.0,
+    "buy": 58.666666666666664,
+    "bs": 1.76,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "AIOIRT",
+    "time": 1791130232661,
+    "price": 12378.0,
+    "level": "STRONG",
+    "hunt": 62.3,
+    "persistence": 3,
+    "p15": 0.23,
+    "vr": 6.48,
+    "va": 10.0,
+    "buy": 61.0,
+    "bs": 1.83,
     "breakout": false,
     "priority": false,
     "result_15m": null,

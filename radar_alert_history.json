@@ -1867,5 +1867,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791130018254,
+    "symbol": "AURORAIRT",
+    "price": 17550.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.54,
+    "vr": 8.1,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
