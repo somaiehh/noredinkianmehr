@@ -4028,7 +4028,10 @@
       "max_up": -0.99,
       "max_down": -4.27
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.99,
+      "max_down": -5.11
+    }
   },
   {
     "symbol": "ONEIRT",
@@ -4182,6 +4185,25 @@
     "ob": 1.0,
     "p15": 0.18,
     "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "TUTIRT",
+    "time": 1791120418770,
+    "price": 6565.0,
+    "pre30": 0.11,
+    "pre60": 1.45,
+    "pre120": 1.3,
+    "hunt": 86.6,
+    "persistence": 2,
+    "vr": 3.32,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.11,
+    "breakout": true,
     "result_1h": null,
     "result_4h": null
   }

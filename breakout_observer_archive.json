@@ -9474,5 +9474,19 @@
     "max_gain_pct": 2.3565,
     "levels": [],
     "expired_time": 1791092803717
+  },
+  {
+    "symbol": "TUTIRT",
+    "anchor_time": 1791046275787,
+    "anchor_price": 6540.0,
+    "status": "EXPIRED",
+    "created_time": 1791046275787,
+    "last_time": 1791119819961,
+    "last_price": 6558.0,
+    "max_gain_pct": 3.2875,
+    "levels": [],
+    "confirmed_time": 1791056046824,
+    "confirmed_price": 6750.0,
+    "expired_time": 1791089728105
   }
 ]

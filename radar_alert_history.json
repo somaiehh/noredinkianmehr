@@ -1841,5 +1841,18 @@
     "bs": 0.47,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791120422907,
+    "symbol": "TUTIRT",
+    "price": 6565.0,
+    "hunt_score": 86.6,
+    "status": "EARLY",
+    "p15": 0.11,
+    "vr": 3.32,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
