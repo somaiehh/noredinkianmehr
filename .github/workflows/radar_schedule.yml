@@ -36,7 +36,11 @@ jobs:
 
       - name: Run Tabdeal radar
         run: |
-          python -u radar_live.py --once
+          for i in 1 2 3; do
+            echo "===== RADAR SCAN $i/3 ====="
+            python -u radar_live.py --once
+            if [ "$i" -lt 3 ]; then sleep 60; fi
+          done
 
       - name: Update Green V2.1 log
         run: |
