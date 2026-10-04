@@ -26615,7 +26615,10 @@
       "max_up": 6.63,
       "max_down": -0.68
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.63,
+      "max_down": -2.17
+    }
   },
   {
     "symbol": "SIRT",
@@ -26643,7 +26646,10 @@
       "max_up": 0.39,
       "max_down": -1.97
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.39,
+      "max_down": -4.41
+    }
   },
   {
     "symbol": "STRKIRT",
@@ -27109,7 +27115,10 @@
       "max_up": 2.54,
       "max_down": -3.41
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.79,
+      "max_down": -3.41
+    },
     "result_12h": null
   },
   {
@@ -27134,7 +27143,10 @@
       "max_up": 0.0,
       "max_down": -1.71
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.29,
+      "max_down": -2.01
+    },
     "result_12h": null
   },
   {
@@ -27159,7 +27171,10 @@
       "max_up": 5.45,
       "max_down": 2.23
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 14.5,
+      "max_down": 2.23
+    },
     "result_12h": null
   },
   {
@@ -27184,7 +27199,10 @@
       "max_up": 0.06,
       "max_down": -4.53
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.06,
+      "max_down": -4.72
+    },
     "result_12h": null
   },
   {
@@ -27209,7 +27227,10 @@
       "max_up": 0.06,
       "max_down": -0.41
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.66,
+      "max_down": -0.41
+    },
     "result_12h": null
   },
   {
@@ -27280,7 +27301,10 @@
       "max_up": 0.05,
       "max_down": 0.05
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.14,
+      "max_down": -0.29
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27302,7 +27326,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.76
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27386,6 +27413,25 @@
     "bs": 3.0,
     "breakout": true,
     "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GTCIRT",
+    "time": 1791132832793,
+    "price": 38900.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.57,
+    "vr": 6.26,
+    "va": 7.19,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

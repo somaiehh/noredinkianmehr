@@ -4078,7 +4078,10 @@
       "max_up": 2.54,
       "max_down": -3.41
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.79,
+      "max_down": -3.41
+    }
   },
   {
     "symbol": "ONEIRT",
@@ -4100,7 +4103,10 @@
       "max_up": 0.06,
       "max_down": -4.53
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.06,
+      "max_down": -4.72
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -4122,7 +4128,10 @@
       "max_up": 0.06,
       "max_down": -0.41
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 5.66,
+      "max_down": -0.41
+    }
   },
   {
     "symbol": "ONEIRT",
@@ -4144,7 +4153,10 @@
       "max_up": -0.37,
       "max_down": -4.58
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.37,
+      "max_down": -4.78
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -4166,7 +4178,10 @@
       "max_up": 0.14,
       "max_down": -0.33
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 5.75,
+      "max_down": -0.33
+    }
   },
   {
     "symbol": "MUBARAKIRT",
@@ -4250,6 +4265,25 @@
     "ob": 0.59,
     "p15": 0.23,
     "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "GTCIRT",
+    "time": 1791133110556,
+    "price": 38422.0,
+    "pre30": 15.54,
+    "pre60": 20.18,
+    "pre120": 18.41,
+    "hunt": 92.9,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 34.333333333333336,
+    "bs": 1.03,
+    "ob": 1.0,
+    "p15": 0.32,
+    "breakout": true,
     "result_1h": null,
     "result_4h": null
   }
