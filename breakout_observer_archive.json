@@ -9602,5 +9602,17 @@
     "max_gain_pct": 18.9983,
     "levels": [],
     "expired_time": 1790377795404
+  },
+  {
+    "symbol": "AAVEIRT",
+    "anchor_time": 1791058180148,
+    "anchor_price": 48400000.0,
+    "status": "EXPIRED",
+    "created_time": 1791058180148,
+    "last_time": 1791133931627,
+    "last_price": 48043179.0,
+    "max_gain_pct": 1.8164,
+    "levels": [],
+    "expired_time": 1791101765908
   }
 ]
