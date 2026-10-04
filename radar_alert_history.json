@@ -1763,5 +1763,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791109044961,
+    "symbol": "NIGHTIRT",
+    "price": 13514.3,
+    "hunt_score": 84.0,
+    "status": "PRE_EARLY",
+    "p15": 0.26,
+    "vr": 1.93,
+    "va": 5.09,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 3
   }
 ]

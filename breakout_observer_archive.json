@@ -9351,5 +9351,19 @@
       }
     ],
     "expired_time": 1791090463129
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1791055464936,
+    "anchor_price": 1263948.0,
+    "status": "EXPIRED",
+    "created_time": 1791055464936,
+    "last_time": 1791107788366,
+    "last_price": 1290389.0,
+    "max_gain_pct": 3.3819,
+    "levels": [],
+    "confirmed_time": 1791080133621,
+    "confirmed_price": 1306693.0,
+    "expired_time": 1791098692314
   }
 ]
