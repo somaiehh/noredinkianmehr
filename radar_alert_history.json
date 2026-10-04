@@ -1932,5 +1932,18 @@
     "bs": 4.32,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791149802510,
+    "symbol": "STRKIRT",
+    "price": 15738.0,
+    "hunt_score": 80.9,
+    "status": "EARLY",
+    "p15": 2.2,
+    "vr": 0.54,
+    "va": 2.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
