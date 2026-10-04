@@ -9281,5 +9281,30 @@
     "levels": [],
     "failed_time": 1791035733829,
     "failed_price": 9524.0
+  },
+  {
+    "symbol": "LINKIRT",
+    "anchor_time": 1791058615868,
+    "anchor_price": 3759545.0,
+    "status": "EXPIRED",
+    "created_time": 1791058615868,
+    "last_time": 1791105308050,
+    "last_price": 3814003.0,
+    "max_gain_pct": 1.8038,
+    "levels": [],
+    "expired_time": 1791102085902
+  },
+  {
+    "symbol": "B3IRT",
+    "anchor_time": 1790406993285,
+    "anchor_price": 195.6,
+    "status": "FAILED",
+    "created_time": 1790406993285,
+    "last_time": 1791105878828,
+    "last_price": 230.0,
+    "max_gain_pct": 17.5869,
+    "levels": [],
+    "failed_time": 1790416148009,
+    "failed_price": 187.8
   }
 ]
