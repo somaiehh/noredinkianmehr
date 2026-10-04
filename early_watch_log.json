@@ -26454,7 +26454,10 @@
       "max_up": 1.6,
       "max_down": 1.6
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.6,
+      "max_down": -3.87
+    },
     "result_4h": null,
     "result_12h": null
   }
