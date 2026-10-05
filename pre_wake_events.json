@@ -2239,11 +2239,11 @@
     "book": 0.0,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1791237714962,
+    "result_move": -5.6565,
     "max_move": 4.1046,
-    "min_move": -2.3484,
+    "min_move": -5.6565,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -2365,11 +2365,11 @@
     "book": 0.44,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1791237714962,
+    "result_move": -5.9829,
     "max_move": 3.7444,
-    "min_move": -2.6862,
+    "min_move": -5.9829,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -2386,11 +2386,11 @@
     "book": 0.64,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1791237714962,
+    "result_move": -5.9638,
     "max_move": 3.7655,
-    "min_move": -2.6664,
+    "min_move": -5.9638,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -2557,7 +2557,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.1649,
+    "max_move": 1.2487,
     "min_move": -0.9517,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -2641,7 +2641,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0415,
+    "max_move": 0.1568,
     "min_move": -0.5688,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -2662,8 +2662,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 0.1152,
     "min_move": -0.6101,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "MOVRIRT",
+    "event_time": 1791237905668,
+    "event_price": 541126.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 35.2,
+    "p15": -1.51,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 2.53,
+    "book": 0.6,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
