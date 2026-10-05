@@ -1984,5 +1984,31 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1791173190046,
+    "symbol": "BABYDOGEIRT",
+    "price": 0.00011251,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.63,
+    "vr": 4.43,
+    "va": 6.26,
+    "bs": 1.02,
+    "breakout": false,
+    "persistence": 3
+  },
+  {
+    "time": 1791173393831,
+    "symbol": "BABYDOGEIRT",
+    "price": 0.00011251,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.63,
+    "vr": 4.43,
+    "va": 3.46,
+    "bs": 0.54,
+    "breakout": false,
+    "persistence": 4
   }
 ]
