@@ -2023,5 +2023,31 @@
     "bs": 3.39,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791179444805,
+    "symbol": "MOVRIRT",
+    "price": 500000.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.94,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 0.02,
+    "breakout": true,
+    "persistence": 3
+  },
+  {
+    "time": 1791179650995,
+    "symbol": "MOVRIRT",
+    "price": 500000.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.94,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 0.0,
+    "breakout": true,
+    "persistence": 4
   }
 ]

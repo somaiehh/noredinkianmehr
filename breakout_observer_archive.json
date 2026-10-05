@@ -9974,5 +9974,32 @@
     "confirmed_time": 1791139758230,
     "confirmed_price": 1346772.0,
     "expired_time": 1791152202693
+  },
+  {
+    "symbol": "MOVRIRT",
+    "anchor_time": 1791107474757,
+    "anchor_price": 505488.0,
+    "status": "FAILED",
+    "created_time": 1791107474757,
+    "last_time": 1791178227065,
+    "last_price": 490493.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791111032139,
+    "failed_price": 489283.0
+  },
+  {
+    "symbol": "SAGAIRT",
+    "anchor_time": 1791006816172,
+    "anchor_price": 5987.0,
+    "status": "EXPIRED",
+    "created_time": 1791006816172,
+    "last_time": 1791179440697,
+    "last_price": 6300.0,
+    "max_gain_pct": 6.3805,
+    "levels": [],
+    "confirmed_time": 1791021838014,
+    "confirmed_price": 6204.0,
+    "expired_time": 1791050735810
   }
 ]
