@@ -27989,7 +27989,10 @@
       "max_up": -0.67,
       "max_down": -1.9
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.67,
+      "max_down": -4.43
+    },
     "result_12h": null
   },
   {
@@ -28014,7 +28017,10 @@
       "max_up": 0.0,
       "max_down": -3.42
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.34,
+      "max_down": -3.42
+    },
     "result_12h": null
   },
   {
@@ -28039,7 +28045,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -5.11
+    },
     "result_12h": null
   },
   {
@@ -28185,7 +28194,10 @@
       "max_up": 6.39,
       "max_down": 3.32
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 7.41,
+      "max_down": 3.32
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -28207,7 +28219,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.48,
+      "max_down": -0.3
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -28226,7 +28241,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.94,
+      "max_down": 1.94
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -28244,6 +28262,85 @@
     "bs": 1.45,
     "breakout": false,
     "priority": false,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": 2.29,
+      "max_down": 1.63
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1791181974816,
+    "price": 0.00011272,
+    "level": "WATCH",
+    "hunt": 44.2,
+    "persistence": 1,
+    "p15": 0.19,
+    "vr": 0.03,
+    "va": 3.11,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1791181974816,
+    "price": 494.0,
+    "level": "STRONG",
+    "hunt": 63.5,
+    "persistence": 1,
+    "p15": 0.2,
+    "vr": 1.68,
+    "va": 10.0,
+    "buy": 33.33333333333333,
+    "bs": 1.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HOMEIRT",
+    "time": 1791181974816,
+    "price": 1516.6,
+    "level": "STRONG",
+    "hunt": 53.3,
+    "persistence": 1,
+    "p15": 0.19,
+    "vr": 5.86,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1791182167428,
+    "price": 1.606,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.16,
+    "vr": 7.67,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
