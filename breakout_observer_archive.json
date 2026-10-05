@@ -9775,5 +9775,41 @@
     "levels": [],
     "failed_time": 1791111305510,
     "failed_price": 488.0
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1791101765908,
+    "anchor_price": 318320.0,
+    "status": "EXPIRED",
+    "created_time": 1791101765908,
+    "last_time": 1791156938295,
+    "last_price": 316606.0,
+    "max_gain_pct": 5.6541,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791127254707,
+    "confirmed_price": 329110.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791129783352,
+        "price": 336318.0,
+        "gain_pct": 5.6541
+      }
+    ],
+    "expired_time": 1791145130978
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1791099395562,
+    "anchor_price": 413400.0,
+    "status": "EXPIRED",
+    "created_time": 1791099395562,
+    "last_time": 1791158271287,
+    "last_price": 404000.0,
+    "max_gain_pct": 0.6652,
+    "levels": [],
+    "expired_time": 1791142919735
   }
 ]

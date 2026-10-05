@@ -27136,7 +27136,10 @@
       "max_up": 0.11,
       "max_down": -1.7
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.44,
+      "max_down": -4.53
+    }
   },
   {
     "symbol": "AIOIRT",
@@ -27798,7 +27801,10 @@
       "max_up": 0.0,
       "max_down": -0.78
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -0.78
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27820,7 +27826,10 @@
       "max_up": 1.24,
       "max_down": 1.06
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.24,
+      "max_down": -1.59
+    },
     "result_4h": null,
     "result_12h": null
   },
