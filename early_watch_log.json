@@ -28516,7 +28516,10 @@
       "max_up": -4.64,
       "max_down": -9.58
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -4.64,
+      "max_down": -12.96
+    }
   },
   {
     "symbol": "ZECIRT",
@@ -28544,7 +28547,10 @@
       "max_up": 0.9,
       "max_down": -1.71
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.51,
+      "max_down": -3.16
+    }
   },
   {
     "symbol": "PEPEIRT",
@@ -29250,7 +29256,10 @@
       "max_up": 2.99,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.23,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -29487,7 +29496,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.25,
+      "max_down": -2.38
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -29593,7 +29605,10 @@
     "bs": 2.01,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
