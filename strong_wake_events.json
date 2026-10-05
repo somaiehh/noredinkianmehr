@@ -5243,8 +5243,8 @@
     "tm_g4": 1.6522,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791178227065,
-    "result_move": -5.8296,
+    "result_time": 1791179647053,
+    "result_move": -10.3139,
     "max_move": 0.4484,
     "min_move": -14.7982,
     "ledger_version": "wake-ledger-v1"
@@ -5498,6 +5498,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
+    "min_move": -0.3654,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "CAKEIRT",
+    "event_time": 1791230353857,
+    "event_price": 652523.0,
+    "anchor_time": 1791230118548,
+    "anchor_price": 652602.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.8462,
+    "tm_e15_e1": 0.8462,
+    "tm_e1_e4": 0.4062,
+    "tm_g15": 1.1,
+    "tm_g1": 1.0833,
+    "tm_g4": 1.0323,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.4116,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }

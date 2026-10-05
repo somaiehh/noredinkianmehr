@@ -29281,7 +29281,10 @@
       "max_up": 0.07,
       "max_down": -0.63
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.31,
+      "max_down": -2.46
+    },
     "result_12h": null
   },
   {
@@ -29306,7 +29309,10 @@
       "max_up": -0.76,
       "max_down": -1.35
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.47,
+      "max_down": -1.35
+    },
     "result_12h": null
   },
   {
@@ -29521,7 +29527,10 @@
       "max_up": 4.17,
       "max_down": 1.04
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 37.19,
+      "max_down": 1.04
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -29543,7 +29552,10 @@
       "max_up": 0.0,
       "max_down": -0.2
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.09
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -29565,7 +29577,10 @@
       "max_up": -2.29,
       "max_down": -2.29
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -2.18,
+      "max_down": -3.77
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -29587,7 +29602,10 @@
       "max_up": -1.85,
       "max_down": -1.85
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -1.85,
+      "max_down": -4.44
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -29609,7 +29627,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.2,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -29627,6 +29648,66 @@
     "bs": 3.42,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": -1.79,
+      "max_down": -1.79
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1791230118548,
+    "price": 1.5803,
+    "level": "STRONG",
+    "hunt": 53.4,
+    "persistence": 1,
+    "p15": 0.42,
+    "vr": 1.69,
+    "va": 1.15,
+    "buy": 62.33333333333334,
+    "bs": 1.87,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "EDUIRT",
+    "time": 1791230353857,
+    "price": 15800.0,
+    "level": "STRONG",
+    "hunt": 61.6,
+    "persistence": 2,
+    "p15": 0.52,
+    "vr": 1.91,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.53,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "RVVIRT",
+    "time": 1791230353857,
+    "price": 12.2,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 2,
+    "p15": 0.83,
+    "vr": 0.39,
+    "va": 5.23,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
