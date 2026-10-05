@@ -4803,7 +4803,10 @@
       "max_up": 0.39,
       "max_down": -2.16
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.63,
+      "max_down": -2.16
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -4825,7 +4828,10 @@
       "max_up": 0.85,
       "max_down": -1.71
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.1,
+      "max_down": -1.71
+    }
   },
   {
     "symbol": "SIRENIRT",

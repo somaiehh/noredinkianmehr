@@ -28727,7 +28727,10 @@
       "max_up": 0.29,
       "max_down": -0.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.29,
+      "max_down": -3.15
+    }
   },
   {
     "symbol": "MUBARAKIRT",
@@ -28752,7 +28755,10 @@
       "max_up": 6.55,
       "max_down": -0.21
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.55,
+      "max_down": -1.48
+    }
   },
   {
     "symbol": "MOVRIRT",
@@ -29489,7 +29495,10 @@
       "max_up": 0.22,
       "max_down": -4.15
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.22,
+      "max_down": -7.98
+    },
     "result_12h": null
   },
   {
@@ -29514,7 +29523,10 @@
       "max_up": 0.39,
       "max_down": -2.16
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.63,
+      "max_down": -2.16
+    },
     "result_12h": null
   },
   {
@@ -29779,7 +29791,10 @@
       "max_up": 0.41,
       "max_down": 0.41
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.41,
+      "max_down": 0.01
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -29801,7 +29816,10 @@
       "max_up": 0.28,
       "max_down": 0.28
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.88,
+      "max_down": 0.28
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -29819,7 +29837,10 @@
     "bs": 1.06,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 1.59,
+      "max_down": 0.01
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -29838,7 +29859,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
