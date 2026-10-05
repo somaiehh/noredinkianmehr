@@ -10609,5 +10609,29 @@
     "confirmed_time": 1791172170029,
     "confirmed_price": 337214.0,
     "expired_time": 1791201947852
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1791176897250,
+    "anchor_price": 1318999.0,
+    "status": "EXPIRED",
+    "created_time": 1791176897250,
+    "last_time": 1791222704322,
+    "last_price": 1348499.0,
+    "max_gain_pct": 5.6114,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791184012499,
+    "confirmed_price": 1361493.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791185962069,
+        "price": 1388295.0,
+        "gain_pct": 5.2537
+      }
+    ],
+    "expired_time": 1791220232683
   }
 ]
