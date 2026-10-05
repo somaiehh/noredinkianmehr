@@ -27415,7 +27415,10 @@
       "max_up": 0.42,
       "max_down": -2.8
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.42,
+      "max_down": -2.8
+    }
   },
   {
     "symbol": "AURORAIRT",
@@ -28030,6 +28033,44 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1791171987924,
+    "price": 1.5991,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.92,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PEPEIRT",
+    "time": 1791171987924,
+    "price": 1.19458,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.7,
+    "vr": 4.51,
+    "va": 2.6,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
