@@ -2257,5 +2257,31 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791225423942,
+    "symbol": "SIRENIRT",
+    "price": 10210.0,
+    "hunt_score": 94.7,
+    "status": "EARLY",
+    "p15": 0.97,
+    "vr": 15.14,
+    "va": 7.53,
+    "bs": 3.61,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1791225954548,
+    "symbol": "LIGHTIRT",
+    "price": 54887.0,
+    "hunt_score": 89.3,
+    "status": "EARLY",
+    "p15": 0.61,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 3.42,
+    "breakout": true,
+    "persistence": 3
   }
 ]

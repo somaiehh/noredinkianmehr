@@ -28392,7 +28392,10 @@
       "max_up": 0.81,
       "max_down": -1.19
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.81,
+      "max_down": -3.73
+    }
   },
   {
     "symbol": "ONEIRT",
@@ -28420,7 +28423,10 @@
       "max_up": 2.25,
       "max_down": -2.04
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.2,
+      "max_down": -3.2
+    }
   },
   {
     "symbol": "HOMEIRT",
@@ -28448,7 +28454,10 @@
       "max_up": 1.31,
       "max_down": -0.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.4,
+      "max_down": -0.96
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -28476,7 +28485,10 @@
       "max_up": 0.56,
       "max_down": -0.77
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.56,
+      "max_down": -2.3
+    }
   },
   {
     "symbol": "AURORAIRT",
@@ -29210,7 +29222,10 @@
       "max_up": 2.18,
       "max_down": 0.47
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.67,
+      "max_down": 0.47
+    },
     "result_12h": null
   },
   {
@@ -29490,7 +29505,10 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 4.17,
+      "max_down": 1.04
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -29509,7 +29527,10 @@
     "bs": 3.59,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -0.2
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -29528,7 +29549,10 @@
     "bs": 2.9,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -2.29,
+      "max_down": -2.29
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -29547,6 +29571,47 @@
     "bs": 3.58,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": -1.85,
+      "max_down": -1.85
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ICPIRT",
+    "time": 1791225682795,
+    "price": 950000.0,
+    "level": "STRONG",
+    "hunt": 57.1,
+    "persistence": 1,
+    "p15": 0.18,
+    "vr": 0.23,
+    "va": 10.0,
+    "buy": 67.0,
+    "bs": 2.01,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LIGHTIRT",
+    "time": 1791225950335,
+    "price": 54887.0,
+    "level": "STRONG",
+    "hunt": 89.3,
+    "persistence": 3,
+    "p15": 0.61,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.42,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
