@@ -2296,5 +2296,44 @@
     "bs": 5.0,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1791234420446,
+    "symbol": "NEARIRT",
+    "price": 1395999.0,
+    "hunt_score": 98.8,
+    "status": "EARLY",
+    "p15": 0.54,
+    "vr": 15.33,
+    "va": 10.0,
+    "bs": 0.7,
+    "breakout": true,
+    "persistence": 4
+  },
+  {
+    "time": 1791234641077,
+    "symbol": "NEARIRT",
+    "price": 1398585.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 0.72,
+    "vr": 15.33,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 5
+  },
+  {
+    "time": 1791234847849,
+    "symbol": "NEARIRT",
+    "price": 1398585.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 0.72,
+    "vr": 15.33,
+    "va": 7.66,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 6
   }
 ]

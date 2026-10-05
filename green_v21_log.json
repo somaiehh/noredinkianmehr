@@ -4887,7 +4887,10 @@
     "ob": 0.77,
     "p15": 0.52,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.56,
+      "max_down": -1.16
+    },
     "result_4h": null
   },
   {
@@ -4906,6 +4909,66 @@
     "ob": 0.77,
     "p15": 0.52,
     "breakout": false,
+    "result_1h": {
+      "max_up": 2.56,
+      "max_down": -1.16
+    },
+    "result_4h": null
+  },
+  {
+    "symbol": "NEARIRT",
+    "time": 1791234415809,
+    "price": 1395999.0,
+    "pre30": 1.25,
+    "pre60": 1.38,
+    "pre120": 1.55,
+    "hunt": 98.8,
+    "persistence": 4,
+    "vr": 15.33,
+    "va": 10.0,
+    "buy": 23.333333333333332,
+    "bs": 0.7,
+    "ob": 1.0,
+    "p15": 0.54,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "NEARIRT",
+    "time": 1791234636862,
+    "price": 1398585.0,
+    "pre30": 1.44,
+    "pre60": 1.57,
+    "pre120": 1.73,
+    "hunt": 100.0,
+    "persistence": 5,
+    "vr": 15.33,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.72,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "NEARIRT",
+    "time": 1791234843912,
+    "price": 1398585.0,
+    "pre30": 1.44,
+    "pre60": 1.57,
+    "pre120": 1.73,
+    "hunt": 100.0,
+    "persistence": 6,
+    "vr": 15.33,
+    "va": 7.66,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.72,
+    "breakout": true,
     "result_1h": null,
     "result_4h": null
   }
