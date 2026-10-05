@@ -1987,7 +1987,7 @@
     "book": 0.4,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 8.9905,
@@ -2369,7 +2369,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.8954,
-    "min_move": -0.5902,
+    "min_move": -1.2821,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -2390,7 +2390,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.9159,
-    "min_move": -0.5699,
+    "min_move": -1.262,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -2410,7 +2410,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.8481,
+    "max_move": 5.2358,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -2432,6 +2432,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.9157,
+    "min_move": -1.1494,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "RVNIRT",
+    "event_time": 1791208228783,
+    "event_price": 726.8,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 40.0,
+    "p15": -1.12,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 2.78,
+    "book": 0.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 1.4997,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
