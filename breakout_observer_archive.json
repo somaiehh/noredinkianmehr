@@ -10491,5 +10491,56 @@
     "levels": [],
     "failed_time": 1791164661370,
     "failed_price": 552.0
+  },
+  {
+    "symbol": "LSKIRT",
+    "anchor_time": 1790974656617,
+    "anchor_price": 75313.0,
+    "status": "EXPIRED",
+    "created_time": 1790974656617,
+    "last_time": 1791212345761,
+    "last_price": 73388.0,
+    "max_gain_pct": 3.5678,
+    "levels": [],
+    "confirmed_time": 1790978219172,
+    "confirmed_price": 78000.0,
+    "expired_time": 1791017993979
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1791156728906,
+    "anchor_price": 499.9,
+    "status": "FAILED",
+    "created_time": 1791156728906,
+    "last_time": 1791213833799,
+    "last_price": 483.7,
+    "max_gain_pct": 1.0402,
+    "levels": [],
+    "failed_time": 1791176897250,
+    "failed_price": 482.3
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1791163529253,
+    "anchor_price": 13500.0,
+    "status": "EXPIRED",
+    "created_time": 1791163529253,
+    "last_time": 1791213833799,
+    "last_price": 13138.0,
+    "max_gain_pct": 2.3111,
+    "levels": [],
+    "expired_time": 1791207035301
+  },
+  {
+    "symbol": "ESIRT",
+    "anchor_time": 1791020103241,
+    "anchor_price": 288.0,
+    "status": "EXPIRED",
+    "created_time": 1791020103241,
+    "last_time": 1791213833799,
+    "last_price": 277.0,
+    "max_gain_pct": 0.6944,
+    "levels": [],
+    "expired_time": 1791064482519
   }
 ]
