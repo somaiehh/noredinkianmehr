@@ -2231,5 +2231,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791221263498,
+    "symbol": "BABYDOGEIRT",
+    "price": 0.00011092,
+    "hunt_score": 80.2,
+    "status": "EARLY",
+    "p15": 0.74,
+    "vr": 3.56,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": false,
+    "persistence": 2
   }
 ]

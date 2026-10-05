@@ -28305,7 +28305,10 @@
       "max_up": 5.1,
       "max_down": -0.3
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.9,
+      "max_down": -0.3
+    }
   },
   {
     "symbol": "MOVRIRT",
@@ -28330,7 +28333,10 @@
       "max_up": 27.58,
       "max_down": 0.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 29.41,
+      "max_down": 0.12
+    }
   },
   {
     "symbol": "LABIRT",
@@ -28355,7 +28361,10 @@
       "max_up": 2.29,
       "max_down": -0.54
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.29,
+      "max_down": -2.84
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -29358,6 +29367,44 @@
     "va": 2.72,
     "buy": 57.666666666666664,
     "bs": 1.73,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SAGAIRT",
+    "time": 1791220946178,
+    "price": 6846.0,
+    "level": "STRONG",
+    "hunt": 51.0,
+    "persistence": 1,
+    "p15": 1.62,
+    "vr": 0.13,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1791221259218,
+    "price": 0.00011092,
+    "level": "STRONG",
+    "hunt": 80.2,
+    "persistence": 2,
+    "p15": 0.74,
+    "vr": 3.56,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
