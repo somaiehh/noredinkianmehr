@@ -4517,5 +4517,24 @@
       "max_down": 1.94
     },
     "result_4h": null
+  },
+  {
+    "symbol": "ZECIRT",
+    "time": 1791183771027,
+    "price": 357700000.0,
+    "pre30": 1.48,
+    "pre60": 1.48,
+    "pre120": 0.2,
+    "hunt": 83.4,
+    "persistence": 2,
+    "vr": 5.57,
+    "va": 2.23,
+    "buy": 100,
+    "bs": 4.43,
+    "ob": 1.0,
+    "p15": 0.36,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
