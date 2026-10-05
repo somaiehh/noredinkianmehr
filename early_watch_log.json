@@ -27902,7 +27902,10 @@
       "max_up": 5.23,
       "max_down": -0.78
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.28,
+      "max_down": -0.78
+    }
   },
   {
     "symbol": "SUNDOGIRT",
@@ -27930,7 +27933,10 @@
       "max_up": 1.24,
       "max_down": -3.71
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.24,
+      "max_down": -4.59
+    }
   },
   {
     "symbol": "GTCIRT",
@@ -28340,7 +28346,10 @@
       "max_up": 0.81,
       "max_down": -0.18
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.81,
+      "max_down": -1.19
+    },
     "result_12h": null
   },
   {
@@ -28365,7 +28374,10 @@
       "max_up": 0.55,
       "max_down": -0.2
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.25,
+      "max_down": -2.04
+    },
     "result_12h": null
   },
   {
@@ -28390,7 +28402,10 @@
       "max_up": 1.31,
       "max_down": -0.11
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.31,
+      "max_down": -0.11
+    },
     "result_12h": null
   },
   {
@@ -28415,7 +28430,10 @@
       "max_up": 0.19,
       "max_down": -0.77
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.56,
+      "max_down": -0.77
+    },
     "result_12h": null
   },
   {
@@ -28440,7 +28458,10 @@
       "max_up": -4.64,
       "max_down": -7.85
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -4.64,
+      "max_down": -9.58
+    },
     "result_12h": null
   },
   {
@@ -28465,7 +28486,10 @@
       "max_up": 0.84,
       "max_down": -0.43
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.9,
+      "max_down": -1.71
+    },
     "result_12h": null
   },
   {
@@ -28652,7 +28676,10 @@
       "max_up": -2.29,
       "max_down": -2.29
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.55,
+      "max_down": -2.53
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -28670,7 +28697,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.51,
+      "max_down": -0.46
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -28687,6 +28717,28 @@
     "va": 2.0,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -2.04,
+      "max_down": -3.06
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "KAIOIRT",
+    "time": 1791197928994,
+    "price": 6988.0,
+    "level": "WATCH",
+    "hunt": 48.8,
+    "persistence": 4,
+    "p15": 1.82,
+    "vr": 0.16,
+    "va": 10.0,
+    "buy": 49.666666666666664,
+    "bs": 1.49,
     "breakout": false,
     "priority": false,
     "result_15m": null,

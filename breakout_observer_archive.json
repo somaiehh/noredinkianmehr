@@ -10314,5 +10314,29 @@
       }
     ],
     "expired_time": 1790991238223
+  },
+  {
+    "symbol": "FLOKIIRT",
+    "anchor_time": 1791149135376,
+    "anchor_price": 7.47958,
+    "status": "EXPIRED",
+    "created_time": 1791149135376,
+    "last_time": 1791197445449,
+    "last_price": 8.00867,
+    "max_gain_pct": 7.9099,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791149799519,
+    "confirmed_price": 7.76613,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791152202693,
+        "price": 7.85634,
+        "gain_pct": 5.0372
+      }
+    ],
+    "expired_time": 1791192574926
   }
 ]
