@@ -2140,5 +2140,31 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791207039482,
+    "symbol": "SNEKIRT",
+    "price": 208.7,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.36,
+    "vr": 0.98,
+    "va": 10.0,
+    "bs": 0.95,
+    "breakout": false,
+    "persistence": 3
+  },
+  {
+    "time": 1791207499044,
+    "symbol": "SNEKIRT",
+    "price": 208.7,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.36,
+    "vr": 0.98,
+    "va": 10.0,
+    "bs": 0.69,
+    "breakout": false,
+    "persistence": 3
   }
 ]
