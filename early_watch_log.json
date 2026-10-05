@@ -28101,7 +28101,10 @@
       "max_up": 0.0,
       "max_down": -2.12
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.62,
+      "max_down": -2.35
+    },
     "result_12h": null
   },
   {
@@ -28126,7 +28129,10 @@
       "max_up": 0.0,
       "max_down": -1.85
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.63,
+      "max_down": -2.13
+    },
     "result_12h": null
   },
   {
@@ -28151,7 +28157,10 @@
       "max_up": 0.0,
       "max_down": -1.81
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.89,
+      "max_down": -1.81
+    },
     "result_12h": null
   },
   {
@@ -28391,7 +28400,10 @@
       "max_up": -5.31,
       "max_down": -5.43
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -4.64,
+      "max_down": -7.85
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -28413,6 +28425,85 @@
       "max_up": 0.2,
       "max_down": 0.2
     },
+    "result_1h": {
+      "max_up": 0.84,
+      "max_down": -0.43
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PEPEIRT",
+    "time": 1791187671221,
+    "price": 1.21607,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.68,
+    "vr": 1.75,
+    "va": 3.6,
+    "buy": 64.0,
+    "bs": 1.92,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRT",
+    "time": 1791187671221,
+    "price": 11260.0,
+    "level": "STRONG",
+    "hunt": 76.7,
+    "persistence": 1,
+    "p15": 0.94,
+    "vr": 0.05,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.71,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WIFIRT",
+    "time": 1791187920472,
+    "price": 70525.0,
+    "level": "STRONG",
+    "hunt": 77.8,
+    "persistence": 1,
+    "p15": 1.9,
+    "vr": 0.01,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1791187920472,
+    "price": 416322.0,
+    "level": "STRONG",
+    "hunt": 59.5,
+    "persistence": 2,
+    "p15": 0.17,
+    "vr": 0.9,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

@@ -10132,5 +10132,56 @@
     "max_gain_pct": 2.9318,
     "levels": [],
     "expired_time": 1791163529253
+  },
+  {
+    "symbol": "WIFIRT",
+    "anchor_time": 1791046275787,
+    "anchor_price": 68329.0,
+    "status": "EXPIRED",
+    "created_time": 1791046275787,
+    "last_time": 1791186232453,
+    "last_price": 68967.0,
+    "max_gain_pct": 1.0537,
+    "levels": [],
+    "expired_time": 1791090103870
+  },
+  {
+    "symbol": "ENAIRT",
+    "anchor_time": 1790777780691,
+    "anchor_price": 70755.0,
+    "status": "FAILED",
+    "created_time": 1790777780691,
+    "last_time": 1791186232453,
+    "last_price": 67470.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1790778522675,
+    "failed_price": 68497.0
+  },
+  {
+    "symbol": "ICPIRT",
+    "anchor_time": 1790962357637,
+    "anchor_price": 865829.0,
+    "status": "FAILED",
+    "created_time": 1790962357637,
+    "last_time": 1791187401636,
+    "last_price": 890600.0,
+    "max_gain_pct": 8.6099,
+    "levels": [],
+    "failed_time": 1790967777011,
+    "failed_price": 829000.0
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1791117610519,
+    "anchor_price": 11039.0,
+    "status": "FAILED",
+    "created_time": 1791117610519,
+    "last_time": 1791187401636,
+    "last_price": 11155.0,
+    "max_gain_pct": 1.0508,
+    "levels": [],
+    "failed_time": 1791150950466,
+    "failed_price": 10635.0
   }
 ]
