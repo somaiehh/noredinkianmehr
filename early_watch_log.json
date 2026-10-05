@@ -28088,7 +28088,10 @@
       "max_up": 0.0,
       "max_down": -5.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -6.07
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -28741,7 +28744,10 @@
       "max_up": 0.51,
       "max_down": -0.46
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.51,
+      "max_down": -2.02
+    },
     "result_12h": null
   },
   {
@@ -28766,7 +28772,10 @@
       "max_up": 2.04,
       "max_down": -3.06
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.04,
+      "max_down": -40.82
+    },
     "result_12h": null
   },
   {
@@ -28977,7 +28986,10 @@
     "bs": 1.45,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.52,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -28996,7 +29008,10 @@
     "bs": 3.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 1.29,
+      "max_down": 1.29
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -29015,7 +29030,10 @@
     "bs": 1.77,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -1.3,
+      "max_down": -1.3
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -29034,7 +29052,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -29070,6 +29091,25 @@
     "va": 7.02,
     "buy": 50.66666666666667,
     "bs": 1.52,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "time": 1791211078991,
+    "price": 19906.0,
+    "level": "WATCH",
+    "hunt": 41.1,
+    "persistence": 1,
+    "p15": 1.27,
+    "vr": 0.02,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
