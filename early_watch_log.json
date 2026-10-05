@@ -27167,7 +27167,10 @@
       "max_up": 2.79,
       "max_down": -3.41
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.09,
+      "max_down": -10.31
+    }
   },
   {
     "symbol": "WENSOLIRT",
@@ -27195,7 +27198,10 @@
       "max_up": 2.29,
       "max_down": -2.01
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.4,
+      "max_down": -3.94
+    }
   },
   {
     "symbol": "MUBARAKIRT",
@@ -27223,7 +27229,10 @@
       "max_up": 14.5,
       "max_down": 2.23
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 14.5,
+      "max_down": -7.42
+    }
   },
   {
     "symbol": "ONEIRT",
@@ -27630,7 +27639,10 @@
       "max_up": -0.83,
       "max_down": -1.51
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.83,
+      "max_down": -2.97
+    },
     "result_12h": null
   },
   {
@@ -27851,7 +27863,10 @@
       "max_up": -2.12,
       "max_down": -2.12
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -2.12,
+      "max_down": -5.11
+    },
     "result_4h": null,
     "result_12h": null
   }
