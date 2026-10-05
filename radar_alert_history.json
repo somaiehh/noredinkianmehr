@@ -2166,5 +2166,31 @@
     "bs": 0.69,
     "breakout": false,
     "persistence": 3
+  },
+  {
+    "time": 1791209249934,
+    "symbol": "MOVRIRT",
+    "price": 549417.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.72,
+    "vr": 4.58,
+    "va": 8.97,
+    "bs": 1.77,
+    "breakout": false,
+    "persistence": 3
+  },
+  {
+    "time": 1791209476856,
+    "symbol": "ZECIRT",
+    "price": 361500000.0,
+    "hunt_score": 98.6,
+    "status": "EARLY",
+    "p15": 0.52,
+    "vr": 2.38,
+    "va": 5.97,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 4
   }
 ]

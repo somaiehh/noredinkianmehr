@@ -28026,7 +28026,10 @@
       "max_up": -0.67,
       "max_down": -4.43
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.67,
+      "max_down": -4.71
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -28054,7 +28057,10 @@
       "max_up": 0.34,
       "max_down": -3.42
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.41,
+      "max_down": -3.42
+    }
   },
   {
     "symbol": "PORTALIRT",
@@ -28947,6 +28953,123 @@
     "va": 10.0,
     "buy": 72.66666666666667,
     "bs": 2.18,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.63,
+      "max_down": -0.74
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ZECIRT",
+    "time": 1791208992292,
+    "price": 359643841.0,
+    "level": "WATCH",
+    "hunt": 48.9,
+    "persistence": 2,
+    "p15": 0.45,
+    "vr": 0.75,
+    "va": 2.0,
+    "buy": 48.333333333333336,
+    "bs": 1.45,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SNEKIRT",
+    "time": 1791208992292,
+    "price": 216.9,
+    "level": "STRONG",
+    "hunt": 57.1,
+    "persistence": 1,
+    "p15": 1.36,
+    "vr": 0.01,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MOVRIRT",
+    "time": 1791209246010,
+    "price": 549417.0,
+    "level": "STRONG",
+    "hunt": 84.0,
+    "persistence": 3,
+    "p15": 1.72,
+    "vr": 4.58,
+    "va": 8.97,
+    "buy": 59.0,
+    "bs": 1.77,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FORTHIRT",
+    "time": 1791209246010,
+    "price": 74293.0,
+    "level": "WATCH",
+    "hunt": 45.5,
+    "persistence": 1,
+    "p15": 0.14,
+    "vr": 0.42,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PEPEIRT",
+    "time": 1791209472755,
+    "price": 1.2168,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.61,
+    "vr": 5.62,
+    "va": 8.12,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NOTIRT",
+    "time": 1791209472755,
+    "price": 135.7,
+    "level": "STRONG",
+    "hunt": 56.3,
+    "persistence": 1,
+    "p15": 0.22,
+    "vr": 8.33,
+    "va": 7.02,
+    "buy": 50.66666666666667,
+    "bs": 1.52,
     "breakout": false,
     "priority": false,
     "result_15m": null,
