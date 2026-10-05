@@ -27353,7 +27353,10 @@
       "max_up": 3.48,
       "max_down": -0.31
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.48,
+      "max_down": -4.34
+    }
   },
   {
     "symbol": "BONKIRT",
@@ -27900,7 +27903,10 @@
       "max_up": -2.12,
       "max_down": -5.11
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 34.54,
+      "max_down": -5.11
+    },
     "result_12h": null
   },
   {
@@ -27946,7 +27952,10 @@
       "max_up": -0.67,
       "max_down": -1.9
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.67,
+      "max_down": -1.9
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27968,7 +27977,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -3.42
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -27985,6 +27997,28 @@
     "buy": 94.33333333333334,
     "bs": 2.83,
     "breakout": true,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1791169739749,
+    "price": 44.0,
+    "level": "STRONG",
+    "hunt": 56.6,
+    "persistence": 1,
+    "p15": 0.23,
+    "vr": 8.18,
+    "va": 8.22,
+    "buy": 100,
+    "bs": 3.6,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,

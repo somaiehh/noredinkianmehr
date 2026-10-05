@@ -9860,5 +9860,36 @@
     "max_gain_pct": 3.5136,
     "levels": [],
     "expired_time": 1791049781146
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "anchor_time": 1791117610519,
+    "anchor_price": 18493.0,
+    "status": "EXPIRED",
+    "created_time": 1791117610519,
+    "last_time": 1791169739749,
+    "last_price": 18000.0,
+    "max_gain_pct": 14.5028,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791118036981,
+    "confirmed_price": 19075.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791120150149,
+        "price": 19501.0,
+        "gain_pct": 5.4507
+      },
+      {
+        "level": 10,
+        "time": 1791127466894,
+        "price": 20400.0,
+        "gain_pct": 10.312
+      }
+    ],
+    "expired_time": 1791160940837
   }
 ]
