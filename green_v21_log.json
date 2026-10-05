@@ -4753,7 +4753,10 @@
       "max_up": 1.15,
       "max_down": -2.82
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.22,
+      "max_down": -5.65
+    }
   },
   {
     "symbol": "COMMONIRT",
@@ -4775,7 +4778,10 @@
       "max_up": -0.61,
       "max_down": -2.45
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -3.68
+    }
   },
   {
     "symbol": "BABYDOGEIRT",

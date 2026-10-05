@@ -28578,7 +28578,10 @@
       "max_up": 1.09,
       "max_down": -0.99
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.09,
+      "max_down": -3.55
+    }
   },
   {
     "symbol": "SIRT",
@@ -28606,7 +28609,10 @@
       "max_up": 2.0,
       "max_down": -0.35
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.9,
+      "max_down": -0.35
+    }
   },
   {
     "symbol": "WIFIRT",
@@ -28631,7 +28637,10 @@
       "max_up": -0.23,
       "max_down": -1.77
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.23,
+      "max_down": -4.64
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -28656,7 +28665,10 @@
       "max_up": 0.0,
       "max_down": -0.78
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -2.96
+    }
   },
   {
     "symbol": "STRKIRT",
@@ -29337,7 +29349,10 @@
       "max_up": 0.0,
       "max_down": -2.45
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -3.68
+    },
     "result_12h": null
   },
   {
@@ -29670,7 +29685,10 @@
     "bs": 1.87,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -0.47
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -29689,7 +29707,10 @@
     "bs": 3.53,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -29704,6 +29725,47 @@
     "p15": 0.83,
     "vr": 0.39,
     "va": 5.23,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -2.46,
+      "max_down": -2.46
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1791232054524,
+    "price": 0.00011112,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.82,
+    "vr": 18.79,
+    "va": 8.42,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FILIRT",
+    "time": 1791232054524,
+    "price": 310604.0,
+    "level": "STRONG",
+    "hunt": 54.4,
+    "persistence": 1,
+    "p15": 0.81,
+    "vr": 0.18,
+    "va": 10.0,
     "buy": 100,
     "bs": 5.0,
     "breakout": false,
