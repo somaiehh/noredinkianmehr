@@ -28274,7 +28274,10 @@
       "max_up": 7.56,
       "max_down": 2.09
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.95,
+      "max_down": 1.41
+    }
   },
   {
     "symbol": "SIRT",
@@ -28896,7 +28899,10 @@
       "max_up": 0.01,
       "max_down": -0.53
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.15,
+      "max_down": -1.93
+    },
     "result_12h": null
   },
   {
@@ -28921,7 +28927,10 @@
       "max_up": 0.26,
       "max_down": -12.53
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.26,
+      "max_down": -17.46
+    },
     "result_12h": null
   },
   {
@@ -28946,7 +28955,10 @@
       "max_up": 0.0,
       "max_down": -3.01
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.01,
+      "max_down": -3.01
+    },
     "result_12h": null
   },
   {
@@ -28971,7 +28983,10 @@
       "max_up": 0.5,
       "max_down": -41.71
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.5,
+      "max_down": -41.71
+    },
     "result_12h": null
   },
   {
@@ -29233,7 +29248,10 @@
       "max_up": -0.99,
       "max_down": -1.04
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.76,
+      "max_down": -1.35
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -29255,7 +29273,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -2.45
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -29273,7 +29294,10 @@
     "bs": 1.19,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.31,
+      "max_down": -0.41
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -29292,7 +29316,10 @@
     "bs": 2.06,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -29311,7 +29338,10 @@
     "bs": 2.1,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 5.73,
+      "max_down": 3.59
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
