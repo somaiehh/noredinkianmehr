@@ -10108,5 +10108,29 @@
     "confirmed_time": 1791163529253,
     "confirmed_price": 1.072,
     "expired_time": 1791171396040
+  },
+  {
+    "symbol": "ARBIRT",
+    "anchor_time": 1791086517981,
+    "anchor_price": 54502.0,
+    "status": "EXPIRED",
+    "created_time": 1791086517981,
+    "last_time": 1791185690678,
+    "last_price": 55600.0,
+    "max_gain_pct": 2.1687,
+    "levels": [],
+    "expired_time": 1791129783352
+  },
+  {
+    "symbol": "TUTIRT",
+    "anchor_time": 1791120150149,
+    "anchor_price": 6583.0,
+    "status": "EXPIRED",
+    "created_time": 1791120150149,
+    "last_time": 1791185690678,
+    "last_price": 6698.0,
+    "max_gain_pct": 2.9318,
+    "levels": [],
+    "expired_time": 1791163529253
   }
 ]
