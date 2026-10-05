@@ -10555,5 +10555,19 @@
     "levels": [],
     "failed_time": 1791170144269,
     "failed_price": 18175.0
+  },
+  {
+    "symbol": "COMMONIRT",
+    "anchor_time": 1791163529253,
+    "anchor_price": 16.0,
+    "status": "EXPIRED",
+    "created_time": 1791163529253,
+    "last_time": 1791216207783,
+    "last_price": 16.2,
+    "max_gain_pct": 4.375,
+    "levels": [],
+    "confirmed_time": 1791169943262,
+    "confirmed_price": 16.5,
+    "expired_time": 1791207035301
   }
 ]

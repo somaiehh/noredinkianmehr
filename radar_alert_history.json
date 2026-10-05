@@ -2205,5 +2205,31 @@
     "bs": 1.54,
     "breakout": true,
     "persistence": 4
+  },
+  {
+    "time": 1791216212687,
+    "symbol": "SAGAIRT",
+    "price": 6712.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.34,
+    "vr": 6.03,
+    "va": 10.0,
+    "bs": 2.02,
+    "breakout": true,
+    "persistence": 5
+  },
+  {
+    "time": 1791216803153,
+    "symbol": "COMMONIRT",
+    "price": 16.3,
+    "hunt_score": 84.2,
+    "status": "EARLY",
+    "p15": 0.62,
+    "vr": 2.11,
+    "va": 2.62,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
