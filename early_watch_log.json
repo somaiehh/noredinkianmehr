@@ -27716,7 +27716,10 @@
       "max_up": 1.52,
       "max_down": -0.88
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.83,
+      "max_down": -0.88
+    }
   },
   {
     "symbol": "AINIRT",
@@ -27744,7 +27747,10 @@
       "max_up": 8.19,
       "max_down": -0.63
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 33.45,
+      "max_down": -0.63
+    }
   },
   {
     "symbol": "FLOKIIRT",
@@ -27772,7 +27778,10 @@
       "max_up": 5.49,
       "max_down": 0.07
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.91,
+      "max_down": 0.07
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -27800,7 +27809,10 @@
       "max_up": 0.0,
       "max_down": -3.89
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.92,
+      "max_down": -3.89
+    }
   },
   {
     "symbol": "STRKIRT",
@@ -28244,7 +28256,10 @@
       "max_up": 0.48,
       "max_down": -0.3
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.1,
+      "max_down": -0.3
+    },
     "result_12h": null
   },
   {
@@ -28547,6 +28562,47 @@
     "va": 1.16,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -1.59
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1791192028520,
+    "price": 0.00011205,
+    "level": "STRONG",
+    "hunt": 55.8,
+    "persistence": 2,
+    "p15": 0.11,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 96.0,
+    "bs": 2.88,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "time": 1791192574926,
+    "price": 19991.0,
+    "level": "STRONG",
+    "hunt": 56.7,
+    "persistence": 3,
+    "p15": 0.39,
+    "vr": 0.51,
+    "va": 10.0,
+    "buy": 53.0,
+    "bs": 1.59,
     "breakout": false,
     "priority": false,
     "result_15m": null,
