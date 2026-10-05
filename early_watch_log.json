@@ -28150,7 +28150,10 @@
       "max_up": 0.62,
       "max_down": -2.35
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.99,
+      "max_down": -2.35
+    }
   },
   {
     "symbol": "PEPEIRT",
@@ -28178,7 +28181,10 @@
       "max_up": 1.63,
       "max_down": -2.13
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.9,
+      "max_down": -2.13
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -28856,7 +28862,10 @@
       "max_up": 0.0,
       "max_down": -3.05
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.71,
+      "max_down": -4.94
+    },
     "result_12h": null
   },
   {
@@ -29146,7 +29155,10 @@
       "max_up": 2.12,
       "max_down": 0.47
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.18,
+      "max_down": 0.47
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -29186,6 +29198,25 @@
     "bs": 3.07,
     "breakout": false,
     "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRT",
+    "time": 1791215661612,
+    "price": 11640.0,
+    "level": "STRONG",
+    "hunt": 89.1,
+    "persistence": 2,
+    "p15": 1.22,
+    "vr": 0.34,
+    "va": 2.92,
+    "buy": 100,
+    "bs": 4.41,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

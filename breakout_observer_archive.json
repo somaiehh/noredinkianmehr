@@ -10542,5 +10542,18 @@
     "max_gain_pct": 0.6944,
     "levels": [],
     "expired_time": 1791064482519
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "anchor_time": 1791169943262,
+    "anchor_price": 18755.0,
+    "status": "FAILED",
+    "created_time": 1791169943262,
+    "last_time": 1791215460646,
+    "last_price": 20319.0,
+    "max_gain_pct": 13.5697,
+    "levels": [],
+    "failed_time": 1791170144269,
+    "failed_price": 18175.0
   }
 ]
