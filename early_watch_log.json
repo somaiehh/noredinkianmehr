@@ -27840,7 +27840,10 @@
       "max_up": 1.93,
       "max_down": -4.1
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.93,
+      "max_down": -4.1
+    }
   },
   {
     "symbol": "SIRT",
@@ -28281,7 +28284,10 @@
       "max_up": 1.94,
       "max_down": 1.94
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 27.58,
+      "max_down": 0.12
+    },
     "result_12h": null
   },
   {
@@ -28303,7 +28309,10 @@
       "max_up": 2.29,
       "max_down": 1.63
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.29,
+      "max_down": -0.54
+    },
     "result_12h": null
   },
   {
@@ -28586,7 +28595,10 @@
     "bs": 2.88,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.6,
+      "max_down": -0.6
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -28604,6 +28616,25 @@
     "buy": 53.0,
     "bs": 1.59,
     "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MOVRIRT",
+    "time": 1791194044755,
+    "price": 631266.0,
+    "level": "STRONG",
+    "hunt": 97.9,
+    "persistence": 2,
+    "p15": 0.84,
+    "vr": 2.82,
+    "va": 6.32,
+    "buy": 44.66666666666667,
+    "bs": 1.34,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,

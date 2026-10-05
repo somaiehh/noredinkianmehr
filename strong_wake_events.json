@@ -5287,7 +5287,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.8,
+    "max_move": 3.2,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   },
@@ -5372,7 +5372,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.3178,
-    "min_move": -0.3876,
+    "min_move": -1.0078,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "DASHIRT",
+    "event_time": 1791193783379,
+    "event_price": 16098975.0,
+    "anchor_time": 1791191049941,
+    "anchor_price": 16230000.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.9091,
+    "tm_e15_e1": 0.9091,
+    "tm_e1_e4": 0.2683,
+    "tm_g15": 3.3333,
+    "tm_g1": 0.8462,
+    "tm_g4": 1.3226,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
