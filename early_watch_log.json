@@ -27567,7 +27567,10 @@
       "max_up": 13.11,
       "max_down": -6.7
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 66.06,
+      "max_down": -6.7
+    }
   },
   {
     "symbol": "QIRT",
@@ -28070,7 +28073,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -2.12
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -28092,7 +28098,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.85
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -28132,7 +28141,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
