@@ -1945,5 +1945,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791167895951,
+    "symbol": "PORTALIRT",
+    "price": 5104.0,
+    "hunt_score": 86.3,
+    "status": "EARLY",
+    "p15": 0.08,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 2.25,
+    "breakout": true,
+    "persistence": 2
   }
 ]

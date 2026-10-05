@@ -4382,5 +4382,24 @@
       "max_up": -0.83,
       "max_down": -2.97
     }
+  },
+  {
+    "symbol": "PORTALIRT",
+    "time": 1791167891947,
+    "price": 5104.0,
+    "pre30": 1.11,
+    "pre60": 2.0,
+    "pre120": 3.53,
+    "hunt": 86.3,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 75.0,
+    "bs": 2.25,
+    "ob": 0.08,
+    "p15": 0.08,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
