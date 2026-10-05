@@ -27260,7 +27260,10 @@
       "max_up": 0.06,
       "max_down": -4.72
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.06,
+      "max_down": -4.72
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -27288,7 +27291,10 @@
       "max_up": 5.66,
       "max_down": -0.41
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.66,
+      "max_down": -2.33
+    }
   },
   {
     "symbol": "TUTIRT",
@@ -27316,7 +27322,10 @@
       "max_up": -0.21,
       "max_down": -1.9
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.29,
+      "max_down": -2.49
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -27667,7 +27676,10 @@
       "max_up": 1.52,
       "max_down": -0.24
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.52,
+      "max_down": -0.88
+    },
     "result_12h": null
   },
   {
@@ -27692,7 +27704,10 @@
       "max_up": 6.12,
       "max_down": -0.63
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 8.19,
+      "max_down": -0.63
+    },
     "result_12h": null
   },
   {
@@ -27867,6 +27882,25 @@
       "max_up": -2.12,
       "max_down": -5.11
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "COMMONIRT",
+    "time": 1791163163384,
+    "price": 15.9,
+    "level": "WATCH",
+    "hunt": 40.9,
+    "persistence": 1,
+    "p15": 0.63,
+    "vr": 0.32,
+    "va": 2.17,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }

@@ -9811,5 +9811,30 @@
     "max_gain_pct": 0.6652,
     "levels": [],
     "expired_time": 1791142919735
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1791103340910,
+    "anchor_price": 13652.0,
+    "status": "EXPIRED",
+    "created_time": 1791103340910,
+    "last_time": 1791163348840,
+    "last_price": 13470.0,
+    "max_gain_pct": 1.0182,
+    "levels": [],
+    "expired_time": 1791146951535
+  },
+  {
+    "symbol": "COMMONIRT",
+    "anchor_time": 1791103340910,
+    "anchor_price": 16.1,
+    "status": "FAILED",
+    "created_time": 1791103340910,
+    "last_time": 1791163348840,
+    "last_price": 15.9,
+    "max_gain_pct": 1.8634,
+    "levels": [],
+    "failed_time": 1791128093276,
+    "failed_price": 15.6
   }
 ]
