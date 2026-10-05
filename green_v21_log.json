@@ -4579,5 +4579,24 @@
       "max_down": -2.53
     },
     "result_4h": null
+  },
+  {
+    "symbol": "SAGAIRT",
+    "time": 1791203343737,
+    "price": 6404.0,
+    "pre30": -2.72,
+    "pre60": -1.55,
+    "pre120": 1.51,
+    "hunt": 62.8,
+    "persistence": 4,
+    "vr": 10.0,
+    "va": 2.0,
+    "buy": 11.0,
+    "bs": 0.33,
+    "ob": 1.0,
+    "p15": 0.34,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
