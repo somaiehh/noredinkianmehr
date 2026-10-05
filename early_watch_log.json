@@ -28769,6 +28769,28 @@
     "bs": 1.71,
     "breakout": true,
     "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -0.28
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SAGAIRT",
+    "time": 1791200366318,
+    "price": 6583.0,
+    "level": "STRONG",
+    "hunt": 93.8,
+    "persistence": 5,
+    "p15": 1.43,
+    "vr": 0.41,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
