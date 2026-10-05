@@ -10001,5 +10001,60 @@
     "confirmed_time": 1791021838014,
     "confirmed_price": 6204.0,
     "expired_time": 1791050735810
+  },
+  {
+    "symbol": "AURORAIRT",
+    "anchor_time": 1791130014686,
+    "anchor_price": 17550.0,
+    "status": "EXPIRED",
+    "created_time": 1791130014686,
+    "last_time": 1791182355448,
+    "last_price": 19569.0,
+    "max_gain_pct": 12.5128,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791130629590,
+    "confirmed_price": 18980.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791130629590,
+        "price": 18980.0,
+        "gain_pct": 8.1481
+      },
+      {
+        "level": 10,
+        "time": 1791142563551,
+        "price": 19523.0,
+        "gain_pct": 11.2422
+      }
+    ],
+    "expired_time": 1791173389965
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1790854193483,
+    "anchor_price": 395.0,
+    "status": "EXPIRED",
+    "created_time": 1790854193483,
+    "last_time": 1791182355448,
+    "last_price": 418.0,
+    "max_gain_pct": 5.8228,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790879565010,
+    "confirmed_price": 415.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790879565010,
+        "price": 415.0,
+        "gain_pct": 5.0633
+      }
+    ],
+    "expired_time": 1790898719519
   }
 ]
