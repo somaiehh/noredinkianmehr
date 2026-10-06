@@ -2660,5 +2660,18 @@
     "bs": 2.41,
     "breakout": false,
     "persistence": 6
+  },
+  {
+    "time": 1791324642185,
+    "symbol": "INJIRT",
+    "price": 2214736.0,
+    "hunt_score": 87.7,
+    "status": "EARLY",
+    "p15": 1.06,
+    "vr": 0.83,
+    "va": 2.0,
+    "bs": 0.77,
+    "breakout": true,
+    "persistence": 2
   }
 ]
