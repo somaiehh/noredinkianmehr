@@ -11533,5 +11533,31 @@
     "levels": [],
     "failed_time": 1791253961331,
     "failed_price": 122.3
+  },
+  {
+    "symbol": "ONDOIRT",
+    "anchor_time": 1791126142436,
+    "anchor_price": 132940.0,
+    "status": "FAILED",
+    "created_time": 1791126142436,
+    "last_time": 1791298739616,
+    "last_price": 133275.0,
+    "max_gain_pct": 3.3812,
+    "levels": [],
+    "failed_time": 1791152411843,
+    "failed_price": 128851.0
+  },
+  {
+    "symbol": "NOTIRT",
+    "anchor_time": 1791102706377,
+    "anchor_price": 137.7,
+    "status": "FAILED",
+    "created_time": 1791102706377,
+    "last_time": 1791298739616,
+    "last_price": 132.9,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791144255014,
+    "failed_price": 133.0
   }
 ]
