@@ -30452,7 +30452,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.96,
+      "max_down": -0.05
+    },
     "result_12h": null
   },
   {
@@ -30477,7 +30480,10 @@
       "max_up": 0.83,
       "max_down": -0.24
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.83,
+      "max_down": -8.42
+    },
     "result_12h": null
   },
   {

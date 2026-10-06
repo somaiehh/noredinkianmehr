@@ -5175,7 +5175,10 @@
       "max_up": 0.83,
       "max_down": -0.24
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.83,
+      "max_down": -8.42
+    }
   },
   {
     "symbol": "NAKAIRT",
@@ -5435,7 +5438,10 @@
     "ob": 1.0,
     "p15": 0.42,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.27,
+      "max_down": -0.14
+    },
     "result_4h": null
   },
   {
@@ -5454,7 +5460,10 @@
     "ob": 1.0,
     "p15": 0.05,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.01,
+      "max_down": -0.24
+    },
     "result_4h": null
   },
   {
