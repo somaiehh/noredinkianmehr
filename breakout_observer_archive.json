@@ -10963,5 +10963,61 @@
       }
     ],
     "expired_time": 1791245427857
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1791214073819,
+    "anchor_price": 13292.0,
+    "status": "EXPIRED",
+    "created_time": 1791214073819,
+    "last_time": 1791259911481,
+    "last_price": 13015.0,
+    "max_gain_pct": 0.8125,
+    "levels": [],
+    "expired_time": 1791257481456
+  },
+  {
+    "symbol": "CAPIRT",
+    "anchor_time": 1791195817753,
+    "anchor_price": 17814.1,
+    "status": "EXPIRED",
+    "created_time": 1791195817753,
+    "last_time": 1791259911481,
+    "last_price": 20500.0,
+    "max_gain_pct": 15.0774,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791213833799,
+    "confirmed_price": 18382.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791216207783,
+        "price": 18781.6,
+        "gain_pct": 5.4311
+      },
+      {
+        "level": 10,
+        "time": 1791224707880,
+        "price": 19733.8,
+        "gain_pct": 10.7763
+      }
+    ],
+    "expired_time": 1791239125602
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1791195817753,
+    "anchor_price": 16492.0,
+    "status": "FAILED",
+    "created_time": 1791195817753,
+    "last_time": 1791261467909,
+    "last_price": 15298.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791197445449,
+    "failed_price": 15818.0
   }
 ]
