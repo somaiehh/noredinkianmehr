@@ -30492,7 +30492,10 @@
       "max_up": 2.96,
       "max_down": -0.05
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.96,
+      "max_down": -1.84
+    }
   },
   {
     "symbol": "AINIRT",
@@ -30520,7 +30523,10 @@
       "max_up": 0.83,
       "max_down": -8.42
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.83,
+      "max_down": -19.51
+    }
   },
   {
     "symbol": "MOVRIRT",
@@ -31229,7 +31235,10 @@
       "max_up": 21.91,
       "max_down": 11.65
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 30.5,
+      "max_down": 11.65
+    },
     "result_12h": null
   },
   {
@@ -31254,7 +31263,10 @@
       "max_up": 0.51,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.6,
+      "max_down": -1.31
+    },
     "result_12h": null
   },
   {
@@ -31279,7 +31291,10 @@
       "max_up": 0.25,
       "max_down": -0.4
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.25,
+      "max_down": -1.83
+    },
     "result_12h": null
   },
   {
@@ -31301,7 +31316,10 @@
       "max_up": -0.85,
       "max_down": -0.85
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.24,
+      "max_down": -1.51
+    },
     "result_12h": null
   },
   {
@@ -31468,7 +31486,10 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.36,
+      "max_down": -0.36
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -31487,7 +31508,10 @@
     "bs": 3.48,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -3.71,
+      "max_down": -3.71
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -31504,6 +31528,44 @@
     "va": 2.78,
     "buy": 51.66666666666667,
     "bs": 1.55,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "API3IRT",
+    "time": 1791312844228,
+    "price": 91976.0,
+    "level": "WATCH",
+    "hunt": 49.9,
+    "persistence": 1,
+    "p15": 0.6,
+    "vr": 0.41,
+    "va": 6.88,
+    "buy": 42.0,
+    "bs": 1.26,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1791313153269,
+    "price": 0.00010953,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 2,
+    "p15": 1.42,
+    "vr": 0.39,
+    "va": 10.0,
+    "buy": 60.333333333333336,
+    "bs": 1.81,
     "breakout": false,
     "priority": false,
     "result_15m": null,

@@ -11623,5 +11623,44 @@
     "max_gain_pct": 1.8461,
     "levels": [],
     "expired_time": 1791305630303
+  },
+  {
+    "symbol": "CAPIRT",
+    "anchor_time": 1791261241550,
+    "anchor_price": 21473.0,
+    "status": "FAILED",
+    "created_time": 1791261241550,
+    "last_time": 1791312561789,
+    "last_price": 22566.0,
+    "max_gain_pct": 24.6463,
+    "levels": [],
+    "failed_time": 1791264643298,
+    "failed_price": 20801.7
+  },
+  {
+    "symbol": "VTHOIRT",
+    "anchor_time": 1791258931013,
+    "anchor_price": 206.3,
+    "status": "FAILED",
+    "created_time": 1791258931013,
+    "last_time": 1791312844228,
+    "last_price": 193.0,
+    "max_gain_pct": 1.5996,
+    "levels": [],
+    "failed_time": 1791262366638,
+    "failed_price": 196.4
+  },
+  {
+    "symbol": "COQIRT",
+    "anchor_time": 1791039852379,
+    "anchor_price": 0.04,
+    "status": "FAILED",
+    "created_time": 1791039852379,
+    "last_time": 1791312844228,
+    "last_price": 0.0415,
+    "max_gain_pct": 5.0,
+    "levels": [],
+    "failed_time": 1791052450904,
+    "failed_price": 0.0388
   }
 ]
