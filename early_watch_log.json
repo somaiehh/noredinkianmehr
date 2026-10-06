@@ -30564,7 +30564,10 @@
       "max_up": 0.54,
       "max_down": -0.3
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.27,
+      "max_down": -0.33
+    },
     "result_12h": null
   },
   {
@@ -30589,7 +30592,10 @@
       "max_up": 1.4,
       "max_down": 0.3
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.4,
+      "max_down": -4.87
+    },
     "result_12h": null
   },
   {
@@ -30614,7 +30620,10 @@
       "max_up": -1.79,
       "max_down": -8.69
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 27.16,
+      "max_down": -9.48
+    },
     "result_12h": null
   },
   {
@@ -30822,7 +30831,10 @@
     "bs": 3.0,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -1.65,
+      "max_down": -1.65
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -30840,6 +30852,47 @@
     "buy": 87.0,
     "bs": 2.61,
     "breakout": true,
+    "priority": false,
+    "result_15m": {
+      "max_up": -1.56,
+      "max_down": -1.56
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SLVONIRT",
+    "time": 1791288374532,
+    "price": 14905627.0,
+    "level": "STRONG",
+    "hunt": 53.4,
+    "persistence": 1,
+    "p15": 0.31,
+    "vr": 0.04,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GTCIRT",
+    "time": 1791288973879,
+    "price": 44402.0,
+    "level": "STRONG",
+    "hunt": 65.2,
+    "persistence": 1,
+    "p15": 0.74,
+    "vr": 1.57,
+    "va": 3.31,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,

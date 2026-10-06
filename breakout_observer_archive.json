@@ -11433,5 +11433,30 @@
     "levels": [],
     "failed_time": 1791129783352,
     "failed_price": 18338.0
+  },
+  {
+    "symbol": "SLVONIRT",
+    "anchor_time": 1791104572149,
+    "anchor_price": 14850000.0,
+    "status": "FAILED",
+    "created_time": 1791104572149,
+    "last_time": 1791287081475,
+    "last_price": 14859000.0,
+    "max_gain_pct": 0.9832,
+    "levels": [],
+    "failed_time": 1791139398044,
+    "failed_price": 14400000.0
+  },
+  {
+    "symbol": "AVAXIRT",
+    "anchor_time": 1791052450904,
+    "anchor_price": 2997055.0,
+    "status": "EXPIRED",
+    "created_time": 1791052450904,
+    "last_time": 1791288374532,
+    "last_price": 3076423.0,
+    "max_gain_pct": 3.0636,
+    "levels": [],
+    "expired_time": 1791096466713
   }
 ]
