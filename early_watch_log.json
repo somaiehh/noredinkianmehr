@@ -29425,7 +29425,10 @@
       "max_up": 0.0,
       "max_down": -3.68
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -4.91
+    }
   },
   {
     "symbol": "ONEIRT",
@@ -30134,6 +30137,28 @@
     "persistence": 1,
     "p15": 0.55,
     "vr": 0.1,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -4.81
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BOMEIRT",
+    "time": 1791259513972,
+    "price": 251.7,
+    "level": "WATCH",
+    "hunt": 45.9,
+    "persistence": 1,
+    "p15": 0.28,
+    "vr": 0.77,
     "va": 10.0,
     "buy": 100,
     "bs": 5.0,
