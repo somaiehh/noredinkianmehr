@@ -2348,5 +2348,31 @@
     "bs": 0.13,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1791250701926,
+    "symbol": "RLCIRT",
+    "price": 213234.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.54,
+    "vr": 3.2,
+    "va": 4.79,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1791250918371,
+    "symbol": "RLCIRT",
+    "price": 212282.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.09,
+    "vr": 11.08,
+    "va": 10.0,
+    "bs": 2.95,
+    "breakout": true,
+    "persistence": 3
   }
 ]
