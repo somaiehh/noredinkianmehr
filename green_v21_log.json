@@ -5100,7 +5100,10 @@
       "max_up": 0.76,
       "max_down": -0.59
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.76,
+      "max_down": -1.28
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -5272,7 +5275,10 @@
     "ob": 1.0,
     "p15": 0.51,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 5.44,
+      "max_down": 0.11
+    },
     "result_4h": null
   },
   {
@@ -5291,7 +5297,10 @@
     "ob": 1.0,
     "p15": 0.17,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.73,
+      "max_down": 0.0
+    },
     "result_4h": null
   },
   {
@@ -5310,7 +5319,10 @@
     "ob": 1.0,
     "p15": 0.26,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.13,
+      "max_down": 0.45
+    },
     "result_4h": null
   },
   {

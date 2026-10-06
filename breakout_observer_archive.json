@@ -11283,5 +11283,28 @@
     "levels": [],
     "failed_time": 1791227320209,
     "failed_price": 19952.0
+  },
+  {
+    "symbol": "LINKIRT",
+    "anchor_time": 1791234415809,
+    "anchor_price": 3737737.0,
+    "status": "WATCHING",
+    "created_time": 1791234415809,
+    "last_time": 1791277178164,
+    "last_price": 3750424.0,
+    "max_gain_pct": 0.6753,
+    "levels": []
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1791199563986,
+    "anchor_price": 1.6087,
+    "status": "EXPIRED",
+    "created_time": 1791199563986,
+    "last_time": 1791278294381,
+    "last_price": 1.5749,
+    "max_gain_pct": 0.1243,
+    "levels": [],
+    "expired_time": 1791244554944
   }
 ]
