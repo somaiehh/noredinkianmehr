@@ -30709,7 +30709,10 @@
       "max_up": 0.59,
       "max_down": -1.13
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.59,
+      "max_down": -2.71
+    }
   },
   {
     "symbol": "ZECIRT",
@@ -30737,7 +30740,10 @@
       "max_up": 2.87,
       "max_down": 0.45
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.21,
+      "max_down": -0.17
+    }
   },
   {
     "symbol": "LABIRT",
@@ -31471,7 +31477,10 @@
       "max_up": -0.35,
       "max_down": -1.07
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.35,
+      "max_down": -3.23
+    },
     "result_12h": null
   },
   {
@@ -31636,7 +31645,10 @@
       "max_up": 0.03,
       "max_down": -0.34
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.03,
+      "max_down": -2.14
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -31658,7 +31670,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.31,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -31674,6 +31689,28 @@
     "va": 10.0,
     "buy": 81.0,
     "bs": 2.43,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -3.16
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1791318890435,
+    "price": 1.5572,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 1,
+    "p15": 0.69,
+    "vr": 0.46,
+    "va": 8.8,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,

@@ -5650,7 +5650,10 @@
       "max_up": -0.39,
       "max_down": -1.22
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.39,
+      "max_down": -1.81
+    }
   },
   {
     "symbol": "VELVETIRT",
@@ -5672,7 +5675,10 @@
       "max_up": -0.55,
       "max_down": -1.32
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.16,
+      "max_down": -1.66
+    }
   },
   {
     "symbol": "ONEIRT",
