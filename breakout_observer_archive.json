@@ -11108,5 +11108,18 @@
     "confirmed_time": 1790778522675,
     "confirmed_price": 1563.0,
     "expired_time": 1790821830863
+  },
+  {
+    "symbol": "BRIRT",
+    "anchor_time": 1791176149413,
+    "anchor_price": 123039.0,
+    "status": "FAILED",
+    "created_time": 1791176149413,
+    "last_time": 1791268386588,
+    "last_price": 108377.0,
+    "max_gain_pct": 1.5938,
+    "levels": [],
+    "failed_time": 1791181974816,
+    "failed_price": 115526.0
   }
 ]
