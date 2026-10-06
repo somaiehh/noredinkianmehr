@@ -29304,7 +29304,10 @@
       "max_up": 4.67,
       "max_down": 0.47
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.67,
+      "max_down": -2.83
+    }
   },
   {
     "symbol": "SAGAIRT",
@@ -29985,7 +29988,10 @@
       "max_up": 1.1,
       "max_down": -1.93
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.43,
+      "max_down": -1.93
+    },
     "result_12h": null
   },
   {
@@ -30007,7 +30013,10 @@
       "max_up": 0.37,
       "max_down": 0.37
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.37,
+      "max_down": -2.34
+    },
     "result_12h": null
   },
   {
@@ -30053,7 +30062,10 @@
       "max_up": 0.42,
       "max_down": -0.45
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.42,
+      "max_down": -15.59
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -30075,7 +30087,10 @@
       "max_up": 0.0,
       "max_down": -2.19
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.14,
+      "max_down": -2.19
+    },
     "result_4h": null,
     "result_12h": null
   }
