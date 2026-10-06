@@ -29546,7 +29546,10 @@
       "max_up": 4.94,
       "max_down": -3.92
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 12.78,
+      "max_down": -3.97
+    }
   },
   {
     "symbol": "SAGAIRT",
@@ -30161,7 +30164,10 @@
       "max_up": 0.0,
       "max_down": -4.81
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.65,
+      "max_down": -4.81
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -30183,6 +30189,25 @@
       "max_up": 0.0,
       "max_down": -0.2
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "RLCIRT",
+    "time": 1791262569857,
+    "price": 197148.0,
+    "level": "STRONG",
+    "hunt": 73.3,
+    "persistence": 1,
+    "p15": 1.73,
+    "vr": 0.11,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
