@@ -5125,7 +5125,10 @@
       "max_up": 0.0,
       "max_down": -0.55
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.1,
+      "max_down": -0.55
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -5147,7 +5150,10 @@
       "max_up": -0.02,
       "max_down": -0.55
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.1,
+      "max_down": -0.55
+    }
   },
   {
     "symbol": "AINIRT",
@@ -5341,7 +5347,10 @@
     "ob": 1.0,
     "p15": 0.17,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.73,
+      "max_down": 0.02
+    },
     "result_4h": null
   },
   {
@@ -5360,7 +5369,10 @@
     "ob": 0.8,
     "p15": 0.19,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.72,
+      "max_down": 0.0
+    },
     "result_4h": null
   },
   {
@@ -5378,6 +5390,66 @@
     "bs": 3.0,
     "ob": 1.0,
     "p15": 0.19,
+    "breakout": false,
+    "result_1h": {
+      "max_up": 0.72,
+      "max_down": -0.33
+    },
+    "result_4h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1791279719156,
+    "price": 1.5774,
+    "pre30": 0.32,
+    "pre60": 0.2,
+    "pre120": 0.7,
+    "hunt": 68.6,
+    "persistence": 2,
+    "vr": 3.99,
+    "va": 7.14,
+    "buy": 91.33333333333334,
+    "bs": 2.74,
+    "ob": 1.0,
+    "p15": 0.39,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1791279963941,
+    "price": 1.5779,
+    "pre30": 0.35,
+    "pre60": 0.24,
+    "pre120": 0.73,
+    "hunt": 71.3,
+    "persistence": 3,
+    "vr": 12.6,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.42,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1791279963941,
+    "price": 420019.0,
+    "pre30": 0.0,
+    "pre60": 0.06,
+    "pre120": 0.48,
+    "hunt": 76.4,
+    "persistence": 7,
+    "vr": 3.35,
+    "va": 10.0,
+    "buy": 17.666666666666668,
+    "bs": 0.53,
+    "ob": 1.0,
+    "p15": 0.05,
     "breakout": false,
     "result_1h": null,
     "result_4h": null
