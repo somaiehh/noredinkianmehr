@@ -5620,5 +5620,43 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1791304201272,
+    "price": 1.572,
+    "pre30": 0.08,
+    "pre60": -0.32,
+    "pre120": -0.2,
+    "hunt": 62.1,
+    "persistence": 3,
+    "vr": 9.5,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.23,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "VELVETIRT",
+    "time": 1791304201272,
+    "price": 19760.0,
+    "pre30": 1.1,
+    "pre60": 0.11,
+    "pre120": 0.04,
+    "hunt": 84.0,
+    "persistence": 5,
+    "vr": 1.24,
+    "va": 10.0,
+    "buy": 16.333333333333332,
+    "bs": 0.49,
+    "ob": 0.87,
+    "p15": 0.84,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
