@@ -30892,7 +30892,10 @@
       "max_up": 0.04,
       "max_down": -14.77
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.04,
+      "max_down": -21.73
+    }
   },
   {
     "symbol": "C98IRT",
@@ -30920,7 +30923,10 @@
       "max_up": 3.69,
       "max_down": -4.06
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.13,
+      "max_down": -10.74
+    }
   },
   {
     "symbol": "DIAIRT",
@@ -31679,7 +31685,10 @@
       "max_up": 0.03,
       "max_down": -2.14
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.03,
+      "max_down": -2.14
+    },
     "result_12h": null
   },
   {
@@ -31704,7 +31713,10 @@
       "max_up": 0.31,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.41,
+      "max_down": -1.33
+    },
     "result_12h": null
   },
   {
