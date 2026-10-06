@@ -11572,5 +11572,32 @@
     "levels": [],
     "failed_time": 1791262780050,
     "failed_price": 11202.0
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1791214073819,
+    "anchor_price": 491.0,
+    "status": "EXPIRED",
+    "created_time": 1791214073819,
+    "last_time": 1791304201272,
+    "last_price": 487.6,
+    "max_gain_pct": 3.8289,
+    "levels": [],
+    "confirmed_time": 1791221551838,
+    "confirmed_price": 508.2,
+    "expired_time": 1791257481456
+  },
+  {
+    "symbol": "RESOLVIRT",
+    "anchor_time": 1791009097414,
+    "anchor_price": 7286.0,
+    "status": "FAILED",
+    "created_time": 1791009097414,
+    "last_time": 1791304201272,
+    "last_price": 5590.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791009581607,
+    "failed_price": 7000.0
   }
 ]

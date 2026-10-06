@@ -2582,5 +2582,31 @@
     "bs": 0.49,
     "breakout": false,
     "persistence": 5
+  },
+  {
+    "time": 1791305362559,
+    "symbol": "ONEIRT",
+    "price": 492.9,
+    "hunt_score": 87.0,
+    "status": "EARLY",
+    "p15": 2.05,
+    "vr": 0.91,
+    "va": 1.38,
+    "bs": 1.78,
+    "breakout": true,
+    "persistence": 4
+  },
+  {
+    "time": 1791305634098,
+    "symbol": "RESOLVIRT",
+    "price": 5711.0,
+    "hunt_score": 87.2,
+    "status": "EARLY",
+    "p15": 2.06,
+    "vr": 6.99,
+    "va": 2.0,
+    "bs": 1.41,
+    "breakout": true,
+    "persistence": 2
   }
 ]

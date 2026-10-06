@@ -30306,7 +30306,10 @@
       "max_up": 29.59,
       "max_down": 1.45
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 47.18,
+      "max_down": 1.45
+    }
   },
   {
     "symbol": "LABIRT",
@@ -30996,7 +30999,10 @@
       "max_up": 0.0,
       "max_down": -0.7
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -2.29
+    },
     "result_12h": null
   },
   {
@@ -31018,7 +31024,10 @@
       "max_up": 1.42,
       "max_down": 0.53
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 7.05,
+      "max_down": -0.58
+    },
     "result_12h": null
   },
   {
@@ -31280,7 +31289,10 @@
       "max_up": -0.67,
       "max_down": -0.67
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.37,
+      "max_down": -1.11
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -31302,7 +31314,10 @@
       "max_up": 0.0,
       "max_down": -0.7
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.22
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -31324,7 +31339,10 @@
       "max_up": -0.37,
       "max_down": -0.72
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.37,
+      "max_down": -0.72
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -31346,7 +31364,10 @@
       "max_up": 0.11,
       "max_down": -0.52
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.57,
+      "max_down": -0.52
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -31364,7 +31385,10 @@
     "bs": 2.25,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.35,
+      "max_down": -0.35
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
