@@ -4903,7 +4903,10 @@
       "max_up": 2.56,
       "max_down": -1.16
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 4.25,
+      "max_down": -1.16
+    }
   },
   {
     "symbol": "EDUIRT",
@@ -4925,7 +4928,10 @@
       "max_up": 2.56,
       "max_down": -1.16
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 4.25,
+      "max_down": -1.16
+    }
   },
   {
     "symbol": "NEARIRT",
