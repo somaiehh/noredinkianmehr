@@ -30372,5 +30372,43 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "NAKAIRT",
+    "time": 1791269938058,
+    "price": 33137.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.11,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.41,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "AINIRT",
+    "time": 1791269938058,
+    "price": 15552.0,
+    "level": "STRONG",
+    "hunt": 72.7,
+    "persistence": 3,
+    "p15": 0.92,
+    "vr": 9.88,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]

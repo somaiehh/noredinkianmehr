@@ -11121,5 +11121,31 @@
     "levels": [],
     "failed_time": 1791181974816,
     "failed_price": 115526.0
+  },
+  {
+    "symbol": "NAKAIRT",
+    "anchor_time": 1791207495092,
+    "anchor_price": 37028.0,
+    "status": "FAILED",
+    "created_time": 1791207495092,
+    "last_time": 1791269627576,
+    "last_price": 33137.0,
+    "max_gain_pct": 0.424,
+    "levels": [],
+    "failed_time": 1791212092347,
+    "failed_price": 35873.0
+  },
+  {
+    "symbol": "SUNDOGIRT",
+    "anchor_time": 1791212345761,
+    "anchor_price": 569.0,
+    "status": "FAILED",
+    "created_time": 1791212345761,
+    "last_time": 1791269627576,
+    "last_price": 339.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791213587096,
+    "failed_price": 535.0
   }
 ]
