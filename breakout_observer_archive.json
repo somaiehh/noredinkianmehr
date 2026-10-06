@@ -11081,5 +11081,18 @@
     "max_gain_pct": 1.9093,
     "levels": [],
     "expired_time": 1791225950335
+  },
+  {
+    "symbol": "FLOKIIRT",
+    "anchor_time": 1791197688167,
+    "anchor_price": 8.02868,
+    "status": "FAILED",
+    "created_time": 1791197688167,
+    "last_time": 1791266172319,
+    "last_price": 7.71731,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791209246010,
+    "failed_price": 7.76838
   }
 ]

@@ -2400,5 +2400,44 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 4
+  },
+  {
+    "time": 1791266176400,
+    "symbol": "SIRT",
+    "price": 12006.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.82,
+    "vr": 20.0,
+    "va": 5.33,
+    "bs": 1.05,
+    "breakout": true,
+    "persistence": 3
+  },
+  {
+    "time": 1791266374441,
+    "symbol": "SIRT",
+    "price": 12006.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.82,
+    "vr": 20.0,
+    "va": 4.04,
+    "bs": 1.05,
+    "breakout": true,
+    "persistence": 4
+  },
+  {
+    "time": 1791266573177,
+    "symbol": "SIRT",
+    "price": 12006.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.82,
+    "vr": 20.0,
+    "va": 3.72,
+    "bs": 0.97,
+    "breakout": true,
+    "persistence": 5
   }
 ]

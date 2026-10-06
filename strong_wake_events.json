@@ -5348,10 +5348,10 @@
     "tm_g4": 1.0213,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791215661612,
-    "result_move": -8.8413,
+    "result_time": 1791216798545,
+    "result_move": -9.9383,
     "max_move": 0.0,
-    "min_move": -8.8413,
+    "min_move": -9.9383,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -5540,7 +5540,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.1171,
-    "min_move": -0.0649,
+    "min_move": -2.3424,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -5581,7 +5581,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.1994,
+    "max_move": 1.3749,
     "min_move": -2.0452,
     "ledger_version": "wake-ledger-v1"
   },
@@ -5603,6 +5603,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.1986,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "VELVETIRT",
+    "event_time": 1791266370184,
+    "event_price": 19110.0,
+    "anchor_time": 1791266172319,
+    "anchor_price": 19110.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.6923,
+    "tm_e15_e1": 0.6923,
+    "tm_e1_e4": 0.5652,
+    "tm_g15": 1.125,
+    "tm_g1": 1.0833,
+    "tm_g4": 1.0952,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
