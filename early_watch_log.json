@@ -29940,7 +29940,10 @@
       "max_up": 0.46,
       "max_down": 0.01
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.46,
+      "max_down": -1.93
+    }
   },
   {
     "symbol": "FILIRT",
@@ -29968,7 +29971,10 @@
       "max_up": 2.76,
       "max_down": 0.28
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.22,
+      "max_down": -1.52
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -30530,7 +30536,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 1.3,
+      "max_down": 0.5
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -30549,7 +30558,10 @@
     "bs": 2.47,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -5.54,
+      "max_down": -8.69
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -30568,7 +30580,10 @@
     "bs": 3.22,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.28,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -30587,7 +30602,10 @@
     "bs": 3.84,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.59,
+      "max_down": 0.45
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
