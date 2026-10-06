@@ -2543,5 +2543,31 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 4
+  },
+  {
+    "time": 1791294962135,
+    "symbol": "AINIRT",
+    "price": 14835.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 0.94,
+    "vr": 1.84,
+    "va": 10.0,
+    "bs": 0.62,
+    "breakout": false,
+    "persistence": 2
+  },
+  {
+    "time": 1791295230952,
+    "symbol": "C98IRT",
+    "price": 5287.0,
+    "hunt_score": 88.9,
+    "status": "EARLY",
+    "p15": 1.5,
+    "vr": 0.46,
+    "va": 3.38,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 3
   }
 ]

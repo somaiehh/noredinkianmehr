@@ -5475,7 +5475,10 @@
       "max_up": 0.27,
       "max_down": -0.14
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.89,
+      "max_down": -0.14
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -5497,7 +5500,10 @@
       "max_up": -0.01,
       "max_down": -0.24
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.47,
+      "max_down": -0.63
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -5563,6 +5569,25 @@
       "max_up": 0.38,
       "max_down": 0.0
     },
+    "result_4h": null
+  },
+  {
+    "symbol": "AINIRT",
+    "time": 1791294957767,
+    "price": 14835.0,
+    "pre30": 0.92,
+    "pre60": 0.2,
+    "pre120": 0.27,
+    "hunt": 84.0,
+    "persistence": 2,
+    "vr": 1.84,
+    "va": 10.0,
+    "buy": 20.666666666666668,
+    "bs": 0.62,
+    "ob": 1.0,
+    "p15": 0.94,
+    "breakout": false,
+    "result_1h": null,
     "result_4h": null
   }
 ]
