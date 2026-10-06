@@ -2478,5 +2478,18 @@
     "bs": 3.0,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1791275055054,
+    "symbol": "ZECIRT",
+    "price": 359394992.0,
+    "hunt_score": 85.3,
+    "status": "EARLY",
+    "p15": 0.26,
+    "vr": 13.02,
+    "va": 5.05,
+    "bs": 3.84,
+    "breakout": true,
+    "persistence": 2
   }
 ]
