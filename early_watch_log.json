@@ -30861,7 +30861,10 @@
       "max_up": 0.38,
       "max_down": -0.1
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.38,
+      "max_down": -0.5
+    }
   },
   {
     "symbol": "RADIRT",
@@ -31542,7 +31545,10 @@
       "max_up": 1.21,
       "max_down": -4.29
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.45,
+      "max_down": -4.29
+    },
     "result_12h": null
   },
   {
@@ -31567,7 +31573,10 @@
       "max_up": 2.85,
       "max_down": -3.71
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.85,
+      "max_down": -10.36
+    },
     "result_12h": null
   },
   {
@@ -31589,7 +31598,10 @@
       "max_up": -1.53,
       "max_down": -5.3
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.45,
+      "max_down": -10.78
+    },
     "result_12h": null
   },
   {
@@ -31614,7 +31626,10 @@
       "max_up": 1.95,
       "max_down": -0.2
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.95,
+      "max_down": -3.24
+    },
     "result_12h": null
   },
   {
@@ -31636,7 +31651,10 @@
       "max_up": 0.0,
       "max_down": -0.59
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.16,
+      "max_down": -2.58
+    },
     "result_12h": null
   },
   {
