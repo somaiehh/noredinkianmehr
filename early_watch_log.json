@@ -30508,7 +30508,10 @@
       "max_up": 1.19,
       "max_down": -0.96
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.69,
+      "max_down": -0.96
+    },
     "result_12h": null
   },
   {
@@ -30533,7 +30536,10 @@
       "max_up": -0.43,
       "max_down": -1.19
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.8,
+      "max_down": -1.19
+    },
     "result_12h": null
   },
   {
@@ -30729,7 +30735,10 @@
       "max_up": 0.09,
       "max_down": 0.09
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.5,
+      "max_down": 0.09
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -30746,6 +30755,47 @@
     "buy": 99.33333333333333,
     "bs": 2.98,
     "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": 0.38,
+      "max_down": 0.0
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "RADIRT",
+    "time": 1791285466659,
+    "price": 107589.0,
+    "level": "STRONG",
+    "hunt": 59.4,
+    "persistence": 1,
+    "p15": 1.89,
+    "vr": 1.07,
+    "va": 1.7,
+    "buy": 35.333333333333336,
+    "bs": 1.06,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "C98IRT",
+    "time": 1791285752714,
+    "price": 5178.0,
+    "level": "STRONG",
+    "hunt": 89.8,
+    "persistence": 2,
+    "p15": 1.93,
+    "vr": 0.42,
+    "va": 6.73,
+    "buy": 59.66666666666667,
+    "bs": 1.79,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,

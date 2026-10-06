@@ -11369,5 +11369,42 @@
     "levels": [],
     "failed_time": 1791238719161,
     "failed_price": 530000.0
+  },
+  {
+    "symbol": "C98IRT",
+    "anchor_time": 1790443018895,
+    "anchor_price": 3974.0,
+    "status": "EXPIRED",
+    "created_time": 1790443018895,
+    "last_time": 1791284518098,
+    "last_price": 5052.0,
+    "max_gain_pct": 29.0136,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790445581901,
+    "confirmed_price": 4237.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790445581901,
+        "price": 4237.0,
+        "gain_pct": 6.618
+      }
+    ],
+    "expired_time": 1790518673547
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1791234415809,
+    "anchor_price": 1749.9,
+    "status": "FAILED",
+    "created_time": 1791234415809,
+    "last_time": 1791284518098,
+    "last_price": 1710.5,
+    "max_gain_pct": 1.5944,
+    "levels": [],
+    "failed_time": 1791250486771,
+    "failed_price": 1682.2
   }
 ]

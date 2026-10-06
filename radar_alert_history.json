@@ -2517,5 +2517,18 @@
     "bs": 0.1,
     "breakout": false,
     "persistence": 3
+  },
+  {
+    "time": 1791285755412,
+    "symbol": "C98IRT",
+    "price": 5178.0,
+    "hunt_score": 89.8,
+    "status": "EARLY",
+    "p15": 1.93,
+    "vr": 0.42,
+    "va": 6.73,
+    "bs": 1.79,
+    "breakout": true,
+    "persistence": 2
   }
 ]
