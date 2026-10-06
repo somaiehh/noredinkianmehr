@@ -30616,7 +30616,10 @@
       "max_up": 1.27,
       "max_down": -0.33
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.27,
+      "max_down": -2.14
+    }
   },
   {
     "symbol": "VTHOIRT",
@@ -30644,7 +30647,10 @@
       "max_up": 1.4,
       "max_down": -4.87
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.4,
+      "max_down": -4.87
+    }
   },
   {
     "symbol": "BRIRT",
@@ -30672,7 +30678,10 @@
       "max_up": 27.16,
       "max_down": -9.48
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 27.16,
+      "max_down": -9.48
+    }
   },
   {
     "symbol": "SIRT",
@@ -31350,7 +31359,10 @@
       "max_up": -0.37,
       "max_down": -1.11
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.37,
+      "max_down": -2.53
+    },
     "result_12h": null
   },
   {
@@ -31375,7 +31387,10 @@
       "max_up": 0.0,
       "max_down": -1.22
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -2.79
+    },
     "result_12h": null
   },
   {
@@ -31400,7 +31415,10 @@
       "max_up": -0.37,
       "max_down": -0.72
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.37,
+      "max_down": -1.92
+    },
     "result_12h": null
   },
   {
@@ -31425,7 +31443,10 @@
       "max_up": 0.57,
       "max_down": -0.52
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.73,
+      "max_down": -1.1
+    },
     "result_12h": null
   },
   {
@@ -31543,7 +31564,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -1.53,
+      "max_down": -5.3
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -31565,7 +31589,10 @@
       "max_up": -0.2,
       "max_down": -0.2
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.95,
+      "max_down": -0.2
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -31584,7 +31611,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -0.59
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -31602,7 +31632,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.03,
+      "max_down": -0.34
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -31621,6 +31654,28 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1791316959436,
+    "price": 492.9,
+    "level": "STRONG",
+    "hunt": 84.0,
+    "persistence": 5,
+    "p15": 1.27,
+    "vr": 2.1,
+    "va": 10.0,
+    "buy": 81.0,
+    "bs": 2.43,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

@@ -11724,5 +11724,17 @@
     "max_gain_pct": 1.0659,
     "levels": [],
     "expired_time": 1791271251035
+  },
+  {
+    "symbol": "XAUTIRT",
+    "anchor_time": 1790674314496,
+    "anchor_price": 1046945785.0,
+    "status": "EXPIRED",
+    "created_time": 1790674314496,
+    "last_time": 1791314773537,
+    "last_price": 1114604587.0,
+    "max_gain_pct": 7.6258,
+    "levels": [],
+    "expired_time": 1790717894003
   }
 ]
