@@ -30120,7 +30120,10 @@
       "max_up": 0.43,
       "max_down": -0.85
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.71,
+      "max_down": -1.83
+    }
   },
   {
     "symbol": "RLCIRT",
@@ -30648,7 +30651,10 @@
       "max_up": 0.59,
       "max_down": -1.07
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.59,
+      "max_down": -1.13
+    },
     "result_12h": null
   },
   {
@@ -30673,7 +30679,10 @@
       "max_up": 1.13,
       "max_down": 0.45
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.87,
+      "max_down": 0.45
+    },
     "result_12h": null
   },
   {
@@ -30791,7 +30800,10 @@
       "max_up": 0.04,
       "max_down": -2.17
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.04,
+      "max_down": -11.21
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -30813,7 +30825,10 @@
       "max_up": -0.54,
       "max_down": -0.64
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.42,
+      "max_down": -3.44
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -30835,7 +30850,10 @@
       "max_up": -1.65,
       "max_down": -1.65
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -1.65,
+      "max_down": -4.56
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -30857,7 +30875,10 @@
       "max_up": -1.56,
       "max_down": -1.56
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.37,
+      "max_down": -8.5
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -30875,7 +30896,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -30890,6 +30914,44 @@
     "p15": 0.74,
     "vr": 1.57,
     "va": 3.31,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1791290251541,
+    "price": 10046.0,
+    "level": "WATCH",
+    "hunt": 41.8,
+    "persistence": 1,
+    "p15": 0.96,
+    "vr": 0.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ORCAIRT",
+    "time": 1791290902721,
+    "price": 677213.0,
+    "level": "STRONG",
+    "hunt": 62.5,
+    "persistence": 2,
+    "p15": 1.77,
+    "vr": 1.04,
+    "va": 1.48,
     "buy": 100,
     "bs": 5.0,
     "breakout": false,

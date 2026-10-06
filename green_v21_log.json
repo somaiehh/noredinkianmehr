@@ -5300,7 +5300,10 @@
       "max_up": 5.44,
       "max_down": 0.11
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 5.44,
+      "max_down": 0.11
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -5322,7 +5325,10 @@
       "max_up": 0.73,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.29,
+      "max_down": -0.31
+    }
   },
   {
     "symbol": "ZECIRT",
@@ -5344,7 +5350,10 @@
       "max_up": 1.13,
       "max_down": 0.45
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.87,
+      "max_down": 0.45
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -5366,7 +5375,10 @@
       "max_up": 0.73,
       "max_down": 0.02
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.29,
+      "max_down": -0.31
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -5388,7 +5400,10 @@
       "max_up": 0.72,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.27,
+      "max_down": -0.33
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -5410,7 +5425,10 @@
       "max_up": 0.72,
       "max_down": -0.33
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.27,
+      "max_down": -0.33
+    }
   },
   {
     "symbol": "SHIBIRT",
