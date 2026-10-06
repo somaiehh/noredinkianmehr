@@ -11094,5 +11094,19 @@
     "levels": [],
     "failed_time": 1791209246010,
     "failed_price": 7.76838
+  },
+  {
+    "symbol": "WODIRT",
+    "anchor_time": 1790776517537,
+    "anchor_price": 1500.0,
+    "status": "EXPIRED",
+    "created_time": 1790776517537,
+    "last_time": 1791267537541,
+    "last_price": 1663.0,
+    "max_gain_pct": 10.8667,
+    "levels": [],
+    "confirmed_time": 1790778522675,
+    "confirmed_price": 1563.0,
+    "expired_time": 1790821830863
   }
 ]
