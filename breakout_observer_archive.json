@@ -11662,5 +11662,67 @@
     "levels": [],
     "failed_time": 1791052450904,
     "failed_price": 0.0388
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1791261241550,
+    "anchor_price": 13260.0,
+    "status": "EXPIRED",
+    "created_time": 1791261241550,
+    "last_time": 1791313153269,
+    "last_price": 13402.0,
+    "max_gain_pct": 2.6395,
+    "levels": [],
+    "expired_time": 1791305358283
+  },
+  {
+    "symbol": "NMRIRT",
+    "anchor_time": 1790653590426,
+    "anchor_price": 3746304.0,
+    "status": "FAILED",
+    "created_time": 1790653590426,
+    "last_time": 1791314086142,
+    "last_price": 4301638.0,
+    "max_gain_pct": 29.0701,
+    "levels": [],
+    "failed_time": 1790654692672,
+    "failed_price": 3610971.0
+  },
+  {
+    "symbol": "WLDIRT",
+    "anchor_time": 1791189215852,
+    "anchor_price": 158756.0,
+    "status": "FAILED",
+    "created_time": 1791189215852,
+    "last_time": 1791314086142,
+    "last_price": 147071.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791199324062,
+    "failed_price": 153860.0
+  },
+  {
+    "symbol": "AAVEIRT",
+    "anchor_time": 1791135251495,
+    "anchor_price": 48361137.0,
+    "status": "EXPIRED",
+    "created_time": 1791135251495,
+    "last_time": 1791314497582,
+    "last_price": 48694004.0,
+    "max_gain_pct": 2.7735,
+    "levels": [],
+    "expired_time": 1791179224516
+  },
+  {
+    "symbol": "GALAIRT",
+    "anchor_time": 1791225950335,
+    "anchor_price": 666.1,
+    "status": "EXPIRED",
+    "created_time": 1791225950335,
+    "last_time": 1791314497582,
+    "last_price": 659.5,
+    "max_gain_pct": 1.0659,
+    "levels": [],
+    "expired_time": 1791271251035
   }
 ]
