@@ -29608,7 +29608,10 @@
       "max_up": 0.63,
       "max_down": -2.16
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.64,
+      "max_down": -2.16
+    }
   },
   {
     "symbol": "AINIRT",
@@ -30233,6 +30236,47 @@
     "va": 0.64,
     "buy": 100,
     "bs": 4.83,
+    "breakout": true,
+    "priority": true,
+    "result_15m": {
+      "max_up": 0.49,
+      "max_down": -0.86
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "COMMONIRT",
+    "time": 1791264845157,
+    "price": 16.5,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.23,
+    "vr": 0.3,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1791264845157,
+    "price": 412000.0,
+    "level": "STRONG",
+    "hunt": 100.0,
+    "persistence": 3,
+    "p15": 0.77,
+    "vr": 1.74,
+    "va": 9.55,
+    "buy": 100,
+    "bs": 4.56,
     "breakout": true,
     "priority": true,
     "result_15m": null,

@@ -5095,5 +5095,43 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1791264845157,
+    "price": 412000.0,
+    "pre30": 0.55,
+    "pre60": 1.67,
+    "pre120": 1.46,
+    "hunt": 100.0,
+    "persistence": 3,
+    "vr": 1.74,
+    "va": 9.55,
+    "buy": 100,
+    "bs": 4.56,
+    "ob": 1.0,
+    "p15": 0.77,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1791265044985,
+    "price": 412000.0,
+    "pre30": 0.55,
+    "pre60": 1.67,
+    "pre120": 1.46,
+    "hunt": 100.0,
+    "persistence": 4,
+    "vr": 1.96,
+    "va": 5.91,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.77,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

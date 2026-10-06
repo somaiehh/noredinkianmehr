@@ -2374,5 +2374,31 @@
     "bs": 2.95,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1791264848246,
+    "symbol": "GRAMIRT",
+    "price": 412000.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 0.77,
+    "vr": 1.74,
+    "va": 9.55,
+    "bs": 4.56,
+    "breakout": true,
+    "persistence": 3
+  },
+  {
+    "time": 1791265047790,
+    "symbol": "GRAMIRT",
+    "price": 412000.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 0.77,
+    "vr": 1.96,
+    "va": 5.91,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 4
   }
 ]

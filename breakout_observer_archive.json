@@ -11056,5 +11056,30 @@
       }
     ],
     "expired_time": 1791239125602
+  },
+  {
+    "symbol": "COMMONIRT",
+    "anchor_time": 1791216520769,
+    "anchor_price": 16.3,
+    "status": "FAILED",
+    "created_time": 1791216520769,
+    "last_time": 1791264643298,
+    "last_price": 16.3,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791222944489,
+    "failed_price": 15.7
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1791182727574,
+    "anchor_price": 419.0,
+    "status": "EXPIRED",
+    "created_time": 1791182727574,
+    "last_time": 1791264643298,
+    "last_price": 400.0,
+    "max_gain_pct": 1.9093,
+    "levels": [],
+    "expired_time": 1791225950335
   }
 ]
