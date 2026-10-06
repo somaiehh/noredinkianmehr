@@ -5413,7 +5413,10 @@
     "ob": 1.0,
     "p15": 0.39,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.3,
+      "max_down": -0.11
+    },
     "result_4h": null
   },
   {
