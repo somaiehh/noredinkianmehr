@@ -31062,7 +31062,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -0.97
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -31084,7 +31087,10 @@
       "max_up": 0.82,
       "max_down": 0.82
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.38,
+      "max_down": 0.17
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -31121,7 +31127,10 @@
     "bs": 4.26,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -31138,6 +31147,63 @@
     "va": 4.25,
     "buy": 84.66666666666667,
     "bs": 2.54,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRT",
+    "time": 1791298172407,
+    "price": 11770.0,
+    "level": "WATCH",
+    "hunt": 42.4,
+    "persistence": 2,
+    "p15": 1.03,
+    "vr": 0.17,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1791298466482,
+    "price": 1.5771,
+    "level": "WATCH",
+    "hunt": 41.1,
+    "persistence": 2,
+    "p15": 0.31,
+    "vr": 0.35,
+    "va": 4.19,
+    "buy": 60.0,
+    "bs": 1.8,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "INJIRT",
+    "time": 1791298739616,
+    "price": 2124921.0,
+    "level": "STRONG",
+    "hunt": 64.5,
+    "persistence": 1,
+    "p15": 0.72,
+    "vr": 5.19,
+    "va": 2.0,
+    "buy": 43.333333333333336,
+    "bs": 1.3,
     "breakout": false,
     "priority": false,
     "result_15m": null,

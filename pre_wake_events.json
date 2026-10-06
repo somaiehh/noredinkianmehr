@@ -2470,7 +2470,7 @@
     "book": 0.46,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 2.8982,
@@ -2491,7 +2491,7 @@
     "book": 0.74,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 1.0923,
@@ -2827,11 +2827,11 @@
     "book": 1.0,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1791298172407,
+    "result_move": -5.179,
     "max_move": 4.9247,
-    "min_move": -4.7039,
+    "min_move": -5.179,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -3019,7 +3019,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 2.2113,
     "min_move": -1.4742,
     "ledger_version": "pre-wake-ledger-v1"
   }
