@@ -29791,7 +29791,10 @@
       "max_up": 1.45,
       "max_down": -1.1
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.45,
+      "max_down": -4.21
+    }
   },
   {
     "symbol": "LIGHTIRT",
@@ -29816,7 +29819,10 @@
       "max_up": -0.53,
       "max_down": -2.9
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -2.9
+    }
   },
   {
     "symbol": "SHIBIRT",
