@@ -5525,7 +5525,10 @@
       "max_up": 0.5,
       "max_down": 0.09
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.68,
+      "max_down": -0.68
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -5547,7 +5550,10 @@
       "max_up": 0.41,
       "max_down": 0.01
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.59,
+      "max_down": -0.77
+    }
   },
   {
     "symbol": "FORMIRT",
@@ -5569,7 +5575,10 @@
       "max_up": 0.38,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.38,
+      "max_down": -0.1
+    }
   },
   {
     "symbol": "AINIRT",

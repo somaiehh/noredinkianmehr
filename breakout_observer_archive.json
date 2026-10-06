@@ -11483,5 +11483,42 @@
     "levels": [],
     "failed_time": 1791258514394,
     "failed_price": 50400.0
+  },
+  {
+    "symbol": "BLASTIRT",
+    "anchor_time": 1791156542814,
+    "anchor_price": 40.0,
+    "status": "EXPIRED",
+    "created_time": 1791156542814,
+    "last_time": 1791295227147,
+    "last_price": 26.0,
+    "max_gain_pct": 7.5,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791160940837,
+    "confirmed_price": 42.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791160940837,
+        "price": 42.0,
+        "gain_pct": 5.0
+      }
+    ],
+    "expired_time": 1791200154046
+  },
+  {
+    "symbol": "GAIAIRT",
+    "anchor_time": 1791086517981,
+    "anchor_price": 656.0,
+    "status": "FAILED",
+    "created_time": 1791086517981,
+    "last_time": 1791295227147,
+    "last_price": 628.0,
+    "max_gain_pct": 7.9268,
+    "levels": [],
+    "failed_time": 1791099095126,
+    "failed_price": 633.0
   }
 ]

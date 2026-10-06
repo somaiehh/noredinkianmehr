@@ -2474,7 +2474,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 2.8982,
-    "min_move": -1.2033,
+    "min_move": -1.6784,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -3000,6 +3000,27 @@
     "result_move": -5.3487,
     "max_move": 0.3281,
     "min_move": -5.3487,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "SUNDOGIRT",
+    "event_time": 1791296627277,
+    "event_price": 407.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 31.0,
+    "p15": -1.21,
+    "vr": null,
+    "va": 4.85,
+    "ta": null,
+    "bs": 5.0,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -1.4742,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
