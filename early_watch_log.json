@@ -30661,7 +30661,10 @@
       "max_up": 0.0,
       "max_down": -0.09
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.44,
+      "max_down": -0.99
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -30683,6 +30686,44 @@
       "max_up": 0.57,
       "max_down": 0.37
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1791281210426,
+    "price": 0.000111,
+    "level": "STRONG",
+    "hunt": 63.4,
+    "persistence": 2,
+    "p15": 0.14,
+    "vr": 1.63,
+    "va": 10.0,
+    "buy": 63.0,
+    "bs": 1.89,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FORMIRT",
+    "time": 1791281493600,
+    "price": 74800.0,
+    "level": "STRONG",
+    "hunt": 73.2,
+    "persistence": 3,
+    "p15": 0.25,
+    "vr": 3.96,
+    "va": 2.73,
+    "buy": 99.33333333333333,
+    "bs": 2.98,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

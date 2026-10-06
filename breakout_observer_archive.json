@@ -11306,5 +11306,55 @@
     "max_gain_pct": 0.1243,
     "levels": [],
     "expired_time": 1791244554944
+  },
+  {
+    "symbol": "VELVETIRT",
+    "anchor_time": 1791219708580,
+    "anchor_price": 18152.0,
+    "status": "EXPIRED",
+    "created_time": 1791219708580,
+    "last_time": 1791279963941,
+    "last_price": 18597.0,
+    "max_gain_pct": 6.3244,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791225682795,
+    "confirmed_price": 18730.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791225950335,
+        "price": 19300.0,
+        "gain_pct": 6.3244
+      }
+    ],
+    "expired_time": 1791263809124
+  },
+  {
+    "symbol": "ESIRT",
+    "anchor_time": 1791214073819,
+    "anchor_price": 280.0,
+    "status": "FAILED",
+    "created_time": 1791214073819,
+    "last_time": 1791280968500,
+    "last_price": 278.0,
+    "max_gain_pct": 2.5,
+    "levels": [],
+    "failed_time": 1791227012800,
+    "failed_price": 271.0
+  },
+  {
+    "symbol": "KAIOIRT",
+    "anchor_time": 1791191335404,
+    "anchor_price": 7149.0,
+    "status": "FAILED",
+    "created_time": 1791191335404,
+    "last_time": 1791280968500,
+    "last_price": 7146.0,
+    "max_gain_pct": 14.0159,
+    "levels": [],
+    "failed_time": 1791192574926,
+    "failed_price": 6778.0
   }
 ]
