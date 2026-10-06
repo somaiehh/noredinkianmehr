@@ -29245,7 +29245,10 @@
       "max_up": -1.91,
       "max_down": -3.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.91,
+      "max_down": -6.26
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -29270,7 +29273,10 @@
       "max_up": -0.44,
       "max_down": -2.87
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.44,
+      "max_down": -3.1
+    }
   },
   {
     "symbol": "MUBARAKIRT",
