@@ -5563,5 +5563,26 @@
     "max_move": 1.368,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "ICPIRT",
+    "event_time": 1791255693435,
+    "event_price": 929000.0,
+    "anchor_time": 1791253961331,
+    "anchor_price": 937800.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.2308,
+    "tm_e15_e1": 0.2308,
+    "tm_e1_e4": 0.619,
+    "tm_g15": 0.3,
+    "tm_g1": 1.3,
+    "tm_g4": 1.05,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
