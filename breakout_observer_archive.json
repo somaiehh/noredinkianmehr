@@ -11406,5 +11406,32 @@
     "levels": [],
     "failed_time": 1791250486771,
     "failed_price": 1682.2
+  },
+  {
+    "symbol": "CHZIRT",
+    "anchor_time": 1790672523834,
+    "anchor_price": 4048.0,
+    "status": "EXPIRED",
+    "created_time": 1790672523834,
+    "last_time": 1791279963941,
+    "last_price": 4505.0,
+    "max_gain_pct": 17.0208,
+    "levels": [],
+    "confirmed_time": 1790683196062,
+    "confirmed_price": 4187.0,
+    "expired_time": 1790715780624
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1791118909477,
+    "anchor_price": 18927.0,
+    "status": "FAILED",
+    "created_time": 1791118909477,
+    "last_time": 1791285979238,
+    "last_price": 18491.0,
+    "max_gain_pct": 0.0053,
+    "levels": [],
+    "failed_time": 1791129783352,
+    "failed_price": 18338.0
   }
 ]
