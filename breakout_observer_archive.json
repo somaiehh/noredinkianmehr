@@ -11160,5 +11160,33 @@
     "levels": [],
     "failed_time": 1791224438616,
     "failed_price": 6516.0
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1791221551838,
+    "anchor_price": 320508.0,
+    "status": "EXPIRED",
+    "created_time": 1791221551838,
+    "last_time": 1791273719483,
+    "last_price": 320088.0,
+    "max_gain_pct": 4.0099,
+    "levels": [],
+    "confirmed_time": 1791234415809,
+    "confirmed_price": 333360.0,
+    "expired_time": 1791264845157
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1791222944489,
+    "anchor_price": 1352427.0,
+    "status": "EXPIRED",
+    "created_time": 1791222944489,
+    "last_time": 1791273943106,
+    "last_price": 1411999.0,
+    "max_gain_pct": 4.4048,
+    "levels": [],
+    "confirmed_time": 1791234415809,
+    "confirmed_price": 1395999.0,
+    "expired_time": 1791266172319
   }
 ]

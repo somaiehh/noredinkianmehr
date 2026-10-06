@@ -29850,7 +29850,10 @@
       "max_up": 0.29,
       "max_down": -0.84
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.29,
+      "max_down": -1.92
+    }
   },
   {
     "symbol": "EDUIRT",
@@ -29878,7 +29881,10 @@
       "max_up": 4.25,
       "max_down": -1.16
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.25,
+      "max_down": -5.87
+    }
   },
   {
     "symbol": "RVVIRT",
@@ -30176,7 +30182,10 @@
       "max_up": 4.63,
       "max_down": -1.25
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.63,
+      "max_down": -3.06
+    },
     "result_12h": null
   },
   {
@@ -30201,7 +30210,10 @@
       "max_up": 2.65,
       "max_down": -4.81
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.85,
+      "max_down": -4.81
+    },
     "result_12h": null
   },
   {
@@ -30226,7 +30238,10 @@
       "max_up": 0.0,
       "max_down": -0.2
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 7.03,
+      "max_down": -0.2
+    },
     "result_12h": null
   },
   {
@@ -30397,7 +30412,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -30419,7 +30437,10 @@
       "max_up": 0.22,
       "max_down": 0.22
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.83,
+      "max_down": -0.24
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -30437,7 +30458,10 @@
     "bs": 1.22,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -30456,6 +30480,66 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": -0.43,
+      "max_down": -0.43
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1791273719483,
+    "price": 0.00011036,
+    "level": "STRONG",
+    "hunt": 51.6,
+    "persistence": 1,
+    "p15": 0.09,
+    "vr": 16.3,
+    "va": 2.0,
+    "buy": 38.33333333333333,
+    "bs": 1.15,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "VTHOIRT",
+    "time": 1791274173307,
+    "price": 199.3,
+    "level": "WATCH",
+    "hunt": 47.9,
+    "persistence": 2,
+    "p15": 1.06,
+    "vr": 0.09,
+    "va": 4.06,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BRIRT",
+    "time": 1791274173307,
+    "price": 145159.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.76,
+    "vr": 2.22,
+    "va": 3.17,
+    "buy": 82.33333333333334,
+    "bs": 2.47,
+    "breakout": true,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
