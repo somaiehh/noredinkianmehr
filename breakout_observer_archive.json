@@ -11147,5 +11147,18 @@
     "levels": [],
     "failed_time": 1791213587096,
     "failed_price": 535.0
+  },
+  {
+    "symbol": "TUTIRT",
+    "anchor_time": 1791185962069,
+    "anchor_price": 6790.0,
+    "status": "FAILED",
+    "created_time": 1791185962069,
+    "last_time": 1791271031812,
+    "last_price": 6694.0,
+    "max_gain_pct": 1.944,
+    "levels": [],
+    "failed_time": 1791224438616,
+    "failed_price": 6516.0
   }
 ]
