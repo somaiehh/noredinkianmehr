@@ -2491,5 +2491,18 @@
     "bs": 3.84,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791276993126,
+    "symbol": "QIRT",
+    "price": 5926.3,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.79,
+    "vr": 7.93,
+    "va": 10.0,
+    "bs": 2.1,
+    "breakout": true,
+    "persistence": 2
   }
 ]

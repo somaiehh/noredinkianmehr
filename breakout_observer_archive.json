@@ -11244,5 +11244,44 @@
       }
     ],
     "expired_time": 1791267743339
+  },
+  {
+    "symbol": "LTCIRT",
+    "anchor_time": 1791125846576,
+    "anchor_price": 19217575.0,
+    "status": "FAILED",
+    "created_time": 1791125846576,
+    "last_time": 1791276001013,
+    "last_price": 18750916.0,
+    "max_gain_pct": 0.4071,
+    "levels": [],
+    "failed_time": 1791147194502,
+    "failed_price": 18636356.0
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1791116686810,
+    "anchor_price": 5803.0,
+    "status": "FAILED",
+    "created_time": 1791116686810,
+    "last_time": 1791276001013,
+    "last_price": 5765.5,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791155979046,
+    "failed_price": 5600.0
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "anchor_time": 1791215661612,
+    "anchor_price": 20644.0,
+    "status": "FAILED",
+    "created_time": 1791215661612,
+    "last_time": 1791276794719,
+    "last_price": 18502.0,
+    "max_gain_pct": 0.9301,
+    "levels": [],
+    "failed_time": 1791227320209,
+    "failed_price": 19952.0
   }
 ]
