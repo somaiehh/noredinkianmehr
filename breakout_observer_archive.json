@@ -11863,5 +11863,36 @@
     "levels": [],
     "failed_time": 1791290592177,
     "failed_price": 11858.0
+  },
+  {
+    "symbol": "SUNDOGIRT",
+    "anchor_time": 1791269938058,
+    "anchor_price": 347.0,
+    "status": "EXPIRED",
+    "created_time": 1791269938058,
+    "last_time": 1791341427347,
+    "last_price": 409.0,
+    "max_gain_pct": 23.3429,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791270446359,
+    "confirmed_price": 366.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791270446359,
+        "price": 366.0,
+        "gain_pct": 5.4755
+      },
+      {
+        "level": 10,
+        "time": 1791271031812,
+        "price": 383.0,
+        "gain_pct": 10.3746
+      }
+    ],
+    "expired_time": 1791313153269
   }
 ]
