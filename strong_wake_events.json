@@ -5873,8 +5873,8 @@
     "tm_g4": 4.4074,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791335067849,
-    "result_move": -9.0388,
+    "result_time": 1791341632076,
+    "result_move": -5.6734,
     "max_move": 0.0,
     "min_move": -10.0368,
     "ledger_version": "wake-ledger-v1"
@@ -6423,6 +6423,27 @@
     "result_move": null,
     "max_move": 1.0813,
     "min_move": -0.2803,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "BCHIRT",
+    "event_time": 1791405568069,
+    "event_price": 79340727.0,
+    "anchor_time": 1791404949052,
+    "anchor_price": 79299175.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.5333,
+    "tm_e15_e1": 0.5333,
+    "tm_e1_e4": 0.6522,
+    "tm_g15": 0.8,
+    "tm_g1": 1.1538,
+    "tm_g4": 1.0952,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0757,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]

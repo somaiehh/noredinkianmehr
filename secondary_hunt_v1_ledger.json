@@ -908,6 +908,46 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "FILIRT": {
+      "trigger_time": 1791405568069,
+      "trigger_price": 274001.0,
+      "secondary_score": 65.0,
+      "hunt_score": 41.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "da1_pos"
+      ]
+    },
+    "AVAXIRT": {
+      "trigger_time": 1791405568069,
+      "trigger_price": 2956561.0,
+      "secondary_score": 65.0,
+      "hunt_score": 23.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "da1_pos"
+      ]
+    },
+    "DOGSIRT": {
+      "trigger_time": 1791405568069,
+      "trigger_price": 11.6,
+      "secondary_score": 70.0,
+      "hunt_score": 48.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
