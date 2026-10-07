@@ -11933,5 +11933,30 @@
     "levels": [],
     "failed_time": 1791298739616,
     "failed_price": 168.4
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1791273943106,
+    "anchor_price": 320291.0,
+    "status": "EXPIRED",
+    "created_time": 1791273943106,
+    "last_time": 1791349569441,
+    "last_price": 312500.0,
+    "max_gain_pct": 1.3048,
+    "levels": [],
+    "expired_time": 1791317213006
+  },
+  {
+    "symbol": "GTCIRT",
+    "anchor_time": 1791295227147,
+    "anchor_price": 46100.0,
+    "status": "FAILED",
+    "created_time": 1791295227147,
+    "last_time": 1791349569441,
+    "last_price": 46498.0,
+    "max_gain_pct": 0.8633,
+    "levels": [],
+    "failed_time": 1791298739616,
+    "failed_price": 44629.0
   }
 ]

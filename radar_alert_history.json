@@ -2738,5 +2738,18 @@
     "bs": 1.42,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791349573315,
+    "symbol": "SANDIRT",
+    "price": 19638.3171,
+    "hunt_score": 83.4,
+    "status": "EARLY",
+    "p15": 0.71,
+    "vr": 0.33,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
