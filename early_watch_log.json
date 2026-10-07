@@ -31435,7 +31435,10 @@
       "max_up": -0.37,
       "max_down": -2.53
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.37,
+      "max_down": -6.61
+    }
   },
   {
     "symbol": "TUTIRT",
@@ -31463,7 +31466,10 @@
       "max_up": 0.0,
       "max_down": -2.79
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.13,
+      "max_down": -6.43
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -31491,7 +31497,10 @@
       "max_up": -0.37,
       "max_down": -1.92
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.37,
+      "max_down": -4.49
+    }
   },
   {
     "symbol": "VELVETIRT",
@@ -31519,7 +31528,10 @@
       "max_up": 1.73,
       "max_down": -1.1
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.31,
+      "max_down": -1.86
+    }
   },
   {
     "symbol": "LSKIRT",
@@ -31891,7 +31903,10 @@
       "max_up": 0.53,
       "max_down": 0.52
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.42,
+      "max_down": 0.42
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -31909,7 +31924,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -31927,6 +31945,47 @@
     "buy": 51.33333333333333,
     "bs": 1.54,
     "breakout": true,
+    "priority": false,
+    "result_15m": {
+      "max_up": 1.29,
+      "max_down": 1.1
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BTRIRT",
+    "time": 1791344808391,
+    "price": 12590.0,
+    "level": "STRONG",
+    "hunt": 55.9,
+    "persistence": 1,
+    "p15": 0.16,
+    "vr": 0.99,
+    "va": 10.0,
+    "buy": 56.99999999999999,
+    "bs": 1.71,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1791344808391,
+    "price": 152.2,
+    "level": "STRONG",
+    "hunt": 64.5,
+    "persistence": 1,
+    "p15": 0.46,
+    "vr": 0.71,
+    "va": 10.0,
+    "buy": 45.333333333333336,
+    "bs": 1.36,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,

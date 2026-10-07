@@ -11907,5 +11907,18 @@
     "levels": [],
     "failed_time": 1791296333977,
     "failed_price": 500036.0
+  },
+  {
+    "symbol": "LSKIRT",
+    "anchor_time": 1791213587096,
+    "anchor_price": 74270.0,
+    "status": "FAILED",
+    "created_time": 1791213587096,
+    "last_time": 1791343607723,
+    "last_price": 65900.0,
+    "max_gain_pct": 1.982,
+    "levels": [],
+    "failed_time": 1791224982366,
+    "failed_price": 71354.0
   }
 ]
