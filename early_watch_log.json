@@ -31621,7 +31621,10 @@
       "max_up": 2.45,
       "max_down": -4.29
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.66,
+      "max_down": -4.29
+    }
   },
   {
     "symbol": "FLUXIRT",
@@ -31649,7 +31652,10 @@
       "max_up": 2.85,
       "max_down": -10.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.85,
+      "max_down": -10.36
+    }
   },
   {
     "symbol": "BRIRT",
@@ -31674,7 +31680,10 @@
       "max_up": -0.45,
       "max_down": -10.78
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.45,
+      "max_down": -11.12
+    }
   },
   {
     "symbol": "API3IRT",
@@ -31891,7 +31900,10 @@
       "max_up": 1.0,
       "max_down": -1.95
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.2,
+      "max_down": -3.61
+    },
     "result_12h": null
   },
   {
@@ -31916,7 +31928,10 @@
       "max_up": 2.42,
       "max_down": 0.42
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.03,
+      "max_down": -1.66
+    },
     "result_12h": null
   },
   {
@@ -32062,7 +32077,10 @@
       "max_up": -0.36,
       "max_down": -0.36
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.36,
+      "max_down": -0.87
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -32084,7 +32102,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.32,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -32124,7 +32145,10 @@
     "bs": 1.85,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -32141,6 +32165,25 @@
     "va": 2.0,
     "buy": 92.33333333333333,
     "bs": 2.77,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SUIIRT",
+    "time": 1791355529333,
+    "price": 306130.0,
+    "level": "STRONG",
+    "hunt": 74.7,
+    "persistence": 4,
+    "p15": 0.17,
+    "vr": 1.17,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,

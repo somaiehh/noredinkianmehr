@@ -5775,7 +5775,10 @@
       "max_up": 1.0,
       "max_down": -1.95
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.2,
+      "max_down": -3.61
+    }
   },
   {
     "symbol": "ONEIRT",
@@ -5797,6 +5800,47 @@
       "max_up": 1.0,
       "max_down": -1.95
     },
+    "result_4h": {
+      "max_up": 1.2,
+      "max_down": -3.61
+    }
+  },
+  {
+    "symbol": "SANDIRT",
+    "time": 1791354903452,
+    "price": 20059.1625,
+    "pre30": 1.69,
+    "pre60": 0.08,
+    "pre120": 5.87,
+    "hunt": 84.0,
+    "persistence": 2,
+    "vr": 4.48,
+    "va": 10.0,
+    "buy": 54.0,
+    "bs": 1.62,
+    "ob": 0.59,
+    "p15": 0.78,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "SUIIRT",
+    "time": 1791355529333,
+    "price": 306130.0,
+    "pre30": 0.05,
+    "pre60": -0.23,
+    "pre120": 0.46,
+    "hunt": 74.7,
+    "persistence": 4,
+    "vr": 1.17,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.36,
+    "p15": 0.17,
+    "breakout": false,
+    "result_1h": null,
     "result_4h": null
   }
 ]
