@@ -11793,5 +11793,19 @@
     "levels": [],
     "failed_time": 1791262780050,
     "failed_price": 15001.0
+  },
+  {
+    "symbol": "SANDIRT",
+    "anchor_time": 1791086517981,
+    "anchor_price": 20583.3793,
+    "status": "EXPIRED",
+    "created_time": 1791086517981,
+    "last_time": 1791336199499,
+    "last_price": 18500.4004,
+    "max_gain_pct": 4.4007,
+    "levels": [],
+    "confirmed_time": 1791091875042,
+    "confirmed_price": 21401.2961,
+    "expired_time": 1791129783352
   }
 ]
