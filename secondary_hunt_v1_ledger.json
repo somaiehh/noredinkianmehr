@@ -683,6 +683,35 @@
         "bs2",
         "book1"
       ]
+    },
+    "MANAIRT": {
+      "trigger_time": 1791390093459,
+      "trigger_price": 28427.0,
+      "secondary_score": 70.0,
+      "hunt_score": 71.4,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "ARIAIRT": {
+      "trigger_time": 1791390093459,
+      "trigger_price": 9127.0,
+      "secondary_score": 85.0,
+      "hunt_score": 67.9,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

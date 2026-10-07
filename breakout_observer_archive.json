@@ -12167,5 +12167,55 @@
     "levels": [],
     "failed_time": 1791335269349,
     "failed_price": 2559.0
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1791224438616,
+    "anchor_price": 0.00011135,
+    "status": "EXPIRED",
+    "created_time": 1791224438616,
+    "last_time": 1791388650717,
+    "last_price": 0.00010239,
+    "max_gain_pct": 0.3682,
+    "levels": [],
+    "expired_time": 1791267743339
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1791311227193,
+    "anchor_price": 1.16361,
+    "status": "FAILED",
+    "created_time": 1791311227193,
+    "last_time": 1791388650717,
+    "last_price": 1.06789,
+    "max_gain_pct": 0.0584,
+    "levels": [],
+    "failed_time": 1791346696275,
+    "failed_price": 1.12393
+  },
+  {
+    "symbol": "DOGSIRT",
+    "anchor_time": 1791225419591,
+    "anchor_price": 12.72,
+    "status": "EXPIRED",
+    "created_time": 1791225419591,
+    "last_time": 1791388650717,
+    "last_price": 11.61,
+    "max_gain_pct": 1.7296,
+    "levels": [],
+    "expired_time": 1791268779567
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "anchor_time": 1791114975724,
+    "anchor_price": 37.0,
+    "status": "FAILED",
+    "created_time": 1791114975724,
+    "last_time": 1791388650717,
+    "last_price": 35.3,
+    "max_gain_pct": 2.4324,
+    "levels": [],
+    "failed_time": 1791123505144,
+    "failed_price": 35.6
   }
 ]
