@@ -5950,7 +5950,10 @@
       "max_up": 0.0,
       "max_down": -4.66
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 5.15,
+      "max_down": -5.15
+    }
   },
   {
     "symbol": "SANDIRT",
@@ -5972,7 +5975,10 @@
       "max_up": 0.01,
       "max_down": -1.9
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.02,
+      "max_down": -5.48
+    }
   },
   {
     "symbol": "NOTIRT",
