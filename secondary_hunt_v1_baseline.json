@@ -1,0 +1,194 @@
+{
+  "version": "secondary-hunt-v1-shadow-test",
+  "members": {
+    "GTCIRT": {
+      "trigger_time": 1791349376143,
+      "trigger_price": 46498.0,
+      "secondary_score": 65.0,
+      "hunt_score": 18.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "NMRIRT": {
+      "trigger_time": 1791349376143,
+      "trigger_price": 4963532.0,
+      "secondary_score": 80.0,
+      "hunt_score": 46.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "SANDIRT": {
+      "trigger_time": 1791349376143,
+      "trigger_price": 19558.4,
+      "secondary_score": 95.0,
+      "hunt_score": 63.1,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "SIRENIRT": {
+      "trigger_time": 1791349376143,
+      "trigger_price": 13000.0,
+      "secondary_score": 85.0,
+      "hunt_score": 21.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "SUNDOGIRT": {
+      "trigger_time": 1791349376143,
+      "trigger_price": 411.0,
+      "secondary_score": 70.0,
+      "hunt_score": 19.7,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "BABYDOGEIRT": {
+      "trigger_time": 1791350205570,
+      "trigger_price": 0.00010624,
+      "secondary_score": 80.0,
+      "hunt_score": 55.3,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "KAIOIRT": {
+      "trigger_time": 1791351192843,
+      "trigger_price": 5994.0,
+      "secondary_score": 65.0,
+      "hunt_score": 68.6,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "book1",
+        "dt15_pos"
+      ]
+    },
+    "GALAIRT": {
+      "trigger_time": 1791351448430,
+      "trigger_price": 632.5,
+      "secondary_score": 95.0,
+      "hunt_score": 78.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "MOVRIRT": {
+      "trigger_time": 1791351448430,
+      "trigger_price": 527300.0,
+      "secondary_score": 60.0,
+      "hunt_score": 26.7,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "PUMPIRT": {
+      "trigger_time": 1791351448430,
+      "trigger_price": 1728.0,
+      "secondary_score": 70.0,
+      "hunt_score": 40.1,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "VTHOIRT": {
+      "trigger_time": 1791351448430,
+      "trigger_price": 189.7,
+      "secondary_score": 85.0,
+      "hunt_score": 69.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "RLCIRT": {
+      "trigger_time": 1791351670202,
+      "trigger_price": 197596.0,
+      "secondary_score": 60.0,
+      "hunt_score": null,
+      "flags": [
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "SUIIRT": {
+      "trigger_time": 1791351670202,
+      "trigger_price": 306828.0,
+      "secondary_score": 70.0,
+      "hunt_score": 31.6,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    }
+  }
+}
