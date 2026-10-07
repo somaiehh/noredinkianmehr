@@ -12015,5 +12015,31 @@
       }
     ],
     "expired_time": 1791351192843
+  },
+  {
+    "symbol": "FETIRT",
+    "anchor_time": 1791189445492,
+    "anchor_price": 72221.0,
+    "status": "FAILED",
+    "created_time": 1791189445492,
+    "last_time": 1791358977958,
+    "last_price": 62627.0,
+    "max_gain_pct": 0.6508,
+    "levels": [],
+    "failed_time": 1791196135099,
+    "failed_price": 70023.0
+  },
+  {
+    "symbol": "ESIRT",
+    "anchor_time": 1791281210426,
+    "anchor_price": 279.0,
+    "status": "FAILED",
+    "created_time": 1791281210426,
+    "last_time": 1791358977958,
+    "last_price": 258.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791288374532,
+    "failed_price": 256.0
   }
 ]
