@@ -30954,7 +30954,10 @@
       "max_up": -1.65,
       "max_down": -13.04
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.65,
+      "max_down": -13.04
+    }
   },
   {
     "symbol": "RLCIRT",
@@ -30982,7 +30985,10 @@
       "max_up": -0.37,
       "max_down": -19.14
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.37,
+      "max_down": -29.92
+    }
   },
   {
     "symbol": "SLVONIRT",
@@ -31010,7 +31016,10 @@
       "max_up": 0.23,
       "max_down": -0.79
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.48,
+      "max_down": -2.42
+    }
   },
   {
     "symbol": "GTCIRT",
@@ -31035,7 +31044,10 @@
       "max_up": 4.12,
       "max_down": -0.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.12,
+      "max_down": -10.38
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -31063,7 +31075,10 @@
       "max_up": 0.0,
       "max_down": -2.29
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -3.89
+    }
   },
   {
     "symbol": "ORCAIRT",
@@ -31741,7 +31756,10 @@
       "max_up": 0.0,
       "max_down": -3.16
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.02,
+      "max_down": -3.16
+    },
     "result_12h": null
   },
   {
@@ -31766,6 +31784,28 @@
       "max_up": 0.0,
       "max_down": -1.75
     },
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -1.75
+    },
+    "result_12h": null
+  },
+  {
+    "symbol": "GAIAIRT",
+    "time": 1791333506281,
+    "price": 724.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.56,
+    "vr": 0.36,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
