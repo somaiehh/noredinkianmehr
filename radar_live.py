@@ -2133,6 +2133,18 @@ def save_dashboard_data(out, alerts_enabled=True):
             "pump_combo_oos_v1": pump_combo_oos_v1,
             "powr_bs_oos_v1": powr_bs_oos_v1
         }
+        sec_flags=[]; sec_score=0.0
+        if row.get("status") in ("PRE_EARLY","EARLY"): sec_score+=20; sec_flags.append("candidate")
+        if row.get("hunt_score") is not None and 55 <= float(row["hunt_score"]) < 80: sec_score+=15; sec_flags.append("hunt55_79")
+        if row.get("p15_wake_shadow_raw"): sec_score+=20; sec_flags.append("p15_wake")
+        if row.get("va") is not None and float(row["va"]) >= 3: sec_score+=10; sec_flags.append("va3")
+        if row.get("bs") is not None and float(row["bs"]) >= 2: sec_score+=10; sec_flags.append("bs2")
+        if row.get("book") is not None and float(row["book"]) >= 1: sec_score+=5; sec_flags.append("book1")
+        pm=row.get("wake_pre_price_move_pct")
+        if pm is not None and 0 < float(pm) <= 20: sec_score+=10; sec_flags.append("premove_pos")
+        if row.get("p15_wake_shadow_dt15") is not None and float(row["p15_wake_shadow_dt15"]) > 0: sec_score+=5; sec_flags.append("dt15_pos")
+        if row.get("p15_wake_shadow_da1") is not None and float(row["p15_wake_shadow_da1"]) > 0: sec_score+=5; sec_flags.append("da1_pos")
+        row["secondary_hunt_v1_score"]=round(sec_score,1); row["secondary_hunt_v1_flags"]=sec_flags; row["secondary_hunt_v1"]=bool(row.get("p15_wake_shadow_raw") and sec_score>=60); row["secondary_hunt_v1_version"]="v1-shadow-test"
 
         history = data.get(symbol, [])
         history.append(row)
