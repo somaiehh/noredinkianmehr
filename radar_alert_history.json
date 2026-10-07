@@ -2764,5 +2764,18 @@
     "bs": 1.62,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1791392277289,
+    "symbol": "KAIOIRT",
+    "price": 5466.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.42,
+    "vr": 2.52,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]

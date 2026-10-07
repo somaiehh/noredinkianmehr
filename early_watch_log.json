@@ -32111,7 +32111,10 @@
       "max_up": 3.22,
       "max_down": -0.83
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 16.98,
+      "max_down": -4.92
+    }
   },
   {
     "symbol": "GALAIRT",
@@ -32527,7 +32530,10 @@
       "max_up": -0.24,
       "max_down": -0.24
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.12,
+      "max_down": -1.1
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -32589,7 +32595,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.5,
+      "max_down": -0.5
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

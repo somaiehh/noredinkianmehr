@@ -725,6 +725,34 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "FETIRT": {
+      "trigger_time": 1791392710046,
+      "trigger_price": 59900.0,
+      "secondary_score": 80.0,
+      "hunt_score": 55.5,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "PTBIRT": {
+      "trigger_time": 1791392710046,
+      "trigger_price": 231.0,
+      "secondary_score": 60.0,
+      "hunt_score": 15.6,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

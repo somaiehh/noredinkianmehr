@@ -12242,5 +12242,44 @@
     "max_gain_pct": 2.3673,
     "levels": [],
     "expired_time": 1791310705250
+  },
+  {
+    "symbol": "HEMIIRT",
+    "anchor_time": 1790442097912,
+    "anchor_price": 1565.0,
+    "status": "FAILED",
+    "created_time": 1790442097912,
+    "last_time": 1791391712688,
+    "last_price": 1670.0,
+    "max_gain_pct": 8.6901,
+    "levels": [],
+    "failed_time": 1790450301490,
+    "failed_price": 1514.0
+  },
+  {
+    "symbol": "KAIOIRT",
+    "anchor_time": 1791281210426,
+    "anchor_price": 7194.0,
+    "status": "FAILED",
+    "created_time": 1791281210426,
+    "last_time": 1791391712688,
+    "last_price": 5341.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791288374532,
+    "failed_price": 6889.0
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1791290902721,
+    "anchor_price": 419625.0,
+    "status": "FAILED",
+    "created_time": 1791290902721,
+    "last_time": 1791392273397,
+    "last_price": 378959.0,
+    "max_gain_pct": 0.5657,
+    "levels": [],
+    "failed_time": 1791324207446,
+    "failed_price": 406736.0
   }
 ]
