@@ -32378,7 +32378,10 @@
       "max_up": 0.48,
       "max_down": -0.22
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.17,
+      "max_down": -0.58
+    },
     "result_12h": null
   },
   {
@@ -32542,7 +32545,10 @@
     "bs": 2.77,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.51,
+      "max_down": -0.51
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -32559,6 +32565,28 @@
     "va": 2.0,
     "buy": 100,
     "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.27,
+      "max_down": 0.27
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRT",
+    "time": 1791391344635,
+    "price": 10606.0,
+    "level": "STRONG",
+    "hunt": 60.2,
+    "persistence": 1,
+    "p15": 0.16,
+    "vr": 0.51,
+    "va": 4.75,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,

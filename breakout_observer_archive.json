@@ -12217,5 +12217,30 @@
     "levels": [],
     "failed_time": 1791123505144,
     "failed_price": 35.6
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1791278554900,
+    "anchor_price": 1.5839,
+    "status": "FAILED",
+    "created_time": 1791278554900,
+    "last_time": 1791390438617,
+    "last_price": 1.4311,
+    "max_gain_pct": 0.5051,
+    "levels": [],
+    "failed_time": 1791321559468,
+    "failed_price": 1.53
+  },
+  {
+    "symbol": "FLOKIIRT",
+    "anchor_time": 1791266370184,
+    "anchor_price": 7.71731,
+    "status": "EXPIRED",
+    "created_time": 1791266370184,
+    "last_time": 1791390438617,
+    "last_price": 7.14214,
+    "max_gain_pct": 2.3673,
+    "levels": [],
+    "expired_time": 1791310705250
   }
 ]

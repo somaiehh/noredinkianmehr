@@ -712,6 +712,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "DASHIRT": {
+      "trigger_time": 1791391344635,
+      "trigger_price": 14146005.0,
+      "secondary_score": 60.0,
+      "hunt_score": 17.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
