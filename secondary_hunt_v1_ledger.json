@@ -643,6 +643,33 @@
         "va3",
         "dt15_pos"
       ]
+    },
+    "BTRIRT": {
+      "trigger_time": 1791387265694,
+      "trigger_price": 11946.0,
+      "secondary_score": 60.0,
+      "hunt_score": 15.1,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "BOMEIRT": {
+      "trigger_time": 1791387565770,
+      "trigger_price": 249.7,
+      "secondary_score": 70.0,
+      "hunt_score": 19.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
