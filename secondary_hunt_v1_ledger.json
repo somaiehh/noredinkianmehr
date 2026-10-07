@@ -823,6 +823,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "NOMIRT": {
+      "trigger_time": 1791401698312,
+      "trigger_price": 585.0,
+      "secondary_score": 60.0,
+      "hunt_score": 13.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
