@@ -32142,7 +32142,10 @@
       "max_up": -0.36,
       "max_down": -2.31
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.36,
+      "max_down": -6.48
+    }
   },
   {
     "symbol": "VTHOIRT",
@@ -32170,7 +32173,10 @@
       "max_up": 0.95,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.95,
+      "max_down": -3.0
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -32198,7 +32204,10 @@
       "max_up": 1.72,
       "max_down": -0.7
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.72,
+      "max_down": -7.24
+    }
   },
   {
     "symbol": "KCSIRT",
@@ -32605,7 +32614,10 @@
       "max_up": -0.5,
       "max_down": -0.5
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.5,
+      "max_down": -1.75
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -32623,7 +32635,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -1.65,
+      "max_down": -1.65
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -32642,6 +32657,28 @@
     "bs": 2.92,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": -4.28,
+      "max_down": -4.28
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "METIRT",
+    "time": 1791394836988,
+    "price": 103497.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.44,
+    "vr": 0.42,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

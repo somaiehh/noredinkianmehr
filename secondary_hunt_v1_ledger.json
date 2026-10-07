@@ -806,6 +806,23 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "METIRT": {
+      "trigger_time": 1791394836988,
+      "trigger_price": 103497.0,
+      "secondary_score": 100.0,
+      "hunt_score": 78.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
