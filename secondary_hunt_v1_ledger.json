@@ -515,6 +515,47 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "AURORAIRT": {
+      "trigger_time": 1791380111900,
+      "trigger_price": 15865.0,
+      "secondary_score": 65.0,
+      "hunt_score": 28.7,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "SHIBIRT": {
+      "trigger_time": 1791380525858,
+      "trigger_price": 1.434,
+      "secondary_score": 65.0,
+      "hunt_score": 34.6,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "RAYIRT": {
+      "trigger_time": 1791380525858,
+      "trigger_price": 671000.0,
+      "secondary_score": 60.0,
+      "hunt_score": 35.4,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
