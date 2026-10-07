@@ -11780,5 +11780,18 @@
     "levels": [],
     "failed_time": 1791276989182,
     "failed_price": 15.9
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1791261691354,
+    "anchor_price": 15500.0,
+    "status": "FAILED",
+    "created_time": 1791261691354,
+    "last_time": 1791334076078,
+    "last_price": 13300.0,
+    "max_gain_pct": 1.1677,
+    "levels": [],
+    "failed_time": 1791262780050,
+    "failed_price": 15001.0
   }
 ]
