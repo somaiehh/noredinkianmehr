@@ -2686,5 +2686,44 @@
     "bs": 3.1,
     "breakout": false,
     "persistence": 3
+  },
+  {
+    "time": 1791343253732,
+    "symbol": "RESOLVIRT",
+    "price": 6322.0,
+    "hunt_score": 83.2,
+    "status": "PRE_EARLY",
+    "p15": 0.27,
+    "vr": 2.57,
+    "va": 9.71,
+    "bs": 1.56,
+    "breakout": true,
+    "persistence": 1
+  },
+  {
+    "time": 1791343433927,
+    "symbol": "MOVRIRT",
+    "price": 550000.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.85,
+    "vr": 1.05,
+    "va": 10.0,
+    "bs": 4.43,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1791343611906,
+    "symbol": "MOVRIRT",
+    "price": 549000.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.67,
+    "vr": 1.15,
+    "va": 10.0,
+    "bs": 4.01,
+    "breakout": true,
+    "persistence": 3
   }
 ]
