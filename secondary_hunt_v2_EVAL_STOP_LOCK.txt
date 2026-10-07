@@ -1,0 +1,11 @@
+SECONDARY HUNT V2 — PROSPECTIVE EVALUATION STOP LOCK
+STATUS=LOCKED_BEFORE_OUTCOME_INSPECTION
+STOP_RULE=30 EVALUABLE UNIQUE V2 MEMBERS
+EVALUABLE=at least 2 future radar observations strictly after trigger_time within 60 minutes
+INSUFFICIENT=members with fewer than 2 future observations; not counted as failure and not counted toward STOP_RULE
+PRIMARY_ENDPOINT=price >= trigger_price * 1.03 within 60 minutes after trigger_time
+PRIMARY_METRIC=HIT3 among 30 evaluable unique first-trigger V2 members
+SECONDARY_METRICS=MFE1H,HIT5,HIT10
+NO_V2_OUTCOME_INSPECTION_BEFORE_STOP
+NO_RETUNING_V2_BEFORE_STOP
+NO_CHANGE_TO_V1_HUNT_MAIN_ALERTS_OR_C10
