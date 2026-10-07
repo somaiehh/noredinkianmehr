@@ -31255,7 +31255,10 @@
       "max_up": 0.91,
       "max_down": -1.71
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.91,
+      "max_down": -5.13
+    }
   },
   {
     "symbol": "ALICEIRT",
@@ -31283,7 +31286,10 @@
       "max_up": 0.39,
       "max_down": -2.84
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.39,
+      "max_down": -6.0
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -31827,6 +31833,25 @@
       "max_up": 3.31,
       "max_down": 0.14
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1791339863406,
+    "price": 498.0,
+    "level": "STRONG",
+    "hunt": 79.7,
+    "persistence": 2,
+    "p15": 0.52,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 61.33333333333334,
+    "bs": 1.84,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }

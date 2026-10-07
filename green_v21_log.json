@@ -5754,5 +5754,43 @@
       "max_up": 0.02,
       "max_down": -3.16
     }
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1791339863406,
+    "price": 498.0,
+    "pre30": 0.0,
+    "pre60": 0.24,
+    "pre120": 1.01,
+    "hunt": 79.7,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 61.33333333333334,
+    "bs": 1.84,
+    "ob": 0.79,
+    "p15": 0.52,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1791340062972,
+    "price": 498.0,
+    "pre30": 0.0,
+    "pre60": 0.24,
+    "pre120": 1.01,
+    "hunt": 81.7,
+    "persistence": 3,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.1,
+    "ob": 0.52,
+    "p15": 0.52,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
