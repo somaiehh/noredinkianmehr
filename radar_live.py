@@ -2222,7 +2222,7 @@ def save_dashboard_data(out, alerts_enabled=True):
     tmp = DATA_FILE + ".tmp"
 
     with open(tmp, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False)
+        json.dump(data, f, ensure_ascii=False, separators=(",", ":"))
 
     os.replace(tmp, DATA_FILE)
 
@@ -2252,7 +2252,7 @@ def save_dashboard_data(out, alerts_enabled=True):
     live_data = {symbol: history[-5:] for symbol, history in data.items() if history and symbol not in {"XRDIRT","BTCIRT","ETHIRT","USDTIRT","TRXIRT","XRPIRT","SOLIRT","ADAIRT","BNBIRT"}}
     live_tmp = live_file + ".tmp"
     with open(live_tmp, "w", encoding="utf-8") as f:
-        json.dump(live_data, f, ensure_ascii=False)
+        json.dump(live_data, f, ensure_ascii=False, separators=(",", ":"))
     os.replace(live_tmp, live_file)
 
 
