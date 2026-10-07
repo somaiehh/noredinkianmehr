@@ -1,0 +1,14 @@
+SECONDARY HUNT V2 — PROSPECTIVE RULE LOCK
+STATUS=LOCKED_BEFORE_NEW_OUTCOMES
+BASE=SECONDARY_HUNT_V1
+REQUIRE=candidate,p15_wake,premove_pos,dt15_pos,da1_pos
+EXCLUDE=va3,hunt55_79
+ENTRY=first future V1 trigger satisfying REQUIRE and EXCLUDE after V2 activation boundary
+PRIMARY_WINDOW=60 minutes after trigger_time
+PRIMARY_ENDPOINT=price >= trigger_price * 1.03
+MIN_FUTURE_OBSERVATIONS=2
+IF_FUTURE_OBSERVATIONS<2=INSUFFICIENT_NOT_FAILURE
+PRIMARY_METRIC=HIT3 among evaluable unique first-trigger V2 members
+SECONDARY_METRICS=MFE1H,HIT5,HIT10
+DEVELOPMENT_RESULT_ONLY=4/11 HIT3 on V1 analysis cohort; NOT prospective V2 performance
+NO_CHANGE_TO_V1_HUNT_MAIN_ALERTS_OR_C10
