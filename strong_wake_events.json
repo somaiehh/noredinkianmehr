@@ -5809,7 +5809,7 @@
     "tm_g1": 1.1111,
     "tm_g4": 1.0476,
     "legacy": false,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 0.7392,
@@ -6086,7 +6086,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.0733,
-    "min_move": -0.3469,
+    "min_move": -1.4856,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6169,7 +6169,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.1848,
+    "max_move": 2.0537,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   },
@@ -6191,7 +6191,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -0.4132,
+    "min_move": -1.6529,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6233,7 +6233,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 3.0406,
-    "min_move": 0.0,
+    "min_move": -0.203,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6254,7 +6254,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -1.5214,
+    "min_move": -2.5395,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6270,6 +6270,48 @@
     "tm_g15": 5.0,
     "tm_g1": 0.9167,
     "tm_g4": 1.1429,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "PIXELIRT",
+    "event_time": 1791345626921,
+    "event_price": 1635.0,
+    "anchor_time": 1791339658971,
+    "anchor_price": 1627.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 1.0,
+    "tm_e15_e1": 1.0,
+    "tm_e1_e4": 0.04,
+    "tm_g15": 1.0,
+    "tm_g1": 0.0417,
+    "tm_g4": 1.0417,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "TACIRT",
+    "event_time": 1791345626921,
+    "event_price": 412.0,
+    "anchor_time": 1791344808391,
+    "anchor_price": 413.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1143,
+    "tm_e15_e1": 0.1143,
+    "tm_e1_e4": 0.7,
+    "tm_g15": 4.0,
+    "tm_g1": 1.129,
+    "tm_g4": 1.087,
     "legacy": false,
     "result": "PENDING",
     "result_time": null,
