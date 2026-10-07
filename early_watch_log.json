@@ -31196,7 +31196,10 @@
       "max_up": 0.97,
       "max_down": -0.97
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.39,
+      "max_down": -1.58
+    }
   },
   {
     "symbol": "C98IRT",
@@ -31224,7 +31227,10 @@
       "max_up": 2.82,
       "max_down": -4.56
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.82,
+      "max_down": -11.86
+    }
   },
   {
     "symbol": "VTHOIRT",
@@ -31817,7 +31823,10 @@
       "max_up": 3.31,
       "max_down": 3.31
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.31,
+      "max_down": 0.14
+    },
     "result_4h": null,
     "result_12h": null
   }
