@@ -3041,7 +3041,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 3.9109,
-    "min_move": -2.7387,
+    "min_move": -2.8462,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -3125,7 +3125,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 2.6122,
-    "min_move": -2.0408,
+    "min_move": -3.9265,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -3167,7 +3167,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 2.2201,
-    "min_move": -2.4152,
+    "min_move": -4.2937,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -3188,7 +3188,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 4.75,
-    "min_move": 0.0,
+    "min_move": -1.925,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -3209,7 +3209,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": 0.0,
+    "min_move": -3.577,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -3229,7 +3229,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 0.4792,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -3251,7 +3251,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": 0.0,
+    "min_move": -3.577,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -3272,7 +3272,49 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": 0.0,
+    "min_move": -0.9086,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ZECIRT",
+    "event_time": 1791350205570,
+    "event_price": 357000001.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 32.2,
+    "p15": -1.05,
+    "vr": null,
+    "va": 4.08,
+    "ta": null,
+    "bs": 2.25,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -0.9086,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ZECIRT",
+    "event_time": 1791350474794,
+    "event_price": 357000001.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 34.9,
+    "p15": -1.05,
+    "vr": null,
+    "va": 3.84,
+    "ta": null,
+    "bs": 2.25,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -0.9086,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
