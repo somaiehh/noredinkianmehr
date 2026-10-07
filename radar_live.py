@@ -1019,6 +1019,42 @@ def update_strong_wake_ledger(data, now_ms):
 
 
 
+# ===== SECONDARY HUNT V1 LEDGER - APPEND ONLY =====
+SECONDARY_HUNT_V1_LEDGER_FILE = "secondary_hunt_v1_ledger.json"
+
+def update_secondary_hunt_v1_ledger(data):
+    try:
+        with open(SECONDARY_HUNT_V1_LEDGER_FILE, "r", encoding="utf-8") as f:
+            ledger = json.load(f)
+    except Exception:
+        ledger = {"version": "secondary-hunt-v1-shadow-test", "members": {}}
+
+    members = ledger.setdefault("members", {})
+    added = 0
+    for symbol, history in data.items():
+        if symbol in members or not isinstance(history, list):
+            continue
+        rows = [r for r in history if r.get("secondary_hunt_v1") is True]
+        if not rows:
+            continue
+        r = min(rows, key=lambda x: int(x.get("time", 0) or 0))
+        members[symbol] = {
+            "trigger_time": int(r.get("time", 0) or 0),
+            "trigger_price": r.get("price"),
+            "secondary_score": r.get("secondary_hunt_v1_score"),
+            "hunt_score": r.get("hunt_score"),
+            "flags": r.get("secondary_hunt_v1_flags")
+        }
+        added += 1
+
+    if added:
+        tmp = SECONDARY_HUNT_V1_LEDGER_FILE + ".tmp"
+        with open(tmp, "w", encoding="utf-8") as f:
+            json.dump(ledger, f, ensure_ascii=False, indent=2)
+        os.replace(tmp, SECONDARY_HUNT_V1_LEDGER_FILE)
+    return added
+
+
 # ===== PRE-WAKE FORWARD LEDGER v1 - RESEARCH ONLY =====
 PRE_WAKE_LEDGER_FILE = "pre_wake_events.json"
 PRE_WAKE_HORIZON_MS = 24 * 60 * 60 * 1000
@@ -2156,6 +2192,9 @@ def save_dashboard_data(out, alerts_enabled=True):
         json.dump(data, f, ensure_ascii=False)
 
     os.replace(tmp, DATA_FILE)
+
+    # SECONDARY HUNT V1 - append-only research ledger; NO alert/Hunt effect.
+    update_secondary_hunt_v1_ledger(data)
 
     # Persist Strong Wake forward events independently of the 100-row history cap.
     update_strong_wake_ledger(data, now)
