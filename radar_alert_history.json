@@ -2777,5 +2777,31 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791400478585,
+    "symbol": "SUNDOGIRT",
+    "price": 408.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.24,
+    "vr": 4.85,
+    "va": 10.0,
+    "bs": 0.33,
+    "breakout": false,
+    "persistence": 3
+  },
+  {
+    "time": 1791400780485,
+    "symbol": "SANDIRT",
+    "price": 21288.3872,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 0.95,
+    "vr": 2.67,
+    "va": 10.0,
+    "bs": 0.74,
+    "breakout": false,
+    "persistence": 2
   }
 ]

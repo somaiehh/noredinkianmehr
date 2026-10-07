@@ -12318,5 +12318,18 @@
       }
     ],
     "expired_time": 1791244554944
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1791355529333,
+    "anchor_price": 1408622.0,
+    "status": "FAILED",
+    "created_time": 1791355529333,
+    "last_time": 1791400474221,
+    "last_price": 1407656.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791376841687,
+    "failed_price": 1351585.0
   }
 ]

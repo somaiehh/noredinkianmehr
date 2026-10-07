@@ -5875,7 +5875,10 @@
       "max_up": 0.0,
       "max_down": -0.64
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.2,
+      "max_down": -1.1
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -5897,7 +5900,10 @@
       "max_up": -0.32,
       "max_down": -0.64
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.2,
+      "max_down": -1.1
+    }
   },
   {
     "symbol": "NAKAIRT",
@@ -5919,6 +5925,47 @@
       "max_up": 1.01,
       "max_down": -0.88
     },
+    "result_4h": {
+      "max_up": 4.0,
+      "max_down": -0.88
+    }
+  },
+  {
+    "symbol": "SUNDOGIRT",
+    "time": 1791400474221,
+    "price": 408.0,
+    "pre30": -0.49,
+    "pre60": -0.49,
+    "pre120": 0.74,
+    "hunt": 84.0,
+    "persistence": 3,
+    "vr": 4.85,
+    "va": 10.0,
+    "buy": 11.0,
+    "bs": 0.33,
+    "ob": 1.0,
+    "p15": 1.24,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "SANDIRT",
+    "time": 1791400775458,
+    "price": 21288.3872,
+    "pre30": 0.66,
+    "pre60": 0.66,
+    "pre120": -2.16,
+    "hunt": 84.0,
+    "persistence": 2,
+    "vr": 2.67,
+    "va": 10.0,
+    "buy": 24.666666666666668,
+    "bs": 0.74,
+    "ob": 1.0,
+    "p15": 0.95,
+    "breakout": false,
+    "result_1h": null,
     "result_4h": null
   }
 ]
