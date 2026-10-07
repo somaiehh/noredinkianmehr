@@ -570,6 +570,37 @@
         "premove_pos",
         "dt15_pos"
       ]
+    },
+    "ALICEIRT": {
+      "trigger_time": 1791382625691,
+      "trigger_price": 45479.0,
+      "secondary_score": 90.0,
+      "hunt_score": 59.9,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "NAKAIRT": {
+      "trigger_time": 1791382977624,
+      "trigger_price": 27596.0,
+      "secondary_score": 85.0,
+      "hunt_score": 75.6,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "premove_pos",
+        "dt15_pos"
+      ]
     }
   }
 }
