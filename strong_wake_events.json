@@ -5768,7 +5768,7 @@
     "tm_g4": 1.0312,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791304201272,
+    "result_time": 1791305862907,
     "result_move": -5.3763,
     "max_move": 0.0,
     "min_move": -5.3763,
@@ -6023,7 +6023,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.8391,
-    "min_move": -3.2799,
+    "min_move": -4.6529,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6274,7 +6274,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 4.0179,
     "min_move": -3.5714,
     "ledger_version": "wake-ledger-v1"
   },
@@ -6337,7 +6337,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 4.4692,
+    "max_move": 5.7784,
     "min_move": -1.645,
     "ledger_version": "wake-ledger-v1"
   },
@@ -6359,6 +6359,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.4066,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "HOMEIRT",
+    "event_time": 1791356616660,
+    "event_price": 1517.2,
+    "anchor_time": 1791354903452,
+    "anchor_price": 1534.4,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1186,
+    "tm_e15_e1": 0.1186,
+    "tm_e1_e4": 0.7108,
+    "tm_g15": 3.5,
+    "tm_g1": 1.1132,
+    "tm_g4": 1.0779,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.1911,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }

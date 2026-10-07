@@ -11984,5 +11984,36 @@
     "levels": [],
     "failed_time": 1791296627277,
     "failed_price": 1374275.0
+  },
+  {
+    "symbol": "ORCAIRT",
+    "anchor_time": 1791307779181,
+    "anchor_price": 771505.0,
+    "status": "EXPIRED",
+    "created_time": 1791307779181,
+    "last_time": 1791356616660,
+    "last_price": 799540.0,
+    "max_gain_pct": 13.901,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791310705250,
+    "confirmed_price": 825778.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791310705250,
+        "price": 825778.0,
+        "gain_pct": 7.0347
+      },
+      {
+        "level": 10,
+        "time": 1791328071100,
+        "price": 849381.0,
+        "gain_pct": 10.094
+      }
+    ],
+    "expired_time": 1791351192843
   }
 ]
