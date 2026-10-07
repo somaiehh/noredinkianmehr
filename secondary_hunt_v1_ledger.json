@@ -556,6 +556,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "SWELLIRT": {
+      "trigger_time": 1791382186720,
+      "trigger_price": 265.0,
+      "secondary_score": 60.0,
+      "hunt_score": null,
+      "flags": [
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos"
+      ]
     }
   }
 }

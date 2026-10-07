@@ -12066,5 +12066,43 @@
     "max_gain_pct": 18.0597,
     "levels": [],
     "expired_time": 1791088791507
+  },
+  {
+    "symbol": "ARBIRT",
+    "anchor_time": 1791274628925,
+    "anchor_price": 54652.0,
+    "status": "EXPIRED",
+    "created_time": 1791274628925,
+    "last_time": 1791380525858,
+    "last_price": 48800.0,
+    "max_gain_pct": 1.4034,
+    "levels": [],
+    "expired_time": 1791318640290
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1791275051192,
+    "anchor_price": 359394992.0,
+    "status": "EXPIRED",
+    "created_time": 1791275051192,
+    "last_time": 1791380525858,
+    "last_price": 348113730.0,
+    "max_gain_pct": 3.2144,
+    "levels": [],
+    "confirmed_time": 1791294026266,
+    "confirmed_price": 370462321.0,
+    "expired_time": 1791318640290
+  },
+  {
+    "symbol": "TUTIRT",
+    "anchor_time": 1791271251035,
+    "anchor_price": 6712.0,
+    "status": "EXPIRED",
+    "created_time": 1791271251035,
+    "last_time": 1791381847307,
+    "last_price": 6001.0,
+    "max_gain_pct": 2.801,
+    "levels": [],
+    "expired_time": 1791314497582
   }
 ]

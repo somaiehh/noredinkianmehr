@@ -5854,5 +5854,43 @@
       "max_up": 0.14,
       "max_down": -1.18
     }
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1791381847307,
+    "price": 1.4358,
+    "pre30": -0.08,
+    "pre60": -0.84,
+    "pre120": -2.82,
+    "hunt": 66.3,
+    "persistence": 2,
+    "vr": 1.13,
+    "va": 2.89,
+    "buy": 52.66666666666667,
+    "bs": 1.58,
+    "ob": 1.0,
+    "p15": 0.69,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1791382186720,
+    "price": 1.4358,
+    "pre30": 0.03,
+    "pre60": -0.84,
+    "pre120": -2.82,
+    "hunt": 68.3,
+    "persistence": 3,
+    "vr": 1.13,
+    "va": 2.89,
+    "buy": 64.33333333333333,
+    "bs": 1.93,
+    "ob": 1.0,
+    "p15": 0.69,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

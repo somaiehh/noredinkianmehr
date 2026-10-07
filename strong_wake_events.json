@@ -5768,7 +5768,7 @@
     "tm_g4": 1.0312,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791317213006,
+    "result_time": 1791318640290,
     "result_move": -9.2473,
     "max_move": 0.0,
     "min_move": -9.2473,
@@ -5789,7 +5789,7 @@
     "tm_g4": 1.0952,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791317213006,
+    "result_time": 1791318640290,
     "result_move": -7.9552,
     "max_move": 5.6036,
     "min_move": -7.9552,
@@ -5873,10 +5873,10 @@
     "tm_g4": 4.4074,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791317213006,
-    "result_move": -9.4169,
+    "result_time": 1791318640290,
+    "result_move": -10.0368,
     "max_move": 0.0,
-    "min_move": -9.4169,
+    "min_move": -10.0368,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6170,7 +6170,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 2.0537,
-    "min_move": -4.6603,
+    "min_move": -4.7393,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6271,10 +6271,10 @@
     "tm_g1": 0.9167,
     "tm_g4": 1.1429,
     "legacy": false,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
-    "max_move": 4.0179,
+    "result": "HIT_FIRST",
+    "result_time": 1791382186720,
+    "result_move": 18.3036,
+    "max_move": 18.3036,
     "min_move": -3.5714,
     "ledger_version": "wake-ledger-v1"
   },
@@ -6380,7 +6380,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.4416,
-    "min_move": -4.0469,
+    "min_move": -4.1853,
     "ledger_version": "wake-ledger-v1"
   },
   {
