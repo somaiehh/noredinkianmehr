@@ -670,6 +670,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ONEIRT": {
+      "trigger_time": 1791388335608,
+      "trigger_price": 500.0,
+      "secondary_score": 65.0,
+      "hunt_score": 52.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1"
+      ]
     }
   }
 }

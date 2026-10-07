@@ -32049,7 +32049,10 @@
       "max_up": 0.0,
       "max_down": -3.79
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -5.12
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -32077,7 +32080,10 @@
       "max_up": 22.21,
       "max_down": 1.18
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 97.77,
+      "max_down": 1.18
+    }
   },
   {
     "symbol": "SANDIRT",
@@ -32468,7 +32474,10 @@
       "max_up": 1.55,
       "max_down": 1.55
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.76,
+      "max_down": -1.1
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -32490,6 +32499,28 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": {
+      "max_up": 0.6,
+      "max_down": -0.53
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1791388335608,
+    "price": 500.0,
+    "level": "STRONG",
+    "hunt": 52.0,
+    "persistence": 1,
+    "p15": 0.54,
+    "vr": 0.29,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

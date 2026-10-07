@@ -12154,5 +12154,18 @@
     "levels": [],
     "failed_time": 1791338011555,
     "failed_price": 12501.0
+  },
+  {
+    "symbol": "BBIRT",
+    "anchor_time": 1791291977967,
+    "anchor_price": 2639.0,
+    "status": "FAILED",
+    "created_time": 1791291977967,
+    "last_time": 1791387565770,
+    "last_price": 2406.0,
+    "max_gain_pct": 0.4926,
+    "levels": [],
+    "failed_time": 1791335269349,
+    "failed_price": 2559.0
   }
 ]
