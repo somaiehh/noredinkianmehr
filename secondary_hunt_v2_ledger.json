@@ -15,6 +15,34 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "SHIBIRT": {
+      "trigger_time": 1791404949052,
+      "trigger_price": 1.4304,
+      "secondary_score": 65.0,
+      "hunt_score": 35.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "JUPIRT": {
+      "trigger_time": 1791404949052,
+      "trigger_price": 86299.0,
+      "secondary_score": 70.0,
+      "hunt_score": 15.6,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
