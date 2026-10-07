@@ -753,6 +753,59 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "SCIRT": {
+      "trigger_time": 1791393666829,
+      "trigger_price": 255.0,
+      "secondary_score": 60.0,
+      "hunt_score": 15.3,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "PENGUIRT": {
+      "trigger_time": 1791393666829,
+      "trigger_price": 2260.0,
+      "secondary_score": 60.0,
+      "hunt_score": 14.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "FIGHTIRT": {
+      "trigger_time": 1791393666829,
+      "trigger_price": 962.1,
+      "secondary_score": 60.0,
+      "hunt_score": 44.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "FOGOIRT": {
+      "trigger_time": 1791394049514,
+      "trigger_price": 1301.0,
+      "secondary_score": 70.0,
+      "hunt_score": 48.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
