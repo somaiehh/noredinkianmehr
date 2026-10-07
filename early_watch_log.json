@@ -32040,5 +32040,43 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "GALAIRT",
+    "time": 1791351448430,
+    "price": 632.5,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.8,
+    "vr": 1.03,
+    "va": 4.82,
+    "buy": 100,
+    "bs": 3.03,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "VTHOIRT",
+    "time": 1791351448430,
+    "price": 189.7,
+    "level": "STRONG",
+    "hunt": 69.0,
+    "persistence": 1,
+    "p15": 1.12,
+    "vr": 0.99,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
