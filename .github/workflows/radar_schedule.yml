@@ -36,10 +36,10 @@ jobs:
 
       - name: Run Tabdeal radar
         run: |
-          for i in 1 2 3; do
-            echo "===== RADAR SCAN $i/3 ====="
+          for i in 1 2; do
+            echo "===== RADAR SCAN $i/2 ====="
             python -u radar_live.py --once
-            if [ "$i" -lt 3 ]; then sleep 60; fi
+            if [ "$i" -lt 2 ]; then sleep 60; fi
           done
 
       - name: Update Green V2.1 log
@@ -59,7 +59,7 @@ jobs:
           [ -f move_tracker_archive.json ] || printf '[]\n' > move_tracker_archive.json
           [ -f breakout_observer_state.json ] || printf "%s\n" "{}" > breakout_observer_state.json
           [ -f breakout_observer_archive.json ] || printf "%s\n" "[]" > breakout_observer_archive.json
-          git add tabdeal_radar_v21_data.json tabdeal_radar_live.json persistence_state.json green_v21_log.json early_watch_log.json radar_alert_history.json strong_wake_events.json pre_wake_events.json move_tracker_state.json move_tracker_archive.json breakout_observer_state.json breakout_observer_archive.json
+          git add tabdeal_radar_v21_data.json tabdeal_radar_live.json persistence_state.json green_v21_log.json early_watch_log.json radar_alert_history.json strong_wake_events.json pre_wake_events.json move_tracker_state.json move_tracker_archive.json breakout_observer_state.json breakout_observer_archive.json secondary_hunt_v1_ledger.json
 
           if git diff --cached --quiet; then
             echo "No radar changes to save."
