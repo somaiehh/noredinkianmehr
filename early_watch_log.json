@@ -32037,7 +32037,10 @@
       "max_up": 2.48,
       "max_down": 0.41
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.48,
+      "max_down": -0.45
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -32097,6 +32100,47 @@
     "va": 10.0,
     "buy": 68.66666666666667,
     "bs": 2.06,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.24,
+      "max_down": -0.06
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "KCSIRT",
+    "time": 1791352985413,
+    "price": 2080166.0,
+    "level": "STRONG",
+    "hunt": 57.0,
+    "persistence": 1,
+    "p15": 0.87,
+    "vr": 1.0,
+    "va": 0.35,
+    "buy": 61.66666666666667,
+    "bs": 1.85,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HOMEIRT",
+    "time": 1791353452284,
+    "price": 1517.9,
+    "level": "STRONG",
+    "hunt": 53.6,
+    "persistence": 1,
+    "p15": 0.26,
+    "vr": 1.11,
+    "va": 2.0,
+    "buy": 92.33333333333333,
+    "bs": 2.77,
     "breakout": false,
     "priority": false,
     "result_15m": null,
