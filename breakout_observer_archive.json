@@ -12331,5 +12331,19 @@
     "levels": [],
     "failed_time": 1791376841687,
     "failed_price": 1351585.0
+  },
+  {
+    "symbol": "MOVRIRT",
+    "anchor_time": 1791342634185,
+    "anchor_price": 535999.0,
+    "status": "EXPIRED",
+    "created_time": 1791342634185,
+    "last_time": 1791403489345,
+    "last_price": 498856.0,
+    "max_gain_pct": 3.8787,
+    "levels": [],
+    "confirmed_time": 1791345230993,
+    "confirmed_price": 552681.0,
+    "expired_time": 1791387265694
   }
 ]
