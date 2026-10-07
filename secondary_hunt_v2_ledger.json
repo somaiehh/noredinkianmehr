@@ -57,6 +57,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "COMMONIRT": {
+      "trigger_time": 1791409585699,
+      "trigger_price": 17.0,
+      "secondary_score": 65.0,
+      "hunt_score": 50.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
