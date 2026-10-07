@@ -1055,6 +1055,34 @@ def update_secondary_hunt_v1_ledger(data):
     return added
 
 
+# ===== SECONDARY HUNT V2 LEDGER - APPEND ONLY =====
+SECONDARY_HUNT_V2_LEDGER_FILE = "secondary_hunt_v2_ledger.json"
+
+def update_secondary_hunt_v2_ledger(data):
+    try:
+        with open(SECONDARY_HUNT_V2_LEDGER_FILE, "r", encoding="utf-8") as f:
+            ledger = json.load(f)
+    except Exception:
+        ledger = {"version": "v2-prospective-shadow", "start_ms": 1791385100936, "members": {}}
+    members = ledger.setdefault("members", {})
+    added = 0
+    for symbol, history in data.items():
+        if symbol in members or not isinstance(history, list):
+            continue
+        rows = [r for r in history if r.get("secondary_hunt_v2") is True and int(r.get("time",0) or 0) > 1791385100936]
+        if not rows:
+            continue
+        r = min(rows, key=lambda x: int(x.get("time",0) or 0))
+        members[symbol] = {"trigger_time": int(r.get("time",0) or 0), "trigger_price": r.get("price"), "secondary_score": r.get("secondary_hunt_v1_score"), "hunt_score": r.get("hunt_score"), "flags": r.get("secondary_hunt_v1_flags")}
+        added += 1
+    if added:
+        tmp = SECONDARY_HUNT_V2_LEDGER_FILE + ".tmp"
+        with open(tmp, "w", encoding="utf-8") as f:
+            json.dump(ledger, f, ensure_ascii=False, indent=2)
+        os.replace(tmp, SECONDARY_HUNT_V2_LEDGER_FILE)
+    return added
+
+
 # ===== PRE-WAKE FORWARD LEDGER v1 - RESEARCH ONLY =====
 PRE_WAKE_LEDGER_FILE = "pre_wake_events.json"
 PRE_WAKE_HORIZON_MS = 24 * 60 * 60 * 1000
@@ -2181,6 +2209,11 @@ def save_dashboard_data(out, alerts_enabled=True):
         if row.get("p15_wake_shadow_dt15") is not None and float(row["p15_wake_shadow_dt15"]) > 0: sec_score+=5; sec_flags.append("dt15_pos")
         if row.get("p15_wake_shadow_da1") is not None and float(row["p15_wake_shadow_da1"]) > 0: sec_score+=5; sec_flags.append("da1_pos")
         row["secondary_hunt_v1_score"]=round(sec_score,1); row["secondary_hunt_v1_flags"]=sec_flags; row["secondary_hunt_v1"]=bool(row.get("p15_wake_shadow_raw") and sec_score>=60); row["secondary_hunt_v1_version"]="v1-shadow-test"
+        v2_req={"candidate","p15_wake","premove_pos","dt15_pos","da1_pos"}
+        v2_exc={"va3","hunt55_79"}
+        v2_after=int(row.get("time",0) or 0)>1791385100936
+        row["secondary_hunt_v2"]=bool(v2_after and row.get("secondary_hunt_v1") is True and v2_req.issubset(set(sec_flags)) and not (v2_exc & set(sec_flags)))
+        row["secondary_hunt_v2_version"]="v2-prospective-shadow"
 
         history = data.get(symbol, [])
         history.append(row)
@@ -2195,6 +2228,7 @@ def save_dashboard_data(out, alerts_enabled=True):
 
     # SECONDARY HUNT V1 - append-only research ledger; NO alert/Hunt effect.
     update_secondary_hunt_v1_ledger(data)
+    update_secondary_hunt_v2_ledger(data)
 
     # Persist Strong Wake forward events independently of the 100-row history cap.
     update_strong_wake_ledger(data, now)
