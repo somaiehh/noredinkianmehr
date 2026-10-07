@@ -12408,5 +12408,18 @@
       }
     ],
     "expired_time": 1790924490613
+  },
+  {
+    "symbol": "COMMONIRT",
+    "anchor_time": 1791321559468,
+    "anchor_price": 16.9,
+    "status": "FAILED",
+    "created_time": 1791321559468,
+    "last_time": 1791405933057,
+    "last_price": 16.1,
+    "max_gain_pct": 8.8757,
+    "levels": [],
+    "failed_time": 1791333323758,
+    "failed_price": 16.2
   }
 ]
