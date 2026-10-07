@@ -11837,5 +11837,31 @@
         "gain_pct": 13.4969
       }
     ]
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1791285466659,
+    "anchor_price": 1714.7,
+    "status": "FAILED",
+    "created_time": 1791285466659,
+    "last_time": 1791340062972,
+    "last_price": 1663.6,
+    "max_gain_pct": 0.5424,
+    "levels": [],
+    "failed_time": 1791294026266,
+    "failed_price": 1662.2
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1791275051192,
+    "anchor_price": 12400.0,
+    "status": "FAILED",
+    "created_time": 1791275051192,
+    "last_time": 1791340603051,
+    "last_price": 12237.0,
+    "max_gain_pct": 12.0806,
+    "levels": [],
+    "failed_time": 1791290592177,
+    "failed_price": 11858.0
   }
 ]
