@@ -601,6 +601,19 @@
         "premove_pos",
         "dt15_pos"
       ]
+    },
+    "MUBARAKIRT": {
+      "trigger_time": 1791384093649,
+      "trigger_price": 19806.0,
+      "secondary_score": 60.0,
+      "hunt_score": 28.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

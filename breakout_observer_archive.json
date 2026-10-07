@@ -12104,5 +12104,29 @@
     "max_gain_pct": 2.801,
     "levels": [],
     "expired_time": 1791314497582
+  },
+  {
+    "symbol": "SANDIRT",
+    "anchor_time": 1791336392639,
+    "anchor_price": 18871.1899,
+    "status": "EXPIRED",
+    "created_time": 1791336392639,
+    "last_time": 1791382977624,
+    "last_price": 18922.371,
+    "max_gain_pct": 6.9825,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791338011555,
+    "confirmed_price": 19591.9932,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791350205570,
+        "price": 20043.667,
+        "gain_pct": 6.2131
+      }
+    ],
+    "expired_time": 1791380111900
   }
 ]

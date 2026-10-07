@@ -5892,5 +5892,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "NAKAIRT",
+    "time": 1791383736389,
+    "price": 27596.0,
+    "pre30": 1.08,
+    "pre60": -6.46,
+    "pre120": -13.37,
+    "hunt": 67.6,
+    "persistence": 2,
+    "vr": 2.51,
+    "va": 10.0,
+    "buy": 10.666666666666668,
+    "bs": 0.32,
+    "ob": 1.0,
+    "p15": 0.54,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

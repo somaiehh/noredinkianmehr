@@ -31925,7 +31925,10 @@
       "max_up": 1.2,
       "max_down": -3.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.2,
+      "max_down": -4.58
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -31953,7 +31956,10 @@
       "max_up": 3.03,
       "max_down": -1.66
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.07,
+      "max_down": -2.06
+    }
   },
   {
     "symbol": "LSKIRT",
@@ -32397,6 +32403,28 @@
     "va": 2.0,
     "buy": 100,
     "bs": 3.76,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GAIAIRT",
+    "time": 1791383736389,
+    "price": 1008.0,
+    "level": "STRONG",
+    "hunt": 57.5,
+    "persistence": 1,
+    "p15": 1.31,
+    "vr": 0.19,
+    "va": 10.0,
+    "buy": 83.0,
+    "bs": 2.49,
     "breakout": false,
     "priority": false,
     "result_15m": null,
