@@ -12054,5 +12054,17 @@
     "levels": [],
     "failed_time": 1791339658971,
     "failed_price": 12933.0
+  },
+  {
+    "symbol": "RAYIRT",
+    "anchor_time": 1791021838014,
+    "anchor_price": 554086.0,
+    "status": "EXPIRED",
+    "created_time": 1791021838014,
+    "last_time": 1791379074930,
+    "last_price": 654152.0,
+    "max_gain_pct": 18.0597,
+    "levels": [],
+    "expired_time": 1791088791507
   }
 ]
