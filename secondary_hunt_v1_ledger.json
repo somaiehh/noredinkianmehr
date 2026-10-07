@@ -614,6 +614,35 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "LAZIOIRT": {
+      "trigger_time": 1791384815064,
+      "trigger_price": 125355.0,
+      "secondary_score": 95.0,
+      "hunt_score": 58.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "AINIRT": {
+      "trigger_time": 1791385100936,
+      "trigger_price": 10809.0,
+      "secondary_score": 70.0,
+      "hunt_score": 60.7,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "dt15_pos"
+      ]
     }
   }
 }
