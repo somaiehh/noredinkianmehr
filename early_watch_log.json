@@ -32055,7 +32055,10 @@
     "bs": 3.03,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.36,
+      "max_down": -0.36
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -32072,6 +32075,28 @@
     "va": 2.0,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PUMPIRT",
+    "time": 1791352014920,
+    "price": 1734.2,
+    "level": "STRONG",
+    "hunt": 77.2,
+    "persistence": 1,
+    "p15": 1.58,
+    "vr": 0.55,
+    "va": 10.0,
+    "buy": 68.66666666666667,
+    "bs": 2.06,
     "breakout": false,
     "priority": false,
     "result_15m": null,
