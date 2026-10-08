@@ -1005,6 +1005,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BLASTIRT": {
+      "trigger_time": 1791429418784,
+      "trigger_price": 16.0,
+      "secondary_score": 70.0,
+      "hunt_score": 47.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

@@ -32505,7 +32505,10 @@
       "max_up": -0.3,
       "max_down": -10.71
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.3,
+      "max_down": -29.76
+    }
   },
   {
     "symbol": "LAZIOIRT",
@@ -32533,7 +32536,10 @@
       "max_up": 1.76,
       "max_down": -11.33
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.76,
+      "max_down": -15.16
+    }
   },
   {
     "symbol": "TUTIRT",
@@ -32561,7 +32567,10 @@
       "max_up": 1.18,
       "max_down": -0.53
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.81,
+      "max_down": -0.53
+    }
   },
   {
     "symbol": "ONEIRT",
