@@ -33436,7 +33436,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 1.35,
+      "max_down": 0.19
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -33455,7 +33458,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -2.33,
+      "max_down": -2.36
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -33474,6 +33480,28 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 5.8,
+      "max_down": 4.51
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1791457301602,
+    "price": 8924.0,
+    "level": "STRONG",
+    "hunt": 55.8,
+    "persistence": 1,
+    "p15": 0.13,
+    "vr": 2.01,
+    "va": 4.55,
+    "buy": 73.0,
+    "bs": 2.19,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

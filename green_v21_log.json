@@ -6158,5 +6158,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "ERAIRT",
+    "time": 1791457512410,
+    "price": 20019.0,
+    "pre30": 13.03,
+    "pre60": 12.49,
+    "pre120": 13.42,
+    "hunt": 67.7,
+    "persistence": 2,
+    "vr": 2.88,
+    "va": 2.42,
+    "buy": 25.0,
+    "bs": 0.75,
+    "ob": 1.0,
+    "p15": 0.23,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
