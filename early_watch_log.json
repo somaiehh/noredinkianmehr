@@ -32846,7 +32846,10 @@
       "max_up": 1.96,
       "max_down": -3.65
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.96,
+      "max_down": -7.82
+    }
   },
   {
     "symbol": "COMMONIRT",
@@ -32874,7 +32877,10 @@
       "max_up": 5.59,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.59,
+      "max_down": -4.35
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -32951,7 +32957,10 @@
       "max_up": 11.8,
       "max_down": 4.8
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 11.8,
+      "max_down": -9.4
+    },
     "result_12h": null
   },
   {
@@ -33137,7 +33146,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.28,
+      "max_down": -0.64
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -33154,6 +33166,25 @@
     "va": 10.0,
     "buy": 44.333333333333336,
     "bs": 1.33,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ERAIRT",
+    "time": 1791447620060,
+    "price": 18234.0,
+    "level": "STRONG",
+    "hunt": 70.3,
+    "persistence": 1,
+    "p15": 0.96,
+    "vr": 9.04,
+    "va": 2.0,
+    "buy": 54.333333333333336,
+    "bs": 1.63,
     "breakout": false,
     "priority": false,
     "result_15m": null,

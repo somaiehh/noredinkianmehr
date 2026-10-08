@@ -1190,6 +1190,33 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "COMPIRT": {
+      "trigger_time": 1791447426432,
+      "trigger_price": 6311058.0,
+      "secondary_score": 60.0,
+      "hunt_score": 28.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "ERAIRT": {
+      "trigger_time": 1791447620060,
+      "trigger_price": 18234.0,
+      "secondary_score": 75.0,
+      "hunt_score": 70.3,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

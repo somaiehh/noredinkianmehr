@@ -12776,5 +12776,31 @@
     "max_gain_pct": 0.7855,
     "levels": [],
     "expired_time": 1791435286935
+  },
+  {
+    "symbol": "RLCIRT",
+    "anchor_time": 1791250699141,
+    "anchor_price": 213234.0,
+    "status": "FAILED",
+    "created_time": 1791250699141,
+    "last_time": 1791446503884,
+    "last_price": 206421.0,
+    "max_gain_pct": 36.081,
+    "levels": [],
+    "failed_time": 1791251715323,
+    "failed_price": 198942.0
+  },
+  {
+    "symbol": "CAPIRT",
+    "anchor_time": 1791312844228,
+    "anchor_price": 23499.9,
+    "status": "FAILED",
+    "created_time": 1791312844228,
+    "last_time": 1791446503884,
+    "last_price": 19202.6,
+    "max_gain_pct": 4.7834,
+    "levels": [],
+    "failed_time": 1791314086142,
+    "failed_price": 22558.4
   }
 ]
