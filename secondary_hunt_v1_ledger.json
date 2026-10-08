@@ -1428,6 +1428,33 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "FIDAIRT": {
+      "trigger_time": 1791471834759,
+      "trigger_price": 5792.0,
+      "secondary_score": 70.0,
+      "hunt_score": 45.4,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "HEIIRT": {
+      "trigger_time": 1791472093854,
+      "trigger_price": 32650.0,
+      "secondary_score": 60.0,
+      "hunt_score": 27.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
