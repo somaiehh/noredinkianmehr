@@ -12548,5 +12548,31 @@
     "levels": [],
     "failed_time": 1791394049514,
     "failed_price": 483.6
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1791231848127,
+    "anchor_price": 78703.0,
+    "status": "FAILED",
+    "created_time": 1791231848127,
+    "last_time": 1791435483810,
+    "last_price": 78999.0,
+    "max_gain_pct": 0.6188,
+    "levels": [],
+    "failed_time": 1791264012976,
+    "failed_price": 75572.0
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "anchor_time": 1791390093459,
+    "anchor_price": 36.9,
+    "status": "FAILED",
+    "created_time": 1791390093459,
+    "last_time": 1791436691258,
+    "last_price": 50.0,
+    "max_gain_pct": 35.5014,
+    "levels": [],
+    "failed_time": 1791390438617,
+    "failed_price": 35.3
   }
 ]

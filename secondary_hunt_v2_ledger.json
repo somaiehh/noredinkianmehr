@@ -128,6 +128,34 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "AVAXIRT": {
+      "trigger_time": 1791436691258,
+      "trigger_price": 2846924.0,
+      "secondary_score": 70.0,
+      "hunt_score": 5.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "RAYIRT": {
+      "trigger_time": 1791436691258,
+      "trigger_price": 640767.0,
+      "secondary_score": 70.0,
+      "hunt_score": 14.6,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
