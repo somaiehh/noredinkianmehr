@@ -12726,5 +12726,17 @@
       }
     ],
     "expired_time": 1791438723371
+  },
+  {
+    "symbol": "ETHFIIRT",
+    "anchor_time": 1791054281421,
+    "anchor_price": 191498.0,
+    "status": "EXPIRED",
+    "created_time": 1791054281421,
+    "last_time": 1791444808729,
+    "last_price": 193099.0,
+    "max_gain_pct": 11.6591,
+    "levels": [],
+    "expired_time": 1791101765908
   }
 ]

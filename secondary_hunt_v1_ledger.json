@@ -1119,6 +1119,33 @@
         "premove_pos",
         "dt15_pos"
       ]
+    },
+    "BABYSHARKIRT": {
+      "trigger_time": 1791444808729,
+      "trigger_price": 1296.7,
+      "secondary_score": 65.0,
+      "hunt_score": 17.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "ACEIRT": {
+      "trigger_time": 1791445058027,
+      "trigger_price": 51733.0,
+      "secondary_score": 65.0,
+      "hunt_score": 32.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos"
+      ]
     }
   }
 }
