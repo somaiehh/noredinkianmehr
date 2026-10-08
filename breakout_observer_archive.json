@@ -13169,5 +13169,36 @@
     "confirmed_time": 1791409585699,
     "confirmed_price": 17.0,
     "expired_time": 1791451032893
+  },
+  {
+    "symbol": "ARKIRT",
+    "anchor_time": 1791013672643,
+    "anchor_price": 57787.0,
+    "status": "EXPIRED",
+    "created_time": 1791013672643,
+    "last_time": 1791481148049,
+    "last_price": 59000.0,
+    "max_gain_pct": 17.2824,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791023010770,
+    "confirmed_price": 59823.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791031095805,
+        "price": 67774.0,
+        "gain_pct": 17.2824
+      },
+      {
+        "level": 10,
+        "time": 1791031095805,
+        "price": 67774.0,
+        "gain_pct": 17.2824
+      }
+    ],
+    "expired_time": 1791058180148
   }
 ]
