@@ -13057,5 +13057,36 @@
     "levels": [],
     "failed_time": 1791225419591,
     "failed_price": 1275.0
+  },
+  {
+    "symbol": "SYNIRT",
+    "anchor_time": 1790857034409,
+    "anchor_price": 46100.0,
+    "status": "EXPIRED",
+    "created_time": 1790857034409,
+    "last_time": 1791460195696,
+    "last_price": 53998.0,
+    "max_gain_pct": 17.1931,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790862394607,
+    "confirmed_price": 47720.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790863309943,
+        "price": 49552.0,
+        "gain_pct": 7.4881
+      },
+      {
+        "level": 10,
+        "time": 1790864172137,
+        "price": 50961.0,
+        "gain_pct": 10.5445
+      }
+    ],
+    "expired_time": 1790923425821
   }
 ]
