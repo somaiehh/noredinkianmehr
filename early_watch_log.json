@@ -33663,7 +33663,10 @@
       "max_up": 0.68,
       "max_down": -2.06
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.88,
+      "max_down": -8.25
+    },
     "result_12h": null
   },
   {
@@ -33906,7 +33909,10 @@
       "max_up": -5.99,
       "max_down": -5.99
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -2.97,
+      "max_down": -6.57
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -34016,6 +34022,25 @@
       "max_up": -0.68,
       "max_down": -0.68
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SANDIRT",
+    "time": 1791477276831,
+    "price": 18434.3163,
+    "level": "WATCH",
+    "hunt": 41.5,
+    "persistence": 1,
+    "p15": 0.73,
+    "vr": 0.18,
+    "va": 10.0,
+    "buy": 57.99999999999999,
+    "bs": 1.74,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
