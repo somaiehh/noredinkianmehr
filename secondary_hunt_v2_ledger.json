@@ -113,6 +113,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "LSKIRT": {
+      "trigger_time": 1791435483810,
+      "trigger_price": 62498.0,
+      "secondary_score": 75.0,
+      "hunt_score": 34.6,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
