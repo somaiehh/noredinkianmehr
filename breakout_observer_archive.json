@@ -13407,5 +13407,18 @@
     "max_gain_pct": 2.0492,
     "levels": [],
     "expired_time": 1791453016873
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1791400775458,
+    "anchor_price": 1401267.0,
+    "status": "FAILED",
+    "created_time": 1791400775458,
+    "last_time": 1791489869392,
+    "last_price": 1228000.0,
+    "max_gain_pct": 4.6763,
+    "levels": [],
+    "failed_time": 1791408882573,
+    "failed_price": 1357982.0
   }
 ]
