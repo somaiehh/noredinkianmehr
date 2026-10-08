@@ -12473,5 +12473,67 @@
     "levels": [],
     "failed_time": 1790999125361,
     "failed_price": 3500.0
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1791346022789,
+    "anchor_price": 168.5,
+    "status": "EXPIRED",
+    "created_time": 1791346022789,
+    "last_time": 1791425446436,
+    "last_price": 211.0,
+    "max_gain_pct": 78.635,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791346696275,
+    "confirmed_price": 177.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791346696275,
+        "price": 177.0,
+        "gain_pct": 5.0445
+      },
+      {
+        "level": 10,
+        "time": 1791357244669,
+        "price": 186.0,
+        "gain_pct": 10.3858
+      }
+    ],
+    "expired_time": 1791390093459
+  },
+  {
+    "symbol": "ESIRT",
+    "anchor_time": 1791359255428,
+    "anchor_price": 260.0,
+    "status": "EXPIRED",
+    "created_time": 1791359255428,
+    "last_time": 1791425446436,
+    "last_price": 482.0,
+    "max_gain_pct": 115.3846,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791360427666,
+    "confirmed_price": 268.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791400775458,
+        "price": 560.0,
+        "gain_pct": 115.3846
+      },
+      {
+        "level": 10,
+        "time": 1791400775458,
+        "price": 560.0,
+        "gain_pct": 115.3846
+      }
+    ],
+    "expired_time": 1791403489345
   }
 ]
