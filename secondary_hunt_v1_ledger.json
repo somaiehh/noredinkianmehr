@@ -1091,6 +1091,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "PIGGYIRT": {
+      "trigger_time": 1791439673603,
+      "trigger_price": 3218.0,
+      "secondary_score": 80.0,
+      "hunt_score": 61.4,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

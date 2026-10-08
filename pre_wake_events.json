@@ -3524,7 +3524,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0631,
-    "min_move": 0.0,
+    "min_move": -0.014,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]

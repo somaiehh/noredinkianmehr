@@ -171,6 +171,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "SUNDOGIRT": {
+      "trigger_time": 1791439673603,
+      "trigger_price": 406.0,
+      "secondary_score": 65.0,
+      "hunt_score": 35.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
