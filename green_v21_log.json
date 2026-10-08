@@ -6175,7 +6175,10 @@
       "max_up": 8.44,
       "max_down": -0.07
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 20.97,
+      "max_down": -0.07
+    }
   },
   {
     "symbol": "ERAIRT",
