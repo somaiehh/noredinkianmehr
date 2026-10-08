@@ -13534,5 +13534,49 @@
     "levels": [],
     "failed_time": 1791473577072,
     "failed_price": 16725706.0
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1791304201272,
+    "anchor_price": 11831.0,
+    "status": "FAILED",
+    "created_time": 1791304201272,
+    "last_time": 1791497953923,
+    "last_price": 10362.0,
+    "max_gain_pct": 0.0845,
+    "levels": [],
+    "failed_time": 1791339658971,
+    "failed_price": 11174.0
+  },
+  {
+    "symbol": "STRKIRT",
+    "anchor_time": 1791453226471,
+    "anchor_price": 14903.0,
+    "status": "EXPIRED",
+    "created_time": 1791453226471,
+    "last_time": 1791498835019,
+    "last_price": 14936.0,
+    "max_gain_pct": 11.4138,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791459137622,
+    "confirmed_price": 15900.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791459137622,
+        "price": 15900.0,
+        "gain_pct": 6.6899
+      },
+      {
+        "level": 10,
+        "time": 1791469084300,
+        "price": 16604.0,
+        "gain_pct": 11.4138
+      }
+    ],
+    "expired_time": 1791497745192
   }
 ]
