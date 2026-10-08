@@ -1078,6 +1078,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "REZIRT": {
+      "trigger_time": 1791438723371,
+      "trigger_price": 1029.0,
+      "secondary_score": 60.0,
+      "hunt_score": 15.1,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

@@ -32784,7 +32784,10 @@
       "max_up": 20.7,
       "max_down": 1.63
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 24.39,
+      "max_down": 1.63
+    }
   },
   {
     "symbol": "FILIRT",
@@ -32981,7 +32984,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 1.03,
+      "max_down": 1.03
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -33000,7 +33006,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -1.89,
+      "max_down": -1.89
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

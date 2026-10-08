@@ -156,6 +156,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "MOVRIRT": {
+      "trigger_time": 1791438723371,
+      "trigger_price": 524969.0,
+      "secondary_score": 75.0,
+      "hunt_score": 39.7,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
