@@ -1318,6 +1318,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "DOTIRT": {
+      "trigger_time": 1791454171744,
+      "trigger_price": 299023.0,
+      "secondary_score": 70.0,
+      "hunt_score": 36.3,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

@@ -33240,7 +33240,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.22,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -33262,7 +33265,10 @@
       "max_up": 0.09,
       "max_down": 0.09
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.1,
+      "max_down": 0.09
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -33350,6 +33356,44 @@
       "max_up": -1.0,
       "max_down": -1.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GTCIRT",
+    "time": 1791453947480,
+    "price": 46533.0,
+    "level": "STRONG",
+    "hunt": 63.3,
+    "persistence": 1,
+    "p15": 0.35,
+    "vr": 0.78,
+    "va": 3.15,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ALGOIRT",
+    "time": 1791454171744,
+    "price": 37037.0,
+    "level": "STRONG",
+    "hunt": 74.5,
+    "persistence": 1,
+    "p15": 1.11,
+    "vr": 0.88,
+    "va": 4.8,
+    "buy": 38.99999999999999,
+    "bs": 1.17,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
