@@ -3011,5 +3011,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791465367820,
+    "symbol": "LPTIRT",
+    "price": 492896.0,
+    "hunt_score": 86.4,
+    "status": "EARLY",
+    "p15": 0.65,
+    "vr": 1.01,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 4
   }
 ]

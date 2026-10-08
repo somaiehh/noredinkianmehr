@@ -6100,7 +6100,10 @@
       "max_up": 1.22,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.87,
+      "max_down": -2.53
+    }
   },
   {
     "symbol": "UAIIRT",
@@ -6122,7 +6125,10 @@
       "max_up": 1.22,
       "max_down": 0.02
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.87,
+      "max_down": -2.53
+    }
   },
   {
     "symbol": "GTCIRT",
@@ -6210,6 +6216,25 @@
       "max_up": -0.11,
       "max_down": -0.77
     },
+    "result_4h": null
+  },
+  {
+    "symbol": "LPTIRT",
+    "time": 1791465363425,
+    "price": 492896.0,
+    "pre30": 3.11,
+    "pre60": 3.74,
+    "pre120": 1.48,
+    "hunt": 86.4,
+    "persistence": 4,
+    "vr": 1.01,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.69,
+    "p15": 0.65,
+    "breakout": true,
+    "result_1h": null,
     "result_4h": null
   }
 ]
