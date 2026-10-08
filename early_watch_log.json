@@ -32966,7 +32966,10 @@
       "max_up": 1.39,
       "max_down": 1.39
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.75,
+      "max_down": -0.14
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -32988,7 +32991,10 @@
       "max_up": 1.03,
       "max_down": 1.03
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 11.34,
+      "max_down": 1.03
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -33010,6 +33016,25 @@
       "max_up": -1.89,
       "max_down": -1.89
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GAIAIRT",
+    "time": 1791441148490,
+    "price": 795.0,
+    "level": "WATCH",
+    "hunt": 46.4,
+    "persistence": 1,
+    "p15": 1.92,
+    "vr": 0.12,
+    "va": 3.75,
+    "buy": 83.33333333333334,
+    "bs": 2.5,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

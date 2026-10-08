@@ -1106,6 +1106,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BILLIRT": {
+      "trigger_time": 1791441351634,
+      "trigger_price": 2779.0,
+      "secondary_score": 65.0,
+      "hunt_score": 3.4,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos"
+      ]
     }
   }
 }
