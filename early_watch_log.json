@@ -33184,7 +33184,10 @@
       "max_up": 2.53,
       "max_down": -0.84
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.53,
+      "max_down": -8.79
+    }
   },
   {
     "symbol": "ETHFIIRT",
@@ -33212,7 +33215,10 @@
       "max_up": 0.01,
       "max_down": -1.49
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.85,
+      "max_down": -13.13
+    }
   },
   {
     "symbol": "HIPPOIRT",
@@ -33958,7 +33964,10 @@
       "max_up": -2.97,
       "max_down": -6.57
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.64,
+      "max_down": -6.57
+    },
     "result_12h": null
   },
   {
@@ -33983,7 +33992,10 @@
       "max_up": 0.0,
       "max_down": -0.91
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -2.96
+    },
     "result_12h": null
   },
   {
@@ -34008,7 +34020,10 @@
       "max_up": 0.86,
       "max_down": -1.33
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 9.42,
+      "max_down": -1.33
+    },
     "result_12h": null
   },
   {
@@ -34179,7 +34194,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.36,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -34201,7 +34219,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 4.6,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -34238,7 +34259,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.17,
+      "max_down": -1.85
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
