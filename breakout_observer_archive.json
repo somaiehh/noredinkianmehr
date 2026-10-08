@@ -12638,5 +12638,93 @@
     "levels": [],
     "failed_time": 1791384093649,
     "failed_price": 650348.0
+  },
+  {
+    "symbol": "GTCIRT",
+    "anchor_time": 1791349768619,
+    "anchor_price": 47000.0,
+    "status": "EXPIRED",
+    "created_time": 1791349768619,
+    "last_time": 1791441351634,
+    "last_price": 46190.0,
+    "max_gain_pct": 14.8511,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791351670202,
+    "confirmed_price": 49612.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791351670202,
+        "price": 49612.0,
+        "gain_pct": 5.5574
+      },
+      {
+        "level": 10,
+        "time": 1791354903452,
+        "price": 52000.0,
+        "gain_pct": 10.6383
+      }
+    ],
+    "expired_time": 1791393666829
+  },
+  {
+    "symbol": "SUNDOGIRT",
+    "anchor_time": 1791394049514,
+    "anchor_price": 411.0,
+    "status": "FAILED",
+    "created_time": 1791394049514,
+    "last_time": 1791441351634,
+    "last_price": 400.0,
+    "max_gain_pct": 4.3796,
+    "levels": [],
+    "failed_time": 1791403489345,
+    "failed_price": 389.0
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1791340782195,
+    "anchor_price": 12457.0,
+    "status": "FAILED",
+    "created_time": 1791340782195,
+    "last_time": 1791441351634,
+    "last_price": 11375.0,
+    "max_gain_pct": 4.359,
+    "levels": [],
+    "failed_time": 1791342214627,
+    "failed_price": 12024.0
+  },
+  {
+    "symbol": "METIRT",
+    "anchor_time": 1791394836988,
+    "anchor_price": 103497.0,
+    "status": "EXPIRED",
+    "created_time": 1791394836988,
+    "last_time": 1791441351634,
+    "last_price": 124088.0,
+    "max_gain_pct": 24.393,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791400474221,
+    "confirmed_price": 111484.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791400474221,
+        "price": 111484.0,
+        "gain_pct": 7.7171
+      },
+      {
+        "level": 10,
+        "time": 1791401698312,
+        "price": 115175.0,
+        "gain_pct": 11.2834
+      }
+    ],
+    "expired_time": 1791438723371
   }
 ]
