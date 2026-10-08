@@ -13635,5 +13635,36 @@
     "levels": [],
     "failed_time": 1791472901115,
     "failed_price": 13100.0
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1791448591786,
+    "anchor_price": 10121.0,
+    "status": "EXPIRED",
+    "created_time": 1791448591786,
+    "last_time": 1791502542278,
+    "last_price": 11929.0,
+    "max_gain_pct": 20.5414,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791452048413,
+    "confirmed_price": 10632.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791452048413,
+        "price": 10632.0,
+        "gain_pct": 5.0489
+      },
+      {
+        "level": 10,
+        "time": 1791455786818,
+        "price": 11266.0,
+        "gain_pct": 11.3131
+      }
+    ],
+    "expired_time": 1791492692901
   }
 ]
