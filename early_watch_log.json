@@ -32443,7 +32443,10 @@
       "max_up": 0.2,
       "max_down": -1.1
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.98,
+      "max_down": -1.1
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -32471,7 +32474,10 @@
       "max_up": 0.47,
       "max_down": -1.46
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.65,
+      "max_down": -4.39
+    }
   },
   {
     "symbol": "GAIAIRT",
