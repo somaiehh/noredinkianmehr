@@ -33850,7 +33850,10 @@
       "max_up": -1.18,
       "max_down": -3.06
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -3.06
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -33872,7 +33875,10 @@
       "max_up": 7.82,
       "max_down": 7.82
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 7.82,
+      "max_down": -7.36
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -33888,6 +33894,47 @@
     "va": 2.0,
     "buy": 49.666666666666664,
     "bs": 1.49,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -5.99,
+      "max_down": -5.99
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PROMIRT",
+    "time": 1791474517825,
+    "price": 1367735.0,
+    "level": "STRONG",
+    "hunt": 59.7,
+    "persistence": 1,
+    "p15": 1.12,
+    "vr": 2.55,
+    "va": 0.98,
+    "buy": 43.0,
+    "bs": 1.29,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "AINIRT",
+    "time": 1791474517825,
+    "price": 11150.0,
+    "level": "STRONG",
+    "hunt": 66.6,
+    "persistence": 2,
+    "p15": 0.76,
+    "vr": 1.59,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.25,
     "breakout": false,
     "priority": false,
     "result_15m": null,

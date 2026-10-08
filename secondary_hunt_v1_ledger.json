@@ -1482,6 +1482,74 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "UNIIRT": {
+      "trigger_time": 1791474517825,
+      "trigger_price": 1985165.0,
+      "secondary_score": 60.0,
+      "hunt_score": 24.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "VETIRT": {
+      "trigger_time": 1791474517825,
+      "trigger_price": 1975.28,
+      "secondary_score": 60.0,
+      "hunt_score": 51.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "book1",
+        "da1_pos"
+      ]
+    },
+    "BONKIRT": {
+      "trigger_time": 1791474517825,
+      "trigger_price": 0.86861,
+      "secondary_score": 65.0,
+      "hunt_score": 46.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "da1_pos"
+      ]
+    },
+    "FORMIRT": {
+      "trigger_time": 1791474517825,
+      "trigger_price": 71455.0,
+      "secondary_score": 70.0,
+      "hunt_score": 6.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "da1_pos"
+      ]
+    },
+    "TNSRIRT": {
+      "trigger_time": 1791474517825,
+      "trigger_price": 9649.0,
+      "secondary_score": 85.0,
+      "hunt_score": 62.7,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

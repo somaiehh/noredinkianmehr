@@ -6270,5 +6270,43 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "AINIRT",
+    "time": 1791474517825,
+    "price": 11150.0,
+    "pre30": 0.6,
+    "pre60": -1.15,
+    "pre120": 4.14,
+    "hunt": 66.6,
+    "persistence": 2,
+    "vr": 1.59,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.25,
+    "ob": 1.0,
+    "p15": 0.76,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "AINIRT",
+    "time": 1791474741360,
+    "price": 11150.0,
+    "pre30": 0.6,
+    "pre60": -1.15,
+    "pre120": 7.39,
+    "hunt": 68.6,
+    "persistence": 3,
+    "vr": 1.59,
+    "va": 2.0,
+    "buy": 97.33333333333333,
+    "bs": 2.92,
+    "ob": 1.0,
+    "p15": 0.76,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

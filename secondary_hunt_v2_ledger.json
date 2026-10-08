@@ -383,6 +383,33 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "UNIIRT": {
+      "trigger_time": 1791474517825,
+      "trigger_price": 1985165.0,
+      "secondary_score": 60.0,
+      "hunt_score": 24.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "ARIAIRT": {
+      "trigger_time": 1791474741360,
+      "trigger_price": 8399.0,
+      "secondary_score": 70.0,
+      "hunt_score": 30.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
