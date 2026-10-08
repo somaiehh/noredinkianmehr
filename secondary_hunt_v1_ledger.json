@@ -991,6 +991,20 @@
         "premove_pos",
         "da1_pos"
       ]
+    },
+    "GRAMIRT": {
+      "trigger_time": 1791422814801,
+      "trigger_price": 377289.0,
+      "secondary_score": 75.0,
+      "hunt_score": 61.5,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
