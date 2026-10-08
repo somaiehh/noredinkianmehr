@@ -33491,7 +33491,10 @@
       "max_up": 0.54,
       "max_down": -3.91
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 24.27,
+      "max_down": -3.91
+    }
   },
   {
     "symbol": "ALGOIRT",
@@ -33519,7 +33522,10 @@
       "max_up": 0.83,
       "max_down": -11.7
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.83,
+      "max_down": -17.65
+    }
   },
   {
     "symbol": "BTRIRT",
