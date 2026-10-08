@@ -13420,5 +13420,31 @@
     "levels": [],
     "failed_time": 1791408882573,
     "failed_price": 1357982.0
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1791446503884,
+    "anchor_price": 1.4437,
+    "status": "FAILED",
+    "created_time": 1791446503884,
+    "last_time": 1791491512149,
+    "last_price": 1.4145,
+    "max_gain_pct": 1.1706,
+    "levels": [],
+    "failed_time": 1791473577072,
+    "failed_price": 1.3911
+  },
+  {
+    "symbol": "KAIOIRT",
+    "anchor_time": 1791392273397,
+    "anchor_price": 5466.0,
+    "status": "FAILED",
+    "created_time": 1791392273397,
+    "last_time": 1791491512149,
+    "last_price": 5670.0,
+    "max_gain_pct": 4.281,
+    "levels": [],
+    "failed_time": 1791401698312,
+    "failed_price": 5288.0
   }
 ]
