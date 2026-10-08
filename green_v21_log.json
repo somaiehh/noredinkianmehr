@@ -6029,5 +6029,24 @@
       "max_up": 2.05,
       "max_down": -0.98
     }
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1791437680684,
+    "price": 84033.0,
+    "pre30": 6.37,
+    "pre60": 15.36,
+    "pre120": 15.36,
+    "hunt": 98.1,
+    "persistence": 3,
+    "vr": 14.45,
+    "va": 8.22,
+    "buy": 100,
+    "bs": 4.04,
+    "ob": 0.0,
+    "p15": 1.1,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

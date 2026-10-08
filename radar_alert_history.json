@@ -2855,5 +2855,31 @@
     "bs": 3.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791437684330,
+    "symbol": "UAIIRT",
+    "price": 84033.0,
+    "hunt_score": 98.1,
+    "status": "EARLY",
+    "p15": 1.1,
+    "vr": 14.45,
+    "va": 8.22,
+    "bs": 4.04,
+    "breakout": true,
+    "persistence": 3
+  },
+  {
+    "time": 1791437899614,
+    "symbol": "ELIZAOSIRT",
+    "price": 245.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 2.08,
+    "vr": 1.35,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": false,
+    "persistence": 2
   }
 ]

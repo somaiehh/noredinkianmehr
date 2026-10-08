@@ -1064,6 +1064,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "PROMIRT": {
+      "trigger_time": 1791437680684,
+      "trigger_price": 1533073.0,
+      "secondary_score": 60.0,
+      "hunt_score": null,
+      "flags": [
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
