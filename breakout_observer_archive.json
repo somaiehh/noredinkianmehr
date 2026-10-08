@@ -12889,5 +12889,72 @@
     "levels": [],
     "failed_time": 1791322062466,
     "failed_price": 638.4
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1791390093459,
+    "anchor_price": 0.0001039,
+    "status": "EXPIRED",
+    "created_time": 1791390093459,
+    "last_time": 1791451246026,
+    "last_price": 0.00010495,
+    "max_gain_pct": 1.5688,
+    "levels": [],
+    "expired_time": 1791433404354
+  },
+  {
+    "symbol": "LTCIRT",
+    "anchor_time": 1791276794719,
+    "anchor_price": 18782513.0,
+    "status": "EXPIRED",
+    "created_time": 1791276794719,
+    "last_time": 1791451246026,
+    "last_price": 17263962.0,
+    "max_gain_pct": 1.0875,
+    "levels": [],
+    "expired_time": 1791320441542
+  },
+  {
+    "symbol": "ALGOIRT",
+    "anchor_time": 1790588212143,
+    "anchor_price": 30543.0,
+    "status": "EXPIRED",
+    "created_time": 1790588212143,
+    "last_time": 1791451246026,
+    "last_price": 34974.0,
+    "max_gain_pct": 16.7272,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1790592572166,
+    "confirmed_price": 31573.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790597716430,
+        "price": 32440.0,
+        "gain_pct": 6.2109
+      },
+      {
+        "level": 10,
+        "time": 1790619586223,
+        "price": 33708.0,
+        "gain_pct": 10.3624
+      }
+    ],
+    "expired_time": 1790633626832
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1791390093459,
+    "anchor_price": 1.07771,
+    "status": "EXPIRED",
+    "created_time": 1791390093459,
+    "last_time": 1791452048413,
+    "last_price": 1.08454,
+    "max_gain_pct": 2.0683,
+    "levels": [],
+    "expired_time": 1791433404354
   }
 ]

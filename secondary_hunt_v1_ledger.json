@@ -1257,6 +1257,37 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "LPTIRT": {
+      "trigger_time": 1791452276845,
+      "trigger_price": 491625.0,
+      "secondary_score": 95.0,
+      "hunt_score": 78.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos"
+      ]
+    },
+    "PEPEIRT": {
+      "trigger_time": 1791452276845,
+      "trigger_price": 1.08505,
+      "secondary_score": 85.0,
+      "hunt_score": 77.4,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
