@@ -33178,7 +33178,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.12,
+      "max_down": -5.59
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -33200,6 +33203,44 @@
       "max_up": -1.58,
       "max_down": -1.58
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1791450120550,
+    "price": 85529.0,
+    "level": "STRONG",
+    "hunt": 100.0,
+    "persistence": 2,
+    "p15": 1.22,
+    "vr": 12.1,
+    "va": 10.0,
+    "buy": 52.33333333333333,
+    "bs": 1.57,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1791450326153,
+    "price": 1.4447,
+    "level": "WATCH",
+    "hunt": 47.0,
+    "persistence": 1,
+    "p15": 0.36,
+    "vr": 0.16,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 4.03,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

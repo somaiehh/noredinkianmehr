@@ -6073,5 +6073,43 @@
       "max_down": -0.16
     },
     "result_4h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1791450120550,
+    "price": 85529.0,
+    "pre30": 2.76,
+    "pre60": 3.5,
+    "pre120": 6.02,
+    "hunt": 100.0,
+    "persistence": 2,
+    "vr": 12.1,
+    "va": 10.0,
+    "buy": 52.33333333333333,
+    "bs": 1.57,
+    "ob": 1.0,
+    "p15": 1.22,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1791450326153,
+    "price": 85529.0,
+    "pre30": 2.03,
+    "pre60": 3.5,
+    "pre120": 6.02,
+    "hunt": 100.0,
+    "persistence": 3,
+    "vr": 12.1,
+    "va": 10.0,
+    "buy": 91.33333333333334,
+    "bs": 2.74,
+    "ob": 0.28,
+    "p15": 1.22,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
