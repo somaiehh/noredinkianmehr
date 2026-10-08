@@ -12802,5 +12802,42 @@
     "levels": [],
     "failed_time": 1791314086142,
     "failed_price": 22558.4
+  },
+  {
+    "symbol": "WINIRT",
+    "anchor_time": 1791035733829,
+    "anchor_price": 13.091,
+    "status": "EXPIRED",
+    "created_time": 1791035733829,
+    "last_time": 1791447620060,
+    "last_price": 15.389,
+    "max_gain_pct": 18.4554,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791039098075,
+    "confirmed_price": 13.841,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791039098075,
+        "price": 13.841,
+        "gain_pct": 5.7291
+      }
+    ],
+    "expired_time": 1791079419185
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1791387565770,
+    "anchor_price": 12600.0,
+    "status": "FAILED",
+    "created_time": 1791387565770,
+    "last_time": 1791448398840,
+    "last_price": 10051.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791388335608,
+    "failed_price": 11292.0
   }
 ]

@@ -1217,6 +1217,32 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "TAIRT": {
+      "trigger_time": 1791448398840,
+      "trigger_price": 13568.0,
+      "secondary_score": 60.0,
+      "hunt_score": 50.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "WINIRT": {
+      "trigger_time": 1791448591786,
+      "trigger_price": 16.414,
+      "secondary_score": 75.0,
+      "hunt_score": 75.9,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "bs2",
+        "premove_pos"
+      ]
     }
   }
 }
