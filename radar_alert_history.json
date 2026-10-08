@@ -2972,5 +2972,18 @@
     "bs": 3.73,
     "breakout": true,
     "persistence": 10
+  },
+  {
+    "time": 1791456671279,
+    "symbol": "BTRIRT",
+    "price": 12284.0,
+    "hunt_score": 88.7,
+    "status": "EARLY",
+    "p15": 1.16,
+    "vr": 1.39,
+    "va": 0.94,
+    "bs": 3.73,
+    "breakout": true,
+    "persistence": 4
   }
 ]
