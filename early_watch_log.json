@@ -32936,7 +32936,10 @@
       "max_up": 4.03,
       "max_down": -3.38
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.03,
+      "max_down": -9.39
+    }
   },
   {
     "symbol": "ESIRT",
@@ -33601,7 +33604,10 @@
       "max_up": -0.11,
       "max_down": -0.77
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.18,
+      "max_down": -1.4
+    },
     "result_12h": null
   },
   {
@@ -33769,7 +33775,10 @@
       "max_up": -0.14,
       "max_down": -0.14
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.74,
+      "max_down": -1.22
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -33791,7 +33800,10 @@
       "max_up": 0.63,
       "max_down": 0.63
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.63,
+      "max_down": -1.99
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -33813,7 +33825,10 @@
       "max_up": 0.0,
       "max_down": -2.39
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 21.81,
+      "max_down": -2.39
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -33857,6 +33872,25 @@
       "max_up": 7.82,
       "max_down": 7.82
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "METIRT",
+    "time": 1791473821477,
+    "price": 122421.0,
+    "level": "STRONG",
+    "hunt": 71.2,
+    "persistence": 2,
+    "p15": 1.72,
+    "vr": 5.05,
+    "va": 2.0,
+    "buy": 49.666666666666664,
+    "bs": 1.49,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

@@ -1469,6 +1469,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "YGGIRT": {
+      "trigger_time": 1791473577072,
+      "trigger_price": 6656.0,
+      "secondary_score": 60.0,
+      "hunt_score": 12.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
