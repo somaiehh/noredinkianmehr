@@ -32998,7 +32998,10 @@
       "max_up": 6.8,
       "max_down": -1.6
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.63,
+      "max_down": -1.6
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -33026,7 +33029,10 @@
       "max_up": 11.34,
       "max_down": 0.74
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 11.34,
+      "max_down": -28.74
+    }
   },
   {
     "symbol": "UNIIRT",
@@ -33054,7 +33060,10 @@
       "max_up": 0.14,
       "max_down": -1.89
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.95,
+      "max_down": -9.38
+    }
   },
   {
     "symbol": "GAIAIRT",
@@ -33688,7 +33697,10 @@
       "max_up": -1.76,
       "max_down": -1.82
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.79,
+      "max_down": -9.22
+    },
     "result_12h": null
   },
   {
@@ -34059,7 +34071,10 @@
       "max_up": 0.0,
       "max_down": -1.32
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -3.92
+    },
     "result_4h": null,
     "result_12h": null
   },

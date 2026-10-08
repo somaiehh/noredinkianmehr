@@ -1648,6 +1648,20 @@
         "book1",
         "dt15_pos"
       ]
+    },
+    "BTTCIRT": {
+      "trigger_time": 1791480842669,
+      "trigger_price": 0.091,
+      "secondary_score": 75.0,
+      "hunt_score": 55.6,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
