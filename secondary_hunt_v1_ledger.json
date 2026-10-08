@@ -1731,6 +1731,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "SKLIRT": {
+      "trigger_time": 1791493438452,
+      "trigger_price": 1478.0,
+      "secondary_score": 85.0,
+      "hunt_score": 61.8,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "premove_pos",
+        "dt15_pos"
+      ]
     }
   }
 }
