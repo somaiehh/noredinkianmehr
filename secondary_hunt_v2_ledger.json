@@ -71,6 +71,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "WIRT": {
+      "trigger_time": 1791421515341,
+      "trigger_price": 4524.0,
+      "secondary_score": 70.0,
+      "hunt_score": 41.1,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
