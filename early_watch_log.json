@@ -33398,7 +33398,10 @@
       "max_up": 0.62,
       "max_down": -1.43
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.62,
+      "max_down": -7.46
+    }
   },
   {
     "symbol": "TUTIRT",
@@ -33426,7 +33429,10 @@
       "max_up": 0.63,
       "max_down": -2.92
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.63,
+      "max_down": -9.56
+    }
   },
   {
     "symbol": "LPTIRT",
@@ -33454,7 +33460,10 @@
       "max_up": 0.26,
       "max_down": -3.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.26,
+      "max_down": -8.98
+    }
   },
   {
     "symbol": "GTCIRT",
