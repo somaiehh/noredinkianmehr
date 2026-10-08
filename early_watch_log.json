@@ -33584,7 +33584,10 @@
       "max_up": 4.92,
       "max_down": -3.19
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.92,
+      "max_down": -14.04
+    }
   },
   {
     "symbol": "ERAIRT",
@@ -33612,7 +33615,10 @@
       "max_up": 6.06,
       "max_down": -7.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.06,
+      "max_down": -16.27
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -33640,7 +33646,10 @@
       "max_up": 0.0,
       "max_down": -2.38
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -10.35
+    }
   },
   {
     "symbol": "SHIBIRT",
