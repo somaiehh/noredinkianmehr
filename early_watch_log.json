@@ -33115,7 +33115,10 @@
     "bs": 1.17,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.03,
+      "max_down": -0.16
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -33134,6 +33137,25 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "time": 1791446503884,
+    "price": 60.8,
+    "level": "STRONG",
+    "hunt": 53.5,
+    "persistence": 1,
+    "p15": 1.84,
+    "vr": 0.22,
+    "va": 10.0,
+    "buy": 44.333333333333336,
+    "bs": 1.33,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

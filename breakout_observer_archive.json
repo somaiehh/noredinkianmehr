@@ -12752,5 +12752,29 @@
     "confirmed_time": 1791127032407,
     "confirmed_price": 1.94,
     "expired_time": 1791142563551
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1791392710046,
+    "anchor_price": 382029.0,
+    "status": "EXPIRED",
+    "created_time": 1791392710046,
+    "last_time": 1791445840451,
+    "last_price": 379183.0,
+    "max_gain_pct": 1.452,
+    "levels": [],
+    "expired_time": 1791436691258
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1791391344635,
+    "anchor_price": 1.4386,
+    "status": "EXPIRED",
+    "created_time": 1791391344635,
+    "last_time": 1791446303875,
+    "last_price": 1.4406,
+    "max_gain_pct": 0.7855,
+    "levels": [],
+    "expired_time": 1791435286935
   }
 ]
