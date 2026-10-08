@@ -1332,6 +1332,32 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "HMSTRIRT": {
+      "trigger_time": 1791459137622,
+      "trigger_price": 43.3,
+      "secondary_score": 60.0,
+      "hunt_score": 48.3,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "CTSIIRT": {
+      "trigger_time": 1791459358593,
+      "trigger_price": 8711.0,
+      "secondary_score": 65.0,
+      "hunt_score": 46.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos"
+      ]
     }
   }
 }
