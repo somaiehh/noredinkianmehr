@@ -215,6 +215,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BTRIRT": {
+      "trigger_time": 1791451032893,
+      "trigger_price": 12186.0,
+      "secondary_score": 75.0,
+      "hunt_score": 26.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

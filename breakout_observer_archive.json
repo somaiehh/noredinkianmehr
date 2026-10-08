@@ -12864,5 +12864,30 @@
     "confirmed_time": 1791407668444,
     "confirmed_price": 6300.0,
     "expired_time": 1791425446436
+  },
+  {
+    "symbol": "FILIRT",
+    "anchor_time": 1791405933057,
+    "anchor_price": 278979.0,
+    "status": "EXPIRED",
+    "created_time": 1791405933057,
+    "last_time": 1791450326153,
+    "last_price": 283170.0,
+    "max_gain_pct": 2.7705,
+    "levels": [],
+    "expired_time": 1791449276097
+  },
+  {
+    "symbol": "GALAIRT",
+    "anchor_time": 1791314773537,
+    "anchor_price": 665.5,
+    "status": "FAILED",
+    "created_time": 1791314773537,
+    "last_time": 1791450326153,
+    "last_price": 613.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791322062466,
+    "failed_price": 638.4
   }
 ]
