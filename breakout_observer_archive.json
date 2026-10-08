@@ -12956,5 +12956,30 @@
     "max_gain_pct": 2.0683,
     "levels": [],
     "expired_time": 1791433404354
+  },
+  {
+    "symbol": "FLOKIIRT",
+    "anchor_time": 1791391344635,
+    "anchor_price": 7.16826,
+    "status": "EXPIRED",
+    "created_time": 1791391344635,
+    "last_time": 1791453016873,
+    "last_price": 7.38,
+    "max_gain_pct": 2.9539,
+    "levels": [],
+    "expired_time": 1791435286935
+  },
+  {
+    "symbol": "STRKIRT",
+    "anchor_time": 1791189215852,
+    "anchor_price": 15803.0,
+    "status": "FAILED",
+    "created_time": 1791189215852,
+    "last_time": 1791453016873,
+    "last_price": 14772.0,
+    "max_gain_pct": 0.2658,
+    "levels": [],
+    "failed_time": 1791200620193,
+    "failed_price": 15268.0
   }
 ]
