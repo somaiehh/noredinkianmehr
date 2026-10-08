@@ -1635,6 +1635,19 @@
         "premove_pos",
         "dt15_pos"
       ]
+    },
+    "ICPIRT": {
+      "trigger_time": 1791479449799,
+      "trigger_price": 773951.0,
+      "secondary_score": 60.0,
+      "hunt_score": 47.7,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "book1",
+        "dt15_pos"
+      ]
     }
   }
 }
