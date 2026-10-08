@@ -12738,5 +12738,19 @@
     "max_gain_pct": 11.6591,
     "levels": [],
     "expired_time": 1791101765908
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "anchor_time": 1791098181506,
+    "anchor_price": 1.88,
+    "status": "EXPIRED",
+    "created_time": 1791098181506,
+    "last_time": 1791445058027,
+    "last_price": 1.8095,
+    "max_gain_pct": 4.1011,
+    "levels": [],
+    "confirmed_time": 1791127032407,
+    "confirmed_price": 1.94,
+    "expired_time": 1791142563551
   }
 ]

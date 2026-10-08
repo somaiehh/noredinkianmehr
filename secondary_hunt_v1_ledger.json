@@ -1146,6 +1146,50 @@
         "premove_pos",
         "dt15_pos"
       ]
+    },
+    "ETHFIIRT": {
+      "trigger_time": 1791445632869,
+      "trigger_price": 194996.0,
+      "secondary_score": 85.0,
+      "hunt_score": 78.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos"
+      ]
+    },
+    "SAGAIRT": {
+      "trigger_time": 1791445632869,
+      "trigger_price": 6334.0,
+      "secondary_score": 80.0,
+      "hunt_score": 57.2,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "FIRT": {
+      "trigger_time": 1791445632869,
+      "trigger_price": 862.0,
+      "secondary_score": 75.0,
+      "hunt_score": 8.7,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
