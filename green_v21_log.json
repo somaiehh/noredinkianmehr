@@ -6120,5 +6120,24 @@
       "max_down": 0.02
     },
     "result_4h": null
+  },
+  {
+    "symbol": "GTCIRT",
+    "time": 1791455140109,
+    "price": 46580.0,
+    "pre30": 0.85,
+    "pre60": -0.21,
+    "pre120": -2.16,
+    "hunt": 60.7,
+    "persistence": 2,
+    "vr": 1.12,
+    "va": 2.72,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.85,
+    "p15": 0.1,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
