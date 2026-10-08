@@ -33336,7 +33336,10 @@
       "max_up": 1.1,
       "max_down": -0.78
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.1,
+      "max_down": -5.68
+    }
   },
   {
     "symbol": "BANKIRT",
@@ -33364,7 +33367,10 @@
       "max_up": -0.21,
       "max_down": -3.78
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.21,
+      "max_down": -7.95
+    }
   },
   {
     "symbol": "LINKIRT",
