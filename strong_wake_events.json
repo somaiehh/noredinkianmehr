@@ -6506,7 +6506,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.1818,
-    "min_move": -3.4141,
+    "min_move": -4.8485,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6675,6 +6675,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -1.9021,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "event_time": 1791468165493,
+    "event_price": 19167.0,
+    "anchor_time": 1791467479207,
+    "anchor_price": 19143.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.2667,
+    "tm_e15_e1": 0.2667,
+    "tm_e1_e4": 0.4412,
+    "tm_g15": 0.4444,
+    "tm_g1": 1.1538,
+    "tm_g4": 1.0625,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]

@@ -3024,5 +3024,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 4
+  },
+  {
+    "time": 1791468173273,
+    "symbol": "WINIRT",
+    "price": 16.211,
+    "hunt_score": 80.4,
+    "status": "EARLY",
+    "p15": 2.52,
+    "vr": 1.83,
+    "va": 5.41,
+    "bs": 0.1,
+    "breakout": false,
+    "persistence": 2
   }
 ]

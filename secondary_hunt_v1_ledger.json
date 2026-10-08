@@ -1384,6 +1384,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ONDOIRT": {
+      "trigger_time": 1791468165493,
+      "trigger_price": 131660.0,
+      "secondary_score": 70.0,
+      "hunt_score": 39.1,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
