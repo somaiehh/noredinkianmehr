@@ -1550,6 +1550,48 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "AXSIRT": {
+      "trigger_time": 1791475396444,
+      "trigger_price": 308617.0,
+      "secondary_score": 60.0,
+      "hunt_score": 7.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "DEXEIRT": {
+      "trigger_time": 1791475747669,
+      "trigger_price": 467637.0,
+      "secondary_score": 80.0,
+      "hunt_score": 61.1,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "CYSIRT": {
+      "trigger_time": 1791475747669,
+      "trigger_price": 39287.0,
+      "secondary_score": 65.0,
+      "hunt_score": 12.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
