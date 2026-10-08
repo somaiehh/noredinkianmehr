@@ -1662,6 +1662,33 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "CAPIRT": {
+      "trigger_time": 1791483495779,
+      "trigger_price": 18877.7,
+      "secondary_score": 60.0,
+      "hunt_score": 12.1,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "LINKIRT": {
+      "trigger_time": 1791483816905,
+      "trigger_price": 3255764.0,
+      "secondary_score": 70.0,
+      "hunt_score": 13.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
