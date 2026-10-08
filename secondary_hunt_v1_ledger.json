@@ -1358,6 +1358,32 @@
         "premove_pos",
         "dt15_pos"
       ]
+    },
+    "WLDIRT": {
+      "trigger_time": 1791467479207,
+      "trigger_price": 136167.0,
+      "secondary_score": 60.0,
+      "hunt_score": 44.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "APUIRT": {
+      "trigger_time": 1791467679841,
+      "trigger_price": 3.87,
+      "secondary_score": 65.0,
+      "hunt_score": 57.8,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

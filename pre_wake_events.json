@@ -3646,11 +3646,11 @@
     "book": 0.52,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1791467479207,
+    "result_move": -5.6665,
     "max_move": 0.65,
-    "min_move": -2.9307,
+    "min_move": -5.6665,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]

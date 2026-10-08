@@ -33321,7 +33321,10 @@
       "max_up": -0.21,
       "max_down": -1.23
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.21,
+      "max_down": -3.78
+    },
     "result_12h": null
   },
   {
@@ -33346,7 +33349,10 @@
       "max_up": 0.62,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.62,
+      "max_down": -1.43
+    },
     "result_12h": null
   },
   {
@@ -33371,7 +33377,10 @@
       "max_up": 0.63,
       "max_down": -0.52
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.63,
+      "max_down": -2.92
+    },
     "result_12h": null
   },
   {
@@ -33396,7 +33405,10 @@
       "max_up": -0.77,
       "max_down": -1.51
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.26,
+      "max_down": -3.36
+    },
     "result_12h": null
   },
   {
@@ -33617,7 +33629,10 @@
       "max_up": 0.68,
       "max_down": 0.68
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.68,
+      "max_down": -2.06
+    },
     "result_4h": null,
     "result_12h": null
   },
