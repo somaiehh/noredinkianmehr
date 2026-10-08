@@ -13200,5 +13200,41 @@
       }
     ],
     "expired_time": 1791058180148
+  },
+  {
+    "symbol": "ONDOIRT",
+    "anchor_time": 1791437680684,
+    "anchor_price": 123850.0,
+    "status": "EXPIRED",
+    "created_time": 1791437680684,
+    "last_time": 1791483816905,
+    "last_price": 124565.0,
+    "max_gain_pct": 7.388,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791451032893,
+    "confirmed_price": 128031.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791453947480,
+        "price": 130263.0,
+        "gain_pct": 5.178
+      }
+    ],
+    "expired_time": 1791481148049
+  },
+  {
+    "symbol": "DEXEIRT",
+    "anchor_time": 1791165733345,
+    "anchor_price": 509000.0,
+    "status": "EXPIRED",
+    "created_time": 1791165733345,
+    "last_time": 1791484672234,
+    "last_price": 466998.0,
+    "max_gain_pct": 0.6536,
+    "levels": [],
+    "expired_time": 1791208992292
   }
 ]

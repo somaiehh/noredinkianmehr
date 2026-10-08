@@ -6823,5 +6823,26 @@
     "max_move": 0.4222,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "2ZIRT",
+    "event_time": 1791484899177,
+    "event_price": 9454.0,
+    "anchor_time": 1791483495779,
+    "anchor_price": 9377.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1,
+    "tm_e15_e1": 0.1,
+    "tm_e1_e4": 0.4,
+    "tm_g15": 1.0,
+    "tm_g1": 0.9091,
+    "tm_g4": 1.0417,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
