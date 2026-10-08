@@ -6150,7 +6150,10 @@
       "max_up": -0.77,
       "max_down": -1.51
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.4,
+      "max_down": -4.01
+    }
   },
   {
     "symbol": "BTRIRT",
