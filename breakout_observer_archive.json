@@ -13446,5 +13446,54 @@
     "levels": [],
     "failed_time": 1791401698312,
     "failed_price": 5288.0
+  },
+  {
+    "symbol": "XLMIRT",
+    "anchor_time": 1791098181506,
+    "anchor_price": 58090.1,
+    "status": "EXPIRED",
+    "created_time": 1791098181506,
+    "last_time": 1791491728302,
+    "last_price": 51481.1,
+    "max_gain_pct": 4.1795,
+    "levels": [],
+    "expired_time": 1791142563551
+  },
+  {
+    "symbol": "GTCIRT",
+    "anchor_time": 1791442180885,
+    "anchor_price": 47423.0,
+    "status": "FAILED",
+    "created_time": 1791442180885,
+    "last_time": 1791491728302,
+    "last_price": 51359.0,
+    "max_gain_pct": 13.4956,
+    "levels": [],
+    "failed_time": 1791457301602,
+    "failed_price": 45877.0
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1791101765908,
+    "anchor_price": 9800.0,
+    "status": "EXPIRED",
+    "created_time": 1791101765908,
+    "last_time": 1791491728302,
+    "last_price": 8346.0,
+    "max_gain_pct": 7.6633,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791104572149,
+    "confirmed_price": 10205.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791104827118,
+        "price": 10350.0,
+        "gain_pct": 5.6122
+      }
+    ],
+    "expired_time": 1791145130978
   }
 ]
