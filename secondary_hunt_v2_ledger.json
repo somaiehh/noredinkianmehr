@@ -424,6 +424,36 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "UAIIRT": {
+      "trigger_time": 1791476372017,
+      "trigger_price": 86650.0,
+      "secondary_score": 75.0,
+      "hunt_score": 40.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "AINIRT": {
+      "trigger_time": 1791476372017,
+      "trigger_price": 11246.0,
+      "secondary_score": 75.0,
+      "hunt_score": 32.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

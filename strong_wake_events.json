@@ -6523,7 +6523,7 @@
     "tm_g1": 1.3,
     "tm_g4": 1.15,
     "legacy": false,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 1.1407,
@@ -6694,7 +6694,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.5896,
+    "max_move": 6.9547,
     "min_move": -0.4487,
     "ledger_version": "wake-ledger-v1"
   },
@@ -6758,7 +6758,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.7425,
-    "min_move": -0.4717,
+    "min_move": -1.399,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6779,7 +6779,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -2.0367,
+    "min_move": -2.366,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "SLVONIRT",
+    "event_time": 1791476372017,
+    "event_price": 14316420.0,
+    "anchor_time": 1791475396444,
+    "anchor_price": 14166162.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.2667,
+    "tm_e15_e1": 0.2667,
+    "tm_e1_e4": 0.5556,
+    "tm_g15": 0.4444,
+    "tm_g1": 1.3636,
+    "tm_g4": 1.1739,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
