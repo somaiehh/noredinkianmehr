@@ -621,6 +621,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "AMPIRT": {
+      "trigger_time": 1791530990402,
+      "trigger_price": 182.4,
+      "secondary_score": 75.0,
+      "hunt_score": 40.7,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

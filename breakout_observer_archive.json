@@ -13876,5 +13876,30 @@
       }
     ],
     "expired_time": 1791500526191
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1791486717026,
+    "anchor_price": 87450.0,
+    "status": "EXPIRED",
+    "created_time": 1791486717026,
+    "last_time": 1791530435941,
+    "last_price": 87650.0,
+    "max_gain_pct": 1.7724,
+    "levels": [],
+    "expired_time": 1791530195259
+  },
+  {
+    "symbol": "AMPIRT",
+    "anchor_time": 1791475396444,
+    "anchor_price": 223.4,
+    "status": "FAILED",
+    "created_time": 1791475396444,
+    "last_time": 1791530990402,
+    "last_price": 182.4,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791477276831,
+    "failed_price": 209.7
   }
 ]
