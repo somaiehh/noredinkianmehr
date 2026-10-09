@@ -1890,6 +1890,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BERTIRT": {
+      "trigger_time": 1791552719323,
+      "trigger_price": 4039.0,
+      "secondary_score": 65.0,
+      "hunt_score": 52.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
