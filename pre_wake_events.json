@@ -3835,7 +3835,7 @@
     "book": 1.0,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 6.9505,
@@ -4238,7 +4238,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.2414,
-    "min_move": -1.8811,
+    "min_move": -2.3708,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -4343,7 +4343,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.1538,
-    "min_move": -1.3986,
+    "min_move": -1.8392,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
