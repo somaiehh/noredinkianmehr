@@ -6545,10 +6545,10 @@
     "tm_g4": 1.1034,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791478148729,
-    "result_move": -5.3708,
+    "result_time": 1791479093463,
+    "result_move": -6.3939,
     "max_move": 0.7673,
-    "min_move": -5.3708,
+    "min_move": -6.3939,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6566,7 +6566,7 @@
     "tm_g4": 1.0455,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791478148729,
+    "result_time": 1791479093463,
     "result_move": -7.3578,
     "max_move": 0.6543,
     "min_move": -9.4694,
@@ -6608,10 +6608,10 @@
     "tm_g4": 1.2222,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791478148729,
-    "result_move": -6.3606,
+    "result_time": 1791479093463,
+    "result_move": -8.7595,
     "max_move": 0.7897,
-    "min_move": -6.957,
+    "min_move": -8.7595,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6671,10 +6671,10 @@
     "tm_g4": 1.1333,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791478148729,
-    "result_move": -7.5912,
+    "result_time": 1791479093463,
+    "result_move": -10.9459,
     "max_move": 1.3315,
-    "min_move": -8.6114,
+    "min_move": -10.9459,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6734,10 +6734,10 @@
     "tm_g4": 1.0714,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791478148729,
-    "result_move": -5.7325,
+    "result_time": 1791479093463,
+    "result_move": -6.7675,
     "max_move": 0.0,
-    "min_move": -6.051,
+    "min_move": -6.7675,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6925,7 +6925,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.1401,
+    "max_move": 1.5054,
     "min_move": -0.2817,
     "ledger_version": "wake-ledger-v1"
   },
@@ -6968,7 +6968,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0152,
-    "min_move": -0.2949,
+    "min_move": -0.441,
     "ledger_version": "wake-ledger-v1"
   },
   {
