@@ -34632,7 +34632,10 @@
       "max_up": 1.19,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.19,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "SIRT",
@@ -35402,6 +35405,28 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MAGICIRT",
+    "time": 1791568225842,
+    "price": 30359.0,
+    "level": "STRONG",
+    "hunt": 72.0,
+    "persistence": 1,
+    "p15": 1.73,
+    "vr": 0.36,
+    "va": 2.0,
+    "buy": 70.66666666666667,
+    "bs": 2.12,
+    "breakout": true,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
