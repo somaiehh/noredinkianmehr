@@ -3796,7 +3796,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 5.3763,
+    "max_move": 6.0794,
     "min_move": -2.895,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -4091,7 +4091,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 2.7806,
-    "min_move": 0.0,
+    "min_move": -0.334,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -4132,7 +4132,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 0.169,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -4153,8 +4153,8 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
-    "min_move": 0.0,
+    "max_move": 1.3148,
+    "min_move": -0.232,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -4169,6 +4169,27 @@
     "ta": null,
     "bs": 1.59,
     "book": 0.57,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -1.9872,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "KAIOIRT",
+    "event_time": 1791546025488,
+    "event_price": 7459.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 33.7,
+    "p15": -1.86,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 2.76,
+    "book": 1.0,
     "breakout": false,
     "fast_v13": null,
     "result": "PENDING",
