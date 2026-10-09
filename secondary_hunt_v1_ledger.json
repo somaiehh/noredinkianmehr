@@ -1760,6 +1760,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ATOMIRT": {
+      "trigger_time": 1791519962741,
+      "trigger_price": 500000.0,
+      "secondary_score": 65.0,
+      "hunt_score": 43.7,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

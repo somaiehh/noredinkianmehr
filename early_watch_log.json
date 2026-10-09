@@ -34046,7 +34046,10 @@
       "max_up": -0.64,
       "max_down": -6.57
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.64,
+      "max_down": -6.88
+    }
   },
   {
     "symbol": "PROMIRT",
@@ -34074,7 +34077,10 @@
       "max_up": 0.0,
       "max_down": -2.96
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.47,
+      "max_down": -2.96
+    }
   },
   {
     "symbol": "AINIRT",
@@ -34102,7 +34108,10 @@
       "max_up": 9.42,
       "max_down": -1.33
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.43,
+      "max_down": -1.33
+    }
   },
   {
     "symbol": "GTCIRT",
@@ -34130,7 +34139,10 @@
       "max_up": 9.98,
       "max_down": -2.32
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 18.16,
+      "max_down": -2.32
+    }
   },
   {
     "symbol": "HIPPOIRT",
@@ -34158,7 +34170,10 @@
       "max_up": 12.8,
       "max_down": -18.09
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 12.8,
+      "max_down": -18.09
+    }
   },
   {
     "symbol": "TUTIRT",
@@ -34186,7 +34201,10 @@
       "max_up": -0.02,
       "max_down": -4.09
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.11,
+      "max_down": -4.09
+    }
   },
   {
     "symbol": "SANDIRT",
@@ -34459,7 +34477,10 @@
       "max_up": 0.08,
       "max_down": -0.22
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.9,
+      "max_down": -4.39
+    },
     "result_12h": null
   },
   {
@@ -34499,6 +34520,28 @@
     "va": 10.0,
     "buy": 94.0,
     "bs": 2.82,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.63,
+      "max_down": 0.63
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1791519962741,
+    "price": 155.0,
+    "level": "STRONG",
+    "hunt": 60.4,
+    "persistence": 1,
+    "p15": 0.58,
+    "vr": 0.7,
+    "va": 2.06,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
