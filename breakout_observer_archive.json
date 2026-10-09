@@ -13927,5 +13927,44 @@
     "levels": [],
     "failed_time": 1791425246443,
     "failed_price": 292050.0
+  },
+  {
+    "symbol": "DOTIRT",
+    "anchor_time": 1791454171744,
+    "anchor_price": 299023.0,
+    "status": "FAILED",
+    "created_time": 1791454171744,
+    "last_time": 1791532207508,
+    "last_price": 315001.0,
+    "max_gain_pct": 5.3434,
+    "levels": [],
+    "failed_time": 1791473577072,
+    "failed_price": 280505.0
+  },
+  {
+    "symbol": "BEAMXIRT",
+    "anchor_time": 1791148633904,
+    "anchor_price": 699.7,
+    "status": "FAILED",
+    "created_time": 1791148633904,
+    "last_time": 1791532207508,
+    "last_price": 725.4,
+    "max_gain_pct": 4.4733,
+    "levels": [],
+    "failed_time": 1791149588615,
+    "failed_price": 675.9
+  },
+  {
+    "symbol": "MAGICIRT",
+    "anchor_time": 1790954252172,
+    "anchor_price": 17149.0,
+    "status": "FAILED",
+    "created_time": 1790954252172,
+    "last_time": 1791532964225,
+    "last_price": 20976.0,
+    "max_gain_pct": 23.8031,
+    "levels": [],
+    "failed_time": 1790956019705,
+    "failed_price": 16185.0
   }
 ]
