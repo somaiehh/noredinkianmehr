@@ -14234,5 +14234,18 @@
       }
     ],
     "expired_time": 1791544042349
+  },
+  {
+    "symbol": "MAJORIRT",
+    "anchor_time": 1791104827118,
+    "anchor_price": 9731.0,
+    "status": "FAILED",
+    "created_time": 1791104827118,
+    "last_time": 1791551870669,
+    "last_price": 9550.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791131139636,
+    "failed_price": 9431.0
   }
 ]
