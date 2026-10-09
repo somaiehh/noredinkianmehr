@@ -14415,5 +14415,18 @@
     "max_gain_pct": 2.8283,
     "levels": [],
     "expired_time": 1791531200595
+  },
+  {
+    "symbol": "OGNIRT",
+    "anchor_time": 1791519962741,
+    "anchor_price": 12973.0,
+    "status": "FAILED",
+    "created_time": 1791519962741,
+    "last_time": 1791568225842,
+    "last_price": 10080.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791520161009,
+    "failed_price": 12374.0
   }
 ]
