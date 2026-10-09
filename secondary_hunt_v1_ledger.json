@@ -1875,6 +1875,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "MAJORIRT": {
+      "trigger_time": 1791548317977,
+      "trigger_price": 9200.0,
+      "secondary_score": 75.0,
+      "hunt_score": 42.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
