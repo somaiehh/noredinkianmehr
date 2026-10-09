@@ -33767,7 +33767,10 @@
       "max_up": -0.79,
       "max_down": -9.22
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.79,
+      "max_down": -9.22
+    }
   },
   {
     "symbol": "LABIRT",
