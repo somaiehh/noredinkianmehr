@@ -34725,7 +34725,10 @@
       "max_up": 0.36,
       "max_down": -1.57
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.36,
+      "max_down": -1.57
+    }
   },
   {
     "symbol": "UAIIRT",
@@ -35253,7 +35256,10 @@
       "max_up": 0.0,
       "max_down": -0.92
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -2.96
+    },
     "result_12h": null
   },
   {
@@ -35278,7 +35284,10 @@
       "max_up": 5.67,
       "max_down": 1.98
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.67,
+      "max_down": -3.4
+    },
     "result_12h": null
   },
   {
@@ -35539,7 +35548,10 @@
     "bs": 1.52,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.55,
+      "max_down": -0.71
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

@@ -1973,6 +1973,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "APTIRT": {
+      "trigger_time": 1791573578528,
+      "trigger_price": 213001.0,
+      "secondary_score": 65.0,
+      "hunt_score": 60.8,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

@@ -14464,5 +14464,31 @@
       }
     ],
     "expired_time": 1791470033844
+  },
+  {
+    "symbol": "RLCIRT",
+    "anchor_time": 1791504795932,
+    "anchor_price": 246998.0,
+    "status": "FAILED",
+    "created_time": 1791504795932,
+    "last_time": 1791572659122,
+    "last_price": 241000.0,
+    "max_gain_pct": 55.2122,
+    "levels": [],
+    "failed_time": 1791505351398,
+    "failed_price": 236806.0
+  },
+  {
+    "symbol": "PIXELIRT",
+    "anchor_time": 1791139398044,
+    "anchor_price": 1694.0,
+    "status": "FAILED",
+    "created_time": 1791139398044,
+    "last_time": 1791572659122,
+    "last_price": 1740.0,
+    "max_gain_pct": 2.7155,
+    "levels": [],
+    "failed_time": 1791156177481,
+    "failed_price": 1635.0
   }
 ]
