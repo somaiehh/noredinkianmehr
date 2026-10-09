@@ -13901,5 +13901,31 @@
     "levels": [],
     "failed_time": 1791477276831,
     "failed_price": 209.7
+  },
+  {
+    "symbol": "ATOMIRT",
+    "anchor_time": 1791232054524,
+    "anchor_price": 499140.0,
+    "status": "FAILED",
+    "created_time": 1791232054524,
+    "last_time": 1791531200595,
+    "last_price": 505540.0,
+    "max_gain_pct": 1.4549,
+    "levels": [],
+    "failed_time": 1791250699141,
+    "failed_price": 482320.0
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1791419769257,
+    "anchor_price": 304338.0,
+    "status": "FAILED",
+    "created_time": 1791419769257,
+    "last_time": 1791531200595,
+    "last_price": 285736.0,
+    "max_gain_pct": 0.5372,
+    "levels": [],
+    "failed_time": 1791425246443,
+    "failed_price": 292050.0
   }
 ]
