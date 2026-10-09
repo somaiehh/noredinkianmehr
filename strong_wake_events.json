@@ -6566,10 +6566,10 @@
     "tm_g4": 1.0455,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791475396444,
-    "result_move": -7.6017,
+    "result_time": 1791476372017,
+    "result_move": -8.2084,
     "max_move": 0.6543,
-    "min_move": -7.6017,
+    "min_move": -9.4694,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6608,10 +6608,10 @@
     "tm_g4": 1.2222,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791475396444,
-    "result_move": -6.827,
+    "result_time": 1791476372017,
+    "result_move": -6.957,
     "max_move": 0.7897,
-    "min_move": -6.827,
+    "min_move": -6.957,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6671,10 +6671,10 @@
     "tm_g4": 1.1333,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791475396444,
-    "result_move": -7.28,
+    "result_time": 1791476372017,
+    "result_move": -8.6114,
     "max_move": 1.3315,
-    "min_move": -7.28,
+    "min_move": -8.6114,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6734,7 +6734,7 @@
     "tm_g4": 1.0714,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791475396444,
+    "result_time": 1791476372017,
     "result_move": -6.051,
     "max_move": 0.0,
     "min_move": -6.051,
@@ -6859,7 +6859,7 @@
     "tm_g1": 1.4,
     "tm_g4": 1.0385,
     "legacy": false,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 0.8791,
@@ -6905,7 +6905,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.1552,
-    "min_move": -1.2028,
+    "min_move": -1.4453,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6947,7 +6947,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 5.7347,
-    "min_move": 0.0,
+    "min_move": -0.541,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6968,7 +6968,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0152,
-    "min_move": 0.0,
+    "min_move": -0.2949,
     "ledger_version": "wake-ledger-v1"
   }
 ]
