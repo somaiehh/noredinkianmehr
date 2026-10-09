@@ -14502,5 +14502,29 @@
     "max_gain_pct": 3.4683,
     "levels": [],
     "expired_time": 1791528369956
+  },
+  {
+    "symbol": "APTIRT",
+    "anchor_time": 1791405933057,
+    "anchor_price": 199156.0,
+    "status": "EXPIRED",
+    "created_time": 1791405933057,
+    "last_time": 1791578948150,
+    "last_price": 217000.0,
+    "max_gain_pct": 10.6986,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791460195696,
+    "confirmed_price": 210190.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791460195696,
+        "price": 210190.0,
+        "gain_pct": 5.5404
+      }
+    ],
+    "expired_time": 1791460195696
   }
 ]
