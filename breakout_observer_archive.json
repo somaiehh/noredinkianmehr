@@ -14563,5 +14563,29 @@
     "levels": [],
     "failed_time": 1791555179205,
     "failed_price": 1467.7
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1791528944689,
+    "anchor_price": 10081.0,
+    "status": "EXPIRED",
+    "created_time": 1791528944689,
+    "last_time": 1791580987020,
+    "last_price": 10154.0,
+    "max_gain_pct": 9.6022,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791530195259,
+    "confirmed_price": 10700.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791530195259,
+        "price": 10700.0,
+        "gain_pct": 6.1403
+      }
+    ],
+    "expired_time": 1791572460985
   }
 ]
