@@ -34486,5 +34486,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "LSKIRT",
+    "time": 1791516738042,
+    "price": 63000.0,
+    "level": "WATCH",
+    "hunt": 48.9,
+    "persistence": 1,
+    "p15": 0.48,
+    "vr": 0.26,
+    "va": 10.0,
+    "buy": 94.0,
+    "bs": 2.82,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
