@@ -1830,6 +1830,22 @@
         "premove_pos",
         "da1_pos"
       ]
+    },
+    "KAIAIRT": {
+      "trigger_time": 1791533919888,
+      "trigger_price": 12549.0,
+      "secondary_score": 90.0,
+      "hunt_score": 69.8,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
