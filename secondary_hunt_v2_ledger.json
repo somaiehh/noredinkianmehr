@@ -607,6 +607,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "SIRENIRT": {
+      "trigger_time": 1791529541023,
+      "trigger_price": 10201.0,
+      "secondary_score": 65.0,
+      "hunt_score": 49.7,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

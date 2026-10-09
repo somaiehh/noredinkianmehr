@@ -3712,7 +3712,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.5707,
+    "max_move": 0.7268,
     "min_move": -4.2535,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -3754,7 +3754,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.209,
+    "max_move": 0.3645,
     "min_move": -4.5978,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -3944,6 +3944,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.8043,
+    "min_move": -2.1448,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "AINIRT",
+    "event_time": 1791529541023,
+    "event_price": 11942.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 40.7,
+    "p15": -0.84,
+    "vr": null,
+    "va": 2.0,
+    "ta": null,
+    "bs": 2.62,
+    "book": 0.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
