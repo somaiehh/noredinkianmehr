@@ -14335,5 +14335,36 @@
       }
     ],
     "expired_time": 1791535125410
+  },
+  {
+    "symbol": "ESIRT",
+    "anchor_time": 1791426699428,
+    "anchor_price": 501.0,
+    "status": "EXPIRED",
+    "created_time": 1791426699428,
+    "last_time": 1791558582143,
+    "last_price": 353.0,
+    "max_gain_pct": 11.5768,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791431393550,
+    "confirmed_price": 545.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791431393550,
+        "price": 545.0,
+        "gain_pct": 8.7824
+      },
+      {
+        "level": 10,
+        "time": 1791435483810,
+        "price": 557.0,
+        "gain_pct": 11.1776
+      }
+    ],
+    "expired_time": 1791470033844
   }
 ]
