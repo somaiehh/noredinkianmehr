@@ -3859,7 +3859,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 9.8402,
+    "max_move": 9.9765,
     "min_move": -0.8408,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -3880,7 +3880,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.546,
+    "max_move": 2.6733,
     "min_move": -2.6803,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -3901,7 +3901,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.4735,
+    "max_move": 2.6007,
     "min_move": -2.7491,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -4007,7 +4007,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.3736,
-    "min_move": -3.022,
+    "min_move": -3.5714,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -4028,7 +4028,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.7449,
-    "min_move": -0.0217,
+    "min_move": -0.6339,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -4049,7 +4049,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.4553,
-    "min_move": 0.0,
+    "min_move": -0.3415,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -4070,7 +4070,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.4553,
-    "min_move": 0.0,
+    "min_move": -0.3415,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -4090,7 +4090,28 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.0271,
+    "max_move": 2.4549,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "LABIRT",
+    "event_time": 1791544042349,
+    "event_price": 14344.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 34.3,
+    "p15": -1.2,
+    "vr": null,
+    "va": 2.2,
+    "ta": null,
+    "bs": 5.0,
+    "book": 0.79,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
