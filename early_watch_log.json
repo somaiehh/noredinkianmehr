@@ -34930,7 +34930,10 @@
       "max_up": 0.24,
       "max_down": -0.2
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.24,
+      "max_down": -0.27
+    },
     "result_12h": null
   },
   {
@@ -34955,7 +34958,10 @@
       "max_up": -0.56,
       "max_down": -2.07
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.74,
+      "max_down": -6.35
+    },
     "result_12h": null
   },
   {
@@ -35155,6 +35161,25 @@
       "max_up": -0.2,
       "max_down": -1.31
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "COMMONIRT",
+    "time": 1791555179205,
+    "price": 16.2,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.25,
+    "vr": 10.05,
+    "va": 6.18,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }

@@ -14247,5 +14247,31 @@
     "levels": [],
     "failed_time": 1791131139636,
     "failed_price": 9431.0
+  },
+  {
+    "symbol": "SUNDOGIRT",
+    "anchor_time": 1791495360269,
+    "anchor_price": 427.0,
+    "status": "FAILED",
+    "created_time": 1791495360269,
+    "last_time": 1791553986683,
+    "last_price": 403.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791497745192,
+    "failed_price": 411.0
+  },
+  {
+    "symbol": "COMMONIRT",
+    "anchor_time": 1791479093463,
+    "anchor_price": 16.0,
+    "status": "FAILED",
+    "created_time": 1791479093463,
+    "last_time": 1791553986683,
+    "last_price": 15.7,
+    "max_gain_pct": 1.25,
+    "levels": [],
+    "failed_time": 1791482051487,
+    "failed_price": 15.2
   }
 ]

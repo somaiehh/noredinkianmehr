@@ -1904,6 +1904,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "SEIIRT": {
+      "trigger_time": 1791555179205,
+      "trigger_price": 17460.0,
+      "secondary_score": 60.0,
+      "hunt_score": 39.7,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
