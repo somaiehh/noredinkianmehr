@@ -3796,7 +3796,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 6.0794,
+    "max_move": 6.8376,
     "min_move": -2.895,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -4028,7 +4028,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.7449,
-    "min_move": -0.6339,
+    "min_move": -0.7047,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -4132,7 +4132,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.169,
+    "max_move": 1.8992,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -4154,7 +4154,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.3148,
-    "min_move": -0.232,
+    "min_move": -0.7734,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -4195,8 +4195,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 0.724,
     "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "KAIOIRT",
+    "event_time": 1791546549541,
+    "event_price": 7513.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 39.0,
+    "p15": -1.14,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 2.35,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -0.6788,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]

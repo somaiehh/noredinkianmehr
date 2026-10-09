@@ -1860,6 +1860,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "OPGIRT": {
+      "trigger_time": 1791546549541,
+      "trigger_price": 37311.0,
+      "secondary_score": 75.0,
+      "hunt_score": 34.7,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

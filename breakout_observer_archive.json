@@ -14161,5 +14161,54 @@
     "levels": [],
     "failed_time": 1791503348282,
     "failed_price": 11404.0
+  },
+  {
+    "symbol": "SKLIRT",
+    "anchor_time": 1791472093854,
+    "anchor_price": 1550.0,
+    "status": "FAILED",
+    "created_time": 1791472093854,
+    "last_time": 1791546025488,
+    "last_price": 1434.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791472652573,
+    "failed_price": 1430.0
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1791486900420,
+    "anchor_price": 311185500.0,
+    "status": "EXPIRED",
+    "created_time": 1791486900420,
+    "last_time": 1791546025488,
+    "last_price": 328249605.0,
+    "max_gain_pct": 5.7451,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791490624909,
+    "confirmed_price": 325694780.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791529341572,
+        "price": 327000000.0,
+        "gain_pct": 5.082
+      }
+    ],
+    "expired_time": 1791530195259
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1791500732335,
+    "anchor_price": 1.03311,
+    "status": "EXPIRED",
+    "created_time": 1791500732335,
+    "last_time": 1791546025488,
+    "last_price": 1.03988,
+    "max_gain_pct": 2.0656,
+    "levels": [],
+    "expired_time": 1791544042349
   }
 ]
