@@ -35185,5 +35185,43 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1791558283174,
+    "price": 489.5,
+    "level": "STRONG",
+    "hunt": 55.7,
+    "persistence": 3,
+    "p15": 0.51,
+    "vr": 1.89,
+    "va": 1.18,
+    "buy": 100,
+    "bs": 4.39,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ESIRT",
+    "time": 1791558582143,
+    "price": 353.0,
+    "level": "STRONG",
+    "hunt": 69.1,
+    "persistence": 1,
+    "p15": 1.15,
+    "vr": 0.92,
+    "va": 2.52,
+    "buy": 48.0,
+    "bs": 1.44,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]

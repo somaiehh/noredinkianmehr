@@ -1917,6 +1917,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "LIGHTIRT": {
+      "trigger_time": 1791558582143,
+      "trigger_price": 54000.0,
+      "secondary_score": 70.0,
+      "hunt_score": 23.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
