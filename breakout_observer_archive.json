@@ -14023,5 +14023,48 @@
     "levels": [],
     "failed_time": 1791472901115,
     "failed_price": 0.00010237
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "anchor_time": 1791486717026,
+    "anchor_price": 48.2,
+    "status": "EXPIRED",
+    "created_time": 1791486717026,
+    "last_time": 1791537580615,
+    "last_price": 46.0,
+    "max_gain_pct": 15.1452,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791487988018,
+    "confirmed_price": 52.5,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791487988018,
+        "price": 52.5,
+        "gain_pct": 8.9212
+      },
+      {
+        "level": 10,
+        "time": 1791488214018,
+        "price": 53.7,
+        "gain_pct": 11.4108
+      }
+    ],
+    "expired_time": 1791530195259
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1791264845157,
+    "anchor_price": 410.0,
+    "status": "EXPIRED",
+    "created_time": 1791264845157,
+    "last_time": 1791537580615,
+    "last_price": 398.0,
+    "max_gain_pct": 1.4634,
+    "levels": [],
+    "expired_time": 1791308127936
   }
 ]
