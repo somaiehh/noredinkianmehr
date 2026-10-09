@@ -6881,10 +6881,10 @@
     "tm_g4": 1.1017,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791519962741,
-    "result_move": -9.8466,
+    "result_time": 1791535624306,
+    "result_move": -8.5276,
     "max_move": 0.0,
-    "min_move": -9.8466,
+    "min_move": -10.6442,
     "ledger_version": "wake-ledger-v1"
   },
   {
