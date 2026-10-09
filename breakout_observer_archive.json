@@ -14366,5 +14366,30 @@
       }
     ],
     "expired_time": 1791470033844
+  },
+  {
+    "symbol": "STRKIRT",
+    "anchor_time": 1791499027314,
+    "anchor_price": 15150.0,
+    "status": "FAILED",
+    "created_time": 1791499027314,
+    "last_time": 1791559718015,
+    "last_price": 19625.0,
+    "max_gain_pct": 34.0066,
+    "levels": [],
+    "failed_time": 1791503348282,
+    "failed_price": 14602.0
+  },
+  {
+    "symbol": "LIGHTIRT",
+    "anchor_time": 1791225950335,
+    "anchor_price": 54887.0,
+    "status": "EXPIRED",
+    "created_time": 1791225950335,
+    "last_time": 1791559718015,
+    "last_price": 53857.0,
+    "max_gain_pct": 5.5514,
+    "levels": [],
+    "expired_time": 1791269208490
   }
 ]

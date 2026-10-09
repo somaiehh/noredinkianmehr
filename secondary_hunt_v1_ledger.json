@@ -1931,6 +1931,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "JASMYIRT": {
+      "trigger_time": 1791561359111,
+      "trigger_price": 1308.6,
+      "secondary_score": 65.0,
+      "hunt_score": 63.3,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
