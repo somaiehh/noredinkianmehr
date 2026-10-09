@@ -579,6 +579,34 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ELIZAOSIRT": {
+      "trigger_time": 1791528726426,
+      "trigger_price": 142.8,
+      "secondary_score": 65.0,
+      "hunt_score": 41.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "NAKAIRT": {
+      "trigger_time": 1791528944689,
+      "trigger_price": 30904.0,
+      "secondary_score": 65.0,
+      "hunt_score": 53.6,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
