@@ -13666,5 +13666,18 @@
       }
     ],
     "expired_time": 1791492692901
+  },
+  {
+    "symbol": "RLCIRT",
+    "anchor_time": 1791447426432,
+    "anchor_price": 226247.0,
+    "status": "FAILED",
+    "created_time": 1791447426432,
+    "last_time": 1791504592073,
+    "last_price": 241644.0,
+    "max_gain_pct": 23.7506,
+    "levels": [],
+    "failed_time": 1791448398840,
+    "failed_price": 216600.0
   }
 ]
