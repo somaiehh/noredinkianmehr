@@ -14066,5 +14066,19 @@
     "max_gain_pct": 1.4634,
     "levels": [],
     "expired_time": 1791308127936
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1791493438452,
+    "anchor_price": 479.6,
+    "status": "EXPIRED",
+    "created_time": 1791493438452,
+    "last_time": 1791538568946,
+    "last_price": 490.0,
+    "max_gain_pct": 3.4195,
+    "levels": [],
+    "confirmed_time": 1791516434651,
+    "confirmed_price": 496.0,
+    "expired_time": 1791536761138
   }
 ]
