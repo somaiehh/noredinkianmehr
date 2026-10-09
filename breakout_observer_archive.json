@@ -14391,5 +14391,29 @@
     "max_gain_pct": 5.5514,
     "levels": [],
     "expired_time": 1791269208490
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1791491728302,
+    "anchor_price": 1.421,
+    "status": "EXPIRED",
+    "created_time": 1791491728302,
+    "last_time": 1791561662335,
+    "last_price": 1.4414,
+    "max_gain_pct": 1.8015,
+    "levels": [],
+    "expired_time": 1791535125410
+  },
+  {
+    "symbol": "VELVETIRT",
+    "anchor_time": 1791487988018,
+    "anchor_price": 19800.0,
+    "status": "EXPIRED",
+    "created_time": 1791487988018,
+    "last_time": 1791563178990,
+    "last_price": 19405.0,
+    "max_gain_pct": 2.8283,
+    "levels": [],
+    "expired_time": 1791531200595
   }
 ]

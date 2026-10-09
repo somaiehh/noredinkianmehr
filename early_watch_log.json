@@ -34601,7 +34601,10 @@
       "max_up": 0.0,
       "max_down": -15.81
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -28.39
+    }
   },
   {
     "symbol": "MAVIAIRT",
@@ -35101,7 +35104,10 @@
       "max_up": 11.42,
       "max_down": 2.04
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 11.42,
+      "max_down": -3.42
+    },
     "result_12h": null
   },
   {
@@ -35126,7 +35132,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.24,
+      "max_down": -0.59
+    },
     "result_12h": null
   },
   {
@@ -35151,7 +35160,10 @@
       "max_up": 3.8,
       "max_down": -1.09
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 6.52,
+      "max_down": -1.09
+    },
     "result_12h": null
   },
   {
@@ -35222,7 +35234,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -0.92
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -35244,7 +35259,10 @@
       "max_up": 3.12,
       "max_down": 3.12
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 5.67,
+      "max_down": 1.98
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -35262,7 +35280,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -35280,6 +35301,28 @@
     "buy": 86.33333333333333,
     "bs": 2.59,
     "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.54,
+      "max_down": -0.54
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LIGHTIRT",
+    "time": 1791563178990,
+    "price": 56173.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.86,
+    "vr": 4.7,
+    "va": 1.65,
+    "buy": 76.33333333333333,
+    "bs": 2.29,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
