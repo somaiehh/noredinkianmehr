@@ -1944,6 +1944,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "SOPHIRT": {
+      "trigger_time": 1791564501227,
+      "trigger_price": 972.0,
+      "secondary_score": 65.0,
+      "hunt_score": 15.4,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
