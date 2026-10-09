@@ -6348,5 +6348,43 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1791506109496,
+    "price": 89000.0,
+    "pre30": 2.41,
+    "pre60": 1.19,
+    "pre120": 1.19,
+    "hunt": 100.0,
+    "persistence": 3,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 1.14,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1791506331276,
+    "price": 89000.0,
+    "pre30": 2.41,
+    "pre60": 2.1,
+    "pre120": 1.19,
+    "hunt": 99.9,
+    "persistence": 4,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.62,
+    "p15": 1.14,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
