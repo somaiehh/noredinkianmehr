@@ -13737,5 +13737,31 @@
       }
     ],
     "expired_time": 1791497745192
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1791446303875,
+    "anchor_price": 381103.0,
+    "status": "FAILED",
+    "created_time": 1791446303875,
+    "last_time": 1791526421671,
+    "last_price": 374384.0,
+    "max_gain_pct": 1.1409,
+    "levels": [],
+    "failed_time": 1791473821477,
+    "failed_price": 369222.0
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "anchor_time": 1791476724177,
+    "anchor_price": 20500.0,
+    "status": "FAILED",
+    "created_time": 1791476724177,
+    "last_time": 1791528156132,
+    "last_price": 20548.0,
+    "max_gain_pct": 0.3659,
+    "levels": [],
+    "failed_time": 1791479093463,
+    "failed_price": 19629.0
   }
 ]

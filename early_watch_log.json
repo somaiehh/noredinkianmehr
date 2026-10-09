@@ -34325,7 +34325,10 @@
       "max_up": 1.46,
       "max_down": -0.13
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.43,
+      "max_down": -0.22
+    }
   },
   {
     "symbol": "QIRT",
@@ -34353,7 +34356,10 @@
       "max_up": 8.01,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 20.2,
+      "max_down": -0.76
+    }
   },
   {
     "symbol": "RLCIRT",
@@ -34588,7 +34594,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.19,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -34604,6 +34613,28 @@
     "va": 10.0,
     "buy": 56.99999999999999,
     "bs": 1.71,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -0.17
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1791528156132,
+    "price": 493.7,
+    "level": "WATCH",
+    "hunt": 42.9,
+    "persistence": 1,
+    "p15": 1.11,
+    "vr": 0.05,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
