@@ -14104,5 +14104,36 @@
     "max_gain_pct": 1.7995,
     "levels": [],
     "expired_time": 1791433404354
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1791498835019,
+    "anchor_price": 10399.0,
+    "status": "EXPIRED",
+    "created_time": 1791498835019,
+    "last_time": 1791543120056,
+    "last_price": 12002.0,
+    "max_gain_pct": 16.3381,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791514591940,
+    "confirmed_price": 10711.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791516227856,
+        "price": 11300.0,
+        "gain_pct": 8.6643
+      },
+      {
+        "level": 10,
+        "time": 1791532000844,
+        "price": 11505.0,
+        "gain_pct": 10.6356
+      }
+    ],
+    "expired_time": 1791542063178
   }
 ]

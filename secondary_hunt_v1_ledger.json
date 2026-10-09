@@ -1846,6 +1846,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BEAMXIRT": {
+      "trigger_time": 1791543318947,
+      "trigger_price": 714.2,
+      "secondary_score": 70.0,
+      "hunt_score": 11.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
