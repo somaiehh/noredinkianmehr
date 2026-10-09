@@ -34232,7 +34232,10 @@
       "max_up": 0.0,
       "max_down": -5.09
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.38,
+      "max_down": -5.09
+    }
   },
   {
     "symbol": "BRIRT",
@@ -34260,7 +34263,10 @@
       "max_up": 10.22,
       "max_down": -0.95
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.22,
+      "max_down": -0.95
+    }
   },
   {
     "symbol": "UAIIRT",
@@ -34288,7 +34294,10 @@
       "max_up": 2.06,
       "max_down": -4.21
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.47,
+      "max_down": -4.21
+    }
   },
   {
     "symbol": "SANDIRT",
@@ -34505,7 +34514,10 @@
       "max_up": 0.0,
       "max_down": -0.86
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -2.36
+    },
     "result_12h": null
   },
   {
@@ -34526,7 +34538,10 @@
       "max_up": 0.63,
       "max_down": 0.63
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.36,
+      "max_down": 0.63
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -34542,6 +34557,31 @@
     "va": 2.06,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MAVIAIRT",
+    "time": 1791524164985,
+    "price": 8097.0,
+    "level": "STRONG",
+    "hunt": 72.7,
+    "persistence": 1,
+    "p15": 0.88,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 62.33333333333334,
+    "bs": 1.87,
     "breakout": false,
     "priority": false,
     "result_15m": null,
