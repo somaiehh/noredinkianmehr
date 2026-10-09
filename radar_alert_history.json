@@ -3167,5 +3167,18 @@
     "bs": 3.56,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791556487704,
+    "symbol": "ELIZAOSIRT",
+    "price": 125.2,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 0.89,
+    "vr": 3.21,
+    "va": 10.0,
+    "bs": 0.04,
+    "breakout": false,
+    "persistence": 2
   }
 ]
