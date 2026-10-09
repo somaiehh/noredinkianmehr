@@ -705,6 +705,33 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ATOMIRT": {
+      "trigger_time": 1791544635839,
+      "trigger_price": 520228.0,
+      "secondary_score": 65.0,
+      "hunt_score": 24.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "PUMPIRT": {
+      "trigger_time": 1791544635839,
+      "trigger_price": 1514.2,
+      "secondary_score": 60.0,
+      "hunt_score": 9.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
