@@ -13997,5 +13997,18 @@
       }
     ],
     "expired_time": 1791500526191
+  },
+  {
+    "symbol": "PYTHIRT",
+    "anchor_time": 1791491512149,
+    "anchor_price": 22192.0,
+    "status": "FAILED",
+    "created_time": 1791491512149,
+    "last_time": 1791535819181,
+    "last_price": 22656.0,
+    "max_gain_pct": 2.8073,
+    "levels": [],
+    "failed_time": 1791505351398,
+    "failed_price": 21475.0
   }
 ]

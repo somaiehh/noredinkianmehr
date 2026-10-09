@@ -650,6 +650,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "PEPEIRT": {
+      "trigger_time": 1791536579119,
+      "trigger_price": 1.0522,
+      "secondary_score": 60.0,
+      "hunt_score": 51.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
