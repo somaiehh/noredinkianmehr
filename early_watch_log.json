@@ -34641,7 +34641,10 @@
       "max_up": 1.19,
       "max_down": -0.17
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.31,
+      "max_down": -0.17
+    },
     "result_12h": null
   },
   {
@@ -34812,7 +34815,10 @@
       "max_up": -0.01,
       "max_down": -0.48
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.01,
+      "max_down": -1.35
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -34848,6 +34854,47 @@
     "p15": 0.13,
     "vr": 1.15,
     "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "time": 1791540614683,
+    "price": 1.7404,
+    "level": "STRONG",
+    "hunt": 53.6,
+    "persistence": 1,
+    "p15": 0.2,
+    "vr": 2.15,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "AINIRT",
+    "time": 1791540810113,
+    "price": 12200.0,
+    "level": "STRONG",
+    "hunt": 77.0,
+    "persistence": 1,
+    "p15": 1.88,
+    "vr": 0.52,
+    "va": 10.0,
     "buy": 100,
     "bs": 5.0,
     "breakout": false,

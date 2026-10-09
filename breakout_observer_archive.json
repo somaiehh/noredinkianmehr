@@ -14080,5 +14080,17 @@
     "confirmed_time": 1791516434651,
     "confirmed_price": 496.0,
     "expired_time": 1791536761138
+  },
+  {
+    "symbol": "NOTIRT",
+    "anchor_time": 1791489664414,
+    "anchor_price": 117.9,
+    "status": "EXPIRED",
+    "created_time": 1791489664414,
+    "last_time": 1791539465241,
+    "last_price": 118.7,
+    "max_gain_pct": 1.1026,
+    "levels": [],
+    "expired_time": 1791532964225
   }
 ]

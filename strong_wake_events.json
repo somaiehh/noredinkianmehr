@@ -6566,10 +6566,10 @@
     "tm_g4": 1.0455,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791482051487,
-    "result_move": -11.6048,
+    "result_time": 1791483495779,
+    "result_move": -16.7261,
     "max_move": 0.6543,
-    "min_move": -11.6048,
+    "min_move": -16.7261,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6587,8 +6587,8 @@
     "tm_g4": 1.0435,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791482051487,
-    "result_move": -8.2035,
+    "result_time": 1791483495779,
+    "result_move": -6.7497,
     "max_move": 1.9211,
     "min_move": -8.2035,
     "ledger_version": "wake-ledger-v1"
@@ -6608,10 +6608,10 @@
     "tm_g4": 1.2222,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791482051487,
-    "result_move": -9.9057,
+    "result_time": 1791483495779,
+    "result_move": -10.6321,
     "max_move": 0.7897,
-    "min_move": -10.039,
+    "min_move": -10.6321,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6629,8 +6629,8 @@
     "tm_g4": 1.0278,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791482051487,
-    "result_move": -8.1841,
+    "result_time": 1791483495779,
+    "result_move": -8.1569,
     "max_move": 2.3562,
     "min_move": -8.1841,
     "ledger_version": "wake-ledger-v1"
@@ -6671,10 +6671,10 @@
     "tm_g4": 1.1333,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791482051487,
-    "result_move": -9.6144,
+    "result_time": 1791483495779,
+    "result_move": -11.1188,
     "max_move": 1.3315,
-    "min_move": -10.9459,
+    "min_move": -11.1188,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6734,7 +6734,7 @@
     "tm_g4": 1.0714,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791482051487,
+    "result_time": 1791483495779,
     "result_move": -6.2102,
     "max_move": 0.0,
     "min_move": -6.7675,
@@ -6947,7 +6947,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 5.7347,
-    "min_move": -3.21,
+    "min_move": -4.1549,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -6968,7 +6968,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0152,
-    "min_move": -1.0385,
+    "min_move": -1.1405,
     "ledger_version": "wake-ledger-v1"
   },
   {
