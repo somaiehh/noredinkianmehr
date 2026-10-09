@@ -34818,7 +34818,10 @@
       "max_up": 45.99,
       "max_down": -0.79
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 45.99,
+      "max_down": -0.79
+    }
   },
   {
     "symbol": "LABIRT",
@@ -35574,6 +35577,25 @@
       "max_up": 1.81,
       "max_down": -2.46
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "VELVETIRT",
+    "time": 1791577128255,
+    "price": 20559.0,
+    "level": "STRONG",
+    "hunt": 77.3,
+    "persistence": 1,
+    "p15": 0.98,
+    "vr": 0.14,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }

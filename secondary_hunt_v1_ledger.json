@@ -1986,6 +1986,22 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "RADIRT": {
+      "trigger_time": 1791577128255,
+      "trigger_price": 97208.0,
+      "secondary_score": 85.0,
+      "hunt_score": 49.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
