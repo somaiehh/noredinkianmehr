@@ -15112,5 +15112,18 @@
     "levels": [],
     "failed_time": 1791563178990,
     "failed_price": 19617.0
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "anchor_time": 1791538349548,
+    "anchor_price": 47.0,
+    "status": "FAILED",
+    "created_time": 1791538349548,
+    "last_time": 1791636333664,
+    "last_price": 41.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791543120056,
+    "failed_price": 45.0
   }
 ]
