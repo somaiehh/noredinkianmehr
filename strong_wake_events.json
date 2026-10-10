@@ -7409,7 +7409,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -1.0482,
+    "min_move": -1.3068,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -7431,6 +7431,27 @@
     "result_move": null,
     "max_move": 0.4687,
     "min_move": -0.3167,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "FILIRT",
+    "event_time": 1791651714892,
+    "event_price": 298776.0,
+    "anchor_time": 1791650833685,
+    "anchor_price": 300549.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.3684,
+    "tm_e15_e1": 0.3684,
+    "tm_e1_e4": 0.5135,
+    "tm_g15": 0.7,
+    "tm_g1": 1.4615,
+    "tm_g4": 1.1562,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]

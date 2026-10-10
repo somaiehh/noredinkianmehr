@@ -15280,5 +15280,17 @@
       }
     ],
     "expired_time": 1791616560871
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1791604229021,
+    "anchor_price": 0.00010302,
+    "status": "EXPIRED",
+    "created_time": 1791604229021,
+    "last_time": 1791651025580,
+    "last_price": 0.00010311,
+    "max_gain_pct": 0.6018,
+    "levels": [],
+    "expired_time": 1791647471765
   }
 ]
