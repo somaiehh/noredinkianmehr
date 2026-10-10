@@ -6526,5 +6526,24 @@
       "max_down": -0.02
     },
     "result_4h": null
+  },
+  {
+    "symbol": "NEARIRT",
+    "time": 1791609694518,
+    "price": 1358998.0,
+    "pre30": 0.94,
+    "pre60": 2.18,
+    "pre120": 3.18,
+    "hunt": 98.1,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.2,
+    "p15": 0.67,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
