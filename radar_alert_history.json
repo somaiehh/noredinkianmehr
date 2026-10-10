@@ -3349,5 +3349,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791627720127,
+    "symbol": "MAGICIRT",
+    "price": 28963.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 0.88,
+    "vr": 3.9,
+    "va": 10.0,
+    "bs": 0.15,
+    "breakout": false,
+    "persistence": 2
   }
 ]
