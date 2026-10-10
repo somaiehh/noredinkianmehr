@@ -35686,7 +35686,10 @@
       "max_up": 2.43,
       "max_down": -8.71
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.08,
+      "max_down": -8.71
+    }
   },
   {
     "symbol": "VELVETIRT",
@@ -36046,7 +36049,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.05,
+      "max_down": -0.05
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -36068,7 +36074,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.26,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -36090,7 +36099,10 @@
       "max_up": 0.21,
       "max_down": 0.21
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.52,
+      "max_down": -0.76
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -36112,7 +36124,10 @@
       "max_up": 3.17,
       "max_down": 3.17
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.17,
+      "max_down": -0.06
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -36156,6 +36171,25 @@
       "max_up": 0.0,
       "max_down": -0.08
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ESIRT",
+    "time": 1791615868724,
+    "price": 346.0,
+    "level": "STRONG",
+    "hunt": 68.6,
+    "persistence": 1,
+    "p15": 0.29,
+    "vr": 0.91,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.33,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

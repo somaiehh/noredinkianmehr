@@ -6587,7 +6587,10 @@
     "ob": 0.22,
     "p15": 0.89,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.03,
+      "max_down": -0.59
+    },
     "result_4h": null
   },
   {
