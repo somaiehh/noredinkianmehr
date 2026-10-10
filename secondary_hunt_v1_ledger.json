@@ -2185,6 +2185,33 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "XDCIRT": {
+      "trigger_time": 1791642759195,
+      "trigger_price": 9320.8,
+      "secondary_score": 65.0,
+      "hunt_score": 47.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "da1_pos"
+      ]
+    },
+    "CFXIRT": {
+      "trigger_time": 1791642986406,
+      "trigger_price": 15608.6,
+      "secondary_score": 60.0,
+      "hunt_score": null,
+      "flags": [
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
