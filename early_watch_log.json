@@ -36831,7 +36831,10 @@
       "max_up": 0.33,
       "max_down": -0.66
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.18,
+      "max_down": -0.66
+    },
     "result_12h": null
   },
   {
@@ -36856,7 +36859,10 @@
       "max_up": 0.44,
       "max_down": -0.73
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.44,
+      "max_down": -1.37
+    },
     "result_12h": null
   },
   {
@@ -37048,6 +37054,47 @@
     "bs": 2.94,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 0.68,
+      "max_down": -0.18
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ACTIRT",
+    "time": 1791659744981,
+    "price": 2833.0,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 1,
+    "p15": 1.43,
+    "vr": 0.43,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.46,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TIAIRT",
+    "time": 1791659932293,
+    "price": 148444.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.63,
+    "vr": 0.19,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
