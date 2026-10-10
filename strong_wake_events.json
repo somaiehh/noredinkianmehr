@@ -6881,8 +6881,8 @@
     "tm_g4": 1.1017,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791536579119,
-    "result_move": -7.3313,
+    "result_time": 1791537381313,
+    "result_move": -6.5337,
     "max_move": 0.0,
     "min_move": -10.8282,
     "ledger_version": "wake-ledger-v1"
@@ -7242,6 +7242,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -1.7026,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "GTCIRT",
+    "event_time": 1791600046477,
+    "event_price": 49815.0,
+    "anchor_time": 1791599838901,
+    "anchor_price": 49573.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.8667,
+    "tm_e15_e1": 0.8667,
+    "tm_e1_e4": 0.625,
+    "tm_g15": 1.625,
+    "tm_g1": 1.3636,
+    "tm_g4": 1.2,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]

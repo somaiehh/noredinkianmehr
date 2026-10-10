@@ -4238,7 +4238,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.2414,
-    "min_move": -3.0395,
+    "min_move": -3.0818,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -4406,7 +4406,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.7812,
-    "min_move": 0.0,
+    "min_move": -1.9531,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "event_time": 1791599838901,
+    "event_price": 126.5,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 71.7,
+    "p15": -1.94,
+    "vr": null,
+    "va": 2.19,
+    "ta": null,
+    "bs": 2.5,
+    "book": 0.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -0.7905,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
