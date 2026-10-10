@@ -15125,5 +15125,29 @@
     "levels": [],
     "failed_time": 1791543120056,
     "failed_price": 45.0
+  },
+  {
+    "symbol": "ERAIRT",
+    "anchor_time": 1791456471963,
+    "anchor_price": 19186.0,
+    "status": "EXPIRED",
+    "created_time": 1791456471963,
+    "last_time": 1791636533906,
+    "last_price": 22364.0,
+    "max_gain_pct": 56.364,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791456667098,
+    "confirmed_price": 20299.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791456667098,
+        "price": 20299.0,
+        "gain_pct": 5.8011
+      }
+    ],
+    "expired_time": 1791552922205
   }
 ]
