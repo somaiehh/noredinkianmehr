@@ -14622,5 +14622,32 @@
       }
     ],
     "expired_time": 1791571659146
+  },
+  {
+    "symbol": "OPIRT",
+    "anchor_time": 1791023709349,
+    "anchor_price": 35922.0,
+    "status": "EXPIRED",
+    "created_time": 1791023709349,
+    "last_time": 1791581665718,
+    "last_price": 34049.0,
+    "max_gain_pct": 4.0671,
+    "levels": [],
+    "confirmed_time": 1791039852379,
+    "confirmed_price": 37000.0,
+    "expired_time": 1791073809843
+  },
+  {
+    "symbol": "MAGICIRT",
+    "anchor_time": 1791533202465,
+    "anchor_price": 21296.0,
+    "status": "FAILED",
+    "created_time": 1791533202465,
+    "last_time": 1791590696900,
+    "last_price": 32499.0,
+    "max_gain_pct": 56.4144,
+    "levels": [],
+    "failed_time": 1791533919888,
+    "failed_price": 20471.0
   }
 ]

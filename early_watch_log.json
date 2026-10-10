@@ -35221,7 +35221,10 @@
       "max_up": 6.52,
       "max_down": -1.09
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.52,
+      "max_down": -2.17
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -35249,7 +35252,10 @@
       "max_up": 0.29,
       "max_down": -2.21
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.29,
+      "max_down": -4.06
+    }
   },
   {
     "symbol": "COMMONIRT",
@@ -35277,7 +35283,10 @@
       "max_up": 0.0,
       "max_down": -4.32
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -9.88
+    }
   },
   {
     "symbol": "ONEIRT",
@@ -35665,7 +35674,10 @@
       "max_up": 1.61,
       "max_down": -4.07
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.63,
+      "max_down": -4.07
+    },
     "result_12h": null
   },
   {
@@ -35690,6 +35702,28 @@
       "max_up": -1.14,
       "max_down": -1.14
     },
+    "result_4h": {
+      "max_up": 1.09,
+      "max_down": -1.14
+    },
+    "result_12h": null
+  },
+  {
+    "symbol": "DOTIRT",
+    "time": 1791598467435,
+    "price": 343035.0,
+    "level": "STRONG",
+    "hunt": 73.0,
+    "persistence": 1,
+    "p15": 1.49,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 74.33333333333333,
+    "bs": 2.23,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
