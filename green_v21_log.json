@@ -6840,5 +6840,43 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "C98IRT",
+    "time": 1791650293630,
+    "price": 4794.0,
+    "pre30": -0.87,
+    "pre60": 0.63,
+    "pre120": -0.44,
+    "hunt": 72.6,
+    "persistence": 2,
+    "vr": 9.07,
+    "va": 3.25,
+    "buy": 91.0,
+    "bs": 2.73,
+    "ob": 0.51,
+    "p15": 0.97,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1791650293630,
+    "price": 14735.0,
+    "pre30": -3.23,
+    "pre60": 2.32,
+    "pre120": 1.9,
+    "hunt": 65.9,
+    "persistence": 2,
+    "vr": 2.85,
+    "va": 8.44,
+    "buy": 17.333333333333336,
+    "bs": 0.52,
+    "ob": 1.0,
+    "p15": 0.2,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
