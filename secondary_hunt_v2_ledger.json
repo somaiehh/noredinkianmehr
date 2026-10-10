@@ -874,6 +874,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "VELVETIRT": {
+      "trigger_time": 1791620212387,
+      "trigger_price": 21100.0,
+      "secondary_score": 60.0,
+      "hunt_score": 89.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
