@@ -3453,5 +3453,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791649225909,
+    "symbol": "WLDIRT",
+    "price": 149125.0,
+    "hunt_score": 80.0,
+    "status": "PRE_EARLY",
+    "p15": 0.11,
+    "vr": 2.16,
+    "va": 10.0,
+    "bs": 1.85,
+    "breakout": true,
+    "persistence": 1
   }
 ]
