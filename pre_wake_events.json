@@ -4402,11 +4402,11 @@
     "book": 1.0,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1791603208323,
+    "result_move": -8.9063,
     "max_move": 1.1719,
-    "min_move": -2.1875,
+    "min_move": -8.9063,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -4423,11 +4423,11 @@
     "book": 0.0,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1791603208323,
+    "result_move": -7.8261,
     "max_move": 2.3715,
-    "min_move": -1.0277,
+    "min_move": -7.8261,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
