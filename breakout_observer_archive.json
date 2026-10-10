@@ -15099,5 +15099,18 @@
     "confirmed_time": 1791411424410,
     "confirmed_price": 523576.0,
     "expired_time": 1791447426432
+  },
+  {
+    "symbol": "STRKIRT",
+    "anchor_time": 1791561359111,
+    "anchor_price": 20296.0,
+    "status": "FAILED",
+    "created_time": 1791561359111,
+    "last_time": 1791633164527,
+    "last_price": 19000.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791563178990,
+    "failed_price": 19617.0
   }
 ]
