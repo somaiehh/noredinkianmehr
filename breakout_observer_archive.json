@@ -15249,5 +15249,36 @@
     "levels": [],
     "failed_time": 1791463345587,
     "failed_price": 52465.0
+  },
+  {
+    "symbol": "RLCIRT",
+    "anchor_time": 1791573352489,
+    "anchor_price": 244580.0,
+    "status": "EXPIRED",
+    "created_time": 1791573352489,
+    "last_time": 1791649523617,
+    "last_price": 275914.0,
+    "max_gain_pct": 26.7479,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791574364527,
+    "confirmed_price": 256593.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791575230585,
+        "price": 265000.0,
+        "gain_pct": 8.349
+      },
+      {
+        "level": 10,
+        "time": 1791575461242,
+        "price": 288788.0,
+        "gain_pct": 18.0751
+      }
+    ],
+    "expired_time": 1791616560871
   }
 ]
