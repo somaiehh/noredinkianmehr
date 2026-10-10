@@ -6759,7 +6759,10 @@
     "ob": 1.0,
     "p15": 0.96,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.47,
+      "max_down": -1.42
+    },
     "result_4h": null
   },
   {
@@ -6778,6 +6781,44 @@
     "ob": 0.63,
     "p15": 0.4,
     "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "PUMPIRT",
+    "time": 1791648199610,
+    "price": 1519.6,
+    "pre30": 0.52,
+    "pre60": -0.14,
+    "pre120": 2.33,
+    "hunt": 69.5,
+    "persistence": 3,
+    "vr": 1.14,
+    "va": 4.4,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.4,
+    "p15": 0.65,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ZKIRT",
+    "time": 1791648413183,
+    "price": 4073.0,
+    "pre30": 4.81,
+    "pre60": 10.68,
+    "pre120": 10.68,
+    "hunt": 100.0,
+    "persistence": 2,
+    "vr": 2.24,
+    "va": 3.31,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.96,
+    "p15": 1.14,
+    "breakout": true,
     "result_1h": null,
     "result_4h": null
   }

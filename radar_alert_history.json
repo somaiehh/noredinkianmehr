@@ -3440,5 +3440,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791648417176,
+    "symbol": "ZKIRT",
+    "price": 4073.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.14,
+    "vr": 2.24,
+    "va": 3.31,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
