@@ -14893,5 +14893,31 @@
     "levels": [],
     "failed_time": 1791556483657,
     "failed_price": 11729.0
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1791539261016,
+    "anchor_price": 493.0,
+    "status": "FAILED",
+    "created_time": 1791539261016,
+    "last_time": 1791612271652,
+    "last_price": 485.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791568225842,
+    "failed_price": 477.5
+  },
+  {
+    "symbol": "WLDIRT",
+    "anchor_time": 1791314497582,
+    "anchor_price": 150437.0,
+    "status": "FAILED",
+    "created_time": 1791314497582,
+    "last_time": 1791612271652,
+    "last_price": 149454.0,
+    "max_gain_pct": 1.029,
+    "levels": [],
+    "failed_time": 1791316959436,
+    "failed_price": 145614.0
   }
 ]
