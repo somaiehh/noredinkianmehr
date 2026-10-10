@@ -2145,6 +2145,33 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "NIGHTIRT": {
+      "trigger_time": 1791619352805,
+      "trigger_price": 13765.1,
+      "secondary_score": 60.0,
+      "hunt_score": null,
+      "flags": [
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "ARPAIRT": {
+      "trigger_time": 1791619568925,
+      "trigger_price": 3381.7,
+      "secondary_score": 60.0,
+      "hunt_score": 44.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos"
+      ]
     }
   }
 }

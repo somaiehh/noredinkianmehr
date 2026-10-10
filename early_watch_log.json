@@ -35909,7 +35909,10 @@
       "max_up": 0.31,
       "max_down": -2.2
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.31,
+      "max_down": -5.14
+    },
     "result_12h": null
   },
   {
@@ -36205,7 +36208,10 @@
       "max_up": 2.31,
       "max_down": 1.16
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.31,
+      "max_down": -1.16
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -36227,6 +36233,25 @@
       "max_up": 1.6,
       "max_down": 1.6
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ORCAIRT",
+    "time": 1791619352805,
+    "price": 625837.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.36,
+    "vr": 10.45,
+    "va": 10.0,
+    "buy": 85.33333333333334,
+    "bs": 2.56,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

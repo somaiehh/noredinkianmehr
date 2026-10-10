@@ -14956,5 +14956,19 @@
       }
     ],
     "expired_time": 1791490828254
+  },
+  {
+    "symbol": "NIGHTIRT",
+    "anchor_time": 1791234415809,
+    "anchor_price": 13536.1,
+    "status": "EXPIRED",
+    "created_time": 1791234415809,
+    "last_time": 1791618656363,
+    "last_price": 13500.0,
+    "max_gain_pct": 3.1316,
+    "levels": [],
+    "confirmed_time": 1791244834516,
+    "confirmed_price": 13960.0,
+    "expired_time": 1791278294381
   }
 ]
