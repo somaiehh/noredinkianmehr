@@ -36306,7 +36306,10 @@
       "max_up": 2.31,
       "max_down": -8.96
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.31,
+      "max_down": -10.12
+    }
   },
   {
     "symbol": "LUMIAIRT",
