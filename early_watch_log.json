@@ -36236,7 +36236,10 @@
       "max_up": 1.6,
       "max_down": 1.6
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 19.13,
+      "max_down": 1.6
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -36258,6 +36261,25 @@
       "max_up": 0.1,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SUIIRT",
+    "time": 1791621409049,
+    "price": 299054.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.35,
+    "vr": 1.13,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

@@ -2172,6 +2172,19 @@
         "premove_pos",
         "dt15_pos"
       ]
+    },
+    "AKITAIRT": {
+      "trigger_time": 1791621640825,
+      "trigger_price": 3248.0,
+      "secondary_score": 60.0,
+      "hunt_score": 44.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
