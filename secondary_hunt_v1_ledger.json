@@ -2255,6 +2255,33 @@
         "bs2",
         "da1_pos"
       ]
+    },
+    "HOTIRT": {
+      "trigger_time": 1791657361397,
+      "trigger_price": 111.6,
+      "secondary_score": 60.0,
+      "hunt_score": 20.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "CHIPIRT": {
+      "trigger_time": 1791657361397,
+      "trigger_price": 16347.3,
+      "secondary_score": 80.0,
+      "hunt_score": 67.5,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "premove_pos",
+        "dt15_pos"
+      ]
     }
   }
 }

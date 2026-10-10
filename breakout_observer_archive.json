@@ -15328,5 +15328,31 @@
     "max_gain_pct": 3.8059,
     "levels": [],
     "expired_time": 1791628463571
+  },
+  {
+    "symbol": "OPIRT",
+    "anchor_time": 1791598467435,
+    "anchor_price": 38469.0,
+    "status": "FAILED",
+    "created_time": 1791598467435,
+    "last_time": 1791656419444,
+    "last_price": 36487.0,
+    "max_gain_pct": 1.2478,
+    "levels": [],
+    "failed_time": 1791599089895,
+    "failed_price": 37286.0
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1791612271652,
+    "anchor_price": 11978.0,
+    "status": "FAILED",
+    "created_time": 1791612271652,
+    "last_time": 1791656419444,
+    "last_price": 11948.0,
+    "max_gain_pct": 0.2588,
+    "levels": [],
+    "failed_time": 1791619352805,
+    "failed_price": 11597.0
   }
 ]
