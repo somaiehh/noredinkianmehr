@@ -35903,7 +35903,10 @@
       "max_up": 0.6,
       "max_down": -0.68
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.6,
+      "max_down": -1.18
+    }
   },
   {
     "symbol": "IMXIRT",
@@ -36512,7 +36515,10 @@
       "max_up": 1.61,
       "max_down": 0.03
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.61,
+      "max_down": -0.73
+    },
     "result_12h": null
   },
   {
@@ -36774,6 +36780,25 @@
       "max_up": -0.35,
       "max_down": -0.73
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PUMPIRT",
+    "time": 1791647266905,
+    "price": 1511.7,
+    "level": "WATCH",
+    "hunt": 42.9,
+    "persistence": 1,
+    "p15": 0.13,
+    "vr": 1.12,
+    "va": 2.0,
+    "buy": 80.33333333333333,
+    "bs": 2.41,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
