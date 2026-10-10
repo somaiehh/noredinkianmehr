@@ -35853,7 +35853,10 @@
       "max_up": 1.86,
       "max_down": -1.4
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.86,
+      "max_down": -1.55
+    },
     "result_12h": null
   },
   {
@@ -36149,7 +36152,10 @@
       "max_up": 0.0,
       "max_down": -0.28
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.29,
+      "max_down": -0.28
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -36187,6 +36193,28 @@
     "va": 10.0,
     "buy": 100,
     "bs": 3.33,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 2.31,
+      "max_down": 1.16
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LUMIAIRT",
+    "time": 1791617507310,
+    "price": 33578.0,
+    "level": "STRONG",
+    "hunt": 60.9,
+    "persistence": 1,
+    "p15": 0.71,
+    "vr": 0.67,
+    "va": 5.1,
+    "buy": 46.0,
+    "bs": 1.38,
     "breakout": false,
     "priority": false,
     "result_15m": null,
