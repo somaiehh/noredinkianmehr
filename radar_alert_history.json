@@ -3401,5 +3401,31 @@
     "bs": 0.18,
     "breakout": false,
     "persistence": 5
+  },
+  {
+    "time": 1791639035432,
+    "symbol": "SUNDOGIRT",
+    "price": 404.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.0,
+    "vr": 4.57,
+    "va": 9.42,
+    "bs": 2.47,
+    "breakout": true,
+    "persistence": 3
+  },
+  {
+    "time": 1791639231997,
+    "symbol": "SUNDOGIRT",
+    "price": 404.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.0,
+    "vr": 4.57,
+    "va": 9.19,
+    "bs": 1.62,
+    "breakout": true,
+    "persistence": 4
   }
 ]

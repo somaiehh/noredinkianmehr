@@ -6654,5 +6654,43 @@
       "max_up": 0.2,
       "max_down": -1.46
     }
+  },
+  {
+    "symbol": "SUNDOGIRT",
+    "time": 1791639032463,
+    "price": 404.0,
+    "pre30": 4.12,
+    "pre60": 6.6,
+    "pre120": 5.21,
+    "hunt": 100.0,
+    "persistence": 3,
+    "vr": 4.57,
+    "va": 9.42,
+    "buy": 82.33333333333334,
+    "bs": 2.47,
+    "ob": 0.53,
+    "p15": 1.0,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "SUNDOGIRT",
+    "time": 1791639229433,
+    "price": 404.0,
+    "pre30": 4.12,
+    "pre60": 6.6,
+    "pre120": 6.32,
+    "hunt": 100.0,
+    "persistence": 4,
+    "vr": 4.57,
+    "va": 9.19,
+    "buy": 54.0,
+    "bs": 1.62,
+    "ob": 1.0,
+    "p15": 1.0,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
