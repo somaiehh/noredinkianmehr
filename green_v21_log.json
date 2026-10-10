@@ -6700,7 +6700,10 @@
       "max_up": 0.0,
       "max_down": -5.94
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -5.94
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -6872,7 +6875,10 @@
     "ob": 0.51,
     "p15": 0.97,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.29,
+      "max_down": -1.86
+    },
     "result_4h": null
   },
   {
@@ -6891,7 +6897,10 @@
     "ob": 1.0,
     "p15": 0.2,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.24,
+      "max_down": -0.39
+    },
     "result_4h": null
   },
   {

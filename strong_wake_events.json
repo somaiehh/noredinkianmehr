@@ -7342,7 +7342,7 @@
     "tm_g1": 1.1538,
     "tm_g4": 1.25,
     "legacy": false,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 4.1307,
@@ -7451,7 +7451,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -0.8431,
+    "min_move": -0.9469,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "COMMONIRT",
+    "event_time": 1791654469647,
+    "event_price": 15.3,
+    "anchor_time": 1791648199610,
+    "anchor_price": 15.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.2,
+    "tm_e15_e1": 0.2,
+    "tm_e1_e4": 0.3125,
+    "tm_g15": 0.2143,
+    "tm_g1": 1.0714,
+    "tm_g4": 1.1707,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -1.3072,
     "ledger_version": "wake-ledger-v1"
   }
 ]
