@@ -2314,6 +2314,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "VFYIRT": {
+      "trigger_time": 1791660950106,
+      "trigger_price": 1713.0,
+      "secondary_score": 70.0,
+      "hunt_score": 6.3,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos"
+      ]
     }
   }
 }

@@ -3492,5 +3492,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 4
+  },
+  {
+    "time": 1791660750854,
+    "symbol": "TIAIRT",
+    "price": 148422.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.62,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 0.42,
+    "breakout": true,
+    "persistence": 2
   }
 ]
