@@ -15188,5 +15188,29 @@
     "levels": [],
     "failed_time": 1791549333925,
     "failed_price": 11801.0
+  },
+  {
+    "symbol": "NOTIRT",
+    "anchor_time": 1791590467018,
+    "anchor_price": 125.1,
+    "status": "EXPIRED",
+    "created_time": 1791590467018,
+    "last_time": 1791642986406,
+    "last_price": 125.0,
+    "max_gain_pct": 2.0783,
+    "levels": [],
+    "expired_time": 1791634989757
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1791570058292,
+    "anchor_price": 16206.0,
+    "status": "EXPIRED",
+    "created_time": 1791570058292,
+    "last_time": 1791642986406,
+    "last_price": 16561.0,
+    "max_gain_pct": 2.4312,
+    "levels": [],
+    "expired_time": 1791621640825
   }
 ]

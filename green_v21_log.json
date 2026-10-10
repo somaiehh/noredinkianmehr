@@ -6736,5 +6736,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "NOTIRT",
+    "time": 1791644306395,
+    "price": 126.7,
+    "pre30": 1.85,
+    "pre60": 1.44,
+    "pre120": 1.93,
+    "hunt": 100.0,
+    "persistence": 2,
+    "vr": 8.49,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.96,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
