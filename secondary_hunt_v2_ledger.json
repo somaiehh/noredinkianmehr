@@ -846,6 +846,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "C98IRT": {
+      "trigger_time": 1791605961996,
+      "trigger_price": 4941.0,
+      "secondary_score": 65.0,
+      "hunt_score": 46.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
