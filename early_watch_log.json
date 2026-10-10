@@ -36368,7 +36368,10 @@
       "max_up": 10.47,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.47,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -37064,7 +37067,10 @@
       "max_up": 0.68,
       "max_down": -0.18
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.68,
+      "max_down": -0.9
+    },
     "result_4h": null,
     "result_12h": null
   },

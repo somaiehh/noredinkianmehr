@@ -6825,7 +6825,10 @@
       "max_up": 0.0,
       "max_down": -3.44
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -3.59
+    }
   },
   {
     "symbol": "ZKIRT",
