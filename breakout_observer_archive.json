@@ -15008,5 +15008,31 @@
     "confirmed_time": 1791599089895,
     "confirmed_price": 1470.5,
     "expired_time": 1791624030913
+  },
+  {
+    "symbol": "BRIRT",
+    "anchor_time": 1791535125410,
+    "anchor_price": 139883.0,
+    "status": "FAILED",
+    "created_time": 1791535125410,
+    "last_time": 1791628684372,
+    "last_price": 127009.0,
+    "max_gain_pct": 2.9918,
+    "levels": [],
+    "failed_time": 1791535819181,
+    "failed_price": 135112.0
+  },
+  {
+    "symbol": "PIXELIRT",
+    "anchor_time": 1791573352489,
+    "anchor_price": 1750.0,
+    "status": "FAILED",
+    "created_time": 1791573352489,
+    "last_time": 1791629247415,
+    "last_price": 1777.0,
+    "max_gain_pct": 25.0857,
+    "levels": [],
+    "failed_time": 1791575795229,
+    "failed_price": 1690.0
   }
 ]
