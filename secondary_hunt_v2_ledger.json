@@ -943,6 +943,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "CHIPIRT": {
+      "trigger_time": 1791661662044,
+      "trigger_price": 17464.5,
+      "secondary_score": 60.0,
+      "hunt_score": 9.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

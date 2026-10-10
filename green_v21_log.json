@@ -6800,7 +6800,10 @@
       "max_up": 0.24,
       "max_down": -1.95
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.24,
+      "max_down": -3.35
+    }
   },
   {
     "symbol": "PUMPIRT",
