@@ -35469,7 +35469,10 @@
       "max_up": 12.27,
       "max_down": -0.55
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 12.27,
+      "max_down": -0.55
+    }
   },
   {
     "symbol": "VELVETIRT",
@@ -35497,7 +35500,10 @@
       "max_up": 5.51,
       "max_down": -1.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.57,
+      "max_down": -1.86
+    }
   },
   {
     "symbol": "UAIIRT",
@@ -35841,7 +35847,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.15,
+      "max_down": -0.02
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -35863,7 +35872,10 @@
       "max_up": 0.31,
       "max_down": 0.31
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.31,
+      "max_down": -2.2
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -35881,7 +35893,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -35900,7 +35915,10 @@
     "bs": 2.22,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

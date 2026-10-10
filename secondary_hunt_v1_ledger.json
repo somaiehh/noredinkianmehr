@@ -2089,6 +2089,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ZKIRT": {
+      "trigger_time": 1791608632664,
+      "trigger_price": 3799.0,
+      "secondary_score": 65.0,
+      "hunt_score": 18.3,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos"
+      ]
     }
   }
 }
