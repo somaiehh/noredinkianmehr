@@ -36800,7 +36800,10 @@
       "max_up": 0.0,
       "max_down": -1.42
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.34,
+      "max_down": -1.42
+    },
     "result_12h": null
   },
   {
@@ -37021,6 +37024,28 @@
       "max_up": 0.0,
       "max_down": -0.06
     },
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -0.25
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ERAIRT",
+    "time": 1791658581925,
+    "price": 21050.0,
+    "level": "STRONG",
+    "hunt": 56.1,
+    "persistence": 1,
+    "p15": 0.56,
+    "vr": 0.52,
+    "va": 8.31,
+    "buy": 98.0,
+    "bs": 2.94,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
