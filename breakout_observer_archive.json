@@ -15061,5 +15061,43 @@
     "confirmed_time": 1791528156132,
     "confirmed_price": 47560.0,
     "expired_time": 1791530195259
+  },
+  {
+    "symbol": "GTCIRT",
+    "anchor_time": 1791492692901,
+    "anchor_price": 54500.0,
+    "status": "EXPIRED",
+    "created_time": 1791492692901,
+    "last_time": 1791631990653,
+    "last_price": 51616.0,
+    "max_gain_pct": 8.0734,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791494513305,
+    "confirmed_price": 56701.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791495360269,
+        "price": 57640.0,
+        "gain_pct": 5.7615
+      }
+    ],
+    "expired_time": 1791536579119
+  },
+  {
+    "symbol": "MOVRIRT",
+    "anchor_time": 1791403869705,
+    "anchor_price": 507072.0,
+    "status": "EXPIRED",
+    "created_time": 1791403869705,
+    "last_time": 1791631990653,
+    "last_price": 474188.0,
+    "max_gain_pct": 3.6172,
+    "levels": [],
+    "confirmed_time": 1791411424410,
+    "confirmed_price": 523576.0,
+    "expired_time": 1791447426432
   }
 ]

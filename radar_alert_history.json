@@ -3362,5 +3362,18 @@
     "bs": 0.15,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1791632943697,
+    "symbol": "GAIAIRT",
+    "price": 680.0,
+    "hunt_score": 88.6,
+    "status": "EARLY",
+    "p15": 0.89,
+    "vr": 2.37,
+    "va": 4.68,
+    "bs": 0.07,
+    "breakout": true,
+    "persistence": 2
   }
 ]
