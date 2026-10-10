@@ -14919,5 +14919,18 @@
     "levels": [],
     "failed_time": 1791316959436,
     "failed_price": 145614.0
+  },
+  {
+    "symbol": "GALAIRT",
+    "anchor_time": 1791451032893,
+    "anchor_price": 618.0,
+    "status": "FAILED",
+    "created_time": 1791451032893,
+    "last_time": 1791614108156,
+    "last_price": 659.9,
+    "max_gain_pct": 6.7799,
+    "levels": [],
+    "failed_time": 1791473577072,
+    "failed_price": 584.3
   }
 ]
