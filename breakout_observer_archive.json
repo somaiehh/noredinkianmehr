@@ -15212,5 +15212,42 @@
     "max_gain_pct": 2.4312,
     "levels": [],
     "expired_time": 1791621640825
+  },
+  {
+    "symbol": "ICPIRT",
+    "anchor_time": 1791187671221,
+    "anchor_price": 892021.0,
+    "status": "EXPIRED",
+    "created_time": 1791187671221,
+    "last_time": 1791644306395,
+    "last_price": 833260.0,
+    "max_gain_pct": 8.0468,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791208992292,
+    "confirmed_price": 919220.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791224438616,
+        "price": 947000.0,
+        "gain_pct": 6.1634
+      }
+    ],
+    "expired_time": 1791231848127
+  },
+  {
+    "symbol": "SYNIRT",
+    "anchor_time": 1791461199110,
+    "anchor_price": 55543.0,
+    "status": "FAILED",
+    "created_time": 1791461199110,
+    "last_time": 1791644306395,
+    "last_price": 50578.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791463345587,
+    "failed_price": 52465.0
   }
 ]
