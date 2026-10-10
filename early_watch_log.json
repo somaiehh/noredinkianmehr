@@ -36027,7 +36027,10 @@
       "max_up": 3.39,
       "max_down": 1.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.96,
+      "max_down": 1.4
+    }
   },
   {
     "symbol": "OPIRT",
@@ -36055,7 +36058,10 @@
       "max_up": 0.77,
       "max_down": -6.35
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.77,
+      "max_down": -7.1
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -36577,7 +36583,10 @@
       "max_up": 0.0,
       "max_down": -4.7
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -5.94
+    },
     "result_12h": null
   },
   {
@@ -36848,7 +36857,10 @@
       "max_up": -1.82,
       "max_down": -1.99
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.58,
+      "max_down": -2.71
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -36870,7 +36882,10 @@
       "max_up": -2.33,
       "max_down": -3.36
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -2.33,
+      "max_down": -4.52
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -36888,7 +36903,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.22,
+      "max_down": -1.31
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -36907,6 +36925,28 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1791653315041,
+    "price": 14743.0,
+    "level": "STRONG",
+    "hunt": 56.2,
+    "persistence": 3,
+    "p15": 0.57,
+    "vr": 1.56,
+    "va": 0.81,
+    "buy": 39.666666666666664,
+    "bs": 1.19,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

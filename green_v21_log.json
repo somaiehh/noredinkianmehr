@@ -6675,7 +6675,10 @@
       "max_up": 0.0,
       "max_down": -4.7
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -5.94
+    }
   },
   {
     "symbol": "SUNDOGIRT",
@@ -6825,7 +6828,10 @@
     "ob": 0.96,
     "p15": 1.14,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -2.33,
+      "max_down": -4.52
+    },
     "result_4h": null
   },
   {
@@ -6844,7 +6850,10 @@
     "ob": 1.0,
     "p15": 0.16,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.66,
+      "max_down": -0.32
+    },
     "result_4h": null
   },
   {
