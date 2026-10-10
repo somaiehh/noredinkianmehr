@@ -36419,7 +36419,10 @@
       "max_up": 0.0,
       "max_down": -0.61
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.36,
+      "max_down": -1.11
+    },
     "result_12h": null
   },
   {
@@ -36556,6 +36559,25 @@
       "max_up": -0.65,
       "max_down": -0.65
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BRIRT",
+    "time": 1791641161621,
+    "price": 132987.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.96,
+    "vr": 1.17,
+    "va": 10.0,
+    "buy": 59.333333333333336,
+    "bs": 1.78,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
