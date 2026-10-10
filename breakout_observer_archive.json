@@ -15034,5 +15034,18 @@
     "levels": [],
     "failed_time": 1791575795229,
     "failed_price": 1690.0
+  },
+  {
+    "symbol": "ESIRT",
+    "anchor_time": 1791559425626,
+    "anchor_price": 364.0,
+    "status": "FAILED",
+    "created_time": 1791559425626,
+    "last_time": 1791630315611,
+    "last_price": 327.0,
+    "max_gain_pct": 2.4725,
+    "levels": [],
+    "failed_time": 1791565292989,
+    "failed_price": 348.0
   }
 ]
