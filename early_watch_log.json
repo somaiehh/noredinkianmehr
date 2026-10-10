@@ -35593,7 +35593,10 @@
       "max_up": 0.24,
       "max_down": -2.03
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.74,
+      "max_down": -2.03
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -35993,7 +35996,10 @@
     "bs": 3.59,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.02,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -36010,6 +36016,63 @@
     "va": 2.75,
     "buy": 46.33333333333333,
     "bs": 1.39,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GALAIRT",
+    "time": 1791612052414,
+    "price": 650.3,
+    "level": "STRONG",
+    "hunt": 72.5,
+    "persistence": 1,
+    "p15": 0.37,
+    "vr": 4.52,
+    "va": 2.82,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SNEKIRT",
+    "time": 1791612052414,
+    "price": 237.4,
+    "level": "STRONG",
+    "hunt": 76.8,
+    "persistence": 2,
+    "p15": 1.84,
+    "vr": 9.35,
+    "va": 1.68,
+    "buy": 47.0,
+    "bs": 1.41,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "QIRT",
+    "time": 1791612052414,
+    "price": 8162.2,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.77,
+    "vr": 5.49,
+    "va": 10.0,
+    "buy": 80.33333333333333,
+    "bs": 2.41,
     "breakout": true,
     "priority": false,
     "result_15m": null,

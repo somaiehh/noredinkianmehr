@@ -6564,5 +6564,43 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "NEARIRT",
+    "time": 1791612052414,
+    "price": 1386174.0,
+    "pre30": 0.45,
+    "pre60": 2.68,
+    "pre120": 5.17,
+    "hunt": 100.0,
+    "persistence": 7,
+    "vr": 5.16,
+    "va": 10.0,
+    "buy": 80.66666666666666,
+    "bs": 2.42,
+    "ob": 0.22,
+    "p15": 0.89,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "GALAIRT",
+    "time": 1791612271652,
+    "price": 650.3,
+    "pre30": 2.09,
+    "pre60": 3.04,
+    "pre120": -1.03,
+    "hunt": 72.5,
+    "persistence": 2,
+    "vr": 4.52,
+    "va": 2.61,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.45,
+    "p15": 0.37,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

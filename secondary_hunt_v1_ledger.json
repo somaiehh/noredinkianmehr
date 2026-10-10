@@ -2117,6 +2117,20 @@
         "premove_pos",
         "dt15_pos"
       ]
+    },
+    "SLVONIRT": {
+      "trigger_time": 1791612052414,
+      "trigger_price": 14560501.0,
+      "secondary_score": 70.0,
+      "hunt_score": 51.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

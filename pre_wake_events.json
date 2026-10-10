@@ -3919,7 +3919,7 @@
     "book": 0.21,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 6.6605,
@@ -4363,7 +4363,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 0.3023,
     "min_move": -1.7711,
     "ledger_version": "pre-wake-ledger-v1"
   },
