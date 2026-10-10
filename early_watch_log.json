@@ -35748,7 +35748,10 @@
       "max_up": 1.09,
       "max_down": -1.14
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.47,
+      "max_down": -3.41
+    }
   },
   {
     "symbol": "DOTIRT",
@@ -35996,7 +35999,10 @@
       "max_up": 2.03,
       "max_down": 1.53
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.39,
+      "max_down": 1.4
+    },
     "result_12h": null
   },
   {
@@ -36021,7 +36027,10 @@
       "max_up": 0.77,
       "max_down": -0.58
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.77,
+      "max_down": -6.35
+    },
     "result_12h": null
   },
   {

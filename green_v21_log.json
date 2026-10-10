@@ -6550,7 +6550,10 @@
       "max_up": 2.03,
       "max_down": 1.53
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.39,
+      "max_down": 1.4
+    }
   },
   {
     "symbol": "OPIRT",
@@ -6572,7 +6575,10 @@
       "max_up": 0.58,
       "max_down": -0.77
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.58,
+      "max_down": -6.53
+    }
   },
   {
     "symbol": "NEARIRT",
