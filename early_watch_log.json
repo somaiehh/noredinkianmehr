@@ -35779,7 +35779,10 @@
       "max_up": -0.88,
       "max_down": -2.19
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.88,
+      "max_down": -3.8
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -36447,7 +36450,10 @@
       "max_up": 0.04,
       "max_down": -1.4
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.76,
+      "max_down": -1.4
+    },
     "result_12h": null
   },
   {
@@ -36576,6 +36582,66 @@
     "buy": 59.333333333333336,
     "bs": 1.78,
     "breakout": true,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -1.26
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ERAIRT",
+    "time": 1791641859466,
+    "price": 22541.0,
+    "level": "WATCH",
+    "hunt": 40.2,
+    "persistence": 3,
+    "p15": 0.28,
+    "vr": 0.07,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ESIRT",
+    "time": 1791641859466,
+    "price": 335.0,
+    "level": "STRONG",
+    "hunt": 51.2,
+    "persistence": 2,
+    "p15": 0.3,
+    "vr": 0.22,
+    "va": 10.0,
+    "buy": 85.66666666666666,
+    "bs": 2.57,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1791642066329,
+    "price": 0.00010247,
+    "level": "STRONG",
+    "hunt": 70.5,
+    "persistence": 1,
+    "p15": 0.18,
+    "vr": 7.96,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
