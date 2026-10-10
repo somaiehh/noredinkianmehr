@@ -15316,5 +15316,17 @@
       }
     ],
     "expired_time": 1791604922833
+  },
+  {
+    "symbol": "APTIRT",
+    "anchor_time": 1791579737834,
+    "anchor_price": 218501.0,
+    "status": "EXPIRED",
+    "created_time": 1791579737834,
+    "last_time": 1791654725948,
+    "last_price": 225600.0,
+    "max_gain_pct": 3.8059,
+    "levels": [],
+    "expired_time": 1791628463571
   }
 ]
