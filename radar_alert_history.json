@@ -3232,5 +3232,18 @@
     "bs": 0.36,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1791604927063,
+    "symbol": "IMXIRT",
+    "price": 55284.0,
+    "hunt_score": 80.2,
+    "status": "EARLY",
+    "p15": 0.55,
+    "vr": 19.55,
+    "va": 2.0,
+    "bs": 0.05,
+    "breakout": true,
+    "persistence": 3
   }
 ]

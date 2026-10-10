@@ -832,6 +832,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "IMXIRT": {
+      "trigger_time": 1791604922833,
+      "trigger_price": 55284.0,
+      "secondary_score": 65.0,
+      "hunt_score": 80.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
