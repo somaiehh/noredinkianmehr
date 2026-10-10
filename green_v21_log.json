@@ -6900,7 +6900,10 @@
       "max_up": 0.29,
       "max_down": -1.86
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.29,
+      "max_down": -3.36
+    }
   },
   {
     "symbol": "LABIRT",
@@ -6922,7 +6925,10 @@
       "max_up": 0.24,
       "max_down": -0.39
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.0,
+      "max_down": -0.89
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
