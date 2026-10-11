@@ -2462,6 +2462,75 @@
         "bs2",
         "da1_pos"
       ]
+    },
+    "ALGOIRT": {
+      "trigger_time": 1791729171721,
+      "trigger_price": 31887.0,
+      "secondary_score": 60.0,
+      "hunt_score": 43.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "INJIRT": {
+      "trigger_time": 1791729355451,
+      "trigger_price": 2038336.0,
+      "secondary_score": 80.0,
+      "hunt_score": 42.6,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "NEOIRT": {
+      "trigger_time": 1791729355451,
+      "trigger_price": 699817.0,
+      "secondary_score": 90.0,
+      "hunt_score": 74.3,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos"
+      ]
+    },
+    "IOIRT": {
+      "trigger_time": 1791729355451,
+      "trigger_price": 43072.0,
+      "secondary_score": 60.0,
+      "hunt_score": 27.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "MEGAIRT": {
+      "trigger_time": 1791729355451,
+      "trigger_price": 11725.0,
+      "secondary_score": 60.0,
+      "hunt_score": 17.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

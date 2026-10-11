@@ -15885,5 +15885,17 @@
     "levels": [],
     "failed_time": 1791650076105,
     "failed_price": 382.8
+  },
+  {
+    "symbol": "FILIRT",
+    "anchor_time": 1791529341572,
+    "anchor_price": 291171.0,
+    "status": "EXPIRED",
+    "created_time": 1791529341572,
+    "last_time": 1791729171721,
+    "last_price": 290178.0,
+    "max_gain_pct": 10.2867,
+    "levels": [],
+    "expired_time": 1791572659122
   }
 ]
