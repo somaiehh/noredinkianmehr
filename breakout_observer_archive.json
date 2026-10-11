@@ -16070,5 +16070,32 @@
       }
     ],
     "expired_time": 1791653315041
+  },
+  {
+    "symbol": "ONDOIRT",
+    "anchor_time": 1791484672234,
+    "anchor_price": 126621.0,
+    "status": "EXPIRED",
+    "created_time": 1791484672234,
+    "last_time": 1791733051925,
+    "last_price": 130351.0,
+    "max_gain_pct": 5.9311,
+    "levels": [],
+    "confirmed_time": 1791488214018,
+    "confirmed_price": 130860.0,
+    "expired_time": 1791528156132
+  },
+  {
+    "symbol": "SEIIRT",
+    "anchor_time": 1791126377119,
+    "anchor_price": 20081.0,
+    "status": "FAILED",
+    "created_time": 1791126377119,
+    "last_time": 1791733721308,
+    "last_price": 18418.0,
+    "max_gain_pct": 1.0159,
+    "levels": [],
+    "failed_time": 1791145812973,
+    "failed_price": 19440.0
   }
 ]

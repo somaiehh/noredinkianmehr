@@ -3648,5 +3648,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791733948134,
+    "symbol": "LABIRT",
+    "price": 13996.0,
+    "hunt_score": 96.6,
+    "status": "EARLY",
+    "p15": 1.12,
+    "vr": 0.72,
+    "va": 10.0,
+    "bs": 2.8,
+    "breakout": true,
+    "persistence": 2
   }
 ]
