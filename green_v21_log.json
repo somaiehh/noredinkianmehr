@@ -7000,7 +7000,10 @@
       "max_up": 1.1,
       "max_down": -0.23
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.1,
+      "max_down": -2.65
+    }
   },
   {
     "symbol": "ONEIRT",
@@ -7022,7 +7025,10 @@
       "max_up": 1.1,
       "max_down": -0.23
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.1,
+      "max_down": -2.65
+    }
   },
   {
     "symbol": "FLOKIIRT",
