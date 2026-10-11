@@ -16288,5 +16288,18 @@
     "levels": [],
     "failed_time": 1791472652573,
     "failed_price": 1.7633
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1791708594526,
+    "anchor_price": 1.06302,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1791708594526,
+    "last_time": 1791751644178,
+    "last_price": 1.10373,
+    "max_gain_pct": 4.9651,
+    "levels": [],
+    "confirmed_time": 1791735478708,
+    "confirmed_price": 1.09745
   }
 ]
