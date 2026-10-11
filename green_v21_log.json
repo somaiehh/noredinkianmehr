@@ -7221,7 +7221,10 @@
     "ob": 1.0,
     "p15": 1.09,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 10.67,
+      "max_down": 1.89
+    },
     "result_4h": null
   },
   {
@@ -7277,6 +7280,44 @@
     "bs": 5.0,
     "ob": 0.43,
     "p15": 0.97,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "PEPEIRT",
+    "time": 1791735478708,
+    "price": 1.09745,
+    "pre30": 1.1,
+    "pre60": 2.88,
+    "pre120": 3.77,
+    "hunt": 84.5,
+    "persistence": 2,
+    "vr": 10.68,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
+    "ob": 0.19,
+    "p15": 0.68,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "WLDIRT",
+    "time": 1791735669214,
+    "price": 153555.0,
+    "pre30": 1.35,
+    "pre60": 3.47,
+    "pre120": 4.95,
+    "hunt": 87.7,
+    "persistence": 2,
+    "vr": 6.13,
+    "va": 3.86,
+    "buy": 100,
+    "bs": 3.0,
+    "ob": 0.35,
+    "p15": 0.83,
     "breakout": true,
     "result_1h": null,
     "result_4h": null

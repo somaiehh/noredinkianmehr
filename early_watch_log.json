@@ -37444,7 +37444,10 @@
       "max_up": 1.1,
       "max_down": -2.65
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.1,
+      "max_down": -3.37
+    }
   },
   {
     "symbol": "TIAIRT",
@@ -37795,7 +37798,10 @@
       "max_up": 6.41,
       "max_down": -0.45
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 6.41,
+      "max_down": -13.65
+    },
     "result_12h": null
   },
   {
@@ -38016,7 +38022,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -38038,7 +38047,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.23,
+      "max_down": -0.31
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -38060,7 +38072,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -38082,7 +38097,10 @@
       "max_up": -2.5,
       "max_down": -2.5
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.16,
+      "max_down": -2.5
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -38104,7 +38122,10 @@
       "max_up": 1.89,
       "max_down": 1.89
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 10.67,
+      "max_down": 1.89
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -38188,7 +38209,10 @@
     "bs": 2.8,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 1.42,
+      "max_down": 0.6
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -38207,7 +38231,10 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -38226,7 +38253,10 @@
     "bs": 3.69,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.09,
+      "max_down": 0.09
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

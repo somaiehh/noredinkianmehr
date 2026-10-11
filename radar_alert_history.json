@@ -3687,5 +3687,31 @@
     "bs": 1.57,
     "breakout": true,
     "persistence": 4
+  },
+  {
+    "time": 1791735483110,
+    "symbol": "PEPEIRT",
+    "price": 1.09745,
+    "hunt_score": 84.5,
+    "status": "EARLY",
+    "p15": 0.68,
+    "vr": 10.68,
+    "va": 10.0,
+    "bs": 3.0,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1791735673293,
+    "symbol": "LABIRT",
+    "price": 14655.0,
+    "hunt_score": 96.7,
+    "status": "EARLY",
+    "p15": 1.18,
+    "vr": 5.42,
+    "va": 5.75,
+    "bs": 0.16,
+    "breakout": true,
+    "persistence": 6
   }
 ]
