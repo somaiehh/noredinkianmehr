@@ -15647,5 +15647,56 @@
     "max_gain_pct": 0.2973,
     "levels": [],
     "expired_time": 1791654469647
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1791664123455,
+    "anchor_price": 1416704.0,
+    "status": "FAILED",
+    "created_time": 1791664123455,
+    "last_time": 1791708914371,
+    "last_price": 1395489.0,
+    "max_gain_pct": 0.8186,
+    "levels": [],
+    "failed_time": 1791689685771,
+    "failed_price": 1373000.0
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1791644089291,
+    "anchor_price": 16670.0,
+    "status": "FAILED",
+    "created_time": 1791644089291,
+    "last_time": 1791708914371,
+    "last_price": 15952.0,
+    "max_gain_pct": 0.9238,
+    "levels": [],
+    "failed_time": 1791689685771,
+    "failed_price": 16111.0
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1791665303525,
+    "anchor_price": 10356.0,
+    "status": "EXPIRED",
+    "created_time": 1791665303525,
+    "last_time": 1791708914371,
+    "last_price": 10232.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "expired_time": 1791708594526
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1791641859466,
+    "anchor_price": 10660.0,
+    "status": "FAILED",
+    "created_time": 1791641859466,
+    "last_time": 1791708914371,
+    "last_price": 11200.0,
+    "max_gain_pct": 7.8799,
+    "levels": [],
+    "failed_time": 1791645503454,
+    "failed_price": 10328.0
   }
 ]

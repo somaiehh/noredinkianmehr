@@ -2342,6 +2342,34 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "MANTAIRT": {
+      "trigger_time": 1791709444090,
+      "trigger_price": 20290.0,
+      "secondary_score": 60.0,
+      "hunt_score": 33.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "CKBIRT": {
+      "trigger_time": 1791709797707,
+      "trigger_price": 387.3,
+      "secondary_score": 85.0,
+      "hunt_score": 64.6,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "premove_pos",
+        "da1_pos"
+      ]
     }
   }
 }

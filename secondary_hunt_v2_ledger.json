@@ -1026,6 +1026,47 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "MANTAIRT": {
+      "trigger_time": 1791709444090,
+      "trigger_price": 20290.0,
+      "secondary_score": 60.0,
+      "hunt_score": 33.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "MUBARAKIRT": {
+      "trigger_time": 1791709444090,
+      "trigger_price": 20700.0,
+      "secondary_score": 70.0,
+      "hunt_score": 18.1,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "CAPIRT": {
+      "trigger_time": 1791709797707,
+      "trigger_price": 24539.1,
+      "secondary_score": 70.0,
+      "hunt_score": 6.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
