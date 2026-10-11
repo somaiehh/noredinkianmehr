@@ -36982,7 +36982,10 @@
       "max_up": -0.58,
       "max_down": -4.2
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.58,
+      "max_down": -4.2
+    }
   },
   {
     "symbol": "ZKIRT",
@@ -37010,7 +37013,10 @@
       "max_up": 2.46,
       "max_down": -5.57
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.4,
+      "max_down": -5.57
+    }
   },
   {
     "symbol": "SIRT",
