@@ -37261,7 +37261,10 @@
       "max_up": 1.53,
       "max_down": -2.29
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.45,
+      "max_down": -3.89
+    }
   },
   {
     "symbol": "BRIRT",
@@ -37289,7 +37292,10 @@
       "max_up": 4.5,
       "max_down": -0.81
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.5,
+      "max_down": -6.09
+    }
   },
   {
     "symbol": "NEARIRT",
