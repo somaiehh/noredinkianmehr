@@ -4742,7 +4742,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -4.6788,
+    "min_move": -4.7486,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -4804,7 +4804,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.0582,
+    "max_move": 1.3757,
     "min_move": -0.3175,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -4848,6 +4848,27 @@
     "result_move": -5.8078,
     "max_move": 0.0,
     "min_move": -5.8078,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "BBIRT",
+    "event_time": 1791704422584,
+    "event_price": 2754.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 66.5,
+    "p15": -1.01,
+    "vr": null,
+    "va": 7.16,
+    "ta": null,
+    "bs": 3.48,
+    "book": 0.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]

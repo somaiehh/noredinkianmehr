@@ -999,6 +999,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BABYDOGEIRT": {
+      "trigger_time": 1791704152188,
+      "trigger_price": 0.0001015,
+      "secondary_score": 60.0,
+      "hunt_score": 18.6,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
