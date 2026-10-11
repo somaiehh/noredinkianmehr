@@ -7050,7 +7050,10 @@
       "max_up": -0.31,
       "max_down": -0.65
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.21,
+      "max_down": -0.76
+    }
   },
   {
     "symbol": "ERAIRT",
@@ -7072,7 +7075,10 @@
       "max_up": 6.39,
       "max_down": -1.92
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 6.82,
+      "max_down": -2.09
+    }
   },
   {
     "symbol": "ERAIRT",
@@ -7109,6 +7115,44 @@
     "ob": 0.16,
     "p15": 1.21,
     "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ERAIRT",
+    "time": 1791710303946,
+    "price": 22200.0,
+    "pre30": 0.43,
+    "pre60": -0.18,
+    "pre120": -2.43,
+    "hunt": 74.4,
+    "persistence": 5,
+    "vr": 2.41,
+    "va": 3.82,
+    "buy": 27.999999999999996,
+    "bs": 0.84,
+    "ob": 1.0,
+    "p15": 0.75,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ERAIRT",
+    "time": 1791710592549,
+    "price": 22200.0,
+    "pre30": 0.81,
+    "pre60": -0.32,
+    "pre120": -0.2,
+    "hunt": 74.4,
+    "persistence": 6,
+    "vr": 2.41,
+    "va": 3.82,
+    "buy": 41.333333333333336,
+    "bs": 1.24,
+    "ob": 1.0,
+    "p15": 0.75,
+    "breakout": false,
     "result_1h": null,
     "result_4h": null
   }
