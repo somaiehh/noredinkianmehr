@@ -7167,5 +7167,24 @@
       "max_down": 0.12
     },
     "result_4h": null
+  },
+  {
+    "symbol": "DOGSIRT",
+    "time": 1791716662117,
+    "price": 11.64,
+    "pre30": 0.26,
+    "pre60": -0.43,
+    "pre120": -0.17,
+    "hunt": 65.3,
+    "persistence": 2,
+    "vr": 1.53,
+    "va": 3.26,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.38,
+    "p15": 0.43,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
