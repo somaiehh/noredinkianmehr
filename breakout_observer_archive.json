@@ -16314,5 +16314,29 @@
     "levels": [],
     "failed_time": 1791624691540,
     "failed_price": 15.3
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1791709444090,
+    "anchor_price": 1395844.0,
+    "status": "EXPIRED",
+    "created_time": 1791709444090,
+    "last_time": 1791758344340,
+    "last_price": 1522200.0,
+    "max_gain_pct": 9.9646,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791733051925,
+    "confirmed_price": 1440523.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791733943658,
+        "price": 1487805.0,
+        "gain_pct": 6.5882
+      }
+    ],
+    "expired_time": 1791752725144
   }
 ]

@@ -7400,7 +7400,10 @@
       "max_up": 4.13,
       "max_down": 1.05
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 5.47,
+      "max_down": -0.18
+    }
   },
   {
     "symbol": "LUMIAIRT",
@@ -7462,7 +7465,10 @@
     "ob": 0.79,
     "p15": 0.89,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.06,
+      "max_down": 0.06
+    },
     "result_4h": null
   }
 ]
