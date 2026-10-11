@@ -2531,6 +2531,74 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ROSEIRT": {
+      "trigger_time": 1791729993160,
+      "trigger_price": 2331.0,
+      "secondary_score": 60.0,
+      "hunt_score": 32.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "RSRIRT": {
+      "trigger_time": 1791730194525,
+      "trigger_price": 426.4,
+      "secondary_score": 70.0,
+      "hunt_score": 23.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "IOTAIRT": {
+      "trigger_time": 1791730194525,
+      "trigger_price": 13814.0,
+      "secondary_score": 70.0,
+      "hunt_score": 35.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "QTUMIRT": {
+      "trigger_time": 1791730194525,
+      "trigger_price": 267855.0,
+      "secondary_score": 60.0,
+      "hunt_score": 44.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "XTZIRT": {
+      "trigger_time": 1791730194525,
+      "trigger_price": 79920.0,
+      "secondary_score": 70.0,
+      "hunt_score": 20.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
