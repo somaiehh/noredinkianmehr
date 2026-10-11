@@ -15952,5 +15952,17 @@
       }
     ],
     "expired_time": 1791729993160
+  },
+  {
+    "symbol": "LTCIRT",
+    "anchor_time": 1791497953923,
+    "anchor_price": 16894543.0,
+    "status": "EXPIRED",
+    "created_time": 1791497953923,
+    "last_time": 1791731170436,
+    "last_price": 16823735.0,
+    "max_gain_pct": 1.832,
+    "levels": [],
+    "expired_time": 1791541261689
   }
 ]
