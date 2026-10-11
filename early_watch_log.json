@@ -36734,7 +36734,10 @@
       "max_up": -0.87,
       "max_down": -7.19
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.87,
+      "max_down": -10.23
+    }
   },
   {
     "symbol": "ESIRT",
@@ -36762,7 +36765,10 @@
       "max_up": -0.3,
       "max_down": -7.16
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.3,
+      "max_down": -9.85
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
