@@ -3531,5 +3531,18 @@
     "bs": 0.27,
     "breakout": false,
     "persistence": 3
+  },
+  {
+    "time": 1791696001965,
+    "symbol": "ERAIRT",
+    "price": 22397.0,
+    "hunt_score": 82.0,
+    "status": "EARLY",
+    "p15": 1.38,
+    "vr": 2.1,
+    "va": 2.36,
+    "bs": 1.63,
+    "breakout": false,
+    "persistence": 2
   }
 ]

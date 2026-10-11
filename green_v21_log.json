@@ -7018,6 +7018,47 @@
     "ob": 1.0,
     "p15": 0.29,
     "breakout": false,
+    "result_1h": {
+      "max_up": 1.1,
+      "max_down": -0.23
+    },
+    "result_4h": null
+  },
+  {
+    "symbol": "FLOKIIRT",
+    "time": 1791695999358,
+    "price": 7.21206,
+    "pre30": 0.65,
+    "pre60": 1.36,
+    "pre120": -0.11,
+    "hunt": 71.3,
+    "persistence": 2,
+    "vr": 2.07,
+    "va": 10.0,
+    "buy": 93.0,
+    "bs": 2.79,
+    "ob": 0.39,
+    "p15": 0.12,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ERAIRT",
+    "time": 1791695999358,
+    "price": 22397.0,
+    "pre30": 5.12,
+    "pre60": 12.94,
+    "pre120": 8.34,
+    "hunt": 82.0,
+    "persistence": 2,
+    "vr": 2.1,
+    "va": 2.36,
+    "buy": 54.333333333333336,
+    "bs": 1.63,
+    "ob": 1.0,
+    "p15": 1.38,
+    "breakout": false,
     "result_1h": null,
     "result_4h": null
   }
