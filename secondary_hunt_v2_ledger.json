@@ -1194,6 +1194,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "DENTIRT": {
+      "trigger_time": 1791737351201,
+      "trigger_price": 15.5,
+      "secondary_score": 65.0,
+      "hunt_score": 39.6,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
