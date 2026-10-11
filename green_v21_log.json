@@ -7325,7 +7325,10 @@
       "max_up": 0.51,
       "max_down": -0.47
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.67,
+      "max_down": -0.7
+    }
   },
   {
     "symbol": "WLDIRT",
@@ -7347,7 +7350,10 @@
       "max_up": 0.43,
       "max_down": -1.53
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.43,
+      "max_down": -4.18
+    }
   },
   {
     "symbol": "RENDERIRT",

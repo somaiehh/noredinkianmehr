@@ -16275,5 +16275,18 @@
     "levels": [],
     "failed_time": 1791690637722,
     "failed_price": 811623.0
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "anchor_time": 1791445632869,
+    "anchor_price": 1.8218,
+    "status": "FAILED",
+    "created_time": 1791445632869,
+    "last_time": 1791748924046,
+    "last_price": 1.7237,
+    "max_gain_pct": 0.5379,
+    "levels": [],
+    "failed_time": 1791472652573,
+    "failed_price": 1.7633
   }
 ]
