@@ -2449,6 +2449,19 @@
         "p15_wake",
         "va3"
       ]
+    },
+    "GRTIRT": {
+      "trigger_time": 1791726686709,
+      "trigger_price": 7225.0,
+      "secondary_score": 65.0,
+      "hunt_score": 20.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "da1_pos"
+      ]
     }
   }
 }
