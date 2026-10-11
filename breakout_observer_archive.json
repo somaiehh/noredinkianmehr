@@ -15569,5 +15569,32 @@
     "levels": [],
     "failed_time": 1791636333664,
     "failed_price": 1713.0
+  },
+  {
+    "symbol": "CFXIRT",
+    "anchor_time": 1791644089291,
+    "anchor_price": 16483.8,
+    "status": "EXPIRED",
+    "created_time": 1791644089291,
+    "last_time": 1791700066930,
+    "last_price": 16341.3,
+    "max_gain_pct": 3.7449,
+    "levels": [],
+    "confirmed_time": 1791645503454,
+    "confirmed_price": 17101.1,
+    "expired_time": 1791687733503
+  },
+  {
+    "symbol": "BBIRT",
+    "anchor_time": 1791388335608,
+    "anchor_price": 2421.0,
+    "status": "FAILED",
+    "created_time": 1791388335608,
+    "last_time": 1791701679112,
+    "last_price": 2630.0,
+    "max_gain_pct": 8.6328,
+    "levels": [],
+    "failed_time": 1791409087315,
+    "failed_price": 2330.0
   }
 ]
