@@ -2397,6 +2397,19 @@
         "va3",
         "da1_pos"
       ]
+    },
+    "BRETTIRT": {
+      "trigger_time": 1791712161804,
+      "trigger_price": 1524.0,
+      "secondary_score": 60.0,
+      "hunt_score": 14.4,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
