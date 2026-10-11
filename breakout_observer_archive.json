@@ -16135,5 +16135,17 @@
     "levels": [],
     "failed_time": 1791575461242,
     "failed_price": 321200000.0
+  },
+  {
+    "symbol": "XLMIRT",
+    "anchor_time": 1791492692901,
+    "anchor_price": 51790.6,
+    "status": "EXPIRED",
+    "created_time": 1791492692901,
+    "last_time": 1791738493990,
+    "last_price": 54128.2,
+    "max_gain_pct": 4.5136,
+    "levels": [],
+    "expired_time": 1791540614683
   }
 ]
