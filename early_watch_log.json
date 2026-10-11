@@ -37891,7 +37891,10 @@
       "max_up": 1.32,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.94,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -38312,7 +38315,10 @@
       "max_up": 0.91,
       "max_down": 0.91
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.07,
+      "max_down": -1.37
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -38334,7 +38340,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -0.56
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -38356,7 +38365,10 @@
       "max_up": 0.25,
       "max_down": 0.25
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.25,
+      "max_down": -0.76
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -38378,6 +38390,25 @@
       "max_up": 0.16,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LUMIAIRT",
+    "time": 1791743778245,
+    "price": 33270.0,
+    "level": "WATCH",
+    "hunt": 44.1,
+    "persistence": 2,
+    "p15": 0.82,
+    "vr": 0.01,
+    "va": 4.63,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
