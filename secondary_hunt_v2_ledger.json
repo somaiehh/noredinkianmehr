@@ -971,6 +971,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "HIPPOIRT": {
+      "trigger_time": 1791694958574,
+      "trigger_price": 39.2,
+      "secondary_score": 70.0,
+      "hunt_score": 16.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
