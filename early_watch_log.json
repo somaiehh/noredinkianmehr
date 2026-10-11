@@ -37714,7 +37714,10 @@
       "max_up": 10.44,
       "max_down": 2.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.44,
+      "max_down": -2.61
+    }
   },
   {
     "symbol": "SIRT",
@@ -38410,7 +38413,10 @@
       "max_up": 0.0,
       "max_down": -0.56
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -0.84
+    },
     "result_12h": null
   },
   {
@@ -38435,7 +38441,10 @@
       "max_up": 0.25,
       "max_down": -0.76
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.25,
+      "max_down": -4.03
+    },
     "result_12h": null
   },
   {
@@ -38631,7 +38640,10 @@
       "max_up": -0.19,
       "max_down": -0.19
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.91,
+      "max_down": -0.19
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -38653,6 +38665,25 @@
       "max_up": 0.03,
       "max_down": 0.03
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LSKIRT",
+    "time": 1791754649302,
+    "price": 59989.0,
+    "level": "STRONG",
+    "hunt": 72.1,
+    "persistence": 1,
+    "p15": 0.76,
+    "vr": 12.2,
+    "va": 8.65,
+    "buy": 59.66666666666667,
+    "bs": 1.79,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
