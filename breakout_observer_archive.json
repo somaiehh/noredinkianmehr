@@ -15872,5 +15872,18 @@
     "levels": [],
     "failed_time": 1791608632664,
     "failed_price": 634.0
+  },
+  {
+    "symbol": "CKBIRT",
+    "anchor_time": 1791649018196,
+    "anchor_price": 396.5,
+    "status": "FAILED",
+    "created_time": 1791649018196,
+    "last_time": 1791724755551,
+    "last_price": 400.0,
+    "max_gain_pct": 2.3455,
+    "levels": [],
+    "failed_time": 1791650076105,
+    "failed_price": 382.8
   }
 ]
