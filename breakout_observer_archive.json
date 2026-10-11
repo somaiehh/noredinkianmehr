@@ -15622,5 +15622,18 @@
     "levels": [],
     "failed_time": 1791675945019,
     "failed_price": 1453.1
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1791639032463,
+    "anchor_price": 107.0,
+    "status": "FAILED",
+    "created_time": 1791639032463,
+    "last_time": 1791706061900,
+    "last_price": 95.7,
+    "max_gain_pct": 0.9346,
+    "levels": [],
+    "failed_time": 1791641368177,
+    "failed_price": 103.2
   }
 ]

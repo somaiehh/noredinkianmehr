@@ -37546,6 +37546,28 @@
       "max_up": -1.39,
       "max_down": -1.39
     },
+    "result_1h": {
+      "max_up": 0.32,
+      "max_down": -1.89
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LUMIAIRT",
+    "time": 1791707007279,
+    "price": 43708.0,
+    "level": "WATCH",
+    "hunt": 49.6,
+    "persistence": 2,
+    "p15": 0.11,
+    "vr": 1.44,
+    "va": 2.46,
+    "buy": 34.333333333333336,
+    "bs": 1.03,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
