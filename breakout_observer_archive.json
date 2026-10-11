@@ -15784,5 +15784,42 @@
     "max_gain_pct": 0.0869,
     "levels": [],
     "expired_time": 1791704152188
+  },
+  {
+    "symbol": "LIGHTIRT",
+    "anchor_time": 1791654725948,
+    "anchor_price": 56237.0,
+    "status": "FAILED",
+    "created_time": 1791654725948,
+    "last_time": 1791713900921,
+    "last_price": 56000.0,
+    "max_gain_pct": 0.0018,
+    "levels": [],
+    "failed_time": 1791660747074,
+    "failed_price": 54534.0
+  },
+  {
+    "symbol": "CHIPIRT",
+    "anchor_time": 1791659178861,
+    "anchor_price": 16967.7,
+    "status": "EXPIRED",
+    "created_time": 1791659178861,
+    "last_time": 1791713900921,
+    "last_price": 17772.0,
+    "max_gain_pct": 8.9629,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791662484083,
+    "confirmed_price": 17743.4,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791675945019,
+        "price": 18000.6,
+        "gain_pct": 6.0874
+      }
+    ],
+    "expired_time": 1791703188748
   }
 ]
