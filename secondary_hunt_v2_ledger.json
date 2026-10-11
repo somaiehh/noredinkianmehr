@@ -1250,6 +1250,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "CKBIRT": {
+      "trigger_time": 1791750927491,
+      "trigger_price": 481.5,
+      "secondary_score": 75.0,
+      "hunt_score": 41.4,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
