@@ -16236,5 +16236,31 @@
     "confirmed_time": 1791536579119,
     "confirmed_price": 4864.0,
     "expired_time": 1791598467435
+  },
+  {
+    "symbol": "GRASSIRT",
+    "anchor_time": 1791231848127,
+    "anchor_price": 204000.0,
+    "status": "FAILED",
+    "created_time": 1791231848127,
+    "last_time": 1791746481449,
+    "last_price": 202000.0,
+    "max_gain_pct": 0.4902,
+    "levels": [],
+    "failed_time": 1791244554944,
+    "failed_price": 195146.0
+  },
+  {
+    "symbol": "RVNIRT",
+    "anchor_time": 1791211284309,
+    "anchor_price": 750.0,
+    "status": "FAILED",
+    "created_time": 1791211284309,
+    "last_time": 1791747112409,
+    "last_price": 512.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791211859491,
+    "failed_price": 715.1
   }
 ]

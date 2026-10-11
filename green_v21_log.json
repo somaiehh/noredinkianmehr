@@ -7250,7 +7250,10 @@
       "max_up": 0.85,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.07,
+      "max_down": -0.18
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -7382,6 +7385,25 @@
       "max_up": 4.13,
       "max_down": 1.05
     },
+    "result_4h": null
+  },
+  {
+    "symbol": "LUMIAIRT",
+    "time": 1791747311768,
+    "price": 33971.0,
+    "pre30": 2.73,
+    "pre60": 2.41,
+    "pre120": 0.46,
+    "hunt": 61.8,
+    "persistence": 2,
+    "vr": 1.32,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.52,
+    "p15": 0.47,
+    "breakout": false,
+    "result_1h": null,
     "result_4h": null
   }
 ]
