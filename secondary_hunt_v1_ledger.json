@@ -2423,6 +2423,20 @@
         "book1",
         "dt15_pos"
       ]
+    },
+    "RVNIRT": {
+      "trigger_time": 1791714943242,
+      "trigger_price": 529.9,
+      "secondary_score": 75.0,
+      "hunt_score": 61.9,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
