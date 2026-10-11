@@ -16097,5 +16097,43 @@
     "levels": [],
     "failed_time": 1791145812973,
     "failed_price": 19440.0
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1791611241288,
+    "anchor_price": 296002.0,
+    "status": "EXPIRED",
+    "created_time": 1791611241288,
+    "last_time": 1791733943658,
+    "last_price": 296746.0,
+    "max_gain_pct": 1.6885,
+    "levels": [],
+    "expired_time": 1791654469647
+  },
+  {
+    "symbol": "JUPIRT",
+    "anchor_time": 1790545197054,
+    "anchor_price": 85000.0,
+    "status": "FAILED",
+    "created_time": 1790545197054,
+    "last_time": 1791733943658,
+    "last_price": 101089.0,
+    "max_gain_pct": 21.4482,
+    "levels": [],
+    "failed_time": 1790577215368,
+    "failed_price": 82217.0
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1791546549541,
+    "anchor_price": 332207508.0,
+    "status": "FAILED",
+    "created_time": 1791546549541,
+    "last_time": 1791734381780,
+    "last_price": 328430498.0,
+    "max_gain_pct": 0.2639,
+    "levels": [],
+    "failed_time": 1791575461242,
+    "failed_price": 321200000.0
   }
 ]
