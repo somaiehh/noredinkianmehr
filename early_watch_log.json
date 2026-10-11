@@ -38261,7 +38261,10 @@
       "max_up": 1.1,
       "max_down": -0.04
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.79,
+      "max_down": -0.04
+    },
     "result_12h": null
   },
   {
@@ -38457,7 +38460,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.5,
+      "max_down": -0.61
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -38479,6 +38485,47 @@
       "max_up": 1.68,
       "max_down": 1.68
     },
+    "result_1h": {
+      "max_up": 10.61,
+      "max_down": 0.4
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1791748124299,
+    "price": 1.4449,
+    "level": "WATCH",
+    "hunt": 47.3,
+    "persistence": 1,
+    "p15": 0.16,
+    "vr": 0.26,
+    "va": 4.81,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1791748337669,
+    "price": 11200.0,
+    "level": "STRONG",
+    "hunt": 100.0,
+    "persistence": 6,
+    "p15": 1.98,
+    "vr": 1.6,
+    "va": 10.0,
+    "buy": 54.99999999999999,
+    "bs": 1.65,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

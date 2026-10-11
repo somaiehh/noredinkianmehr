@@ -16262,5 +16262,18 @@
     "levels": [],
     "failed_time": 1791211859491,
     "failed_price": 715.1
+  },
+  {
+    "symbol": "ICPIRT",
+    "anchor_time": 1791645503454,
+    "anchor_price": 837186.0,
+    "status": "FAILED",
+    "created_time": 1791645503454,
+    "last_time": 1791747311768,
+    "last_price": 868151.0,
+    "max_gain_pct": 3.8887,
+    "levels": [],
+    "failed_time": 1791690637722,
+    "failed_price": 811623.0
   }
 ]
