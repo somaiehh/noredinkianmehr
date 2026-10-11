@@ -3713,5 +3713,18 @@
     "bs": 0.16,
     "breakout": true,
     "persistence": 6
+  },
+  {
+    "time": 1791740148087,
+    "symbol": "SUNDOGIRT",
+    "price": 397.0,
+    "hunt_score": 80.0,
+    "status": "EARLY",
+    "p15": 1.28,
+    "vr": 0.01,
+    "va": 8.26,
+    "bs": 3.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]

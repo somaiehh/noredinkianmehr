@@ -2697,6 +2697,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "RENDERIRT": {
+      "trigger_time": 1791739942707,
+      "trigger_price": 527530.0,
+      "secondary_score": 80.0,
+      "hunt_score": 59.7,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

@@ -16147,5 +16147,18 @@
     "max_gain_pct": 4.5136,
     "levels": [],
     "expired_time": 1791540614683
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "anchor_time": 1791104827118,
+    "anchor_price": 47.0,
+    "status": "FAILED",
+    "created_time": 1791104827118,
+    "last_time": 1791739249863,
+    "last_price": 44.3,
+    "max_gain_pct": 0.2128,
+    "levels": [],
+    "failed_time": 1791142563551,
+    "failed_price": 45.5
   }
 ]
