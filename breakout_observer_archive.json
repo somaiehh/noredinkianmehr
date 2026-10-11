@@ -16160,5 +16160,36 @@
     "levels": [],
     "failed_time": 1791142563551,
     "failed_price": 45.5
+  },
+  {
+    "symbol": "ESIRT",
+    "anchor_time": 1791696936829,
+    "anchor_price": 318.0,
+    "status": "EXPIRED",
+    "created_time": 1791696936829,
+    "last_time": 1791741046707,
+    "last_price": 320.0,
+    "max_gain_pct": 10.6918,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791697160068,
+    "confirmed_price": 330.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791715798388,
+        "price": 335.0,
+        "gain_pct": 5.3459
+      },
+      {
+        "level": 10,
+        "time": 1791722013951,
+        "price": 352.0,
+        "gain_pct": 10.6918
+      }
+    ],
+    "expired_time": 1791740143911
   }
 ]
