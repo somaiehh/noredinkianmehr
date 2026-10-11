@@ -15529,5 +15529,32 @@
     "levels": [],
     "failed_time": 1791639032463,
     "failed_price": 22751.0
+  },
+  {
+    "symbol": "ESIRT",
+    "anchor_time": 1791631129845,
+    "anchor_price": 330.0,
+    "status": "FAILED",
+    "created_time": 1791631129845,
+    "last_time": 1791695999358,
+    "last_price": 315.0,
+    "max_gain_pct": 1.5152,
+    "levels": [],
+    "failed_time": 1791632939509,
+    "failed_price": 315.0
+  },
+  {
+    "symbol": "KAIAIRT",
+    "anchor_time": 1791611241288,
+    "anchor_price": 15500.0,
+    "status": "EXPIRED",
+    "created_time": 1791611241288,
+    "last_time": 1791696936829,
+    "last_price": 14185.0,
+    "max_gain_pct": 3.5097,
+    "levels": [],
+    "confirmed_time": 1791614820516,
+    "confirmed_price": 16044.0,
+    "expired_time": 1791654469647
   }
 ]
