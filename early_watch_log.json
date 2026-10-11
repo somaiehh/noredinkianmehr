@@ -37475,7 +37475,10 @@
       "max_up": 0.12,
       "max_down": -2.95
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.12,
+      "max_down": -7.04
+    }
   },
   {
     "symbol": "FLOKIIRT",
@@ -37826,7 +37829,10 @@
       "max_up": 0.63,
       "max_down": -0.73
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 26.19,
+      "max_down": -0.73
+    },
     "result_12h": null
   },
   {
@@ -37851,7 +37857,10 @@
       "max_up": 2.93,
       "max_down": 0.82
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.41,
+      "max_down": -1.66
+    },
     "result_12h": null
   },
   {
@@ -38247,7 +38256,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.86,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -38269,7 +38281,10 @@
       "max_up": 0.09,
       "max_down": 0.09
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.09,
+      "max_down": -0.38
+    },
     "result_4h": null,
     "result_12h": null
   }
