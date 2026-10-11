@@ -16222,5 +16222,19 @@
       }
     ],
     "expired_time": 1791734602144
+  },
+  {
+    "symbol": "WIRT",
+    "anchor_time": 1791530195259,
+    "anchor_price": 4715.0,
+    "status": "EXPIRED",
+    "created_time": 1791530195259,
+    "last_time": 1791744659684,
+    "last_price": 5468.0,
+    "max_gain_pct": 15.9703,
+    "levels": [],
+    "confirmed_time": 1791536579119,
+    "confirmed_price": 4864.0,
+    "expired_time": 1791598467435
   }
 ]

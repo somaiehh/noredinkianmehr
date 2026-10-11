@@ -37562,7 +37562,10 @@
       "max_up": 5.09,
       "max_down": -3.03
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.09,
+      "max_down": -3.71
+    }
   },
   {
     "symbol": "TIAIRT",
@@ -38031,7 +38034,10 @@
       "max_up": 4.23,
       "max_down": -0.97
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.23,
+      "max_down": -1.93
+    },
     "result_12h": null
   },
   {
@@ -38056,7 +38062,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -1.04
+    },
     "result_12h": null
   },
   {
@@ -38081,7 +38090,10 @@
       "max_up": 0.23,
       "max_down": -0.31
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.23,
+      "max_down": -0.83
+    },
     "result_12h": null
   },
   {
@@ -38106,7 +38118,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -38131,7 +38146,10 @@
       "max_up": -0.16,
       "max_down": -2.5
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.72,
+      "max_down": -2.5
+    },
     "result_12h": null
   },
   {
@@ -38423,7 +38441,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -38442,7 +38463,10 @@
     "bs": 3.59,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 1.68,
+      "max_down": 1.68
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

@@ -3739,5 +3739,31 @@
     "bs": 2.84,
     "breakout": true,
     "persistence": 4
+  },
+  {
+    "time": 1791745394665,
+    "symbol": "WIRT",
+    "price": 5560.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 0.76,
+    "vr": 0.94,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 3
+  },
+  {
+    "time": 1791745615973,
+    "symbol": "FILIRT",
+    "price": 309608.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.34,
+    "vr": 4.14,
+    "va": 10.0,
+    "bs": 0.21,
+    "breakout": true,
+    "persistence": 2
   }
 ]
