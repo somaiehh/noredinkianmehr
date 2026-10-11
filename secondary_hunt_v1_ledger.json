@@ -2410,6 +2410,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "AVAILIRT": {
+      "trigger_time": 1791713017438,
+      "trigger_price": 711.0,
+      "secondary_score": 60.0,
+      "hunt_score": 27.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "dt15_pos"
+      ]
     }
   }
 }
