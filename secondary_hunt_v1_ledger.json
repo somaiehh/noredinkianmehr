@@ -2328,6 +2328,20 @@
         "premove_pos",
         "dt15_pos"
       ]
+    },
+    "MBLIRT": {
+      "trigger_time": 1791689685771,
+      "trigger_price": 478.2,
+      "secondary_score": 60.0,
+      "hunt_score": null,
+      "flags": [
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

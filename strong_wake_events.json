@@ -7451,7 +7451,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.254,
-    "min_move": -1.2618,
+    "min_move": -3.181,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -7515,6 +7515,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -1.9444,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "QIRT",
+    "event_time": 1791689902479,
+    "event_price": 7801.0,
+    "anchor_time": 1791689685771,
+    "anchor_price": 8010.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.75,
+    "tm_e15_e1": 0.75,
+    "tm_e1_e4": 0.5517,
+    "tm_g15": 1.2,
+    "tm_g1": 1.1429,
+    "tm_g4": 1.0741,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
