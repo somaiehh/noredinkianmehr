@@ -2437,6 +2437,18 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "SENTIRT": {
+      "trigger_time": 1791717518674,
+      "trigger_price": 6177.0,
+      "secondary_score": 65.0,
+      "hunt_score": 61.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3"
+      ]
     }
   }
 }
