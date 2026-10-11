@@ -15897,5 +15897,60 @@
     "max_gain_pct": 10.2867,
     "levels": [],
     "expired_time": 1791572659122
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1791611446978,
+    "anchor_price": 1.4696,
+    "status": "EXPIRED",
+    "created_time": 1791611446978,
+    "last_time": 1791730964359,
+    "last_price": 1.4317,
+    "max_gain_pct": 0.0544,
+    "levels": [],
+    "expired_time": 1791654725948
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1791651714892,
+    "anchor_price": 0.00010368,
+    "status": "EXPIRED",
+    "created_time": 1791651714892,
+    "last_time": 1791730964359,
+    "last_price": 0.0001019,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "expired_time": 1791694958574
+  },
+  {
+    "symbol": "MAGICIRT",
+    "anchor_time": 1791686769792,
+    "anchor_price": 26128.0,
+    "status": "EXPIRED",
+    "created_time": 1791686769792,
+    "last_time": 1791730964359,
+    "last_price": 33807.0,
+    "max_gain_pct": 32.004,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791693372909,
+    "confirmed_price": 27370.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791696936829,
+        "price": 28379.0,
+        "gain_pct": 8.6153
+      },
+      {
+        "level": 10,
+        "time": 1791697628229,
+        "price": 28930.0,
+        "gain_pct": 10.7241
+      }
+    ],
+    "expired_time": 1791729993160
   }
 ]

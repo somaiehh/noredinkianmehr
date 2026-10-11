@@ -37385,7 +37385,10 @@
       "max_up": -0.1,
       "max_down": -6.71
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 75.35,
+      "max_down": -6.71
+    }
   },
   {
     "symbol": "TIRT",
@@ -37761,7 +37764,10 @@
       "max_up": 0.0,
       "max_down": -0.17
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.09,
+      "max_down": -1.03
+    },
     "result_12h": null
   },
   {
@@ -37875,7 +37881,10 @@
     "bs": 3.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 2.34,
+      "max_down": 2.34
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -37894,7 +37903,10 @@
     "bs": 3.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.68,
+      "max_down": 0.68
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -37913,7 +37925,10 @@
     "bs": 4.61,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.12,
+      "max_down": 0.12
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -37932,6 +37947,104 @@
     "bs": 3.0,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 0.56,
+      "max_down": 0.56
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "APTIRT",
+    "time": 1791730964359,
+    "price": 243581.0,
+    "level": "WATCH",
+    "hunt": 45.0,
+    "persistence": 1,
+    "p15": 1.79,
+    "vr": 0.03,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "QTUMIRT",
+    "time": 1791731170436,
+    "price": 266860.0,
+    "level": "STRONG",
+    "hunt": 58.8,
+    "persistence": 1,
+    "p15": 0.51,
+    "vr": 2.1,
+    "va": 2.66,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LPTIRT",
+    "time": 1791731170436,
+    "price": 480135.0,
+    "level": "STRONG",
+    "hunt": 66.6,
+    "persistence": 1,
+    "p15": 0.7,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARKMIRT",
+    "time": 1791731170436,
+    "price": 36135.0,
+    "level": "STRONG",
+    "hunt": 72.0,
+    "persistence": 1,
+    "p15": 1.39,
+    "vr": 6.47,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "AINIRT",
+    "time": 1791731170436,
+    "price": 11718.0,
+    "level": "STRONG",
+    "hunt": 90.2,
+    "persistence": 2,
+    "p15": 1.07,
+    "vr": 0.55,
+    "va": 2.33,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

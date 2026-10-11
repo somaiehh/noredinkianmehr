@@ -2599,6 +2599,61 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BCHIRT": {
+      "trigger_time": 1791730964359,
+      "trigger_price": 73637868.0,
+      "secondary_score": 70.0,
+      "hunt_score": 17.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "COREIRT": {
+      "trigger_time": 1791730964359,
+      "trigger_price": 5325.0,
+      "secondary_score": 65.0,
+      "hunt_score": 19.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "da1_pos"
+      ]
+    },
+    "DODOIRT": {
+      "trigger_time": 1791730964359,
+      "trigger_price": 4922.0,
+      "secondary_score": 75.0,
+      "hunt_score": 59.6,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "ARKMIRT": {
+      "trigger_time": 1791731170436,
+      "trigger_price": 36135.0,
+      "secondary_score": 85.0,
+      "hunt_score": 72.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos"
+      ]
     }
   }
 }

@@ -1136,6 +1136,34 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BCHIRT": {
+      "trigger_time": 1791730964359,
+      "trigger_price": 73637868.0,
+      "secondary_score": 70.0,
+      "hunt_score": 17.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "BILLIRT": {
+      "trigger_time": 1791730964359,
+      "trigger_price": 2624.0,
+      "secondary_score": 70.0,
+      "hunt_score": 24.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
