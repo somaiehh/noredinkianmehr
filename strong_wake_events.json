@@ -7742,9 +7742,9 @@
     "tm_g4": 1.7727,
     "legacy": false,
     "result": "HIT_FIRST",
-    "result_time": 1791769893446,
-    "result_move": 16.5228,
-    "max_move": 19.6036,
+    "result_time": 1791771347514,
+    "result_move": 21.7818,
+    "max_move": 21.7818,
     "min_move": -0.314,
     "ledger_version": "wake-ledger-v1"
   },
@@ -8018,7 +8018,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -0.7692,
+    "min_move": -1.1718,
     "ledger_version": "wake-ledger-v1"
   }
 ]

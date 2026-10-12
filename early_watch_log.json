@@ -38954,7 +38954,10 @@
       "max_up": 0.03,
       "max_down": -16.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.03,
+      "max_down": -16.61
+    }
   },
   {
     "symbol": "TUTIRT",
@@ -38982,7 +38985,10 @@
       "max_up": 1.63,
       "max_down": -0.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.63,
+      "max_down": -4.88
+    }
   },
   {
     "symbol": "MAGICIRT",
@@ -39482,7 +39488,10 @@
       "max_up": 0.19,
       "max_down": -1.36
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.19,
+      "max_down": -3.97
+    },
     "result_12h": null
   },
   {
@@ -39738,6 +39747,28 @@
     "va": 2.71,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "time": 1791817376566,
+    "price": 58.3,
+    "level": "STRONG",
+    "hunt": 73.4,
+    "persistence": 1,
+    "p15": 1.22,
+    "vr": 1.29,
+    "va": 2.29,
+    "buy": 87.33333333333334,
+    "bs": 2.62,
     "breakout": false,
     "priority": false,
     "result_15m": null,
