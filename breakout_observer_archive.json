@@ -16938,5 +16938,18 @@
     "max_gain_pct": 0.5239,
     "levels": [],
     "expired_time": 1791754649302
+  },
+  {
+    "symbol": "MOVRIRT",
+    "anchor_time": 1791632939509,
+    "anchor_price": 476097.0,
+    "status": "FAILED",
+    "created_time": 1791632939509,
+    "last_time": 1791822890830,
+    "last_price": 448706.0,
+    "max_gain_pct": 0.3926,
+    "levels": [],
+    "failed_time": 1791645503454,
+    "failed_price": 459188.0
   }
 ]
