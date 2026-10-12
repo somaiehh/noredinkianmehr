@@ -1293,6 +1293,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "FILIRT": {
+      "trigger_time": 1791781346355,
+      "trigger_price": 327371.0,
+      "secondary_score": 60.0,
+      "hunt_score": 22.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
