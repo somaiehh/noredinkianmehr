@@ -2809,6 +2809,32 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "PIIRT": {
+      "trigger_time": 1791803963637,
+      "trigger_price": 21299.0,
+      "secondary_score": 60.0,
+      "hunt_score": 7.1,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "BASEDIRT": {
+      "trigger_time": 1791803963637,
+      "trigger_price": 16580.0,
+      "secondary_score": 60.0,
+      "hunt_score": 14.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
