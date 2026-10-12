@@ -16732,5 +16732,18 @@
     "confirmed_time": 1791566503768,
     "confirmed_price": 92000.0,
     "expired_time": 1791574364527
+  },
+  {
+    "symbol": "MAGICIRT",
+    "anchor_time": 1791731170436,
+    "anchor_price": 34622.0,
+    "status": "FAILED",
+    "created_time": 1791731170436,
+    "last_time": 1791788589221,
+    "last_price": 31616.0,
+    "max_gain_pct": 9.5633,
+    "levels": [],
+    "failed_time": 1791735669214,
+    "failed_price": 33195.0
   }
 ]
