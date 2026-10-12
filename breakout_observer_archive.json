@@ -17003,5 +17003,60 @@
     "levels": [],
     "failed_time": 1791800212580,
     "failed_price": 372182.0
+  },
+  {
+    "symbol": "GAIAIRT",
+    "anchor_time": 1791784956893,
+    "anchor_price": 654.0,
+    "status": "EXPIRED",
+    "created_time": 1791784956893,
+    "last_time": 1791833820405,
+    "last_price": 639.0,
+    "max_gain_pct": 11.6208,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791787686721,
+    "confirmed_price": 692.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791787686721,
+        "price": 692.0,
+        "gain_pct": 5.8104
+      },
+      {
+        "level": 10,
+        "time": 1791790360884,
+        "price": 730.0,
+        "gain_pct": 11.6208
+      }
+    ],
+    "expired_time": 1791828229162
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1791776769920,
+    "anchor_price": 14821.0,
+    "status": "EXPIRED",
+    "created_time": 1791776769920,
+    "last_time": 1791833820405,
+    "last_price": 13291.0,
+    "max_gain_pct": 8.8321,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791780588110,
+    "confirmed_price": 15400.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791782252070,
+        "price": 15600.0,
+        "gain_pct": 5.2561
+      }
+    ],
+    "expired_time": 1791820097552
   }
 ]

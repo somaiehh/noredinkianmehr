@@ -8080,7 +8080,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.465,
+    "max_move": 3.9429,
     "min_move": -0.3833,
     "ledger_version": "wake-ledger-v1"
   },
