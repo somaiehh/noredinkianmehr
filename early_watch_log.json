@@ -39264,7 +39264,10 @@
       "max_up": 3.82,
       "max_down": -5.45
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.82,
+      "max_down": -16.96
+    }
   },
   {
     "symbol": "ONEIRT",
@@ -39292,7 +39295,10 @@
       "max_up": 1.2,
       "max_down": -1.87
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.2,
+      "max_down": -3.15
+    }
   },
   {
     "symbol": "QIRT",
@@ -39320,7 +39326,10 @@
       "max_up": 4.98,
       "max_down": -2.64
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.98,
+      "max_down": -7.58
+    }
   },
   {
     "symbol": "WIRT",
@@ -39817,7 +39826,10 @@
       "max_up": 0.0,
       "max_down": -2.38
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -4.3
+    },
     "result_12h": null
   },
   {
@@ -39842,7 +39854,10 @@
       "max_up": 7.2,
       "max_down": 0.69
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 11.15,
+      "max_down": -1.72
+    },
     "result_12h": null
   },
   {
@@ -39988,7 +40003,10 @@
       "max_up": 1.34,
       "max_down": 0.65
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.34,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -40004,6 +40022,28 @@
     "va": 10.0,
     "buy": 100,
     "bs": 3.62,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "OSMOIRT",
+    "time": 1791832913940,
+    "price": 13440.0,
+    "level": "STRONG",
+    "hunt": 51.0,
+    "persistence": 1,
+    "p15": 1.51,
+    "vr": 0.06,
+    "va": 2.35,
+    "buy": 95.0,
+    "bs": 2.85,
     "breakout": false,
     "priority": false,
     "result_15m": null,
