@@ -16837,5 +16837,18 @@
     "max_gain_pct": 2.9319,
     "levels": [],
     "expired_time": 1791655294435
+  },
+  {
+    "symbol": "PYTHIRT",
+    "anchor_time": 1791536579119,
+    "anchor_price": 22916.0,
+    "status": "FAILED",
+    "created_time": 1791536579119,
+    "last_time": 1791802082003,
+    "last_price": 23000.0,
+    "max_gain_pct": 1.1259,
+    "levels": [],
+    "failed_time": 1791543120056,
+    "failed_price": 22192.0
   }
 ]
