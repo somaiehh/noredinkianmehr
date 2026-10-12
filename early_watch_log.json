@@ -37962,7 +37962,10 @@
       "max_up": 2.88,
       "max_down": 0.77
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.88,
+      "max_down": 0.77
+    }
   },
   {
     "symbol": "OPIRT",
@@ -37990,7 +37993,10 @@
       "max_up": 1.62,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.76,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -38018,7 +38024,10 @@
       "max_up": 1.99,
       "max_down": 0.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.99,
+      "max_down": 0.12
+    }
   },
   {
     "symbol": "COTIIRT",
@@ -38046,7 +38055,10 @@
       "max_up": 3.64,
       "max_down": 0.56
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.64,
+      "max_down": 0.56
+    }
   },
   {
     "symbol": "APTIRT",
