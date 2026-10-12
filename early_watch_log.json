@@ -38334,7 +38334,10 @@
       "max_up": 2.79,
       "max_down": -0.04
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.79,
+      "max_down": -0.04
+    }
   },
   {
     "symbol": "LABIRT",
@@ -38806,7 +38809,10 @@
       "max_up": 0.05,
       "max_down": -1.58
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.85,
+      "max_down": -3.4
+    },
     "result_12h": null
   },
   {
@@ -38939,6 +38945,47 @@
     "bs": 2.74,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": -1.2,
+      "max_down": -1.2
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ESIRT",
+    "time": 1791776769920,
+    "price": 349.0,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 1,
+    "p15": 1.16,
+    "vr": 0.31,
+    "va": 3.34,
+    "buy": 53.66666666666667,
+    "bs": 1.61,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1791776976463,
+    "price": 155.1,
+    "level": "STRONG",
+    "hunt": 64.1,
+    "persistence": 1,
+    "p15": 0.32,
+    "vr": 0.28,
+    "va": 2.26,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

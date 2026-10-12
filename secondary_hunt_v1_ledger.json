@@ -2740,6 +2740,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "PLUMEIRT": {
+      "trigger_time": 1791776976463,
+      "trigger_price": 6019.7,
+      "secondary_score": 60.0,
+      "hunt_score": 18.3,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

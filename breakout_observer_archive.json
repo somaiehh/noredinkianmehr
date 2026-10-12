@@ -16467,5 +16467,90 @@
     "levels": [],
     "failed_time": 1791711578791,
     "failed_price": 19500.0
+  },
+  {
+    "symbol": "FILIRT",
+    "anchor_time": 1791729355451,
+    "anchor_price": 291585.0,
+    "status": "EXPIRED",
+    "created_time": 1791729355451,
+    "last_time": 1791776064233,
+    "last_price": 322106.0,
+    "max_gain_pct": 12.9715,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791740836431,
+    "confirmed_price": 302000.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791745612411,
+        "price": 309608.0,
+        "gain_pct": 6.181
+      },
+      {
+        "level": 10,
+        "time": 1791751644178,
+        "price": 326511.0,
+        "gain_pct": 11.978
+      }
+    ],
+    "expired_time": 1791772574234
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1791733051925,
+    "anchor_price": 13916.0,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1791733051925,
+    "last_time": 1791776064233,
+    "last_price": 14793.0,
+    "max_gain_pct": 6.3021,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791735478708,
+    "confirmed_price": 14625.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791735478708,
+        "price": 14625.0,
+        "gain_pct": 5.0949
+      }
+    ]
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1791706723343,
+    "anchor_price": 101.0,
+    "status": "EXPIRED",
+    "created_time": 1791706723343,
+    "last_time": 1791776769920,
+    "last_price": 152.9,
+    "max_gain_pct": 73.2673,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791707007279,
+    "confirmed_price": 107.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791707007279,
+        "price": 107.0,
+        "gain_pct": 5.9406
+      },
+      {
+        "level": 10,
+        "time": 1791708594526,
+        "price": 126.8,
+        "gain_pct": 25.5446
+      }
+    ],
+    "expired_time": 1791750209296
   }
 ]
