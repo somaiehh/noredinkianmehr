@@ -7742,5 +7742,24 @@
       "max_down": -10.5
     },
     "result_4h": null
+  },
+  {
+    "symbol": "SIRT",
+    "time": 1791827575973,
+    "price": 14829.0,
+    "pre30": 0.32,
+    "pre60": 0.6,
+    "pre120": -1.14,
+    "hunt": 80.5,
+    "persistence": 8,
+    "vr": 1.69,
+    "va": 2.4,
+    "buy": 30.333333333333336,
+    "bs": 0.91,
+    "ob": 0.82,
+    "p15": 0.6,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

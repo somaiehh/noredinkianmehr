@@ -39202,7 +39202,10 @@
       "max_up": 5.08,
       "max_down": -2.04
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.08,
+      "max_down": -7.53
+    }
   },
   {
     "symbol": "RSS3IRT",
@@ -39901,7 +39904,10 @@
       "max_up": 2.98,
       "max_down": 2.98
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 10.99,
+      "max_down": 2.98
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -39923,7 +39929,10 @@
       "max_up": -0.66,
       "max_down": -0.66
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.66,
+      "max_down": -9.21
+    },
     "result_4h": null,
     "result_12h": null
   },
