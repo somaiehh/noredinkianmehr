@@ -38458,7 +38458,10 @@
       "max_up": 6.26,
       "max_down": -1.37
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.26,
+      "max_down": -1.37
+    }
   },
   {
     "symbol": "RENDERIRT",
@@ -38486,7 +38489,10 @@
       "max_up": 0.0,
       "max_down": -0.84
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -0.84
+    }
   },
   {
     "symbol": "SUNDOGIRT",
@@ -38514,7 +38520,10 @@
       "max_up": 0.25,
       "max_down": -4.03
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.25,
+      "max_down": -4.03
+    }
   },
   {
     "symbol": "SANDIRT",
@@ -38542,7 +38551,10 @@
       "max_up": 0.2,
       "max_down": -0.83
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.67,
+      "max_down": -1.86
+    }
   },
   {
     "symbol": "LUMIAIRT",
@@ -38874,7 +38886,10 @@
       "max_up": 0.42,
       "max_down": -0.51
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 8.48,
+      "max_down": -0.51
+    },
     "result_12h": null
   },
   {
@@ -39070,6 +39085,28 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.72
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PLUMEIRT",
+    "time": 1791784002789,
+    "price": 5928.6,
+    "level": "STRONG",
+    "hunt": 59.6,
+    "persistence": 1,
+    "p15": 1.17,
+    "vr": 1.65,
+    "va": 1.17,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
