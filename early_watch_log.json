@@ -39308,7 +39308,10 @@
       "max_up": 0.49,
       "max_down": -3.57
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.29,
+      "max_down": -13.09
+    },
     "result_12h": null
   },
   {
@@ -39454,7 +39457,10 @@
       "max_up": 0.19,
       "max_down": 0.19
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.19,
+      "max_down": -1.36
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -39494,7 +39500,10 @@
     "bs": 2.38,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.33,
+      "max_down": -0.33
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -39513,7 +39522,10 @@
     "bs": 2.82,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -1.57,
+      "max_down": -1.57
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -39530,6 +39542,28 @@
     "va": 2.0,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.08,
+      "max_down": -0.08
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FLOKIIRT",
+    "time": 1791806841983,
+    "price": 7.11308,
+    "level": "STRONG",
+    "hunt": 55.5,
+    "persistence": 1,
+    "p15": 0.36,
+    "vr": 1.15,
+    "va": 1.15,
+    "buy": 83.33333333333334,
+    "bs": 2.5,
     "breakout": false,
     "priority": false,
     "result_15m": null,

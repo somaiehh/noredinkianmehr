@@ -16850,5 +16850,18 @@
     "levels": [],
     "failed_time": 1791543120056,
     "failed_price": 22192.0
+  },
+  {
+    "symbol": "CAPIRT",
+    "anchor_time": 1791617507310,
+    "anchor_price": 25138.6,
+    "status": "FAILED",
+    "created_time": 1791617507310,
+    "last_time": 1791805868174,
+    "last_price": 23998.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791620434536,
+    "failed_price": 23781.8
   }
 ]
