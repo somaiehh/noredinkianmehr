@@ -7450,7 +7450,10 @@
       "max_up": 0.65,
       "max_down": -1.65
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.65,
+      "max_down": -2.62
+    }
   },
   {
     "symbol": "LSKIRT",
