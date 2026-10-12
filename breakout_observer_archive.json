@@ -16825,5 +16825,17 @@
     "levels": [],
     "failed_time": 1791739942707,
     "failed_price": 129250.0
+  },
+  {
+    "symbol": "VELVETIRT",
+    "anchor_time": 1791612052414,
+    "anchor_price": 20499.0,
+    "status": "EXPIRED",
+    "created_time": 1791612052414,
+    "last_time": 1791800431487,
+    "last_price": 18450.0,
+    "max_gain_pct": 2.9319,
+    "levels": [],
+    "expired_time": 1791655294435
   }
 ]
