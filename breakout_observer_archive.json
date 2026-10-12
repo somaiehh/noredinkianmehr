@@ -16902,5 +16902,41 @@
     "levels": [],
     "failed_time": 1791648413183,
     "failed_price": 49379.0
+  },
+  {
+    "symbol": "ONDOIRT",
+    "anchor_time": 1791733721308,
+    "anchor_price": 130568.0,
+    "status": "EXPIRED",
+    "created_time": 1791733721308,
+    "last_time": 1791815087186,
+    "last_price": 131788.0,
+    "max_gain_pct": 6.9757,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791736347086,
+    "confirmed_price": 135646.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791761875108,
+        "price": 137900.0,
+        "gain_pct": 5.6155
+      }
+    ],
+    "expired_time": 1791776976463
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1791711248805,
+    "anchor_price": 477.2,
+    "status": "EXPIRED",
+    "created_time": 1791711248805,
+    "last_time": 1791815601991,
+    "last_price": 446.5,
+    "max_gain_pct": 0.5239,
+    "levels": [],
+    "expired_time": 1791754649302
   }
 ]

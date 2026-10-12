@@ -1349,6 +1349,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "RSRIRT": {
+      "trigger_time": 1791815601991,
+      "trigger_price": 657.4,
+      "secondary_score": 70.0,
+      "hunt_score": 11.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

@@ -39454,7 +39454,10 @@
       "max_up": 0.0,
       "max_down": -1.57
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 14.55,
+      "max_down": -1.57
+    },
     "result_12h": null
   },
   {
@@ -39693,7 +39696,10 @@
     "bs": 3.54,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -0.42
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -39708,6 +39714,28 @@
     "p15": 1.07,
     "vr": 0.05,
     "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -1.12,
+      "max_down": -1.12
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NAKAIRT",
+    "time": 1791815827884,
+    "price": 33282.0,
+    "level": "STRONG",
+    "hunt": 57.8,
+    "persistence": 1,
+    "p15": 1.38,
+    "vr": 0.24,
+    "va": 2.71,
     "buy": 100,
     "bs": 5.0,
     "breakout": false,

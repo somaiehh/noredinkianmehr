@@ -2866,6 +2866,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BDXIRT": {
+      "trigger_time": 1791815601991,
+      "trigger_price": 22710.0,
+      "secondary_score": 60.0,
+      "hunt_score": 26.6,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
