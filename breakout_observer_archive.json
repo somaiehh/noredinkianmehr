@@ -16769,5 +16769,17 @@
       }
     ],
     "expired_time": 1791793944096
+  },
+  {
+    "symbol": "DEXEIRT",
+    "anchor_time": 1791665303525,
+    "anchor_price": 500660.0,
+    "status": "EXPIRED",
+    "created_time": 1791665303525,
+    "last_time": 1791797752930,
+    "last_price": 496299.0,
+    "max_gain_pct": 0.3142,
+    "levels": [],
+    "expired_time": 1791708594526
   }
 ]
