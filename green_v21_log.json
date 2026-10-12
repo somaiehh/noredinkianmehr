@@ -7792,5 +7792,43 @@
       "max_down": 0.0
     },
     "result_4h": null
+  },
+  {
+    "symbol": "STXIRT",
+    "time": 1791835211817,
+    "price": 115000.0,
+    "pre30": 5.53,
+    "pre60": 9.03,
+    "pre120": 9.03,
+    "hunt": 62.1,
+    "persistence": 2,
+    "vr": 2.42,
+    "va": 2.0,
+    "buy": 27.999999999999996,
+    "bs": 0.84,
+    "ob": 1.0,
+    "p15": 0.42,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "STXIRT",
+    "time": 1791835425760,
+    "price": 114989.0,
+    "pre30": 2.1,
+    "pre60": 9.01,
+    "pre120": 9.01,
+    "hunt": 63.9,
+    "persistence": 3,
+    "vr": 2.43,
+    "va": 2.0,
+    "buy": 27.999999999999996,
+    "bs": 0.84,
+    "ob": 1.0,
+    "p15": 0.41,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
