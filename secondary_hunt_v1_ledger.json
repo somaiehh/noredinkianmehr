@@ -2753,6 +2753,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ZROIRT": {
+      "trigger_time": 1791795819324,
+      "trigger_price": 647902.0,
+      "secondary_score": 70.0,
+      "hunt_score": 52.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
