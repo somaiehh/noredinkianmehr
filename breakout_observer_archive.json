@@ -16362,5 +16362,53 @@
       }
     ],
     "expired_time": 1791654469647
+  },
+  {
+    "symbol": "CFXIRT",
+    "anchor_time": 1791701679112,
+    "anchor_price": 17643.4,
+    "status": "EXPIRED",
+    "created_time": 1791701679112,
+    "last_time": 1791763514952,
+    "last_price": 17881.1,
+    "max_gain_pct": 7.4311,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791704152188,
+    "confirmed_price": 18242.8,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791708594526,
+        "price": 18624.4,
+        "gain_pct": 5.5602
+      }
+    ],
+    "expired_time": 1791745390519
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1791709444090,
+    "anchor_price": 11269.0,
+    "status": "EXPIRED",
+    "created_time": 1791709444090,
+    "last_time": 1791763514952,
+    "last_price": 12027.0,
+    "max_gain_pct": 8.0486,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791731170436,
+    "confirmed_price": 11718.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791740836431,
+        "price": 11850.0,
+        "gain_pct": 5.1557
+      }
+    ],
+    "expired_time": 1791752725144
   }
 ]
