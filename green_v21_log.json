@@ -7700,7 +7700,10 @@
       "max_up": 3.21,
       "max_down": -0.78
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 33.91,
+      "max_down": -0.78
+    }
   },
   {
     "symbol": "OSMOIRT",
@@ -7761,6 +7764,25 @@
     "bs": 0.91,
     "ob": 0.82,
     "p15": 0.6,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "WIFIRT",
+    "time": 1791830188589,
+    "price": 55065.0,
+    "pre30": 0.85,
+    "pre60": 1.51,
+    "pre120": -0.52,
+    "hunt": 84.0,
+    "persistence": 2,
+    "vr": 6.17,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.62,
+    "ob": 0.49,
+    "p15": 0.85,
     "breakout": false,
     "result_1h": null,
     "result_4h": null

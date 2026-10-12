@@ -16977,5 +16977,18 @@
     "levels": [],
     "failed_time": 1791741722968,
     "failed_price": 29902.0
+  },
+  {
+    "symbol": "OGNIRT",
+    "anchor_time": 1791711248805,
+    "anchor_price": 9778.0,
+    "status": "FAILED",
+    "created_time": 1791711248805,
+    "last_time": 1791829240205,
+    "last_price": 9558.0,
+    "max_gain_pct": 6.576,
+    "levels": [],
+    "failed_time": 1791714739275,
+    "failed_price": 9422.0
   }
 ]

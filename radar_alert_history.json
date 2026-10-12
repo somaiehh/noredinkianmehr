@@ -3999,5 +3999,18 @@
     "bs": 5.0,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1791830192546,
+    "symbol": "WIFIRT",
+    "price": 55065.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 0.85,
+    "vr": 6.17,
+    "va": 10.0,
+    "bs": 3.62,
+    "breakout": false,
+    "persistence": 2
   }
 ]
