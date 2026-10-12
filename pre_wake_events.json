@@ -5225,7 +5225,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 5.7186,
-    "min_move": -0.8209,
+    "min_move": -3.1624,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -5394,6 +5394,48 @@
     "result_move": -5.472,
     "max_move": 0.0,
     "min_move": -5.472,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "WIRT",
+    "event_time": 1791820097552,
+    "event_price": 6241.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 38.0,
+    "p15": -1.73,
+    "vr": null,
+    "va": 8.66,
+    "ta": null,
+    "bs": 2.67,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.673,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "WIRT",
+    "event_time": 1791820314401,
+    "event_price": 6283.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 33.0,
+    "p15": -1.07,
+    "vr": null,
+    "va": 3.17,
+    "ta": null,
+    "bs": 2.67,
+    "book": 0.71,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
