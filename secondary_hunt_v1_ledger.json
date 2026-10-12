@@ -2767,6 +2767,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "KGENIRT": {
+      "trigger_time": 1791796883595,
+      "trigger_price": 43308.0,
+      "secondary_score": 85.0,
+      "hunt_score": 69.5,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
