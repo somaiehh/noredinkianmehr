@@ -38737,7 +38737,10 @@
       "max_up": -1.09,
       "max_down": -2.99
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.41,
+      "max_down": -15.88
+    }
   },
   {
     "symbol": "WENSOLIRT",
@@ -38765,7 +38768,10 @@
       "max_up": 1.91,
       "max_down": -2.42
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.58,
+      "max_down": -3.62
+    }
   },
   {
     "symbol": "ICPIRT",
