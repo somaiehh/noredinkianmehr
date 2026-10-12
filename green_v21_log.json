@@ -7648,5 +7648,43 @@
       "max_down": -0.92
     },
     "result_4h": null
+  },
+  {
+    "symbol": "OSMOIRT",
+    "time": 1791814814920,
+    "price": 10447.0,
+    "pre30": 4.84,
+    "pre60": 4.47,
+    "pre120": -1.44,
+    "hunt": 80.7,
+    "persistence": 3,
+    "vr": 1.02,
+    "va": 10.0,
+    "buy": 26.0,
+    "bs": 0.78,
+    "ob": 1.0,
+    "p15": 0.84,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "OSMOIRT",
+    "time": 1791815087186,
+    "price": 10447.0,
+    "pre30": 3.8,
+    "pre60": 4.47,
+    "pre120": -1.08,
+    "hunt": 73.5,
+    "persistence": 4,
+    "vr": 1.02,
+    "va": 10.0,
+    "buy": 13.999999999999998,
+    "bs": 0.42,
+    "ob": 1.0,
+    "p15": 0.84,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

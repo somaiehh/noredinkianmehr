@@ -39678,5 +39678,43 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "ICPIRT",
+    "time": 1791814814920,
+    "price": 874648.0,
+    "level": "WATCH",
+    "hunt": 46.7,
+    "persistence": 1,
+    "p15": 0.35,
+    "vr": 0.19,
+    "va": 8.99,
+    "buy": 100,
+    "bs": 3.54,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BRIRT",
+    "time": 1791814814920,
+    "price": 116704.0,
+    "level": "WATCH",
+    "hunt": 42.8,
+    "persistence": 1,
+    "p15": 1.07,
+    "vr": 0.05,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
