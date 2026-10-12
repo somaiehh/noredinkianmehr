@@ -16745,5 +16745,29 @@
     "levels": [],
     "failed_time": 1791735669214,
     "failed_price": 33195.0
+  },
+  {
+    "symbol": "PLUMEIRT",
+    "anchor_time": 1791750409774,
+    "anchor_price": 5879.5,
+    "status": "EXPIRED",
+    "created_time": 1791750409774,
+    "last_time": 1791796883595,
+    "last_price": 6182.4,
+    "max_gain_pct": 7.6027,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791773194821,
+    "confirmed_price": 6155.2,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791774131979,
+        "price": 6326.5,
+        "gain_pct": 7.6027
+      }
+    ],
+    "expired_time": 1791793944096
   }
 ]

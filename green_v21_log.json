@@ -7573,5 +7573,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "ACNIRT",
+    "time": 1791797752930,
+    "price": 1176.3,
+    "pre30": 3.33,
+    "pre60": 3.33,
+    "pre120": 3.33,
+    "hunt": 72.0,
+    "persistence": 2,
+    "vr": 11.8,
+    "va": 2.0,
+    "buy": 83.66666666666666,
+    "bs": 2.51,
+    "ob": 0.86,
+    "p15": 1.46,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
