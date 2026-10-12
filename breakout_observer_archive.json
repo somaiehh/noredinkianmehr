@@ -16410,5 +16410,18 @@
       }
     ],
     "expired_time": 1791752725144
+  },
+  {
+    "symbol": "KAIAIRT",
+    "anchor_time": 1791697160068,
+    "anchor_price": 14228.0,
+    "status": "FAILED",
+    "created_time": 1791697160068,
+    "last_time": 1791766478037,
+    "last_price": 13408.0,
+    "max_gain_pct": 0.499,
+    "levels": [],
+    "failed_time": 1791733051925,
+    "failed_price": 13688.0
   }
 ]
