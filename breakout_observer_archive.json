@@ -16781,5 +16781,36 @@
     "max_gain_pct": 0.3142,
     "levels": [],
     "expired_time": 1791708594526
+  },
+  {
+    "symbol": "WIRT",
+    "anchor_time": 1791745390519,
+    "anchor_price": 5560.0,
+    "status": "EXPIRED",
+    "created_time": 1791745390519,
+    "last_time": 1791799074786,
+    "last_price": 8083.0,
+    "max_gain_pct": 45.4676,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791747311768,
+    "confirmed_price": 5754.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791748124299,
+        "price": 6048.0,
+        "gain_pct": 8.777
+      },
+      {
+        "level": 10,
+        "time": 1791771347514,
+        "price": 6206.0,
+        "gain_pct": 11.6187
+      }
+    ],
+    "expired_time": 1791788788564
   }
 ]
