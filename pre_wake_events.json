@@ -5053,11 +5053,11 @@
     "book": 0.99,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1791809241659,
+    "result_move": -6.3888,
     "max_move": 5.2545,
-    "min_move": -3.1113,
+    "min_move": -6.3888,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
