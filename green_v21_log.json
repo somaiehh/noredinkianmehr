@@ -8055,5 +8055,43 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "PIGGYIRT",
+    "time": 1791909559413,
+    "price": 3170.0,
+    "pre30": 3.76,
+    "pre60": 3.76,
+    "pre120": 3.76,
+    "hunt": 84.0,
+    "persistence": 3,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.78,
+    "p15": 1.18,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "PIGGYIRT",
+    "time": 1791909795686,
+    "price": 3170.0,
+    "pre30": 3.76,
+    "pre60": 3.76,
+    "pre120": 3.76,
+    "hunt": 84.0,
+    "persistence": 4,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
+    "ob": 1.0,
+    "p15": 1.18,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

@@ -4090,5 +4090,31 @@
     "bs": 0.58,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1791909562416,
+    "symbol": "PIGGYIRT",
+    "price": 3170.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.18,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": false,
+    "persistence": 3
+  },
+  {
+    "time": 1791909798471,
+    "symbol": "PIGGYIRT",
+    "price": 3170.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.18,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 3.0,
+    "breakout": false,
+    "persistence": 4
   }
 ]

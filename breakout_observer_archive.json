@@ -17694,5 +17694,32 @@
     "max_gain_pct": 0.7962,
     "levels": [],
     "expired_time": 1791776769920
+  },
+  {
+    "symbol": "RVNIRT",
+    "anchor_time": 1791747311768,
+    "anchor_price": 515.0,
+    "status": "FAILED",
+    "created_time": 1791747311768,
+    "last_time": 1791909192377,
+    "last_price": 412.0,
+    "max_gain_pct": 0.4272,
+    "levels": [],
+    "failed_time": 1791765747888,
+    "failed_price": 489.9
+  },
+  {
+    "symbol": "DOGSIRT",
+    "anchor_time": 1791541261689,
+    "anchor_price": 11.5,
+    "status": "EXPIRED",
+    "created_time": 1791541261689,
+    "last_time": 1791909559413,
+    "last_price": 10.81,
+    "max_gain_pct": 3.6522,
+    "levels": [],
+    "confirmed_time": 1791605745885,
+    "confirmed_price": 11.9,
+    "expired_time": 1791605745885
   }
 ]

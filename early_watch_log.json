@@ -40377,7 +40377,10 @@
       "max_up": 2.21,
       "max_down": -1.46
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.21,
+      "max_down": -4.95
+    }
   },
   {
     "symbol": "WIRT",
@@ -40793,7 +40796,10 @@
       "max_up": 0.37,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.39,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -40987,6 +40993,44 @@
       "max_up": 0.0,
       "max_down": -1.16
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "RVNIRT",
+    "time": 1791909559413,
+    "price": 414.5,
+    "level": "STRONG",
+    "hunt": 61.3,
+    "persistence": 1,
+    "p15": 0.61,
+    "vr": 0.18,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PIGGYIRT",
+    "time": 1791909559413,
+    "price": 3170.0,
+    "level": "STRONG",
+    "hunt": 84.0,
+    "persistence": 3,
+    "p15": 1.18,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
