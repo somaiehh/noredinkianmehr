@@ -1458,6 +1458,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "HMSTRIRT": {
+      "trigger_time": 1791927715370,
+      "trigger_price": 41.3,
+      "secondary_score": 70.0,
+      "hunt_score": 36.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

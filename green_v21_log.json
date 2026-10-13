@@ -8194,7 +8194,10 @@
       "max_up": 0.74,
       "max_down": 0.04
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 5.42,
+      "max_down": -0.65
+    }
   },
   {
     "symbol": "BOMEIRT",
