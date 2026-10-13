@@ -17828,5 +17828,31 @@
     "max_gain_pct": 2.0115,
     "levels": [],
     "expired_time": 1791781346355
+  },
+  {
+    "symbol": "OPIRT",
+    "anchor_time": 1791657174969,
+    "anchor_price": 37157.0,
+    "status": "EXPIRED",
+    "created_time": 1791657174969,
+    "last_time": 1791914796771,
+    "last_price": 38183.0,
+    "max_gain_pct": 3.4045,
+    "levels": [],
+    "expired_time": 1791701679112
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1791869556033,
+    "anchor_price": 1.05948,
+    "status": "EXPIRED",
+    "created_time": 1791869556033,
+    "last_time": 1791914796771,
+    "last_price": 1.09599,
+    "max_gain_pct": 3.7264,
+    "levels": [],
+    "confirmed_time": 1791908966076,
+    "confirmed_price": 1.09242,
+    "expired_time": 1791912909679
   }
 ]

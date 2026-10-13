@@ -40439,7 +40439,10 @@
       "max_up": 16.87,
       "max_down": 0.63
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 16.87,
+      "max_down": -40.66
+    }
   },
   {
     "symbol": "CPOOLIRT",
@@ -40908,7 +40911,10 @@
       "max_up": 0.43,
       "max_down": -0.25
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.28,
+      "max_down": -0.25
+    },
     "result_12h": null
   },
   {
@@ -40930,7 +40936,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 7.72,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -41076,7 +41085,10 @@
       "max_up": -0.07,
       "max_down": -0.78
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.07,
+      "max_down": -1.25
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -41159,6 +41171,28 @@
     "buy": 73.0,
     "bs": 2.19,
     "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BOMEIRT",
+    "time": 1791914983884,
+    "price": 212.5,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.58,
+    "vr": 1.98,
+    "va": 2.0,
+    "buy": 66.66666666666666,
+    "bs": 2.0,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
