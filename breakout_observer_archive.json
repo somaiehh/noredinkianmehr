@@ -17816,5 +17816,17 @@
     "levels": [],
     "failed_time": 1791886727848,
     "failed_price": 28228.0
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1791731170436,
+    "anchor_price": 1.4318,
+    "status": "EXPIRED",
+    "created_time": 1791731170436,
+    "last_time": 1791912909679,
+    "last_price": 1.356,
+    "max_gain_pct": 2.0115,
+    "levels": [],
+    "expired_time": 1791781346355
   }
 ]
