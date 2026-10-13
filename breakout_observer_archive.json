@@ -17618,5 +17618,31 @@
     "levels": [],
     "failed_time": 1791872367104,
     "failed_price": 9900.0
+  },
+  {
+    "symbol": "GAIAIRT",
+    "anchor_time": 1791834549766,
+    "anchor_price": 652.0,
+    "status": "FAILED",
+    "created_time": 1791834549766,
+    "last_time": 1791904366562,
+    "last_price": 575.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791855927963,
+    "failed_price": 622.0
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1791538349548,
+    "anchor_price": 399.0,
+    "status": "FAILED",
+    "created_time": 1791538349548,
+    "last_time": 1791904366562,
+    "last_price": 343.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791548317977,
+    "failed_price": 381.0
   }
 ]

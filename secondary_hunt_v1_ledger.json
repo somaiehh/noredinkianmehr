@@ -2964,6 +2964,22 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "EGLDIRT": {
+      "trigger_time": 1791904991153,
+      "trigger_price": 969087.0,
+      "secondary_score": 90.0,
+      "hunt_score": 57.1,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
