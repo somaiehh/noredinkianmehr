@@ -8093,5 +8093,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "BATIRT",
+    "time": 1791912067811,
+    "price": 49088.0,
+    "pre30": 1.7,
+    "pre60": 3.84,
+    "pre120": 2.79,
+    "hunt": 84.0,
+    "persistence": 4,
+    "vr": 1.71,
+    "va": 10.0,
+    "buy": 43.0,
+    "bs": 1.29,
+    "ob": 1.0,
+    "p15": 1.1,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

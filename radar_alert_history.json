@@ -4116,5 +4116,18 @@
     "bs": 3.0,
     "breakout": false,
     "persistence": 4
+  },
+  {
+    "time": 1791912071901,
+    "symbol": "FTTIRT",
+    "price": 68881.0,
+    "hunt_score": 87.8,
+    "status": "EARLY",
+    "p15": 1.76,
+    "vr": 20.0,
+    "va": 2.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
