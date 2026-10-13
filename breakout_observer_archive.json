@@ -17854,5 +17854,32 @@
     "confirmed_time": 1791908966076,
     "confirmed_price": 1.09242,
     "expired_time": 1791912909679
+  },
+  {
+    "symbol": "LINKIRT",
+    "anchor_time": 1791486717026,
+    "anchor_price": 3317503.0,
+    "status": "EXPIRED",
+    "created_time": 1791486717026,
+    "last_time": 1791914983884,
+    "last_price": 3391639.0,
+    "max_gain_pct": 7.4237,
+    "levels": [],
+    "confirmed_time": 1791498835019,
+    "confirmed_price": 3420119.0,
+    "expired_time": 1791530195259
+  },
+  {
+    "symbol": "FLOKIIRT",
+    "anchor_time": 1791453226471,
+    "anchor_price": 7.40632,
+    "status": "FAILED",
+    "created_time": 1791453226471,
+    "last_time": 1791914983884,
+    "last_price": 6.74064,
+    "max_gain_pct": 1.2649,
+    "levels": [],
+    "failed_time": 1791467479207,
+    "failed_price": 7.15022
   }
 ]

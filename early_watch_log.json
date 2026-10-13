@@ -40470,7 +40470,10 @@
       "max_up": -0.1,
       "max_down": -1.85
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.1,
+      "max_down": -1.85
+    }
   },
   {
     "symbol": "ICPIRT",
@@ -41110,7 +41113,10 @@
       "max_up": 1.37,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.37,
+      "max_down": -0.52
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -41132,7 +41138,10 @@
       "max_up": -0.05,
       "max_down": -2.72
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 9.19,
+      "max_down": -2.72
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -41193,6 +41202,25 @@
     "buy": 66.66666666666666,
     "bs": 2.0,
     "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARBIRT",
+    "time": 1791915630617,
+    "price": 49104.0,
+    "level": "STRONG",
+    "hunt": 56.0,
+    "persistence": 2,
+    "p15": 0.05,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 49.666666666666664,
+    "bs": 1.49,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,

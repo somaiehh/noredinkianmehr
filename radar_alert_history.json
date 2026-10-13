@@ -4129,5 +4129,31 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791915633932,
+    "symbol": "BOMEIRT",
+    "price": 212.3,
+    "hunt_score": 87.6,
+    "status": "EARLY",
+    "p15": 1.48,
+    "vr": 1.98,
+    "va": 2.0,
+    "bs": 2.1,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1791915842270,
+    "symbol": "BOMEIRT",
+    "price": 212.3,
+    "hunt_score": 89.6,
+    "status": "EARLY",
+    "p15": 1.48,
+    "vr": 1.98,
+    "va": 2.0,
+    "bs": 0.15,
+    "breakout": true,
+    "persistence": 3
   }
 ]

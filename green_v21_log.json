@@ -8125,7 +8125,10 @@
     "ob": 1.0,
     "p15": 1.1,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.65,
+      "max_down": -1.18
+    },
     "result_4h": null
   },
   {
@@ -8162,6 +8165,44 @@
     "bs": 2.23,
     "ob": 1.0,
     "p15": 0.25,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "BOMEIRT",
+    "time": 1791915630617,
+    "price": 212.3,
+    "pre30": 2.71,
+    "pre60": 1.68,
+    "pre120": 4.22,
+    "hunt": 87.6,
+    "persistence": 2,
+    "vr": 1.98,
+    "va": 2.0,
+    "buy": 70.0,
+    "bs": 2.1,
+    "ob": 0.83,
+    "p15": 1.48,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "LINKIRT",
+    "time": 1791915838941,
+    "price": 3385825.0,
+    "pre30": 0.82,
+    "pre60": 0.3,
+    "pre120": 1.54,
+    "hunt": 82.8,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 19.666666666666664,
+    "bs": 0.59,
+    "ob": 1.0,
+    "p15": 0.79,
     "breakout": true,
     "result_1h": null,
     "result_4h": null
