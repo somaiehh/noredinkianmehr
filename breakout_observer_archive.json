@@ -17507,5 +17507,29 @@
       }
     ],
     "expired_time": 1791870359455
+  },
+  {
+    "symbol": "SAGAIRT",
+    "anchor_time": 1791179647053,
+    "anchor_price": 6322.0,
+    "status": "EXPIRED",
+    "created_time": 1791179647053,
+    "last_time": 1791899527991,
+    "last_price": 5270.0,
+    "max_gain_pct": 8.5258,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791200154046,
+    "confirmed_price": 6636.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791215256479,
+        "price": 6644.0,
+        "gain_pct": 5.0933
+      }
+    ],
+    "expired_time": 1791222944489
   }
 ]
