@@ -1403,6 +1403,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BLURIRT": {
+      "trigger_time": 1791886727848,
+      "trigger_price": 3134.0,
+      "secondary_score": 70.0,
+      "hunt_score": 39.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

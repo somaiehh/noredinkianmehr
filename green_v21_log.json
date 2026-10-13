@@ -7912,7 +7912,10 @@
     "ob": 1.0,
     "p15": 1.04,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 11.23,
+      "max_down": -1.17
+    },
     "result_4h": null
   },
   {
