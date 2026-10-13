@@ -5833,8 +5833,8 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
-    "min_move": -1.1722,
+    "max_move": 0.4143,
+    "min_move": -1.2098,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
