@@ -17071,5 +17071,92 @@
     "levels": [],
     "failed_time": 1791786126382,
     "failed_price": 10741.0
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1791758539619,
+    "anchor_price": 1530985.0,
+    "status": "EXPIRED",
+    "created_time": 1791758539619,
+    "last_time": 1791856154067,
+    "last_price": 1346782.0,
+    "max_gain_pct": 2.3482,
+    "levels": [],
+    "expired_time": 1791802082003
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "anchor_time": 1791782445579,
+    "anchor_price": 44.8,
+    "status": "EXPIRED",
+    "created_time": 1791782445579,
+    "last_time": 1791856154067,
+    "last_price": 40.3,
+    "max_gain_pct": 44.6429,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791784002789,
+    "confirmed_price": 47.3,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791784002789,
+        "price": 47.3,
+        "gain_pct": 5.5804
+      },
+      {
+        "level": 10,
+        "time": 1791784223555,
+        "price": 50.0,
+        "gain_pct": 11.6071
+      }
+    ],
+    "expired_time": 1791825718981
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1791772359985,
+    "anchor_price": 16199.0,
+    "status": "FAILED",
+    "created_time": 1791772359985,
+    "last_time": 1791856154067,
+    "last_price": 14995.0,
+    "max_gain_pct": 2.0804,
+    "levels": [],
+    "failed_time": 1791775115037,
+    "failed_price": 15685.0
+  },
+  {
+    "symbol": "MAGICIRT",
+    "anchor_time": 1791788788564,
+    "anchor_price": 32344.0,
+    "status": "EXPIRED",
+    "created_time": 1791788788564,
+    "last_time": 1791856154067,
+    "last_price": 29376.0,
+    "max_gain_pct": 10.5584,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791801307752,
+    "confirmed_price": 33420.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791802082003,
+        "price": 34435.0,
+        "gain_pct": 6.4649
+      },
+      {
+        "level": 10,
+        "time": 1791807465438,
+        "price": 35759.0,
+        "gain_pct": 10.5584
+      }
+    ],
+    "expired_time": 1791832709792
   }
 ]
