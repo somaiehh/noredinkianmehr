@@ -5542,5 +5542,26 @@
     "max_move": 2.439,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ACNIRT",
+    "event_time": 1791897644249,
+    "event_price": 1386.4,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 39.9,
+    "p15": -1.28,
+    "vr": null,
+    "va": 2.27,
+    "ta": null,
+    "bs": 2.65,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]

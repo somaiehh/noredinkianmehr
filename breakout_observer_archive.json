@@ -17470,5 +17470,18 @@
     "levels": [],
     "failed_time": 1791463123806,
     "failed_price": 279.5
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1791709444090,
+    "anchor_price": 16219.0,
+    "status": "FAILED",
+    "created_time": 1791709444090,
+    "last_time": 1791897467939,
+    "last_price": 13850.0,
+    "max_gain_pct": 0.5487,
+    "levels": [],
+    "failed_time": 1791726486730,
+    "failed_price": 15696.0
   }
 ]
