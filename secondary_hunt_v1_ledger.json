@@ -2909,6 +2909,20 @@
         "premove_pos",
         "dt15_pos"
       ]
+    },
+    "CPOOLIRT": {
+      "trigger_time": 1791872164771,
+      "trigger_price": 7669.0,
+      "secondary_score": 80.0,
+      "hunt_score": 62.9,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos"
+      ]
     }
   }
 }

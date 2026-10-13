@@ -40382,6 +40382,28 @@
     "bs": 1.98,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 16.87,
+      "max_down": 4.06
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "CPOOLIRT",
+    "time": 1791872164771,
+    "price": 7669.0,
+    "level": "STRONG",
+    "hunt": 62.9,
+    "persistence": 1,
+    "p15": 1.01,
+    "vr": 1.0,
+    "va": 1.34,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
