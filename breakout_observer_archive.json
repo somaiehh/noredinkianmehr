@@ -17543,5 +17543,30 @@
     "max_gain_pct": 1.9035,
     "levels": [],
     "expired_time": 1791775115037
+  },
+  {
+    "symbol": "TUTIRT",
+    "anchor_time": 1791450120550,
+    "anchor_price": 6111.0,
+    "status": "FAILED",
+    "created_time": 1791450120550,
+    "last_time": 1791902219668,
+    "last_price": 5272.0,
+    "max_gain_pct": 1.9964,
+    "levels": [],
+    "failed_time": 1791472901115,
+    "failed_price": 5925.0
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1791832913940,
+    "anchor_price": 362028.0,
+    "status": "EXPIRED",
+    "created_time": 1791832913940,
+    "last_time": 1791902219668,
+    "last_price": 353763.0,
+    "max_gain_pct": 0.6511,
+    "levels": [],
+    "expired_time": 1791876802552
   }
 ]
