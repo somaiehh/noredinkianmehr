@@ -8233,5 +8233,24 @@
       "max_down": -0.56
     },
     "result_4h": null
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "time": 1791925953100,
+    "price": 44.9,
+    "pre30": 2.51,
+    "pre60": 5.4,
+    "pre120": 8.45,
+    "hunt": 92.5,
+    "persistence": 4,
+    "vr": 15.51,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.82,
+    "ob": 1.0,
+    "p15": 1.13,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

@@ -8524,5 +8524,26 @@
     "max_move": 0.9579,
     "min_move": -1.5045,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "GALAIRT",
+    "event_time": 1791925669394,
+    "event_price": 564.7,
+    "anchor_time": 1791924625075,
+    "anchor_price": 570.8,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.25,
+    "tm_e15_e1": 0.25,
+    "tm_e1_e4": 0.4286,
+    "tm_g15": 0.3333,
+    "tm_g1": 1.3333,
+    "tm_g4": 1.12,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
