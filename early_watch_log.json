@@ -40559,7 +40559,10 @@
     "bs": 1.79,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.65,
+      "max_down": 0.65
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -40576,6 +40579,28 @@
     "va": 10.0,
     "buy": 58.666666666666664,
     "bs": 1.76,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -1.05,
+      "max_down": -1.05
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SDIRT",
+    "time": 1791884162970,
+    "price": 37984.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.56,
+    "vr": 0.91,
+    "va": 10.0,
+    "buy": 59.66666666666667,
+    "bs": 1.79,
     "breakout": false,
     "priority": false,
     "result_15m": null,
