@@ -40098,7 +40098,10 @@
       "max_up": 1.34,
       "max_down": -1.75
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.34,
+      "max_down": -7.83
+    }
   },
   {
     "symbol": "WIFIRT",
@@ -40358,6 +40361,28 @@
       "max_up": 0.16,
       "max_down": 0.16
     },
+    "result_1h": {
+      "max_up": 1.32,
+      "max_down": -1.24
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MBLIRT",
+    "time": 1791871443338,
+    "price": 320.0,
+    "level": "STRONG",
+    "hunt": 68.7,
+    "persistence": 1,
+    "p15": 1.43,
+    "vr": 3.96,
+    "va": 1.33,
+    "buy": 66.0,
+    "bs": 1.98,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
