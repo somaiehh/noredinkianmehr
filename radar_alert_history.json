@@ -4038,5 +4038,18 @@
     "bs": 0.08,
     "breakout": true,
     "persistence": 4
+  },
+  {
+    "time": 1791883159607,
+    "symbol": "OGNIRT",
+    "price": 10159.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.04,
+    "vr": 1.21,
+    "va": 10.0,
+    "bs": 1.76,
+    "breakout": false,
+    "persistence": 3
   }
 ]

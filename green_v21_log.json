@@ -7895,5 +7895,24 @@
       "max_down": -1.19
     },
     "result_4h": null
+  },
+  {
+    "symbol": "OGNIRT",
+    "time": 1791883154944,
+    "price": 10159.0,
+    "pre30": 3.37,
+    "pre60": 3.5,
+    "pre120": 3.82,
+    "hunt": 84.0,
+    "persistence": 3,
+    "vr": 1.21,
+    "va": 10.0,
+    "buy": 58.666666666666664,
+    "bs": 1.76,
+    "ob": 1.0,
+    "p15": 1.04,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

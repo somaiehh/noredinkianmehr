@@ -8248,8 +8248,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.3311,
+    "max_move": 1.4901,
     "min_move": -0.6623,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "SANDIRT",
+    "event_time": 1791883362068,
+    "event_price": 15549.5517,
+    "anchor_time": 1791883154944,
+    "anchor_price": 15549.5517,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 1.0,
+    "tm_e15_e1": 1.0,
+    "tm_e1_e4": 0.4091,
+    "tm_g15": 1.125,
+    "tm_g1": 1.125,
+    "tm_g4": 1.0476,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]

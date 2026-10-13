@@ -40538,7 +40538,10 @@
       "max_up": -2.68,
       "max_down": -2.68
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -2.12,
+      "max_down": -5.64
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -40554,6 +40557,25 @@
     "va": 2.52,
     "buy": 59.66666666666667,
     "bs": 1.79,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "OGNIRT",
+    "time": 1791883154944,
+    "price": 10159.0,
+    "level": "STRONG",
+    "hunt": 84.0,
+    "persistence": 3,
+    "p15": 1.04,
+    "vr": 1.21,
+    "va": 10.0,
+    "buy": 58.666666666666664,
+    "bs": 1.76,
     "breakout": false,
     "priority": false,
     "result_15m": null,
