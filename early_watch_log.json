@@ -40264,6 +40264,28 @@
     "bs": 3.05,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 0.22,
+      "max_down": 0.22
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "RSRIRT",
+    "time": 1791864185609,
+    "price": 533.2,
+    "level": "STRONG",
+    "hunt": 71.5,
+    "persistence": 1,
+    "p15": 0.15,
+    "vr": 2.09,
+    "va": 6.3,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

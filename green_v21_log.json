@@ -7848,5 +7848,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "RSRIRT",
+    "time": 1791864376912,
+    "price": 533.2,
+    "pre30": 1.37,
+    "pre60": 1.04,
+    "pre120": 2.97,
+    "hunt": 73.5,
+    "persistence": 2,
+    "vr": 2.09,
+    "va": 6.3,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.15,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
