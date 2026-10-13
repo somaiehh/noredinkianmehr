@@ -17444,5 +17444,18 @@
     "levels": [],
     "failed_time": 1791532964225,
     "failed_price": 179.2
+  },
+  {
+    "symbol": "RSRIRT",
+    "anchor_time": 1791806841983,
+    "anchor_price": 678.0,
+    "status": "FAILED",
+    "created_time": 1791806841983,
+    "last_time": 1791895865573,
+    "last_price": 527.5,
+    "max_gain_pct": 2.3599,
+    "levels": [],
+    "failed_time": 1791809241659,
+    "failed_price": 628.7
   }
 ]

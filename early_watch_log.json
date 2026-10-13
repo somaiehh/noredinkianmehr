@@ -40749,6 +40749,28 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "OSMOIRT",
+    "time": 1791895865573,
+    "price": 12193.0,
+    "level": "WATCH",
+    "hunt": 42.2,
+    "persistence": 1,
+    "p15": 1.54,
+    "vr": 0.05,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
