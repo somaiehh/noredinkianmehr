@@ -2980,6 +2980,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "DUSKIRT": {
+      "trigger_time": 1791920059306,
+      "trigger_price": 25656.0,
+      "secondary_score": 60.0,
+      "hunt_score": 18.4,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

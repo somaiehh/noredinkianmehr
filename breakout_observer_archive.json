@@ -17918,5 +17918,18 @@
     "levels": [],
     "failed_time": 1791811962300,
     "failed_price": 315360.0
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1791869556033,
+    "anchor_price": 1333.8,
+    "status": "FAILED",
+    "created_time": 1791869556033,
+    "last_time": 1791919265334,
+    "last_price": 1296.8,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791884977751,
+    "failed_price": 1293.0
   }
 ]

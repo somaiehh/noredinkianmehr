@@ -4155,5 +4155,18 @@
     "bs": 0.15,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1791920269621,
+    "symbol": "FILIRT",
+    "price": 311647.0,
+    "hunt_score": 97.0,
+    "status": "EARLY",
+    "p15": 1.21,
+    "vr": 0.62,
+    "va": 9.5,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
