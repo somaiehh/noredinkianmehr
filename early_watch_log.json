@@ -40361,7 +40361,10 @@
       "max_up": 2.21,
       "max_down": -1.03
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.21,
+      "max_down": -1.46
+    },
     "result_12h": null
   },
   {
@@ -40528,7 +40531,10 @@
     "bs": 1.28,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -2.68,
+      "max_down": -2.68
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

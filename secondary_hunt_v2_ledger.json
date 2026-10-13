@@ -1390,6 +1390,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "POLIRT": {
+      "trigger_time": 1791880488438,
+      "trigger_price": 27086.0,
+      "secondary_score": 60.0,
+      "hunt_score": 47.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
