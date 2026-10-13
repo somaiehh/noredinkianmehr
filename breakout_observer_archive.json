@@ -17418,5 +17418,18 @@
     "confirmed_time": 1791827575973,
     "confirmed_price": 25796.0,
     "expired_time": 1791869556033
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1791776976463,
+    "anchor_price": 155.1,
+    "status": "FAILED",
+    "created_time": 1791776976463,
+    "last_time": 1791884397832,
+    "last_price": 114.2,
+    "max_gain_pct": 5.8672,
+    "levels": [],
+    "failed_time": 1791779571569,
+    "failed_price": 150.0
   }
 ]

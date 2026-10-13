@@ -40603,6 +40603,28 @@
     "bs": 1.79,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 0.65,
+      "max_down": -3.67
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ESIRT",
+    "time": 1791884977751,
+    "price": 343.0,
+    "level": "WATCH",
+    "hunt": 45.3,
+    "persistence": 1,
+    "p15": 0.29,
+    "vr": 0.14,
+    "va": 5.15,
+    "buy": 100,
+    "bs": 3.46,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
