@@ -7945,5 +7945,43 @@
       "max_down": -3.49
     },
     "result_4h": null
+  },
+  {
+    "symbol": "IRIRT",
+    "time": 1791899326886,
+    "price": 1148.0,
+    "pre30": 0.88,
+    "pre60": -1.63,
+    "pre120": 0.53,
+    "hunt": 69.9,
+    "persistence": 3,
+    "vr": 2.81,
+    "va": 7.05,
+    "buy": 72.00000000000001,
+    "bs": 2.16,
+    "ob": 0.94,
+    "p15": 0.26,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "IRIRT",
+    "time": 1791899527991,
+    "price": 1148.0,
+    "pre30": 0.88,
+    "pre60": -0.35,
+    "pre120": 0.53,
+    "hunt": 69.6,
+    "persistence": 4,
+    "vr": 3.78,
+    "va": 4.89,
+    "buy": 62.0,
+    "bs": 1.86,
+    "ob": 0.86,
+    "p15": 0.26,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

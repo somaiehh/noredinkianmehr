@@ -40253,7 +40253,10 @@
       "max_up": 0.5,
       "max_down": -2.16
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.5,
+      "max_down": -6.08
+    }
   },
   {
     "symbol": "MAGICIRT",
@@ -40641,7 +40644,10 @@
       "max_up": 24.67,
       "max_down": -3.67
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 33.13,
+      "max_down": -3.67
+    },
     "result_12h": null
   },
   {
@@ -40666,7 +40672,10 @@
       "max_up": 3.21,
       "max_down": -3.21
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.21,
+      "max_down": -11.08
+    },
     "result_12h": null
   },
   {
@@ -40787,7 +40796,10 @@
       "max_up": -1.46,
       "max_down": -1.51
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -1.46,
+      "max_down": -6.38
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -40803,6 +40815,66 @@
     "va": 2.0,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.33,
+      "max_down": -0.33
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "IRIRT",
+    "time": 1791899326886,
+    "price": 1148.0,
+    "level": "STRONG",
+    "hunt": 69.9,
+    "persistence": 3,
+    "p15": 0.26,
+    "vr": 2.81,
+    "va": 7.05,
+    "buy": 72.00000000000001,
+    "bs": 2.16,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1791899527991,
+    "price": 9.644e-05,
+    "level": "STRONG",
+    "hunt": 58.4,
+    "persistence": 4,
+    "p15": 0.15,
+    "vr": 6.9,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "APUIRT",
+    "time": 1791899527991,
+    "price": 3.24,
+    "level": "STRONG",
+    "hunt": 71.3,
+    "persistence": 1,
+    "p15": 1.25,
+    "vr": 2.49,
+    "va": 3.12,
+    "buy": 38.33333333333333,
+    "bs": 1.15,
     "breakout": false,
     "priority": false,
     "result_15m": null,
