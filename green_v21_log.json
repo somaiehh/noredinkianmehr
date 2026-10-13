@@ -8053,7 +8053,10 @@
     "ob": 0.78,
     "p15": 1.18,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_4h": null
   },
   {
@@ -8110,6 +8113,44 @@
     "ob": 1.0,
     "p15": 1.1,
     "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "BATIRT",
+    "time": 1791912685012,
+    "price": 48678.0,
+    "pre30": 0.85,
+    "pre60": -0.82,
+    "pre120": 3.39,
+    "hunt": 73.7,
+    "persistence": 5,
+    "vr": 1.74,
+    "va": 3.22,
+    "buy": 50.33333333333333,
+    "bs": 1.51,
+    "ob": 1.0,
+    "p15": 0.26,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "SUIIRT",
+    "time": 1791912909679,
+    "price": 274129.0,
+    "pre30": 0.07,
+    "pre60": 1.64,
+    "pre120": 2.29,
+    "hunt": 76.2,
+    "persistence": 2,
+    "vr": 10.01,
+    "va": 10.0,
+    "buy": 74.33333333333333,
+    "bs": 2.23,
+    "ob": 1.0,
+    "p15": 0.25,
+    "breakout": true,
     "result_1h": null,
     "result_4h": null
   }

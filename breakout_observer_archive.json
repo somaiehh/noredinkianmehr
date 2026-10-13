@@ -17790,5 +17790,31 @@
     "levels": [],
     "failed_time": 1791859831531,
     "failed_price": 33908.0
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1791866054352,
+    "anchor_price": 277857.0,
+    "status": "FAILED",
+    "created_time": 1791866054352,
+    "last_time": 1791912067811,
+    "last_price": 273444.0,
+    "max_gain_pct": 2.209,
+    "levels": [],
+    "failed_time": 1791887751725,
+    "failed_price": 269171.0
+  },
+  {
+    "symbol": "LUMIAIRT",
+    "anchor_time": 1791867770923,
+    "anchor_price": 29209.0,
+    "status": "FAILED",
+    "created_time": 1791867770923,
+    "last_time": 1791912067811,
+    "last_price": 25307.0,
+    "max_gain_pct": 2.8587,
+    "levels": [],
+    "failed_time": 1791886727848,
+    "failed_price": 28228.0
   }
 ]
