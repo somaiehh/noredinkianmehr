@@ -40718,7 +40718,10 @@
       "max_up": 3.21,
       "max_down": -11.08
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.21,
+      "max_down": -11.08
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -41240,7 +41243,10 @@
       "max_up": 0.29,
       "max_down": -0.21
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.35,
+      "max_down": -1.37
+    },
     "result_12h": null
   },
   {
@@ -41383,7 +41389,10 @@
       "max_up": -0.58,
       "max_down": -0.58
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.02,
+      "max_down": -0.67
+    },
     "result_4h": null,
     "result_12h": null
   },
