@@ -39943,7 +39943,10 @@
       "max_up": 0.48,
       "max_down": -11.34
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.48,
+      "max_down": -13.18
+    }
   },
   {
     "symbol": "WIFIRT",
@@ -40244,6 +40247,25 @@
       "max_up": -0.55,
       "max_down": -14.81
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1791863320134,
+    "price": 358564.0,
+    "level": "STRONG",
+    "hunt": 75.2,
+    "persistence": 1,
+    "p15": 0.09,
+    "vr": 7.38,
+    "va": 4.62,
+    "buy": 100,
+    "bs": 3.05,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
