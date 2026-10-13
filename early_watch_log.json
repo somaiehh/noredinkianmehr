@@ -41277,6 +41277,28 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": -0.01,
+      "max_down": -0.14
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BATIRT",
+    "time": 1791921056245,
+    "price": 50500.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.0,
+    "vr": 5.74,
+    "va": 4.69,
+    "buy": 79.33333333333333,
+    "bs": 2.38,
+    "breakout": true,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
