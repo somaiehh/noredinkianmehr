@@ -40473,7 +40473,10 @@
       "max_up": 0.0,
       "max_down": -2.28
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -3.19
+    },
     "result_12h": null
   },
   {
@@ -40498,7 +40501,10 @@
       "max_up": 0.32,
       "max_down": -1.85
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.32,
+      "max_down": -4.0
+    },
     "result_12h": null
   },
   {
@@ -40523,7 +40529,10 @@
       "max_up": 0.3,
       "max_down": -1.19
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.89,
+      "max_down": -1.49
+    },
     "result_12h": null
   },
   {
@@ -40644,7 +40653,10 @@
       "max_up": 3.21,
       "max_down": 0.29
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.21,
+      "max_down": -3.21
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -40660,6 +40672,28 @@
     "va": 10.0,
     "buy": 80.33333333333333,
     "bs": 2.41,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.35,
+      "max_down": -0.35
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "AMPIRT",
+    "time": 1791889447271,
+    "price": 189.7,
+    "level": "WATCH",
+    "hunt": 47.7,
+    "persistence": 1,
+    "p15": 0.16,
+    "vr": 0.69,
+    "va": 7.23,
+    "buy": 100,
+    "bs": 4.31,
     "breakout": false,
     "priority": false,
     "result_15m": null,

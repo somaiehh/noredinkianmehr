@@ -7894,7 +7894,10 @@
       "max_up": 0.3,
       "max_down": -1.19
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.89,
+      "max_down": -1.49
+    }
   },
   {
     "symbol": "OGNIRT",
@@ -7934,7 +7937,10 @@
     "ob": 1.0,
     "p15": 0.58,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.91,
+      "max_down": -3.49
+    },
     "result_4h": null
   }
 ]
