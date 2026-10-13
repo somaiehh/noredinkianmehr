@@ -17905,5 +17905,18 @@
       }
     ],
     "expired_time": 1791901563343
+  },
+  {
+    "symbol": "FILIRT",
+    "anchor_time": 1791776769920,
+    "anchor_price": 325555.0,
+    "status": "FAILED",
+    "created_time": 1791776769920,
+    "last_time": 1791919080854,
+    "last_price": 308152.0,
+    "max_gain_pct": 2.3382,
+    "levels": [],
+    "failed_time": 1791811962300,
+    "failed_price": 315360.0
   }
 ]
