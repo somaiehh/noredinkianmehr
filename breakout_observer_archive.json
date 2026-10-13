@@ -17184,5 +17184,18 @@
     "levels": [],
     "failed_time": 1791819193252,
     "failed_price": 1143.7
+  },
+  {
+    "symbol": "LUMIAIRT",
+    "anchor_time": 1791780588110,
+    "anchor_price": 30274.0,
+    "status": "FAILED",
+    "created_time": 1791780588110,
+    "last_time": 1791867080609,
+    "last_price": 28026.0,
+    "max_gain_pct": 1.8498,
+    "levels": [],
+    "failed_time": 1791796883595,
+    "failed_price": 29335.0
   }
 ]
