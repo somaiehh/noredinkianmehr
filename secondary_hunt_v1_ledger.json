@@ -2951,6 +2951,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "AIOIRT": {
+      "trigger_time": 1791892514999,
+      "trigger_price": 9045.0,
+      "secondary_score": 60.0,
+      "hunt_score": 22.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
