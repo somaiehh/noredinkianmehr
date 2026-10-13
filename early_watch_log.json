@@ -40749,7 +40749,10 @@
       "max_up": 1.74,
       "max_down": -10.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 12.09,
+      "max_down": -10.61
+    }
   },
   {
     "symbol": "AMPIRT",
@@ -40777,7 +40780,10 @@
       "max_up": -1.42,
       "max_down": -9.59
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 12.12,
+      "max_down": -9.59
+    }
   },
   {
     "symbol": "TUTIRT",
