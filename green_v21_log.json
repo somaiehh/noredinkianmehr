@@ -7869,7 +7869,10 @@
       "max_up": 5.36,
       "max_down": -0.54
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 5.36,
+      "max_down": -2.48
+    }
   },
   {
     "symbol": "APUIRT",
@@ -7887,7 +7890,10 @@
     "ob": 1.0,
     "p15": 1.2,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.3,
+      "max_down": -1.19
+    },
     "result_4h": null
   }
 ]
