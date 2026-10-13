@@ -8122,7 +8122,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 1.2019,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   },
@@ -8166,6 +8166,27 @@
     "result_move": null,
     "max_move": 4.873,
     "min_move": -1.5864,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "DOGSIRT",
+    "event_time": 1791869765755,
+    "event_price": 11.07,
+    "anchor_time": 1791869556033,
+    "anchor_price": 11.07,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.7692,
+    "tm_e15_e1": 0.7692,
+    "tm_e1_e4": 0.5417,
+    "tm_g15": 1.1111,
+    "tm_g1": 1.0833,
+    "tm_g4": 1.0435,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
