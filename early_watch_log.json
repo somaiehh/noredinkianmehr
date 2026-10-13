@@ -39912,7 +39912,10 @@
       "max_up": 11.15,
       "max_down": -1.72
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 11.15,
+      "max_down": -30.87
+    }
   },
   {
     "symbol": "BTRIRT",

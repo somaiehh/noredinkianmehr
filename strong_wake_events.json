@@ -8125,5 +8125,26 @@
     "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "event_time": 1791860591627,
+    "event_price": 1154.2,
+    "anchor_time": 1791858030290,
+    "anchor_price": 1158.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 1.0,
+    "tm_e15_e1": 1.0,
+    "tm_e1_e4": 0.1389,
+    "tm_g15": 5.0,
+    "tm_g1": 0.2381,
+    "tm_g4": 1.1613,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
