@@ -1472,6 +1472,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "XTZIRT": {
+      "trigger_time": 1791935265645,
+      "trigger_price": 83500.0,
+      "secondary_score": 60.0,
+      "hunt_score": 47.1,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
