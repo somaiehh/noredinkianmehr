@@ -1417,6 +1417,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ACNIRT": {
+      "trigger_time": 1791898320282,
+      "trigger_price": 1423.3,
+      "secondary_score": 60.0,
+      "hunt_score": 41.3,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

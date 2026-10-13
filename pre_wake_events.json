@@ -5539,7 +5539,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.439,
+    "max_move": 3.4533,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -5560,8 +5560,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 2.6616,
     "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "OGNIRT",
+    "event_time": 1791898320282,
+    "event_price": 9300.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 41.4,
+    "p15": -1.92,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 1.68,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -0.5914,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]

@@ -40762,7 +40762,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.37,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -40784,6 +40787,25 @@
       "max_up": -1.46,
       "max_down": -1.51
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARBIRT",
+    "time": 1791898528067,
+    "price": 47454.0,
+    "level": "STRONG",
+    "hunt": 53.9,
+    "persistence": 2,
+    "p15": 0.12,
+    "vr": 6.45,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
