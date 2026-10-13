@@ -40884,5 +40884,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "time": 1791901563343,
+    "price": 40.6,
+    "level": "STRONG",
+    "hunt": 64.6,
+    "persistence": 1,
+    "p15": 0.74,
+    "vr": 1.63,
+    "va": 2.0,
+    "buy": 90.33333333333333,
+    "bs": 2.71,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
