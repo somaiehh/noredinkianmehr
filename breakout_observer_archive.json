@@ -17457,5 +17457,18 @@
     "levels": [],
     "failed_time": 1791809241659,
     "failed_price": 628.7
+  },
+  {
+    "symbol": "BOMEIRT",
+    "anchor_time": 1791453947480,
+    "anchor_price": 288.2,
+    "status": "FAILED",
+    "created_time": 1791453947480,
+    "last_time": 1791896062289,
+    "last_price": 203.7,
+    "max_gain_pct": 6.0028,
+    "levels": [],
+    "failed_time": 1791463123806,
+    "failed_price": 279.5
   }
 ]
