@@ -7868,7 +7868,7 @@
     "tm_g4": 1.4194,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791824685159,
+    "result_time": 1791825515423,
     "result_move": -6.701,
     "max_move": 1.8041,
     "min_move": -7.732,
@@ -8312,7 +8312,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0184,
-    "min_move": -2.6511,
+    "min_move": -3.9613,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -8355,6 +8355,27 @@
     "result_move": -5.5294,
     "max_move": 0.0,
     "min_move": -5.5294,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "TIRT",
+    "event_time": 1791894835169,
+    "event_price": 1352.0,
+    "anchor_time": 1791888364325,
+    "anchor_price": 1385.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 1.0,
+    "tm_e15_e1": 1.0,
+    "tm_e1_e4": 0.0435,
+    "tm_g15": 1.0,
+    "tm_g1": 0.0455,
+    "tm_g4": 1.0455,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
