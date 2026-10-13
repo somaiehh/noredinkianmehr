@@ -8219,7 +8219,10 @@
       "max_up": 0.0,
       "max_down": -2.4
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -2.4
+    }
   },
   {
     "symbol": "LINKIRT",
@@ -8241,7 +8244,10 @@
       "max_up": 0.1,
       "max_down": -0.56
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.1,
+      "max_down": -1.82
+    }
   },
   {
     "symbol": "HIPPOIRT",
@@ -8259,7 +8265,10 @@
     "ob": 1.0,
     "p15": 1.13,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 4.45,
+      "max_down": -4.23
+    },
     "result_4h": null
   }
 ]
