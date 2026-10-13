@@ -7870,5 +7870,24 @@
       "max_down": -0.54
     },
     "result_4h": null
+  },
+  {
+    "symbol": "APUIRT",
+    "time": 1791875170748,
+    "price": 3.36,
+    "pre30": 1.2,
+    "pre60": 3.7,
+    "pre120": 3.7,
+    "hunt": 75.5,
+    "persistence": 2,
+    "vr": 3.04,
+    "va": 2.59,
+    "buy": 37.00000000000001,
+    "bs": 1.11,
+    "ob": 1.0,
+    "p15": 1.2,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

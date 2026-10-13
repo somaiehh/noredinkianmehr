@@ -17309,5 +17309,43 @@
       }
     ],
     "expired_time": 1791785921398
+  },
+  {
+    "symbol": "ICPIRT",
+    "anchor_time": 1791748124299,
+    "anchor_price": 875047.0,
+    "status": "EXPIRED",
+    "created_time": 1791748124299,
+    "last_time": 1791872367104,
+    "last_price": 810000.0,
+    "max_gain_pct": 5.9648,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791752523866,
+    "confirmed_price": 903898.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791758539619,
+        "price": 927242.0,
+        "gain_pct": 5.9648
+      }
+    ],
+    "expired_time": 1791791447353
+  },
+  {
+    "symbol": "APTIRT",
+    "anchor_time": 1791655294435,
+    "anchor_price": 227248.0,
+    "status": "EXPIRED",
+    "created_time": 1791655294435,
+    "last_time": 1791874972229,
+    "last_price": 221735.0,
+    "max_gain_pct": 11.726,
+    "levels": [],
+    "confirmed_time": 1791684417611,
+    "confirmed_price": 234245.0,
+    "expired_time": 1791699886374
   }
 ]
