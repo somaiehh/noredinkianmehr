@@ -8144,7 +8144,10 @@
       "max_up": -0.65,
       "max_down": -1.18
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 7.68,
+      "max_down": -2.22
+    }
   },
   {
     "symbol": "BATIRT",
@@ -8166,7 +8169,10 @@
       "max_up": 0.19,
       "max_down": -0.35
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 8.59,
+      "max_down": -1.39
+    }
   },
   {
     "symbol": "SUIIRT",
