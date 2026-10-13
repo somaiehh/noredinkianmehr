@@ -17881,5 +17881,29 @@
     "levels": [],
     "failed_time": 1791467479207,
     "failed_price": 7.15022
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "anchor_time": 1791858030290,
+    "anchor_price": 43.0,
+    "status": "EXPIRED",
+    "created_time": 1791858030290,
+    "last_time": 1791915838941,
+    "last_price": 41.0,
+    "max_gain_pct": 8.1395,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791858699627,
+    "confirmed_price": 46.5,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791858699627,
+        "price": 46.5,
+        "gain_pct": 8.1395
+      }
+    ],
+    "expired_time": 1791901563343
   }
 ]
