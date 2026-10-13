@@ -8036,5 +8036,24 @@
       "max_down": 0.0
     },
     "result_4h": null
+  },
+  {
+    "symbol": "PIGGYIRT",
+    "time": 1791909192377,
+    "price": 3170.0,
+    "pre30": 3.76,
+    "pre60": 3.76,
+    "pre120": 3.76,
+    "hunt": 84.0,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 19.333333333333332,
+    "bs": 0.58,
+    "ob": 0.78,
+    "p15": 1.18,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

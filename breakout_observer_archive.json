@@ -17656,5 +17656,43 @@
     "max_gain_pct": 3.1351,
     "levels": [],
     "expired_time": 1791775852427
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1791834549766,
+    "anchor_price": 13449.0,
+    "status": "FAILED",
+    "created_time": 1791834549766,
+    "last_time": 1791905942266,
+    "last_price": 12684.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791855927963,
+    "failed_price": 12466.0
+  },
+  {
+    "symbol": "BILLIRT",
+    "anchor_time": 1791200366318,
+    "anchor_price": 3166.0,
+    "status": "FAILED",
+    "created_time": 1791200366318,
+    "last_time": 1791905942266,
+    "last_price": 2251.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791207035301,
+    "failed_price": 3064.0
+  },
+  {
+    "symbol": "NOTIRT",
+    "anchor_time": 1791732837128,
+    "anchor_price": 125.6,
+    "status": "EXPIRED",
+    "created_time": 1791732837128,
+    "last_time": 1791908966076,
+    "last_price": 116.0,
+    "max_gain_pct": 0.7962,
+    "levels": [],
+    "expired_time": 1791776769920
   }
 ]
