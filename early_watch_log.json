@@ -41925,5 +41925,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "MAJORIRT",
+    "time": 1791974090817,
+    "price": 9231.0,
+    "level": "STRONG",
+    "hunt": 75.3,
+    "persistence": 1,
+    "p15": 0.38,
+    "vr": 1.08,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.4,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]

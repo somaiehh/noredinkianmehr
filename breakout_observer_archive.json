@@ -18235,5 +18235,30 @@
     "max_gain_pct": 2.2829,
     "levels": [],
     "expired_time": 1791955236871
+  },
+  {
+    "symbol": "MBLIRT",
+    "anchor_time": 1791871656994,
+    "anchor_price": 374.0,
+    "status": "FAILED",
+    "created_time": 1791871656994,
+    "last_time": 1791973473036,
+    "last_price": 234.1,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791872164771,
+    "failed_price": 333.0
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1791920059306,
+    "anchor_price": 1314.4,
+    "status": "EXPIRED",
+    "created_time": 1791920059306,
+    "last_time": 1791973473036,
+    "last_price": 1325.9,
+    "max_gain_pct": 0.8749,
+    "levels": [],
+    "expired_time": 1791963415488
   }
 ]
