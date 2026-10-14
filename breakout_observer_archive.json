@@ -18597,5 +18597,19 @@
     "levels": [],
     "failed_time": 1791889737001,
     "failed_price": 308061413.0
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1791901563343,
+    "anchor_price": 9.667e-05,
+    "status": "EXPIRED",
+    "created_time": 1791901563343,
+    "last_time": 1792000537020,
+    "last_price": 9.829e-05,
+    "max_gain_pct": 3.693,
+    "levels": [],
+    "confirmed_time": 1791911249677,
+    "confirmed_price": 9.96e-05,
+    "expired_time": 1791944849501
   }
 ]
