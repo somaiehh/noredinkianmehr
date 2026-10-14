@@ -4389,5 +4389,18 @@
     "bs": 3.0,
     "breakout": false,
     "persistence": 3
+  },
+  {
+    "time": 1792004925758,
+    "symbol": "AVAIRT",
+    "price": 83568.0,
+    "hunt_score": 99.5,
+    "status": "EARLY",
+    "p15": 2.45,
+    "vr": 0.82,
+    "va": 5.08,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]

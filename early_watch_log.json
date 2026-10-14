@@ -41785,7 +41785,10 @@
       "max_up": 4.83,
       "max_down": -1.43
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.83,
+      "max_down": -5.46
+    }
   },
   {
     "symbol": "HIPPOIRT",
@@ -42145,7 +42148,10 @@
       "max_up": -1.06,
       "max_down": -3.9
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -1.06,
+      "max_down": -6.5
+    },
     "result_12h": null
   },
   {
@@ -42438,7 +42444,10 @@
       "max_up": -0.78,
       "max_down": -0.78
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.78,
+      "max_down": -8.17
+    },
     "result_4h": null,
     "result_12h": null
   }
