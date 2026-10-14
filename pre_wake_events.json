@@ -6128,7 +6128,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 5.4711,
-    "min_move": -0.9119,
+    "min_move": -1.2158,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -6149,7 +6149,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 5.4711,
-    "min_move": -0.9119,
+    "min_move": -1.2158,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -6211,7 +6211,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.4098,
+    "max_move": 0.5328,
     "min_move": -3.0984,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -6318,6 +6318,27 @@
     "result_move": -5.6573,
     "max_move": 0.0,
     "min_move": -5.6573,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "WALIRT",
+    "event_time": 1792018340853,
+    "event_price": 16842.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 32.9,
+    "p15": -0.93,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 4.63,
+    "book": 0.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
