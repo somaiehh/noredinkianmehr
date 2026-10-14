@@ -18173,5 +18173,18 @@
     "levels": [],
     "failed_time": 1791815827884,
     "failed_price": 616.0
+  },
+  {
+    "symbol": "MAGICIRT",
+    "anchor_time": 1791911852044,
+    "anchor_price": 32216.0,
+    "status": "FAILED",
+    "created_time": 1791911852044,
+    "last_time": 1791966159588,
+    "last_price": 29628.0,
+    "max_gain_pct": 2.297,
+    "levels": [],
+    "failed_time": 1791942203617,
+    "failed_price": 30700.0
   }
 ]
