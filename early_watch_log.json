@@ -40904,7 +40904,10 @@
       "max_up": 3.36,
       "max_down": -1.03
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.42,
+      "max_down": -1.03
+    }
   },
   {
     "symbol": "IRIRT",
@@ -41451,7 +41454,10 @@
       "max_up": 0.68,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.68,
+      "max_down": -2.03
+    },
     "result_12h": null
   },
   {
@@ -41473,7 +41479,10 @@
       "max_up": 4.45,
       "max_down": -4.23
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.9,
+      "max_down": -9.35
+    },
     "result_12h": null
   },
   {
@@ -41495,7 +41504,10 @@
       "max_up": -0.12,
       "max_down": -2.88
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.12,
+      "max_down": -2.88
+    },
     "result_12h": null
   }
 ]
