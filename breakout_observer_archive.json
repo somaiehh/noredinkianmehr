@@ -18091,5 +18091,48 @@
       }
     ],
     "expired_time": 1791949563113
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1791914983884,
+    "anchor_price": 1.09919,
+    "status": "EXPIRED",
+    "created_time": 1791914983884,
+    "last_time": 1791960688256,
+    "last_price": 1.08904,
+    "max_gain_pct": 0.6669,
+    "levels": [],
+    "expired_time": 1791958343881
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "anchor_time": 1791916309799,
+    "anchor_price": 41.9,
+    "status": "EXPIRED",
+    "created_time": 1791916309799,
+    "last_time": 1791960688256,
+    "last_price": 41.7,
+    "max_gain_pct": 12.4105,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791923327324,
+    "confirmed_price": 43.8,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791924815672,
+        "price": 44.4,
+        "gain_pct": 5.9666
+      },
+      {
+        "level": 10,
+        "time": 1791928751322,
+        "price": 46.9,
+        "gain_pct": 11.9332
+      }
+    ],
+    "expired_time": 1791959689575
   }
 ]
