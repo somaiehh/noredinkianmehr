@@ -41816,7 +41816,10 @@
       "max_up": -0.23,
       "max_down": -4.68
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.23,
+      "max_down": -5.85
+    }
   },
   {
     "symbol": "IRIRT",
@@ -41844,7 +41847,10 @@
       "max_up": 6.27,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.27,
+      "max_down": -9.4
+    }
   },
   {
     "symbol": "WALIRT",
@@ -42460,6 +42466,25 @@
       "max_up": -0.78,
       "max_down": -8.17
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "EPICIRT",
+    "time": 1792009360580,
+    "price": 74081.0,
+    "level": "STRONG",
+    "hunt": 72.8,
+    "persistence": 3,
+    "p15": 1.39,
+    "vr": 0.52,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.44,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
