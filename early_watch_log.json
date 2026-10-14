@@ -41515,7 +41515,10 @@
       "max_up": 0.68,
       "max_down": -2.03
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.68,
+      "max_down": -3.38
+    }
   },
   {
     "symbol": "HIPPOIRT",
@@ -41540,7 +41543,10 @@
       "max_up": 4.9,
       "max_down": -9.35
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.9,
+      "max_down": -10.91
+    }
   },
   {
     "symbol": "VELVETIRT",
@@ -41565,7 +41571,10 @@
       "max_up": -0.12,
       "max_down": -2.88
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.12,
+      "max_down": -2.88
+    }
   },
   {
     "symbol": "CPOOLIRT",
@@ -41645,7 +41654,10 @@
       "max_up": 4.83,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.83,
+      "max_down": -1.45
+    },
     "result_12h": null
   },
   {
@@ -41670,7 +41682,10 @@
       "max_up": 2.28,
       "max_down": -5.55
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.28,
+      "max_down": -8.32
+    },
     "result_12h": null
   },
   {
@@ -41792,6 +41807,25 @@
       "max_up": 6.27,
       "max_down": 0.0
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WALIRT",
+    "time": 1791969578251,
+    "price": 12924.0,
+    "level": "STRONG",
+    "hunt": 61.7,
+    "persistence": 1,
+    "p15": 1.6,
+    "vr": 0.75,
+    "va": 3.08,
+    "buy": 86.66666666666667,
+    "bs": 2.6,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
