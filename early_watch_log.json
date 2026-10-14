@@ -41878,7 +41878,10 @@
       "max_up": 12.19,
       "max_down": 2.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 33.19,
+      "max_down": 2.82
+    }
   },
   {
     "symbol": "STRKIRT",
@@ -42498,6 +42501,25 @@
     "bs": 4.44,
     "breakout": false,
     "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "OSMOIRT",
+    "time": 1792012851601,
+    "price": 11339.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.24,
+    "vr": 0.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

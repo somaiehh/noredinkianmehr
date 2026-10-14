@@ -18686,5 +18686,29 @@
     "confirmed_time": 1791946971365,
     "confirmed_price": 15480.0,
     "expired_time": 1791966996112
+  },
+  {
+    "symbol": "WIRT",
+    "anchor_time": 1791921766314,
+    "anchor_price": 4350.0,
+    "status": "EXPIRED",
+    "created_time": 1791921766314,
+    "last_time": 1792012647412,
+    "last_price": 4121.0,
+    "max_gain_pct": 6.2759,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791923327324,
+    "confirmed_price": 4543.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791927276303,
+        "price": 4623.0,
+        "gain_pct": 6.2759
+      }
+    ],
+    "expired_time": 1791964985910
   }
 ]
