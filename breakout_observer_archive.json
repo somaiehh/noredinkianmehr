@@ -18672,5 +18672,19 @@
     "levels": [],
     "failed_time": 1791967735409,
     "failed_price": 16625.0
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1791923515904,
+    "anchor_price": 15005.0,
+    "status": "EXPIRED",
+    "created_time": 1791923515904,
+    "last_time": 1792007942707,
+    "last_price": 14038.0,
+    "max_gain_pct": 4.7051,
+    "levels": [],
+    "confirmed_time": 1791946971365,
+    "confirmed_price": 15480.0,
+    "expired_time": 1791966996112
   }
 ]
