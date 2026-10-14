@@ -4311,5 +4311,31 @@
     "bs": 1.32,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1791985663877,
+    "symbol": "ESIRT",
+    "price": 312.0,
+    "hunt_score": 82.1,
+    "status": "EARLY",
+    "p15": 2.3,
+    "vr": 3.86,
+    "va": 3.78,
+    "bs": 0.15,
+    "breakout": false,
+    "persistence": 3
+  },
+  {
+    "time": 1791985900464,
+    "symbol": "ESIRT",
+    "price": 312.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 2.3,
+    "vr": 3.86,
+    "va": 3.78,
+    "bs": 0.09,
+    "breakout": false,
+    "persistence": 4
   }
 ]
