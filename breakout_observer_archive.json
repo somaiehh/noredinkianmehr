@@ -18405,5 +18405,18 @@
     "levels": [],
     "failed_time": 1791876802552,
     "failed_price": 62252.0
+  },
+  {
+    "symbol": "IRIRT",
+    "anchor_time": 1791458550321,
+    "anchor_price": 1180.0,
+    "status": "FAILED",
+    "created_time": 1791458550321,
+    "last_time": 1791983641968,
+    "last_price": 1229.0,
+    "max_gain_pct": 9.2373,
+    "levels": [],
+    "failed_time": 1791483816905,
+    "failed_price": 1135.0
   }
 ]
