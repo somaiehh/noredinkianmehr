@@ -18611,5 +18611,29 @@
     "confirmed_time": 1791911249677,
     "confirmed_price": 9.96e-05,
     "expired_time": 1791944849501
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1791912685012,
+    "anchor_price": 274129.0,
+    "status": "EXPIRED",
+    "created_time": 1791912685012,
+    "last_time": 1792003798945,
+    "last_price": 268419.0,
+    "max_gain_pct": 5.4248,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791925669394,
+    "confirmed_price": 289000.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791925669394,
+        "price": 289000.0,
+        "gain_pct": 5.4248
+      }
+    ],
+    "expired_time": 1791955991086
   }
 ]
