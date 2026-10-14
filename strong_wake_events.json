@@ -8204,8 +8204,8 @@
     "tm_g4": 1.069,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791916309799,
-    "result_move": -6.4226,
+    "result_time": 1791918268540,
+    "result_move": -6.0503,
     "max_move": 0.8998,
     "min_move": -8.1911,
     "ledger_version": "wake-ledger-v1"
@@ -8649,6 +8649,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -1.2477,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "CAPIRT",
+    "event_time": 1791968722445,
+    "event_price": 22725.9,
+    "anchor_time": 1791966996112,
+    "anchor_price": 22859.2,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1333,
+    "tm_e15_e1": 0.1333,
+    "tm_e1_e4": 0.6,
+    "tm_g15": 0.1538,
+    "tm_g1": 1.0714,
+    "tm_g4": 1.087,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
