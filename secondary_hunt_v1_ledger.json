@@ -3050,6 +3050,37 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "LUNCIRT": {
+      "trigger_time": 1791971265933,
+      "trigger_price": 12.701,
+      "secondary_score": 65.0,
+      "hunt_score": 42.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "ENJIRT": {
+      "trigger_time": 1791971458946,
+      "trigger_price": 8018.0,
+      "secondary_score": 100.0,
+      "hunt_score": 68.5,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

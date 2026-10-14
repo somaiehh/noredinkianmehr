@@ -41831,5 +41831,43 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "STRKIRT",
+    "time": 1791971265933,
+    "price": 20552.0,
+    "level": "WATCH",
+    "hunt": 42.7,
+    "persistence": 1,
+    "p15": 0.31,
+    "vr": 2.52,
+    "va": 0.45,
+    "buy": 68.66666666666667,
+    "bs": 2.06,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ENJIRT",
+    "time": 1791971458946,
+    "price": 8018.0,
+    "level": "STRONG",
+    "hunt": 68.5,
+    "persistence": 1,
+    "p15": 0.06,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 82.66666666666667,
+    "bs": 2.48,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
