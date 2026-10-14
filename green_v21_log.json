@@ -8290,7 +8290,10 @@
     "ob": 0.8,
     "p15": 0.33,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.11,
+      "max_down": 0.49
+    },
     "result_4h": null
   },
   {
@@ -8308,6 +8311,25 @@
     "bs": 0.45,
     "ob": 1.0,
     "p15": 0.66,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "IRIRT",
+    "time": 1791965183548,
+    "price": 1213.0,
+    "pre30": -2.02,
+    "pre60": 0.17,
+    "pre120": 4.84,
+    "hunt": 74.2,
+    "persistence": 2,
+    "vr": 3.81,
+    "va": 3.81,
+    "buy": 100,
+    "bs": 3.49,
+    "ob": 1.0,
+    "p15": 1.0,
     "breakout": false,
     "result_1h": null,
     "result_4h": null
