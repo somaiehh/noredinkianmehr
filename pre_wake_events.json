@@ -5578,11 +5578,11 @@
     "book": 1.0,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1791945566723,
+    "result_move": -6.4516,
     "max_move": 1.5376,
-    "min_move": -3.0645,
+    "min_move": -6.4516,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -5704,11 +5704,11 @@
     "book": 0.02,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1791945566723,
+    "result_move": -6.3518,
     "max_move": 9.1205,
-    "min_move": -1.759,
+    "min_move": -6.3518,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -5750,7 +5750,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.6325,
-    "min_move": -2.2235,
+    "min_move": -2.8358,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -5830,11 +5830,32 @@
     "book": 0.0,
     "breakout": false,
     "fast_v13": null,
+    "result": "HIT_FIRST",
+    "result_time": 1791945566723,
+    "result_move": 10.2343,
+    "max_move": 10.2343,
+    "min_move": -1.2098,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "LABIRT",
+    "event_time": 1791945771892,
+    "event_price": 12365.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 37.7,
+    "p15": -1.02,
+    "vr": null,
+    "va": 5.5,
+    "ta": null,
+    "bs": 5.0,
+    "book": 0.0,
+    "breakout": false,
+    "fast_v13": null,
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 5.6412,
-    "min_move": -1.2098,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
