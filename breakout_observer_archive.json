@@ -18571,5 +18571,18 @@
     "levels": [],
     "failed_time": 1791810246985,
     "failed_price": 360.0
+  },
+  {
+    "symbol": "FILIRT",
+    "anchor_time": 1791919265334,
+    "anchor_price": 308709.0,
+    "status": "FAILED",
+    "created_time": 1791919265334,
+    "last_time": 1791998533903,
+    "last_price": 290290.0,
+    "max_gain_pct": 0.9617,
+    "levels": [],
+    "failed_time": 1791924625075,
+    "failed_price": 299396.0
   }
 ]

@@ -8875,11 +8875,11 @@
     "tm_g1": 5.9,
     "tm_g4": 2.8846,
     "legacy": false,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1791999612491,
+    "result_move": -5.2288,
     "max_move": 0.0,
-    "min_move": -3.268,
+    "min_move": -5.2288,
     "ledger_version": "wake-ledger-v1"
   }
 ]

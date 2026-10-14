@@ -42257,7 +42257,10 @@
       "max_up": 1.37,
       "max_down": 0.91
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.37,
+      "max_down": 0.77
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -42361,6 +42364,25 @@
     "va": 3.9,
     "buy": 38.99999999999999,
     "bs": 1.17,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "OPNIRT",
+    "time": 1791999866213,
+    "price": 17515.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.78,
+    "vr": 1.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
