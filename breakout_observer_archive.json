@@ -18659,5 +18659,18 @@
       }
     ],
     "expired_time": 1792003984716
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "anchor_time": 1791963190758,
+    "anchor_price": 17190.0,
+    "status": "FAILED",
+    "created_time": 1791963190758,
+    "last_time": 1792007258061,
+    "last_price": 15779.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791967735409,
+    "failed_price": 16625.0
   }
 ]
