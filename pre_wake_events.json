@@ -5666,7 +5666,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.7134,
-    "min_move": -2.9071,
+    "min_move": -3.6742,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -5687,7 +5687,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 8.7405,
-    "min_move": -3.0728,
+    "min_move": -3.33,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -5792,7 +5792,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 3.6291,
-    "min_move": -1.2322,
+    "min_move": -1.7785,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -5813,7 +5813,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 3.6291,
-    "min_move": -1.2322,
+    "min_move": -1.7785,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
