@@ -41022,7 +41022,10 @@
       "max_up": 1.48,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.71,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "BATIRT",
