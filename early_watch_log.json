@@ -41053,7 +41053,10 @@
       "max_up": 3.42,
       "max_down": -0.88
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 11.44,
+      "max_down": -0.88
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -41081,7 +41084,10 @@
       "max_up": 1.84,
       "max_down": -1.16
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.58,
+      "max_down": -1.16
+    }
   },
   {
     "symbol": "RVNIRT",
