@@ -18009,5 +18009,36 @@
     "levels": [],
     "failed_time": 1791887507989,
     "failed_price": 112.0
+  },
+  {
+    "symbol": "AMPIRT",
+    "anchor_time": 1791888570619,
+    "anchor_price": 181.8,
+    "status": "EXPIRED",
+    "created_time": 1791888570619,
+    "last_time": 1791952418891,
+    "last_price": 193.7,
+    "max_gain_pct": 16.9967,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791889447271,
+    "confirmed_price": 189.7,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791909795686,
+        "price": 192.7,
+        "gain_pct": 5.9956
+      },
+      {
+        "level": 10,
+        "time": 1791913581436,
+        "price": 209.0,
+        "gain_pct": 14.9615
+      }
+    ],
+    "expired_time": 1791933056942
   }
 ]
