@@ -4272,5 +4272,18 @@
     "bs": 4.61,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1791974570447,
+    "symbol": "MAJORIRT",
+    "price": 9350.0,
+    "hunt_score": 80.1,
+    "status": "EARLY",
+    "p15": 1.67,
+    "vr": 1.08,
+    "va": 10.0,
+    "bs": 4.97,
+    "breakout": false,
+    "persistence": 2
   }
 ]
