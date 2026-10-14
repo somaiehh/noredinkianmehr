@@ -18040,5 +18040,32 @@
       }
     ],
     "expired_time": 1791933056942
+  },
+  {
+    "symbol": "ACNIRT",
+    "anchor_time": 1791911249677,
+    "anchor_price": 1614.9,
+    "status": "FAILED",
+    "created_time": 1791911249677,
+    "last_time": 1791955236871,
+    "last_price": 1541.6,
+    "max_gain_pct": 2.1611,
+    "levels": [],
+    "failed_time": 1791913581436,
+    "failed_price": 1560.0
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1791902435878,
+    "anchor_price": 354875.0,
+    "status": "EXPIRED",
+    "created_time": 1791902435878,
+    "last_time": 1791955236871,
+    "last_price": 356987.0,
+    "max_gain_pct": 4.0504,
+    "levels": [],
+    "confirmed_time": 1791917285314,
+    "confirmed_price": 369200.0,
+    "expired_time": 1791945771892
   }
 ]
