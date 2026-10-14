@@ -8690,7 +8690,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.2242,
-    "min_move": -0.9877,
+    "min_move": -2.5781,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -8732,7 +8732,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": 0.0,
+    "min_move": -0.4449,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -8753,7 +8753,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0627,
-    "min_move": -0.1924,
+    "min_move": -0.2508,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -8774,7 +8774,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.3619,
-    "min_move": 0.0,
+    "min_move": -2.4631,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -8790,6 +8790,27 @@
     "tm_g15": 2.0,
     "tm_g1": 1.1667,
     "tm_g4": 1.0952,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -1.2991,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "DUSKIRT",
+    "event_time": 1791981272559,
+    "event_price": 28900.0,
+    "anchor_time": 1791979389896,
+    "anchor_price": 29122.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.5333,
+    "tm_e15_e1": 0.5333,
+    "tm_e1_e4": 0.5357,
+    "tm_g15": 1.3333,
+    "tm_g1": 1.3636,
+    "tm_g4": 1.2727,
     "legacy": false,
     "result": "PENDING",
     "result_time": null,
