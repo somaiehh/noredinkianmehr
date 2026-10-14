@@ -8294,7 +8294,10 @@
       "max_up": 1.11,
       "max_down": 0.49
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.17,
+      "max_down": -0.92
+    }
   },
   {
     "symbol": "RSS3IRT",

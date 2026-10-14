@@ -1500,6 +1500,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "WALIRT": {
+      "trigger_time": 1791975793699,
+      "trigger_price": 14464.0,
+      "secondary_score": 60.0,
+      "hunt_score": 20.4,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
