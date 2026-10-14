@@ -8204,8 +8204,8 @@
     "tm_g4": 1.069,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791905752586,
-    "result_move": -5.9262,
+    "result_time": 1791908966076,
+    "result_move": -5.0574,
     "max_move": 0.8998,
     "min_move": -8.1911,
     "ledger_version": "wake-ledger-v1"
@@ -8351,9 +8351,9 @@
     "tm_g4": 1.1923,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791905752586,
+    "result_time": 1791905942266,
     "result_move": -6.7153,
-    "max_move": 0.0,
+    "max_move": 1.5187,
     "min_move": -6.9679,
     "ledger_version": "wake-ledger-v1"
   },
@@ -8565,6 +8565,27 @@
     "result_move": -7.1785,
     "max_move": 0.1696,
     "min_move": -7.1785,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "BILLIRT",
+    "event_time": 1791960485231,
+    "event_price": 2205.0,
+    "anchor_time": 1791959488858,
+    "anchor_price": 2194.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.2,
+    "tm_e15_e1": 0.2,
+    "tm_e1_e4": 0.6,
+    "tm_g15": 0.375,
+    "tm_g1": 1.25,
+    "tm_g4": 1.1364,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]

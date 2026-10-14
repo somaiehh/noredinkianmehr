@@ -8273,5 +8273,24 @@
       "max_up": 4.9,
       "max_down": -9.35
     }
+  },
+  {
+    "symbol": "OSMOIRT",
+    "time": 1791960688256,
+    "price": 10429.0,
+    "pre30": 0.71,
+    "pre60": -0.78,
+    "pre120": 1.12,
+    "hunt": 69.7,
+    "persistence": 2,
+    "vr": 2.24,
+    "va": 5.16,
+    "buy": 24.0,
+    "bs": 0.72,
+    "ob": 0.8,
+    "p15": 0.33,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
