@@ -18361,5 +18361,36 @@
     "confirmed_time": 1791911249677,
     "confirmed_price": 13401.0,
     "expired_time": 1791952418891
+  },
+  {
+    "symbol": "SDIRT",
+    "anchor_time": 1791885194333,
+    "anchor_price": 40397.0,
+    "status": "EXPIRED",
+    "created_time": 1791885194333,
+    "last_time": 1791980287352,
+    "last_price": 37380.0,
+    "max_gain_pct": 25.1801,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791885850805,
+    "confirmed_price": 42350.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791886062947,
+        "price": 44787.0,
+        "gain_pct": 10.8671
+      },
+      {
+        "level": 10,
+        "time": 1791886062947,
+        "price": 44787.0,
+        "gain_pct": 10.8671
+      }
+    ],
+    "expired_time": 1791928751322
   }
 ]
