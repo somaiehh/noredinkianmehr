@@ -18198,5 +18198,30 @@
     "max_gain_pct": 2.0369,
     "levels": [],
     "expired_time": 1791947938595
+  },
+  {
+    "symbol": "LSKIRT",
+    "anchor_time": 1791599838901,
+    "anchor_price": 63736.0,
+    "status": "EXPIRED",
+    "created_time": 1791599838901,
+    "last_time": 1791971458946,
+    "last_price": 56148.0,
+    "max_gain_pct": 2.2248,
+    "levels": [],
+    "expired_time": 1791644089291
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1791871443338,
+    "anchor_price": 429.9,
+    "status": "FAILED",
+    "created_time": 1791871443338,
+    "last_time": 1791971458946,
+    "last_price": 431.7,
+    "max_gain_pct": 1.4189,
+    "levels": [],
+    "failed_time": 1791885194333,
+    "failed_price": 416.0
   }
 ]
