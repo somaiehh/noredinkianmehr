@@ -8749,7 +8749,7 @@
     "tm_g1": 3.8,
     "tm_g4": 2.1667,
     "legacy": false,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 0.0627,
@@ -8922,6 +8922,27 @@
     "result_move": null,
     "max_move": 0.1479,
     "min_move": -1.8172,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "DOTIRT",
+    "event_time": 1792020317524,
+    "event_price": 304939.0,
+    "anchor_time": 1792016763936,
+    "anchor_price": 302687.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.375,
+    "tm_e15_e1": 0.375,
+    "tm_e1_e4": 0.2581,
+    "tm_g15": 3.0,
+    "tm_g1": 0.3478,
+    "tm_g4": 1.24,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
