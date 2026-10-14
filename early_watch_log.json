@@ -40935,7 +40935,10 @@
       "max_up": 4.53,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.8,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -40960,7 +40963,10 @@
       "max_up": 3.28,
       "max_down": -0.25
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.8,
+      "max_down": -0.25
+    }
   },
   {
     "symbol": "APUIRT",
@@ -40985,7 +40991,10 @@
       "max_up": 7.72,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.26,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "HMSTRIRT",
