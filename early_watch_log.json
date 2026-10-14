@@ -40873,7 +40873,10 @@
       "max_up": -1.46,
       "max_down": -10.42
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.46,
+      "max_down": -13.25
+    }
   },
   {
     "symbol": "ARBIRT",
@@ -41420,7 +41423,10 @@
       "max_up": 1.02,
       "max_down": -0.67
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.42,
+      "max_down": -0.88
+    },
     "result_12h": null
   },
   {
