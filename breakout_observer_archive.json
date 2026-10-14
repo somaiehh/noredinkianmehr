@@ -18558,5 +18558,18 @@
     "max_gain_pct": 2.5597,
     "levels": [],
     "expired_time": 1791948851809
+  },
+  {
+    "symbol": "ESIRT",
+    "anchor_time": 1791809425150,
+    "anchor_price": 400.0,
+    "status": "FAILED",
+    "created_time": 1791809425150,
+    "last_time": 1791997650180,
+    "last_price": 308.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791810246985,
+    "failed_price": 360.0
   }
 ]
