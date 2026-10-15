@@ -19297,5 +19297,48 @@
     "levels": [],
     "failed_time": 1792022980420,
     "failed_price": 10111.0
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1791973473036,
+    "anchor_price": 1334830.0,
+    "status": "FAILED",
+    "created_time": 1791973473036,
+    "last_time": 1792070983198,
+    "last_price": 1226333.0,
+    "max_gain_pct": 1.2444,
+    "levels": [],
+    "failed_time": 1791984082601,
+    "failed_price": 1293954.0
+  },
+  {
+    "symbol": "RSS3IRT",
+    "anchor_time": 1792028311552,
+    "anchor_price": 231.0,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1792028311552,
+    "last_time": 1792071455801,
+    "last_price": 254.0,
+    "max_gain_pct": 16.8831,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792028967682,
+    "confirmed_price": 250.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792028967682,
+        "price": 250.0,
+        "gain_pct": 8.2251
+      },
+      {
+        "level": 10,
+        "time": 1792030986818,
+        "price": 260.0,
+        "gain_pct": 12.5541
+      }
+    ]
   }
 ]
