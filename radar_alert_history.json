@@ -4532,5 +4532,31 @@
     "bs": 0.09,
     "breakout": true,
     "persistence": 4
+  },
+  {
+    "time": 1792081210875,
+    "symbol": "ARBIRT",
+    "price": 51000.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.19,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 0.75,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1792081427498,
+    "symbol": "ARBIRT",
+    "price": 51000.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.19,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 3.12,
+    "breakout": true,
+    "persistence": 3
   }
 ]
