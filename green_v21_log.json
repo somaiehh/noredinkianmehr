@@ -8669,7 +8669,10 @@
       "max_up": -0.35,
       "max_down": -2.7
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.35,
+      "max_down": -7.39
+    }
   },
   {
     "symbol": "WALIRT",
