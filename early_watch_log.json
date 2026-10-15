@@ -42219,7 +42219,10 @@
       "max_up": 4.36,
       "max_down": 0.56
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.36,
+      "max_down": -0.31
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -42683,6 +42686,63 @@
       "max_up": 2.89,
       "max_down": -3.84
     },
+    "result_12h": null
+  },
+  {
+    "symbol": "RSRIRT",
+    "time": 1792034764652,
+    "price": 563.4,
+    "level": "STRONG",
+    "hunt": 76.6,
+    "persistence": 1,
+    "p15": 1.51,
+    "vr": 4.77,
+    "va": 3.2,
+    "buy": 100,
+    "bs": 4.25,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "RSS3IRT",
+    "time": 1792034764652,
+    "price": 258.0,
+    "level": "WATCH",
+    "hunt": 40.6,
+    "persistence": 1,
+    "p15": 1.18,
+    "vr": 0.12,
+    "va": 2.03,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "EPICIRT",
+    "time": 1792034764652,
+    "price": 86500.0,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 1,
+    "p15": 1.91,
+    "vr": 0.11,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
     "result_12h": null
   }
 ]
