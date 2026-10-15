@@ -8769,7 +8769,10 @@
       "max_up": 4.61,
       "max_down": -0.06
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 4.61,
+      "max_down": -1.45
+    }
   },
   {
     "symbol": "PUFFERIRT",
@@ -8853,7 +8856,10 @@
     "ob": 1.0,
     "p15": 1.19,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.32,
+      "max_down": -1.28
+    },
     "result_4h": null
   }
 ]
