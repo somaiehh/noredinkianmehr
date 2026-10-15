@@ -19597,5 +19597,18 @@
     "confirmed_time": 1792002823022,
     "confirmed_price": 10893.0,
     "expired_time": 1792034970012
+  },
+  {
+    "symbol": "INJIRT",
+    "anchor_time": 1791665513490,
+    "anchor_price": 2069457.0,
+    "status": "FAILED",
+    "created_time": 1791665513490,
+    "last_time": 1792086446397,
+    "last_price": 2155370.0,
+    "max_gain_pct": 5.1687,
+    "levels": [],
+    "failed_time": 1791703188748,
+    "failed_price": 2003905.0
   }
 ]
