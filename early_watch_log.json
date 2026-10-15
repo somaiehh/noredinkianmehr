@@ -42762,5 +42762,43 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "UNIIRT",
+    "time": 1792037685182,
+    "price": 1844208.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.88,
+    "vr": 2.34,
+    "va": 3.92,
+    "buy": 56.333333333333336,
+    "bs": 1.69,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1792037941840,
+    "price": 116.0,
+    "level": "STRONG",
+    "hunt": 77.6,
+    "persistence": 1,
+    "p15": 1.58,
+    "vr": 0.59,
+    "va": 2.0,
+    "buy": 48.333333333333336,
+    "bs": 1.45,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]

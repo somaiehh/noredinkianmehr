@@ -8573,5 +8573,24 @@
       "max_up": 2.89,
       "max_down": -3.84
     }
+  },
+  {
+    "symbol": "UNIIRT",
+    "time": 1792037941840,
+    "price": 1844208.0,
+    "pre30": -0.58,
+    "pre60": -0.58,
+    "pre120": -2.55,
+    "hunt": 84.0,
+    "persistence": 2,
+    "vr": 2.34,
+    "va": 3.14,
+    "buy": 72.00000000000001,
+    "bs": 2.16,
+    "ob": 0.42,
+    "p15": 0.88,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
