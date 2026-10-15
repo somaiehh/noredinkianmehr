@@ -8880,5 +8880,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "NEARIRT",
+    "time": 1792090115261,
+    "price": 1415000.0,
+    "pre30": 1.58,
+    "pre60": 2.35,
+    "pre120": 3.33,
+    "hunt": 91.4,
+    "persistence": 2,
+    "vr": 4.24,
+    "va": 10.0,
+    "buy": 77.99999999999999,
+    "bs": 2.34,
+    "ob": 1.0,
+    "p15": 0.32,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

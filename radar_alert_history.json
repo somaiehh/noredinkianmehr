@@ -4571,5 +4571,18 @@
     "bs": 5.0,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1792090119774,
+    "symbol": "NEARIRT",
+    "price": 1415000.0,
+    "hunt_score": 91.4,
+    "status": "EARLY",
+    "p15": 0.32,
+    "vr": 4.24,
+    "va": 10.0,
+    "bs": 2.34,
+    "breakout": true,
+    "persistence": 2
   }
 ]

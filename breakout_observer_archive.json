@@ -19622,5 +19622,17 @@
     "max_gain_pct": 1.7018,
     "levels": [],
     "expired_time": 1792084753806
+  },
+  {
+    "symbol": "AVAXIRT",
+    "anchor_time": 1791288664899,
+    "anchor_price": 3100000.0,
+    "status": "EXPIRED",
+    "created_time": 1791288664899,
+    "last_time": 1792089464133,
+    "last_price": 2655573.0,
+    "max_gain_pct": 1.0456,
+    "levels": [],
+    "expired_time": 1791333323758
   }
 ]
