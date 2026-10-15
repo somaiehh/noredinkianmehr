@@ -8719,7 +8719,10 @@
       "max_up": 0.0,
       "max_down": -0.46
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.45,
+      "max_down": -2.34
+    }
   },
   {
     "symbol": "SIRT",

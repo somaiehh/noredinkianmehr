@@ -3153,6 +3153,21 @@
         "book1",
         "da1_pos"
       ]
+    },
+    "ANIMEIRT": {
+      "trigger_time": 1792082982947,
+      "trigger_price": 910.0,
+      "secondary_score": 65.0,
+      "hunt_score": null,
+      "flags": [
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
