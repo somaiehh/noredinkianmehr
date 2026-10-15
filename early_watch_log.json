@@ -42495,7 +42495,10 @@
       "max_up": 12.91,
       "max_down": -5.5
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 12.91,
+      "max_down": -15.71
+    }
   },
   {
     "symbol": "OPNIRT",
@@ -42805,7 +42808,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -42827,7 +42833,10 @@
       "max_up": -1.47,
       "max_down": -1.47
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -1.38,
+      "max_down": -2.76
+    },
     "result_4h": null,
     "result_12h": null
   },
