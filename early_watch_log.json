@@ -42126,7 +42126,10 @@
       "max_up": -2.22,
       "max_down": -6.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -2.22,
+      "max_down": -10.96
+    }
   },
   {
     "symbol": "AVAIRT",
