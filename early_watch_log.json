@@ -42188,7 +42188,10 @@
       "max_up": -1.06,
       "max_down": -6.5
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.06,
+      "max_down": -9.51
+    }
   },
   {
     "symbol": "AINIRT",

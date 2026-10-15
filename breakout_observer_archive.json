@@ -18871,5 +18871,18 @@
       }
     ],
     "expired_time": 1792016763936
+  },
+  {
+    "symbol": "MAGICIRT",
+    "anchor_time": 1791966996112,
+    "anchor_price": 29900.0,
+    "status": "FAILED",
+    "created_time": 1791966996112,
+    "last_time": 1792033064863,
+    "last_price": 28900.0,
+    "max_gain_pct": 0.3344,
+    "levels": [],
+    "failed_time": 1791970529684,
+    "failed_price": 28919.0
   }
 ]
