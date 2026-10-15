@@ -6400,8 +6400,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 7.8528,
+    "max_move": 8.8488,
     "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ESIRT",
+    "event_time": 1792063993874,
+    "event_price": 411.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 31.9,
+    "p15": -0.96,
+    "vr": null,
+    "va": 3.56,
+    "ta": null,
+    "bs": 2.32,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -0.9732,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
