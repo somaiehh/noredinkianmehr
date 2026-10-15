@@ -19074,5 +19074,75 @@
     "confirmed_time": 1791965920437,
     "confirmed_price": 15187.0,
     "expired_time": 1792003798945
+  },
+  {
+    "symbol": "GTCIRT",
+    "anchor_time": 1791983641968,
+    "anchor_price": 53628.0,
+    "status": "EXPIRED",
+    "created_time": 1791983641968,
+    "last_time": 1792043573145,
+    "last_price": 52000.0,
+    "max_gain_pct": 10.9253,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791985659114,
+    "confirmed_price": 56458.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791985659114,
+        "price": 56458.0,
+        "gain_pct": 5.2771
+      },
+      {
+        "level": 10,
+        "time": 1791990400202,
+        "price": 59487.0,
+        "gain_pct": 10.9253
+      }
+    ],
+    "expired_time": 1792030378357
+  },
+  {
+    "symbol": "DOGSIRT",
+    "anchor_time": 1791975793699,
+    "anchor_price": 11.02,
+    "status": "FAILED",
+    "created_time": 1791975793699,
+    "last_time": 1792053348804,
+    "last_price": 10.22,
+    "max_gain_pct": 0.6352,
+    "levels": [],
+    "failed_time": 1791989323422,
+    "failed_price": 10.67
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1791973876882,
+    "anchor_price": 1330.0,
+    "status": "FAILED",
+    "created_time": 1791973876882,
+    "last_time": 1792053348804,
+    "last_price": 1148.0,
+    "max_gain_pct": 2.0677,
+    "levels": [],
+    "failed_time": 1791983421482,
+    "failed_price": 1286.2
+  },
+  {
+    "symbol": "PTBIRT",
+    "anchor_time": 1791996590317,
+    "anchor_price": 197.0,
+    "status": "FAILED",
+    "created_time": 1791996590317,
+    "last_time": 1792053981588,
+    "last_price": 194.0,
+    "max_gain_pct": 2.5381,
+    "levels": [],
+    "failed_time": 1792036411414,
+    "failed_price": 190.0
   }
 ]
