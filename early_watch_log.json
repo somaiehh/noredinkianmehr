@@ -43137,5 +43137,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "KAIOIRT",
+    "time": 1792063065336,
+    "price": 10000.0,
+    "level": "WATCH",
+    "hunt": 41.8,
+    "persistence": 1,
+    "p15": 0.91,
+    "vr": 0.22,
+    "va": 2.0,
+    "buy": 73.0,
+    "bs": 2.19,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
