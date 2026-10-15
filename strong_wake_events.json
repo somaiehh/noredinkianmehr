@@ -8918,10 +8918,10 @@
     "tm_g4": 1.0476,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1792041595420,
-    "result_move": -7.2757,
+    "result_time": 1792042642718,
+    "result_move": -7.6947,
     "max_move": 0.1479,
-    "min_move": -7.2757,
+    "min_move": -7.6947,
     "ledger_version": "wake-ledger-v1"
   },
   {
