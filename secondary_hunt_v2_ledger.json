@@ -1597,6 +1597,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "PYTHIRT": {
+      "trigger_time": 1792088559175,
+      "trigger_price": 24607.0,
+      "secondary_score": 70.0,
+      "hunt_score": 24.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
