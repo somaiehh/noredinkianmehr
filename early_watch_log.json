@@ -43168,5 +43168,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "WALIRT",
+    "time": 1792064983358,
+    "price": 13829.0,
+    "level": "STRONG",
+    "hunt": 70.9,
+    "persistence": 3,
+    "p15": 0.58,
+    "vr": 9.33,
+    "va": 2.39,
+    "buy": 100,
+    "bs": 3.47,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]

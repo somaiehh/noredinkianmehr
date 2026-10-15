@@ -19157,5 +19157,31 @@
     "levels": [],
     "failed_time": 1791991031987,
     "failed_price": 11851.0
+  },
+  {
+    "symbol": "COMMONIRT",
+    "anchor_time": 1791994316333,
+    "anchor_price": 15.3,
+    "status": "FAILED",
+    "created_time": 1791994316333,
+    "last_time": 1792064182013,
+    "last_price": 13.9,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791996590317,
+    "failed_price": 14.8
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "anchor_time": 1791961391479,
+    "anchor_price": 42.8,
+    "status": "FAILED",
+    "created_time": 1791961391479,
+    "last_time": 1792064983358,
+    "last_price": 40.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791965183548,
+    "failed_price": 41.5
   }
 ]

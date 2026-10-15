@@ -8667,5 +8667,24 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "WALIRT",
+    "time": 1792064983358,
+    "price": 13829.0,
+    "pre30": -1.43,
+    "pre60": -7.81,
+    "pre120": -7.81,
+    "hunt": 70.9,
+    "persistence": 3,
+    "vr": 9.33,
+    "va": 2.39,
+    "buy": 100,
+    "bs": 3.47,
+    "ob": 0.43,
+    "p15": 0.58,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
