@@ -42585,7 +42585,10 @@
       "max_up": 21.49,
       "max_down": -4.09
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 21.49,
+      "max_down": -4.09
+    }
   },
   {
     "symbol": "OSMOIRT",

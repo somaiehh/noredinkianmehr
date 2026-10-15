@@ -19023,5 +19023,56 @@
     "levels": [],
     "failed_time": 1791824685159,
     "failed_price": 7188.0
+  },
+  {
+    "symbol": "BCHIRT",
+    "anchor_time": 1791963415488,
+    "anchor_price": 73255673.0,
+    "status": "FAILED",
+    "created_time": 1791963415488,
+    "last_time": 1792053142946,
+    "last_price": 70286485.0,
+    "max_gain_pct": 0.3998,
+    "levels": [],
+    "failed_time": 1791990202529,
+    "failed_price": 70844312.0
+  },
+  {
+    "symbol": "STRKIRT",
+    "anchor_time": 1791883362068,
+    "anchor_price": 22642.0,
+    "status": "EXPIRED",
+    "created_time": 1791883362068,
+    "last_time": 1792053142946,
+    "last_price": 20771.0,
+    "max_gain_pct": 6.7927,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791885194333,
+    "confirmed_price": 23401.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791891151544,
+        "price": 24180.0,
+        "gain_pct": 6.7927
+      }
+    ],
+    "expired_time": 1791927080162
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1791960485231,
+    "anchor_price": 14666.0,
+    "status": "EXPIRED",
+    "created_time": 1791960485231,
+    "last_time": 1792053142946,
+    "last_price": 14436.0,
+    "max_gain_pct": 3.5524,
+    "levels": [],
+    "confirmed_time": 1791965920437,
+    "confirmed_price": 15187.0,
+    "expired_time": 1792003798945
   }
 ]

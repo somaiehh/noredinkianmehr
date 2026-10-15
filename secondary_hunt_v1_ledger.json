@@ -3140,6 +3140,19 @@
         "premove_pos",
         "dt15_pos"
       ]
+    },
+    "PUFFERIRT": {
+      "trigger_time": 1792053142946,
+      "trigger_price": 14055.0,
+      "secondary_score": 60.0,
+      "hunt_score": 32.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "book1",
+        "da1_pos"
+      ]
     }
   }
 }
