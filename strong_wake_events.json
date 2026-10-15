@@ -8876,7 +8876,7 @@
     "tm_g4": 2.8846,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1792036205059,
+    "result_time": 1792036411414,
     "result_move": -7.8431,
     "max_move": 0.0,
     "min_move": -8.4967,
@@ -9258,6 +9258,27 @@
     "result_move": -9.2841,
     "max_move": 1.7897,
     "min_move": -9.2841,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "RSRIRT",
+    "event_time": 1792091228439,
+    "event_price": 516.0,
+    "anchor_time": 1792091042828,
+    "anchor_price": 516.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.8571,
+    "tm_e15_e1": 0.8571,
+    "tm_e1_e4": 0.4667,
+    "tm_g15": 1.3333,
+    "tm_g1": 1.2727,
+    "tm_g4": 1.1111,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
