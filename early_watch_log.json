@@ -42374,7 +42374,10 @@
       "max_up": 0.33,
       "max_down": -1.63
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.33,
+      "max_down": -5.48
+    }
   },
   {
     "symbol": "PTBIRT",
@@ -42402,7 +42405,10 @@
       "max_up": 1.02,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.54,
+      "max_down": -3.55
+    }
   },
   {
     "symbol": "TIAIRT",
@@ -42430,7 +42436,10 @@
       "max_up": 3.4,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.4,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "FOGOIRT",
@@ -42458,7 +42467,10 @@
       "max_up": 0.0,
       "max_down": -3.56
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -10.43
+    }
   },
   {
     "symbol": "AVAIRT",
@@ -42815,6 +42827,25 @@
       "max_up": -1.47,
       "max_down": -1.47
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRT",
+    "time": 1792039834325,
+    "price": 14700.0,
+    "level": "WATCH",
+    "hunt": 44.4,
+    "persistence": 1,
+    "p15": 0.33,
+    "vr": 0.12,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
