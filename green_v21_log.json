@@ -8687,6 +8687,47 @@
     "ob": 0.43,
     "p15": 0.58,
     "breakout": false,
+    "result_1h": {
+      "max_up": 1.45,
+      "max_down": -0.91
+    },
+    "result_4h": null
+  },
+  {
+    "symbol": "SIRT",
+    "time": 1792068466509,
+    "price": 14279.0,
+    "pre30": 0.11,
+    "pre60": -0.15,
+    "pre120": -0.92,
+    "hunt": 62.3,
+    "persistence": 2,
+    "vr": 3.34,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "ob": 0.56,
+    "p15": 0.71,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "SIRT",
+    "time": 1792068702604,
+    "price": 14279.0,
+    "pre30": 0.04,
+    "pre60": -0.67,
+    "pre120": -0.92,
+    "hunt": 64.3,
+    "persistence": 3,
+    "vr": 3.34,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "ob": 0.81,
+    "p15": 0.71,
+    "breakout": false,
     "result_1h": null,
     "result_4h": null
   }
