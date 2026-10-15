@@ -19222,5 +19222,80 @@
     "levels": [],
     "failed_time": 1791988710356,
     "failed_price": 1.06256
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1791492692901,
+    "anchor_price": 8376.0,
+    "status": "EXPIRED",
+    "created_time": 1791492692901,
+    "last_time": 1792068702604,
+    "last_price": 9600.0,
+    "max_gain_pct": 17.6457,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791524164985,
+    "confirmed_price": 8970.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791524164985,
+        "price": 8970.0,
+        "gain_pct": 7.0917
+      },
+      {
+        "level": 10,
+        "time": 1791536579119,
+        "price": 9266.0,
+        "gain_pct": 10.6256
+      }
+    ],
+    "expired_time": 1791536579119
+  },
+  {
+    "symbol": "EPICIRT",
+    "anchor_time": 1792014014791,
+    "anchor_price": 79058.0,
+    "status": "EXPIRED",
+    "created_time": 1792014014791,
+    "last_time": 1792070751977,
+    "last_price": 73763.0,
+    "max_gain_pct": 13.8405,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792016984594,
+    "confirmed_price": 82318.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792017403973,
+        "price": 84702.0,
+        "gain_pct": 7.1391
+      },
+      {
+        "level": 10,
+        "time": 1792018869476,
+        "price": 87352.0,
+        "gain_pct": 10.491
+      }
+    ],
+    "expired_time": 1792062393518
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1792018148888,
+    "anchor_price": 10700.0,
+    "status": "FAILED",
+    "created_time": 1792018148888,
+    "last_time": 1792070751977,
+    "last_price": 10456.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792022980420,
+    "failed_price": 10111.0
   }
 ]
