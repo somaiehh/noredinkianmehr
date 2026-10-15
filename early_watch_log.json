@@ -42343,7 +42343,10 @@
       "max_up": 1.37,
       "max_down": -1.13
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.23,
+      "max_down": -1.13
+    }
   },
   {
     "symbol": "PEPEIRT",
@@ -42715,7 +42718,10 @@
       "max_up": -2.13,
       "max_down": -2.13
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.35,
+      "max_down": -2.75
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -42737,7 +42743,10 @@
       "max_up": 0.78,
       "max_down": 0.78
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.78,
+      "max_down": -3.49
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -42759,7 +42768,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -5.2
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -42777,7 +42789,10 @@
     "bs": 1.69,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -42796,7 +42811,10 @@
     "bs": 1.45,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -1.47,
+      "max_down": -1.47
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
