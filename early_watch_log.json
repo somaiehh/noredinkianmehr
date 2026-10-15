@@ -42250,7 +42250,10 @@
       "max_up": 1.06,
       "max_down": -1.65
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.06,
+      "max_down": -2.63
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -42278,7 +42281,10 @@
       "max_up": 0.88,
       "max_down": -1.31
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.88,
+      "max_down": -6.57
+    }
   },
   {
     "symbol": "LABIRT",
@@ -42306,7 +42312,10 @@
       "max_up": 1.22,
       "max_down": -1.85
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.83,
+      "max_down": -9.51
+    }
   },
   {
     "symbol": "QIRT",
@@ -42702,7 +42711,10 @@
     "bs": 4.25,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -2.13,
+      "max_down": -2.13
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -42721,7 +42733,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.78,
+      "max_down": 0.78
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -42740,7 +42755,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
