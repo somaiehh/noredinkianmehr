@@ -8819,7 +8819,10 @@
       "max_up": 0.09,
       "max_down": -0.65
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 5.58,
+      "max_down": -0.65
+    }
   },
   {
     "symbol": "ARBIRT",
