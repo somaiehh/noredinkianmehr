@@ -42870,5 +42870,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "AXLIRT",
+    "time": 1792046078667,
+    "price": 15023.0,
+    "level": "WATCH",
+    "hunt": 49.9,
+    "persistence": 1,
+    "p15": 0.5,
+    "vr": 0.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
