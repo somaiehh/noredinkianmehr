@@ -8758,5 +8758,24 @@
       "max_down": -0.06
     },
     "result_4h": null
+  },
+  {
+    "symbol": "PUFFERIRT",
+    "time": 1792076462118,
+    "price": 13726.0,
+    "pre30": 1.16,
+    "pre60": 3.2,
+    "pre120": 1.63,
+    "hunt": 84.0,
+    "persistence": 2,
+    "vr": 1.2,
+    "va": 7.39,
+    "buy": 84.66666666666667,
+    "bs": 2.54,
+    "ob": 0.37,
+    "p15": 1.5,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

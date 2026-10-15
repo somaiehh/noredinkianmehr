@@ -19391,5 +19391,41 @@
     "levels": [],
     "failed_time": 1791728417061,
     "failed_price": 16780.0
+  },
+  {
+    "symbol": "LTCIRT",
+    "anchor_time": 1791995706513,
+    "anchor_price": 15730635.0,
+    "status": "EXPIRED",
+    "created_time": 1791995706513,
+    "last_time": 1792075200220,
+    "last_price": 15746863.0,
+    "max_gain_pct": 1.7847,
+    "levels": [],
+    "expired_time": 1792038996749
+  },
+  {
+    "symbol": "NOTIRT",
+    "anchor_time": 1791909192377,
+    "anchor_price": 116.8,
+    "status": "EXPIRED",
+    "created_time": 1791909192377,
+    "last_time": 1792075200220,
+    "last_price": 108.9,
+    "max_gain_pct": 1.0274,
+    "levels": [],
+    "expired_time": 1791956626270
+  },
+  {
+    "symbol": "UNIIRT",
+    "anchor_time": 1791101765908,
+    "anchor_price": 2443850.0,
+    "status": "EXPIRED",
+    "created_time": 1791101765908,
+    "last_time": 1792076240734,
+    "last_price": 1958274.0,
+    "max_gain_pct": 0.6101,
+    "levels": [],
+    "expired_time": 1791145130978
   }
 ]
