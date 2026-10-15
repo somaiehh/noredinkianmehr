@@ -18922,5 +18922,36 @@
     "levels": [],
     "failed_time": 1792022980420,
     "failed_price": 308.0
+  },
+  {
+    "symbol": "DENTIRT",
+    "anchor_time": 1791989323422,
+    "anchor_price": 16.75,
+    "status": "EXPIRED",
+    "created_time": 1791989323422,
+    "last_time": 1792049578335,
+    "last_price": 13.919,
+    "max_gain_pct": 24.1791,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791990202529,
+    "confirmed_price": 17.7,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791990202529,
+        "price": 17.7,
+        "gain_pct": 5.6716
+      },
+      {
+        "level": 10,
+        "time": 1791991250157,
+        "price": 20.8,
+        "gain_pct": 24.1791
+      }
+    ],
+    "expired_time": 1792032866257
   }
 ]
