@@ -19340,5 +19340,29 @@
         "gain_pct": 12.5541
       }
     ]
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1791904991153,
+    "anchor_price": 346.0,
+    "status": "EXPIRED",
+    "created_time": 1791904991153,
+    "last_time": 1792073275555,
+    "last_price": 323.0,
+    "max_gain_pct": 6.0694,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791908966076,
+    "confirmed_price": 359.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791909192377,
+        "price": 364.0,
+        "gain_pct": 5.2023
+      }
+    ],
+    "expired_time": 1791952418891
   }
 ]
