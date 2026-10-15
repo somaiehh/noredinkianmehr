@@ -19364,5 +19364,32 @@
       }
     ],
     "expired_time": 1791952418891
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1792008158122,
+    "anchor_price": 14133.0,
+    "status": "EXPIRED",
+    "created_time": 1792008158122,
+    "last_time": 1792074959040,
+    "last_price": 14271.0,
+    "max_gain_pct": 4.0119,
+    "levels": [],
+    "confirmed_time": 1792038820666,
+    "confirmed_price": 14642.0,
+    "expired_time": 1792051420858
+  },
+  {
+    "symbol": "CHIPIRT",
+    "anchor_time": 1791714113664,
+    "anchor_price": 17986.2,
+    "status": "FAILED",
+    "created_time": 1791714113664,
+    "last_time": 1792074959040,
+    "last_price": 11760.4,
+    "max_gain_pct": 3.4565,
+    "levels": [],
+    "failed_time": 1791728417061,
+    "failed_price": 16780.0
   }
 ]

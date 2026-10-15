@@ -43243,7 +43243,10 @@
       "max_up": 2.33,
       "max_down": 1.36
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 4.61,
+      "max_down": -0.06
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -43265,7 +43268,10 @@
       "max_up": 1.91,
       "max_down": 1.08
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.91,
+      "max_down": 0.67
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -43283,7 +43289,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -43302,7 +43311,10 @@
     "bs": 4.33,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
