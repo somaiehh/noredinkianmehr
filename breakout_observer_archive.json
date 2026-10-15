@@ -19634,5 +19634,36 @@
     "max_gain_pct": 1.0456,
     "levels": [],
     "expired_time": 1791333323758
+  },
+  {
+    "symbol": "KAIOIRT",
+    "anchor_time": 1792051420858,
+    "anchor_price": 9411.0,
+    "status": "EXPIRED",
+    "created_time": 1792051420858,
+    "last_time": 1792096649929,
+    "last_price": 9404.0,
+    "max_gain_pct": 17.3308,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792053348804,
+    "confirmed_price": 9727.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792062614896,
+        "price": 10075.0,
+        "gain_pct": 7.0556
+      },
+      {
+        "level": 10,
+        "time": 1792063993874,
+        "price": 10382.0,
+        "gain_pct": 10.3177
+      }
+    ],
+    "expired_time": 1792094723704
   }
 ]
