@@ -8666,10 +8666,10 @@
     "tm_g4": 1.087,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1791992661472,
-    "result_move": -8.8291,
+    "result_time": 1791994316333,
+    "result_move": -9.4042,
     "max_move": 0.2059,
-    "min_move": -8.8291,
+    "min_move": -9.4042,
     "ledger_version": "wake-ledger-v1"
   },
   {
