@@ -18996,5 +18996,32 @@
     "max_gain_pct": 1.304,
     "levels": [],
     "expired_time": 1791342214627
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1792000328656,
+    "anchor_price": 314054789.0,
+    "status": "EXPIRED",
+    "created_time": 1792000328656,
+    "last_time": 1792050670253,
+    "last_price": 293024364.0,
+    "max_gain_pct": 3.0875,
+    "levels": [],
+    "confirmed_time": 1792007465581,
+    "confirmed_price": 323751198.0,
+    "expired_time": 1792043573145
+  },
+  {
+    "symbol": "KAIOIRT",
+    "anchor_time": 1791823662884,
+    "anchor_price": 7600.0,
+    "status": "FAILED",
+    "created_time": 1791823662884,
+    "last_time": 1792050670253,
+    "last_price": 8862.0,
+    "max_gain_pct": 31.5789,
+    "levels": [],
+    "failed_time": 1791824685159,
+    "failed_price": 7188.0
   }
 ]
