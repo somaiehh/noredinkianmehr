@@ -43364,7 +43364,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 5.73,
+      "max_down": -0.34
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -43383,7 +43386,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.62,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -43423,6 +43429,47 @@
     "bs": 4.14,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 0.9,
+      "max_down": 0.9
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SUIIRT",
+    "time": 1792080253970,
+    "price": 272784.0,
+    "level": "STRONG",
+    "hunt": 77.6,
+    "persistence": 3,
+    "p15": 0.26,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 69.33333333333334,
+    "bs": 2.08,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1792080253970,
+    "price": 89470.0,
+    "level": "STRONG",
+    "hunt": 59.5,
+    "persistence": 1,
+    "p15": 1.05,
+    "vr": 0.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
