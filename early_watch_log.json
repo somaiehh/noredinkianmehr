@@ -43954,7 +43954,10 @@
       "max_up": 0.89,
       "max_down": 0.03
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.94,
+      "max_down": 0.03
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -43973,7 +43976,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.57,
+      "max_down": -1.41
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -43990,6 +43996,47 @@
     "buy": 98.66666666666667,
     "bs": 2.96,
     "breakout": true,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.58,
+      "max_down": -0.58
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ESIRT",
+    "time": 1792147868283,
+    "price": 422.0,
+    "level": "STRONG",
+    "hunt": 57.5,
+    "persistence": 3,
+    "p15": 1.2,
+    "vr": 0.11,
+    "va": 10.0,
+    "buy": 77.99999999999999,
+    "bs": 2.34,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TIAIRT",
+    "time": 1792148097832,
+    "price": 179591.0,
+    "level": "WATCH",
+    "hunt": 41.7,
+    "persistence": 1,
+    "p15": 0.27,
+    "vr": 0.01,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,

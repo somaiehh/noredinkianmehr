@@ -19951,5 +19951,29 @@
       }
     ],
     "expired_time": 1792138908889
+  },
+  {
+    "symbol": "ANIMEIRT",
+    "anchor_time": 1792092876762,
+    "anchor_price": 930.0,
+    "status": "EXPIRED",
+    "created_time": 1792092876762,
+    "last_time": 1792146973433,
+    "last_price": 817.0,
+    "max_gain_pct": 5.6989,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792093164838,
+    "confirmed_price": 983.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792093164838,
+        "price": 983.0,
+        "gain_pct": 5.6989
+      }
+    ],
+    "expired_time": 1792138908889
   }
 ]
