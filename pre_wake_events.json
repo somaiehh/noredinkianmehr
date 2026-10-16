@@ -6607,10 +6607,10 @@
     "book": 0.43,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
-    "max_move": 7.6955,
+    "max_move": 9.5567,
     "min_move": -2.1644,
     "ledger_version": "pre-wake-ledger-v1"
   },
