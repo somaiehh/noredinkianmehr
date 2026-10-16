@@ -44116,7 +44116,10 @@
     "bs": 1.11,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 3.38,
+      "max_down": 3.38
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -44135,7 +44138,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.08,
+      "max_down": 0.08
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
