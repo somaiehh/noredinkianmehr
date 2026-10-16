@@ -9364,5 +9364,26 @@
     "max_move": 0.0,
     "min_move": -3.0801,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "STRAXIRT",
+    "event_time": 1792177168675,
+    "event_price": 2815.0,
+    "anchor_time": 1792176583521,
+    "anchor_price": 2872.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1739,
+    "tm_e15_e1": 0.1739,
+    "tm_e1_e4": 0.5476,
+    "tm_g15": 2.0,
+    "tm_g1": 1.0455,
+    "tm_g4": 1.0769,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
