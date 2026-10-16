@@ -19825,5 +19825,32 @@
     "levels": [],
     "failed_time": 1792104284681,
     "failed_price": 8443.0
+  },
+  {
+    "symbol": "ARBIRT",
+    "anchor_time": 1792077455000,
+    "anchor_price": 49300.0,
+    "status": "EXPIRED",
+    "created_time": 1792077455000,
+    "last_time": 1792141724470,
+    "last_price": 52142.0,
+    "max_gain_pct": 5.9067,
+    "levels": [],
+    "confirmed_time": 1792081206641,
+    "confirmed_price": 51000.0,
+    "expired_time": 1792129636266
+  },
+  {
+    "symbol": "EPICIRT",
+    "anchor_time": 1792070983198,
+    "anchor_price": 74918.0,
+    "status": "FAILED",
+    "created_time": 1792070983198,
+    "last_time": 1792141724470,
+    "last_price": 60409.0,
+    "max_gain_pct": 3.979,
+    "levels": [],
+    "failed_time": 1792072249494,
+    "failed_price": 70975.0
   }
 ]
