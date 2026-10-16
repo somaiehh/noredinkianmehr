@@ -19678,5 +19678,36 @@
     "levels": [],
     "failed_time": 1792076462118,
     "failed_price": 10335.0
+  },
+  {
+    "symbol": "MBLIRT",
+    "anchor_time": 1792050485742,
+    "anchor_price": 332.8,
+    "status": "EXPIRED",
+    "created_time": 1792050485742,
+    "last_time": 1792129856227,
+    "last_price": 289.8,
+    "max_gain_pct": 19.8918,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792050670253,
+    "confirmed_price": 350.4,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792050670253,
+        "price": 350.4,
+        "gain_pct": 5.2885
+      },
+      {
+        "level": 10,
+        "time": 1792051420858,
+        "price": 390.0,
+        "gain_pct": 17.1875
+      }
+    ],
+    "expired_time": 1792093853588
   }
 ]
