@@ -20089,5 +20089,30 @@
     "levels": [],
     "failed_time": 1792023604727,
     "failed_price": 560.0
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1792081206641,
+    "anchor_price": 112.2,
+    "status": "EXPIRED",
+    "created_time": 1792081206641,
+    "last_time": 1792158777911,
+    "last_price": 106.5,
+    "max_gain_pct": 1.6934,
+    "levels": [],
+    "expired_time": 1792129636266
+  },
+  {
+    "symbol": "BRIRT",
+    "anchor_time": 1791800431487,
+    "anchor_price": 118906.0,
+    "status": "FAILED",
+    "created_time": 1791800431487,
+    "last_time": 1792159442348,
+    "last_price": 91427.0,
+    "max_gain_pct": 1.3935,
+    "levels": [],
+    "failed_time": 1791803963637,
+    "failed_price": 115212.0
   }
 ]
