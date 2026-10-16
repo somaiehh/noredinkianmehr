@@ -44098,7 +44098,10 @@
       "max_up": -0.15,
       "max_down": -3.38
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.52,
+      "max_down": -4.92
+    },
     "result_12h": null
   },
   {
@@ -44123,7 +44126,10 @@
       "max_up": 0.83,
       "max_down": -2.6
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.83,
+      "max_down": -7.08
+    },
     "result_12h": null
   },
   {
@@ -44316,7 +44322,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.06,
+      "max_down": -2.68
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -44338,6 +44347,25 @@
       "max_up": 1.43,
       "max_down": 1.43
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PTBIRT",
+    "time": 1792166777982,
+    "price": 188.0,
+    "level": "WATCH",
+    "hunt": 42.4,
+    "persistence": 1,
+    "p15": 1.08,
+    "vr": 0.05,
+    "va": 2.0,
+    "buy": 65.33333333333333,
+    "bs": 1.96,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

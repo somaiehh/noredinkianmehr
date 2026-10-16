@@ -9066,7 +9066,10 @@
       "max_up": -0.15,
       "max_down": -3.38
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 4.52,
+      "max_down": -4.92
+    }
   },
   {
     "symbol": "MBLIRT",
