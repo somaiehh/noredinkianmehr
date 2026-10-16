@@ -20127,5 +20127,60 @@
     "levels": [],
     "failed_time": 1792094723704,
     "failed_price": 86604.0
+  },
+  {
+    "symbol": "FILIRT",
+    "anchor_time": 1792077455000,
+    "anchor_price": 284032.0,
+    "status": "EXPIRED",
+    "created_time": 1792077455000,
+    "last_time": 1792161566913,
+    "last_price": 305703.0,
+    "max_gain_pct": 10.1879,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792091042828,
+    "confirmed_price": 293036.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792093662008,
+        "price": 299700.0,
+        "gain_pct": 5.5163
+      },
+      {
+        "level": 10,
+        "time": 1792104284681,
+        "price": 312969.0,
+        "gain_pct": 10.1879
+      }
+    ],
+    "expired_time": 1792129636266
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1792053981588,
+    "anchor_price": 1157.4,
+    "status": "EXPIRED",
+    "created_time": 1792053981588,
+    "last_time": 1792162186717,
+    "last_price": 1172.0,
+    "max_gain_pct": 6.0221,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792077455000,
+    "confirmed_price": 1195.9,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792091042828,
+        "price": 1218.2,
+        "gain_pct": 5.2532
+      }
+    ],
+    "expired_time": 1792097233216
   }
 ]
