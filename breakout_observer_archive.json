@@ -19975,5 +19975,50 @@
       }
     ],
     "expired_time": 1792138908889
+  },
+  {
+    "symbol": "DENTIRT",
+    "anchor_time": 1792049755776,
+    "anchor_price": 14.236,
+    "status": "EXPIRED",
+    "created_time": 1792049755776,
+    "last_time": 1792148549059,
+    "last_price": 12.811,
+    "max_gain_pct": 4.6642,
+    "levels": [],
+    "confirmed_time": 1792052287124,
+    "confirmed_price": 14.725,
+    "expired_time": 1792093164838
+  },
+  {
+    "symbol": "TIAIRT",
+    "anchor_time": 1791658367080,
+    "anchor_price": 145055.0,
+    "status": "EXPIRED",
+    "created_time": 1791658367080,
+    "last_time": 1792148549059,
+    "last_price": 181740.0,
+    "max_gain_pct": 25.2904,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791662484083,
+    "confirmed_price": 151094.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791663460429,
+        "price": 152560.0,
+        "gain_pct": 5.1739
+      },
+      {
+        "level": 10,
+        "time": 1791675945019,
+        "price": 159929.0,
+        "gain_pct": 10.254
+      }
+    ],
+    "expired_time": 1791701679112
   }
 ]
