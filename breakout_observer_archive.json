@@ -20226,5 +20226,19 @@
     "levels": [],
     "failed_time": 1792097233216,
     "failed_price": 10763.0
+  },
+  {
+    "symbol": "AMPIRT",
+    "anchor_time": 1791952599018,
+    "anchor_price": 200.0,
+    "status": "EXPIRED",
+    "created_time": 1791952599018,
+    "last_time": 1792170323731,
+    "last_price": 210.7,
+    "max_gain_pct": 5.35,
+    "levels": [],
+    "confirmed_time": 1791955991086,
+    "confirmed_price": 206.5,
+    "expired_time": 1791995912998
   }
 ]
