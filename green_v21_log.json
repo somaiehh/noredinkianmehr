@@ -8919,7 +8919,10 @@
       "max_up": 1.06,
       "max_down": -0.2
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.74,
+      "max_down": -0.94
+    }
   },
   {
     "symbol": "NEARIRT",
@@ -8941,7 +8944,10 @@
       "max_up": -0.66,
       "max_down": -1.91
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.66,
+      "max_down": -2.64
+    }
   },
   {
     "symbol": "FILIRT",
@@ -8963,7 +8969,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.52,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "FILIRT",
@@ -8982,6 +8991,9 @@
     "p15": 0.55,
     "breakout": true,
     "result_1h": null,
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.52,
+      "max_down": 1.52
+    }
   }
 ]
