@@ -20355,5 +20355,19 @@
     "max_gain_pct": 0.6922,
     "levels": [],
     "expired_time": 1792129636266
+  },
+  {
+    "symbol": "DOGSIRT",
+    "anchor_time": 1792053981588,
+    "anchor_price": 10.27,
+    "status": "EXPIRED",
+    "created_time": 1792053981588,
+    "last_time": 1792184825702,
+    "last_price": 10.71,
+    "max_gain_pct": 5.6475,
+    "levels": [],
+    "confirmed_time": 1792081206641,
+    "confirmed_price": 10.58,
+    "expired_time": 1792097233216
   }
 ]
