@@ -9017,5 +9017,24 @@
       "max_down": -1.41
     },
     "result_4h": null
+  },
+  {
+    "symbol": "TIAIRT",
+    "time": 1792150754682,
+    "price": 185000.0,
+    "pre30": 1.09,
+    "pre60": 3.63,
+    "pre120": 3.35,
+    "hunt": 73.4,
+    "persistence": 2,
+    "vr": 5.75,
+    "va": 10.0,
+    "buy": 11.0,
+    "bs": 0.33,
+    "ob": 1.0,
+    "p15": 0.37,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
