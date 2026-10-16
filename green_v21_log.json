@@ -9016,7 +9016,10 @@
       "max_up": -0.57,
       "max_down": -1.41
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.4,
+      "max_down": -2.66
+    }
   },
   {
     "symbol": "TIAIRT",
