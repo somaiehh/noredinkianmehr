@@ -19927,5 +19927,29 @@
     "levels": [],
     "failed_time": 1791802082003,
     "failed_price": 370.0
+  },
+  {
+    "symbol": "INJIRT",
+    "anchor_time": 1792086668568,
+    "anchor_price": 2212950.0,
+    "status": "EXPIRED",
+    "created_time": 1792086668568,
+    "last_time": 1792145909937,
+    "last_price": 2428826.0,
+    "max_gain_pct": 9.9926,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792129636266,
+    "confirmed_price": 2426328.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792129636266,
+        "price": 2426328.0,
+        "gain_pct": 9.6422
+      }
+    ],
+    "expired_time": 1792138908889
   }
 ]
