@@ -44070,7 +44070,10 @@
       "max_up": 3.01,
       "max_down": 1.2
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.5,
+      "max_down": 1.2
+    },
     "result_12h": null
   },
   {
@@ -44288,6 +44291,25 @@
       "max_up": 1.69,
       "max_down": 1.62
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BASEDIRT",
+    "time": 1792162978913,
+    "price": 13895.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.85,
+    "vr": 0.86,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
