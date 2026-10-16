@@ -19709,5 +19709,53 @@
       }
     ],
     "expired_time": 1792093853588
+  },
+  {
+    "symbol": "VELVETIRT",
+    "anchor_time": 1791899326886,
+    "anchor_price": 18325.0,
+    "status": "EXPIRED",
+    "created_time": 1791899326886,
+    "last_time": 1792139743648,
+    "last_price": 19535.0,
+    "max_gain_pct": 13.5171,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791908966076,
+    "confirmed_price": 19400.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791908966076,
+        "price": 19400.0,
+        "gain_pct": 5.8663
+      }
+    ],
+    "expired_time": 1791959488858
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1792053348804,
+    "anchor_price": 14692.0,
+    "status": "EXPIRED",
+    "created_time": 1792053348804,
+    "last_time": 1792140557575,
+    "last_price": 14961.0,
+    "max_gain_pct": 8.6986,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792062393518,
+    "confirmed_price": 15242.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792076240734,
+        "price": 15569.0,
+        "gain_pct": 5.9692
+      }
+    ],
+    "expired_time": 1792096649929
   }
 ]
