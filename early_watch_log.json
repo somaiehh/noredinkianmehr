@@ -44353,7 +44353,10 @@
       "max_up": 1.43,
       "max_down": 1.43
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.43,
+      "max_down": -5.97
+    },
     "result_4h": null,
     "result_12h": null
   },
