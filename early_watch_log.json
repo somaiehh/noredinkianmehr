@@ -43996,7 +43996,10 @@
       "max_up": 0.4,
       "max_down": -2.66
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.91,
+      "max_down": -4.92
+    }
   },
   {
     "symbol": "INJIRT",
@@ -44642,6 +44645,28 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MOVRIRT",
+    "time": 1792187648995,
+    "price": 387802.0,
+    "level": "STRONG",
+    "hunt": 64.9,
+    "persistence": 2,
+    "p15": 0.59,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 36.66666666666667,
+    "bs": 1.1,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

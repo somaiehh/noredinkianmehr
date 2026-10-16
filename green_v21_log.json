@@ -9136,5 +9136,24 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "MOVRIRT",
+    "time": 1792187648995,
+    "price": 387802.0,
+    "pre30": 1.76,
+    "pre60": null,
+    "pre120": null,
+    "hunt": 64.9,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 36.66666666666667,
+    "bs": 1.1,
+    "ob": 1.0,
+    "p15": 0.59,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
