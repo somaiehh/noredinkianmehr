@@ -20076,5 +20076,18 @@
     "levels": [],
     "failed_time": 1792078464627,
     "failed_price": 13679.0
+  },
+  {
+    "symbol": "GAIAIRT",
+    "anchor_time": 1791997358373,
+    "anchor_price": 580.0,
+    "status": "FAILED",
+    "created_time": 1791997358373,
+    "last_time": 1792155947448,
+    "last_price": 540.0,
+    "max_gain_pct": 2.7586,
+    "levels": [],
+    "failed_time": 1792023604727,
+    "failed_price": 560.0
   }
 ]

@@ -44129,7 +44129,10 @@
       "max_up": 3.38,
       "max_down": 3.38
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.38,
+      "max_down": 1.45
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -44151,6 +44154,28 @@
       "max_up": 0.08,
       "max_down": 0.08
     },
+    "result_1h": {
+      "max_up": 1.94,
+      "max_down": -1.81
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TIAIRT",
+    "time": 1792156602353,
+    "price": 185880.0,
+    "level": "WATCH",
+    "hunt": 48.2,
+    "persistence": 1,
+    "p15": 0.56,
+    "vr": 0.39,
+    "va": 4.77,
+    "buy": 96.33333333333334,
+    "bs": 2.89,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
