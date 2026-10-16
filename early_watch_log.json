@@ -44027,7 +44027,10 @@
       "max_up": -0.58,
       "max_down": -3.13
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.58,
+      "max_down": -10.77
+    }
   },
   {
     "symbol": "ESIRT",
@@ -44664,7 +44667,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.17,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -44686,6 +44692,25 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "COMMONIRT",
+    "time": 1792190276997,
+    "price": 14.1,
+    "level": "STRONG",
+    "hunt": 64.5,
+    "persistence": 1,
+    "p15": 0.71,
+    "vr": 2.63,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
