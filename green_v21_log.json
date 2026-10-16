@@ -9041,7 +9041,10 @@
       "max_up": 0.55,
       "max_down": -0.97
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.42,
+      "max_down": -1.97
+    }
   },
   {
     "symbol": "STBLIRT",

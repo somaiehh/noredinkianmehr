@@ -44334,7 +44334,10 @@
     "bs": 2.67,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 1.43,
+      "max_down": 1.43
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
