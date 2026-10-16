@@ -20032,5 +20032,36 @@
     "max_gain_pct": 0.2768,
     "levels": [],
     "expired_time": 1792138908889
+  },
+  {
+    "symbol": "STRKIRT",
+    "anchor_time": 1792053348804,
+    "anchor_price": 20884.0,
+    "status": "EXPIRED",
+    "created_time": 1792053348804,
+    "last_time": 1792150754682,
+    "last_price": 20879.0,
+    "max_gain_pct": 23.7407,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792054193777,
+    "confirmed_price": 21618.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792076240734,
+        "price": 22162.0,
+        "gain_pct": 6.1195
+      },
+      {
+        "level": 10,
+        "time": 1792078684790,
+        "price": 23412.0,
+        "gain_pct": 12.105
+      }
+    ],
+    "expired_time": 1792096649929
   }
 ]

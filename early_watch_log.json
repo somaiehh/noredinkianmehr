@@ -44026,7 +44026,10 @@
       "max_up": 0.71,
       "max_down": 0.71
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.71,
+      "max_down": -1.42
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -44048,6 +44051,25 @@
       "max_up": 1.9,
       "max_down": 1.2
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "STBLIRT",
+    "time": 1792151568801,
+    "price": 6589.0,
+    "level": "STRONG",
+    "hunt": 63.8,
+    "persistence": 2,
+    "p15": 0.2,
+    "vr": 1.04,
+    "va": 4.32,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

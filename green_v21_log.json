@@ -9036,5 +9036,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "STBLIRT",
+    "time": 1792151568801,
+    "price": 6589.0,
+    "pre30": -0.47,
+    "pre60": 1.97,
+    "pre120": 6.29,
+    "hunt": 63.8,
+    "persistence": 2,
+    "vr": 1.04,
+    "va": 4.32,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.38,
+    "p15": 0.2,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

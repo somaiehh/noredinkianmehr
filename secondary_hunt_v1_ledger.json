@@ -3183,6 +3183,37 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "STBLIRT": {
+      "trigger_time": 1792151345004,
+      "trigger_price": 6589.0,
+      "secondary_score": 95.0,
+      "hunt_score": 67.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "FUNTOKENIRT": {
+      "trigger_time": 1792151568801,
+      "trigger_price": 2087.81,
+      "secondary_score": 80.0,
+      "hunt_score": 69.1,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
