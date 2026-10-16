@@ -20182,5 +20182,49 @@
       }
     ],
     "expired_time": 1792097233216
+  },
+  {
+    "symbol": "ESIRT",
+    "anchor_time": 1792047928798,
+    "anchor_price": 339.0,
+    "status": "EXPIRED",
+    "created_time": 1792047928798,
+    "last_time": 1792164204483,
+    "last_price": 412.0,
+    "max_gain_pct": 76.6962,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792049578335,
+    "confirmed_price": 368.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792049578335,
+        "price": 368.0,
+        "gain_pct": 8.5546
+      },
+      {
+        "level": 10,
+        "time": 1792062393518,
+        "price": 412.0,
+        "gain_pct": 21.5339
+      }
+    ],
+    "expired_time": 1792091228439
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1792085830841,
+    "anchor_price": 11203.0,
+    "status": "FAILED",
+    "created_time": 1792085830841,
+    "last_time": 1792164812480,
+    "last_price": 11160.0,
+    "max_gain_pct": 3.1331,
+    "levels": [],
+    "failed_time": 1792097233216,
+    "failed_price": 10763.0
   }
 ]
