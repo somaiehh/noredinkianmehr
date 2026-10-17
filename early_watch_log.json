@@ -44613,7 +44613,10 @@
       "max_up": 5.27,
       "max_down": -0.39
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.85,
+      "max_down": -7.11
+    }
   },
   {
     "symbol": "SIRT",
@@ -44641,7 +44644,10 @@
       "max_up": 1.08,
       "max_down": -0.69
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.97,
+      "max_down": -0.88
+    }
   },
   {
     "symbol": "LABIRT",
@@ -44669,7 +44675,10 @@
       "max_up": 2.9,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.22,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "ARIAIRT",
