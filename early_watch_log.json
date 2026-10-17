@@ -44368,7 +44368,10 @@
       "max_up": 8.57,
       "max_down": -0.62
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 15.8,
+      "max_down": -0.62
+    }
   },
   {
     "symbol": "BASEDIRT",
