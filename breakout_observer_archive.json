@@ -20941,5 +20941,49 @@
     "confirmed_time": 1792219819558,
     "confirmed_price": 12700.0,
     "expired_time": 1792233364716
+  },
+  {
+    "symbol": "BRIRT",
+    "anchor_time": 1792159641827,
+    "anchor_price": 92500.0,
+    "status": "EXPIRED",
+    "created_time": 1792159641827,
+    "last_time": 1792263695004,
+    "last_price": 101780.0,
+    "max_gain_pct": 37.6216,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792160187650,
+    "confirmed_price": 100305.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792160187650,
+        "price": 100305.0,
+        "gain_pct": 8.4378
+      },
+      {
+        "level": 10,
+        "time": 1792160404200,
+        "price": 115000.0,
+        "gain_pct": 24.3243
+      }
+    ],
+    "expired_time": 1792202949343
+  },
+  {
+    "symbol": "GTCIRT",
+    "anchor_time": 1792212421690,
+    "anchor_price": 57887.0,
+    "status": "FAILED",
+    "created_time": 1792212421690,
+    "last_time": 1792264831009,
+    "last_price": 60500.0,
+    "max_gain_pct": 18.892,
+    "levels": [],
+    "failed_time": 1792213374939,
+    "failed_price": 55048.0
   }
 ]
