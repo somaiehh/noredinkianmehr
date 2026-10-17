@@ -20543,5 +20543,18 @@
     "max_gain_pct": 1.7634,
     "levels": [],
     "expired_time": 1791781346355
+  },
+  {
+    "symbol": "RSS3IRT",
+    "anchor_time": 1792071662898,
+    "anchor_price": 256.0,
+    "status": "FAILED",
+    "created_time": 1792071662898,
+    "last_time": 1792209148127,
+    "last_price": 214.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792074959040,
+    "failed_price": 248.0
   }
 ]
