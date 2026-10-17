@@ -44706,7 +44706,10 @@
       "max_up": 4.5,
       "max_down": -3.6
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.5,
+      "max_down": -11.61
+    }
   },
   {
     "symbol": "BASEDIRT",
@@ -44734,7 +44737,10 @@
       "max_up": 2.43,
       "max_down": -8.41
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.43,
+      "max_down": -15.98
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -45027,7 +45033,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.05,
+      "max_down": -0.54
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

@@ -20647,5 +20647,18 @@
     "max_gain_pct": 2.329,
     "levels": [],
     "expired_time": 1792187418934
+  },
+  {
+    "symbol": "STRKIRT",
+    "anchor_time": 1792151345004,
+    "anchor_price": 21163.0,
+    "status": "FAILED",
+    "created_time": 1792151345004,
+    "last_time": 1792227837171,
+    "last_price": 18903.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792154277648,
+    "failed_price": 20048.0
   }
 ]
