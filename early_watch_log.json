@@ -45016,7 +45016,10 @@
       "max_up": 4.13,
       "max_down": -0.57
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.13,
+      "max_down": -3.6
+    }
   },
   {
     "symbol": "ANIMEIRT",
@@ -45236,7 +45239,10 @@
       "max_up": 4.96,
       "max_down": -2.08
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.96,
+      "max_down": -13.73
+    },
     "result_12h": null
   },
   {
@@ -45379,7 +45385,10 @@
       "max_up": 2.69,
       "max_down": 2.69
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 19.04,
+      "max_down": 2.69
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -45397,7 +45406,10 @@
     "bs": 1.57,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 1.39,
+      "max_down": 0.2
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
