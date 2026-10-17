@@ -45202,7 +45202,10 @@
       "max_up": -0.63,
       "max_down": -8.81
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.29,
+      "max_down": -8.81
+    }
   },
   {
     "symbol": "ESIRT",
@@ -45583,7 +45586,10 @@
     "bs": 1.31,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
