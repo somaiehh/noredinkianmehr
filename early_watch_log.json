@@ -45056,7 +45056,10 @@
       "max_up": 0.05,
       "max_down": -2.48
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.05,
+      "max_down": -4.51
+    },
     "result_12h": null
   },
   {
@@ -45196,6 +45199,28 @@
     "va": 4.87,
     "buy": 36.66666666666667,
     "bs": 1.1,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 4.24,
+      "max_down": -0.79
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "RSS3IRT",
+    "time": 1792242183647,
+    "price": 215.0,
+    "level": "STRONG",
+    "hunt": 76.2,
+    "persistence": 1,
+    "p15": 0.47,
+    "vr": 1.47,
+    "va": 5.07,
+    "buy": 86.0,
+    "bs": 2.58,
     "breakout": false,
     "priority": false,
     "result_15m": null,
