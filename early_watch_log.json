@@ -45512,5 +45512,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "PTBIRT",
+    "time": 1792271697363,
+    "price": 190.0,
+    "level": "STRONG",
+    "hunt": 60.6,
+    "persistence": 1,
+    "p15": 0.53,
+    "vr": 0.96,
+    "va": 2.0,
+    "buy": 50.66666666666667,
+    "bs": 1.52,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
