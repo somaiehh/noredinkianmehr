@@ -20622,5 +20622,18 @@
     "levels": [],
     "failed_time": 1792180110479,
     "failed_price": 11500.0
+  },
+  {
+    "symbol": "MBLIRT",
+    "anchor_time": 1792138908889,
+    "anchor_price": 335.0,
+    "status": "FAILED",
+    "created_time": 1792138908889,
+    "last_time": 1792224154971,
+    "last_price": 185.2,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792139094512,
+    "failed_price": 271.8
   }
 ]
