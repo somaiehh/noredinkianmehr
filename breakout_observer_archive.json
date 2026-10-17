@@ -20491,5 +20491,32 @@
     "confirmed_time": 1792016763936,
     "confirmed_price": 13807.1,
     "expired_time": 1792030986818
+  },
+  {
+    "symbol": "TIAIRT",
+    "anchor_time": 1792148792674,
+    "anchor_price": 183000.0,
+    "status": "EXPIRED",
+    "created_time": 1792148792674,
+    "last_time": 1792202949343,
+    "last_price": 186006.0,
+    "max_gain_pct": 3.5361,
+    "levels": [],
+    "confirmed_time": 1792158553998,
+    "confirmed_price": 188500.0,
+    "expired_time": 1792192105090
+  },
+  {
+    "symbol": "COMMONIRT",
+    "anchor_time": 1792064983358,
+    "anchor_price": 14.1,
+    "status": "FAILED",
+    "created_time": 1792064983358,
+    "last_time": 1792202949343,
+    "last_price": 14.8,
+    "max_gain_pct": 5.6738,
+    "levels": [],
+    "failed_time": 1792067490940,
+    "failed_price": 13.5
   }
 ]
