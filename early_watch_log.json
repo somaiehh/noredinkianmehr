@@ -45140,7 +45140,10 @@
       "max_up": 13.18,
       "max_down": 0.13
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 13.18,
+      "max_down": -3.61
+    }
   },
   {
     "symbol": "PTBIRT",
@@ -45168,7 +45171,10 @@
       "max_up": 1.6,
       "max_down": -3.19
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.6,
+      "max_down": -3.19
+    }
   },
   {
     "symbol": "COMMONIRT",
@@ -45557,6 +45563,25 @@
     "buy": 96.33333333333334,
     "bs": 2.89,
     "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WETIRT",
+    "time": 1792276807294,
+    "price": 13730.0,
+    "level": "STRONG",
+    "hunt": 77.8,
+    "persistence": 1,
+    "p15": 0.87,
+    "vr": 6.48,
+    "va": 4.21,
+    "buy": 43.66666666666667,
+    "bs": 1.31,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
