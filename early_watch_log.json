@@ -44427,7 +44427,10 @@
       "max_up": 1.43,
       "max_down": -16.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.43,
+      "max_down": -20.86
+    }
   },
   {
     "symbol": "PTBIRT",
@@ -44815,7 +44818,10 @@
       "max_up": -0.01,
       "max_down": -2.26
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.01,
+      "max_down": -2.26
+    },
     "result_12h": null
   },
   {
@@ -44840,6 +44846,25 @@
       "max_up": -0.42,
       "max_down": -1.62
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TIAIRT",
+    "time": 1792208258250,
+    "price": 198000.0,
+    "level": "STRONG",
+    "hunt": 84.0,
+    "persistence": 2,
+    "p15": 1.33,
+    "vr": 16.81,
+    "va": 10.0,
+    "buy": 65.66666666666666,
+    "bs": 1.97,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
