@@ -3228,6 +3228,36 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ALTIRT": {
+      "trigger_time": 1792244960732,
+      "trigger_price": 2322.0,
+      "secondary_score": 95.0,
+      "hunt_score": 72.1,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
+    },
+    "AAVEIRT": {
+      "trigger_time": 1792245169058,
+      "trigger_price": 40478704.0,
+      "secondary_score": 70.0,
+      "hunt_score": 32.1,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

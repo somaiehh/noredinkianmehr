@@ -9320,5 +9320,24 @@
       "max_up": 4.13,
       "max_down": -0.57
     }
+  },
+  {
+    "symbol": "ALTIRT",
+    "time": 1792245169058,
+    "price": 2302.0,
+    "pre30": 2.4,
+    "pre60": null,
+    "pre120": null,
+    "hunt": 67.7,
+    "persistence": 2,
+    "vr": 1.08,
+    "va": 5.76,
+    "buy": 100,
+    "bs": 3.73,
+    "ob": 0.81,
+    "p15": 0.09,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
