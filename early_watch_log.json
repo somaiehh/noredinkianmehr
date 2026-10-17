@@ -44861,7 +44861,10 @@
       "max_up": -0.01,
       "max_down": -2.26
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.23,
+      "max_down": -2.26
+    }
   },
   {
     "symbol": "LABIRT",
@@ -45143,6 +45146,25 @@
       "max_up": -3.77,
       "max_down": -3.77
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ESIRT",
+    "time": 1792236778494,
+    "price": 420.0,
+    "level": "STRONG",
+    "hunt": 64.2,
+    "persistence": 5,
+    "p15": 0.48,
+    "vr": 1.72,
+    "va": 1.64,
+    "buy": 46.33333333333333,
+    "bs": 1.39,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
