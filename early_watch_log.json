@@ -44213,7 +44213,10 @@
       "max_up": 3.39,
       "max_down": -4.05
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.39,
+      "max_down": -7.38
+    }
   },
   {
     "symbol": "TIAIRT",
