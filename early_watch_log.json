@@ -45183,5 +45183,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1792241257938,
+    "price": 139.1,
+    "level": "STRONG",
+    "hunt": 68.4,
+    "persistence": 1,
+    "p15": 0.8,
+    "vr": 1.19,
+    "va": 4.87,
+    "buy": 36.66666666666667,
+    "bs": 1.1,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
