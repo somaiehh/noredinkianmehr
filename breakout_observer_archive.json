@@ -20816,5 +20816,18 @@
     "levels": [],
     "failed_time": 1791816466779,
     "failed_price": 482489.0
+  },
+  {
+    "symbol": "COMMONIRT",
+    "anchor_time": 1792203560932,
+    "anchor_price": 15.4,
+    "status": "FAILED",
+    "created_time": 1792203560932,
+    "last_time": 1792248800995,
+    "last_price": 15.6,
+    "max_gain_pct": 16.8831,
+    "levels": [],
+    "failed_time": 1792205256663,
+    "failed_price": 14.9
   }
 ]
