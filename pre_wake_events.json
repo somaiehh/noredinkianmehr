@@ -6922,11 +6922,11 @@
     "book": 0.92,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1792195870115,
+    "result_move": -5.7601,
     "max_move": 2.1666,
-    "min_move": -3.7344,
+    "min_move": -5.7601,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]

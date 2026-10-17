@@ -44120,7 +44120,10 @@
       "max_up": 4.52,
       "max_down": -4.92
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.52,
+      "max_down": -7.06
+    }
   },
   {
     "symbol": "B3IRT",
@@ -44148,7 +44151,10 @@
       "max_up": 0.83,
       "max_down": -7.08
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.83,
+      "max_down": -8.23
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -44176,7 +44182,10 @@
       "max_up": 5.31,
       "max_down": -0.19
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.31,
+      "max_down": -2.22
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -44533,7 +44542,10 @@
       "max_up": 0.01,
       "max_down": -2.03
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.88,
+      "max_down": -3.42
+    },
     "result_12h": null
   },
   {
@@ -44729,7 +44741,10 @@
       "max_up": 1.42,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.42,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -44747,7 +44762,10 @@
     "bs": 2.86,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.01,
+      "max_down": -0.01
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
