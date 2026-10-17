@@ -21050,5 +21050,18 @@
     "confirmed_time": 1792080253970,
     "confirmed_price": 204.0,
     "expired_time": 1792097457890
+  },
+  {
+    "symbol": "MBLIRT",
+    "anchor_time": 1792224358617,
+    "anchor_price": 190.4,
+    "status": "FAILED",
+    "created_time": 1792224358617,
+    "last_time": 1792269516265,
+    "last_price": 186.3,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792233593370,
+    "failed_price": 184.6
   }
 ]
