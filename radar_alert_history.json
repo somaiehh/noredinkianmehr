@@ -4844,5 +4844,18 @@
     "bs": 3.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1792229879728,
+    "symbol": "RSRIRT",
+    "price": 559.9,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.93,
+    "vr": 12.34,
+    "va": 10.0,
+    "bs": 0.22,
+    "breakout": true,
+    "persistence": 2
   }
 ]

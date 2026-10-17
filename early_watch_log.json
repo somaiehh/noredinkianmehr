@@ -44768,7 +44768,10 @@
       "max_up": 2.4,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.4,
+      "max_down": -0.91
+    }
   },
   {
     "symbol": "MOVRIRT",

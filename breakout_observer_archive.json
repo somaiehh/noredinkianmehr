@@ -20660,5 +20660,36 @@
     "levels": [],
     "failed_time": 1792154277648,
     "failed_price": 20048.0
+  },
+  {
+    "symbol": "RSRIRT",
+    "anchor_time": 1792014235049,
+    "anchor_price": 531.6,
+    "status": "EXPIRED",
+    "created_time": 1792014235049,
+    "last_time": 1792228979736,
+    "last_price": 547.7,
+    "max_gain_pct": 11.0986,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792033782026,
+    "confirmed_price": 555.4,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792034764652,
+        "price": 563.4,
+        "gain_pct": 5.9819
+      },
+      {
+        "level": 10,
+        "time": 1792038820666,
+        "price": 585.0,
+        "gain_pct": 10.0451
+      }
+    ],
+    "expired_time": 1792062393518
   }
 ]
