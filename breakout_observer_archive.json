@@ -20985,5 +20985,18 @@
     "levels": [],
     "failed_time": 1792213374939,
     "failed_price": 55048.0
+  },
+  {
+    "symbol": "BASEDIRT",
+    "anchor_time": 1792162419429,
+    "anchor_price": 13898.0,
+    "status": "FAILED",
+    "created_time": 1792162419429,
+    "last_time": 1792265035246,
+    "last_price": 13840.0,
+    "max_gain_pct": 9.0804,
+    "levels": [],
+    "failed_time": 1792166595112,
+    "failed_price": 13389.0
   }
 ]
