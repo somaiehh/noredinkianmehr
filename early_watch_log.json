@@ -44830,7 +44830,10 @@
       "max_up": 9.22,
       "max_down": -2.13
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 27.66,
+      "max_down": -2.13
+    }
   },
   {
     "symbol": "LABIRT",
@@ -45022,7 +45025,10 @@
       "max_up": 0.0,
       "max_down": -0.27
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -0.93
+    },
     "result_12h": null
   },
   {
@@ -45068,6 +45074,44 @@
       "max_up": 2.84,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "EPICIRT",
+    "time": 1792233593370,
+    "price": 72828.0,
+    "level": "STRONG",
+    "hunt": 73.2,
+    "persistence": 1,
+    "p15": 1.29,
+    "vr": 2.19,
+    "va": 4.4,
+    "buy": 59.0,
+    "bs": 1.77,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PTBIRT",
+    "time": 1792233593370,
+    "price": 188.0,
+    "level": "STRONG",
+    "hunt": 75.2,
+    "persistence": 1,
+    "p15": 0.53,
+    "vr": 1.81,
+    "va": 10.0,
+    "buy": 59.333333333333336,
+    "bs": 1.78,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
