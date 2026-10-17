@@ -20803,5 +20803,18 @@
     "levels": [],
     "failed_time": 1791979389896,
     "failed_price": 55087.0
+  },
+  {
+    "symbol": "DEXEIRT",
+    "anchor_time": 1791798452847,
+    "anchor_price": 497767.0,
+    "status": "FAILED",
+    "created_time": 1791798452847,
+    "last_time": 1792247835153,
+    "last_price": 463096.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791816466779,
+    "failed_price": 482489.0
   }
 ]
