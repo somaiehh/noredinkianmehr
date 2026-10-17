@@ -44957,5 +44957,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "ANIMEIRT",
+    "time": 1792218844759,
+    "price": 754.0,
+    "level": "STRONG",
+    "hunt": 59.8,
+    "persistence": 1,
+    "p15": 0.53,
+    "vr": 0.95,
+    "va": 2.0,
+    "buy": 77.66666666666667,
+    "bs": 2.33,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
