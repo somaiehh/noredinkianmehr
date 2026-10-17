@@ -45087,7 +45087,10 @@
       "max_up": 13.12,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 43.0,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -45230,7 +45233,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -1.86,
+      "max_down": -1.86
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -45244,6 +45250,28 @@
     "p15": 0.96,
     "vr": 0.6,
     "va": 6.89,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.86,
+      "max_down": -2.28
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "CYSIRT",
+    "time": 1792246012148,
+    "price": 30545.0,
+    "level": "WATCH",
+    "hunt": 48.9,
+    "persistence": 1,
+    "p15": 0.81,
+    "vr": 0.08,
+    "va": 10.0,
     "buy": 100,
     "bs": 5.0,
     "breakout": false,
