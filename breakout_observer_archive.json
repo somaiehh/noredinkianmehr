@@ -20531,5 +20531,17 @@
     "levels": [],
     "failed_time": 1792172016685,
     "failed_price": 356699.0
+  },
+  {
+    "symbol": "SEIIRT",
+    "anchor_time": 1791733943658,
+    "anchor_price": 18430.0,
+    "status": "EXPIRED",
+    "created_time": 1791733943658,
+    "last_time": 1792208258250,
+    "last_price": 17161.0,
+    "max_gain_pct": 1.7634,
+    "levels": [],
+    "expired_time": 1791781346355
   }
 ]
