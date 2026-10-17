@@ -20915,5 +20915,31 @@
     "levels": [],
     "failed_time": 1792181801770,
     "failed_price": 14127.0
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1792187418934,
+    "anchor_price": 1337588.0,
+    "status": "EXPIRED",
+    "created_time": 1792187418934,
+    "last_time": 1792261812726,
+    "last_price": 1299846.0,
+    "max_gain_pct": 1.7424,
+    "levels": [],
+    "expired_time": 1792230720223
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1792189609334,
+    "anchor_price": 12320.0,
+    "status": "EXPIRED",
+    "created_time": 1792189609334,
+    "last_time": 1792261812726,
+    "last_price": 11970.0,
+    "max_gain_pct": 3.8961,
+    "levels": [],
+    "confirmed_time": 1792219819558,
+    "confirmed_price": 12700.0,
+    "expired_time": 1792233364716
   }
 ]
