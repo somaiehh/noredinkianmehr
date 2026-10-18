@@ -9700,5 +9700,26 @@
     "max_move": 1.5058,
     "min_move": -0.6627,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "WLDIRT",
+    "event_time": 1792323205352,
+    "event_price": 130307.0,
+    "anchor_time": 1792322594984,
+    "anchor_price": 130283.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.8182,
+    "tm_e15_e1": 0.8182,
+    "tm_e1_e4": 0.5238,
+    "tm_g15": 1.125,
+    "tm_g1": 1.1,
+    "tm_g4": 1.05,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -0.142,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
