@@ -21744,5 +21744,49 @@
     "confirmed_time": 1792251197833,
     "confirmed_price": 16.7,
     "expired_time": 1792292697201
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1792317202243,
+    "anchor_price": 355282.0,
+    "status": "FAILED",
+    "created_time": 1792317202243,
+    "last_time": 1792364209548,
+    "last_price": 349538.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792352668498,
+    "failed_price": 344360.0
+  },
+  {
+    "symbol": "WODIRT",
+    "anchor_time": 1792321156713,
+    "anchor_price": 2850.0,
+    "status": "EXPIRED",
+    "created_time": 1792321156713,
+    "last_time": 1792366092056,
+    "last_price": 2514.0,
+    "max_gain_pct": 15.0877,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792321361573,
+    "confirmed_price": 2936.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792324151833,
+        "price": 3004.0,
+        "gain_pct": 5.4035
+      },
+      {
+        "level": 10,
+        "time": 1792324353729,
+        "price": 3200.0,
+        "gain_pct": 12.2807
+      }
+    ],
+    "expired_time": 1792366092056
   }
 ]

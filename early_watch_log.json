@@ -46024,7 +46024,10 @@
       "max_up": 0.0,
       "max_down": -16.44
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -19.66
+    }
   },
   {
     "symbol": "SIRT",
@@ -46052,7 +46055,10 @@
       "max_up": 2.24,
       "max_down": -5.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.24,
+      "max_down": -11.23
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -46080,7 +46086,10 @@
       "max_up": 0.0,
       "max_down": -1.87
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -3.66
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -46455,7 +46464,10 @@
       "max_up": 0.66,
       "max_down": 0.66
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.46,
+      "max_down": -0.2
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -46469,6 +46481,47 @@
     "p15": 0.57,
     "vr": 3.67,
     "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1792366092056,
+    "price": 352980.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.9,
+    "vr": 0.7,
+    "va": 5.54,
+    "buy": 80.0,
+    "bs": 2.4,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "COMMONIRT",
+    "time": 1792366294623,
+    "price": 15.4,
+    "level": "STRONG",
+    "hunt": 74.0,
+    "persistence": 2,
+    "p15": 1.99,
+    "vr": 0.44,
+    "va": 2.0,
     "buy": 100,
     "bs": 3.0,
     "breakout": true,
