@@ -9616,7 +9616,10 @@
       "max_up": 1.02,
       "max_down": -1.21
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.02,
+      "max_down": -8.47
+    }
   },
   {
     "symbol": "ERAIRT",
@@ -9638,7 +9641,10 @@
       "max_up": 1.02,
       "max_down": -1.21
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.02,
+      "max_down": -8.47
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
