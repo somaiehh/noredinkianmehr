@@ -45810,7 +45810,10 @@
       "max_up": 7.82,
       "max_down": 0.94
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 11.04,
+      "max_down": -4.23
+    }
   },
   {
     "symbol": "BCHIRT",
@@ -45999,7 +46002,10 @@
       "max_up": 0.0,
       "max_down": -3.79
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -16.44
+    },
     "result_12h": null
   },
   {
@@ -46113,7 +46119,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
