@@ -21668,5 +21668,30 @@
     "levels": [],
     "failed_time": 1792149517724,
     "failed_price": 335.0
+  },
+  {
+    "symbol": "RSS3IRT",
+    "anchor_time": 1792293801884,
+    "anchor_price": 216.0,
+    "status": "FAILED",
+    "created_time": 1792293801884,
+    "last_time": 1792357726382,
+    "last_price": 202.0,
+    "max_gain_pct": 2.3148,
+    "levels": [],
+    "failed_time": 1792312462548,
+    "failed_price": 205.0
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1792262445204,
+    "anchor_price": 1304780.0,
+    "status": "EXPIRED",
+    "created_time": 1792262445204,
+    "last_time": 1792358551548,
+    "last_price": 1214094.0,
+    "max_gain_pct": 1.5498,
+    "levels": [],
+    "expired_time": 1792306161986
   }
 ]
