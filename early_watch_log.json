@@ -45748,7 +45748,10 @@
       "max_up": 5.18,
       "max_down": -3.2
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.18,
+      "max_down": -14.79
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -45937,7 +45940,10 @@
       "max_up": 0.72,
       "max_down": -1.8
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.72,
+      "max_down": -8.27
+    },
     "result_12h": null
   },
   {
@@ -46037,6 +46043,25 @@
       "max_up": 0.0,
       "max_down": -0.45
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1792328962161,
+    "price": 11998.0,
+    "level": "STRONG",
+    "hunt": 76.5,
+    "persistence": 2,
+    "p15": 0.38,
+    "vr": 0.56,
+    "va": 4.67,
+    "buy": 100,
+    "bs": 4.22,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
