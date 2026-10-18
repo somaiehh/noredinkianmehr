@@ -9715,11 +9715,11 @@
     "tm_g1": 1.1,
     "tm_g4": 1.05,
     "legacy": false,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1792347650298,
+    "result_move": -5.2177,
     "max_move": 0.4681,
-    "min_move": -4.6076,
+    "min_move": -5.2177,
     "ledger_version": "wake-ledger-v1"
   },
   {
