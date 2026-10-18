@@ -7258,11 +7258,11 @@
     "book": 0.6,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1792294292219,
+    "result_move": -5.2712,
     "max_move": 0.0,
-    "min_move": -1.9862,
+    "min_move": -5.2712,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
