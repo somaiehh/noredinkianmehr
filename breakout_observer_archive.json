@@ -21231,5 +21231,29 @@
       }
     ],
     "expired_time": 1792275697743
+  },
+  {
+    "symbol": "RSS3IRT",
+    "anchor_time": 1792209834111,
+    "anchor_price": 215.0,
+    "status": "EXPIRED",
+    "created_time": 1792209834111,
+    "last_time": 1792293584490,
+    "last_price": 213.0,
+    "max_gain_pct": 6.9767,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792211585978,
+    "confirmed_price": 223.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792212421690,
+        "price": 227.0,
+        "gain_pct": 5.5814
+      }
+    ],
+    "expired_time": 1792253107601
   }
 ]
