@@ -46194,5 +46194,43 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1792344748023,
+    "price": 9.188e-05,
+    "level": "STRONG",
+    "hunt": 60.2,
+    "persistence": 1,
+    "p15": 0.53,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.03,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GTCIRT",
+    "time": 1792344748023,
+    "price": 70086.0,
+    "level": "STRONG",
+    "hunt": 69.8,
+    "persistence": 1,
+    "p15": 0.08,
+    "vr": 2.07,
+    "va": 5.88,
+    "buy": 61.33333333333334,
+    "bs": 1.84,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
