@@ -45354,7 +45354,10 @@
       "max_up": 1.61,
       "max_down": -1.78
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.14,
+      "max_down": -1.78
+    }
   },
   {
     "symbol": "LABIRT",
@@ -45688,6 +45691,28 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": 3.84,
+      "max_down": -1.13
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1792289172627,
+    "price": 11233.0,
+    "level": "STRONG",
+    "hunt": 54.4,
+    "persistence": 1,
+    "p15": 0.29,
+    "vr": 0.03,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
