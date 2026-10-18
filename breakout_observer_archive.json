@@ -21200,5 +21200,36 @@
       }
     ],
     "expired_time": 1792281110032
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1792232424576,
+    "anchor_price": 106.4,
+    "status": "EXPIRED",
+    "created_time": 1792232424576,
+    "last_time": 1792290736502,
+    "last_price": 127.5,
+    "max_gain_pct": 37.218,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792234183712,
+    "confirmed_price": 112.5,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792234183712,
+        "price": 112.5,
+        "gain_pct": 5.7331
+      },
+      {
+        "level": 10,
+        "time": 1792234965968,
+        "price": 119.4,
+        "gain_pct": 12.218
+      }
+    ],
+    "expired_time": 1792275697743
   }
 ]
