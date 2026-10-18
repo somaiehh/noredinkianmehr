@@ -9697,7 +9697,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.7206,
+    "max_move": 1.7366,
     "min_move": -0.6627,
     "ledger_version": "wake-ledger-v1"
   },
@@ -9720,6 +9720,27 @@
     "result_move": null,
     "max_move": 0.4681,
     "min_move": -0.142,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "ASPIRT",
+    "event_time": 1792326200047,
+    "event_price": 2977.0,
+    "anchor_time": 1792325983903,
+    "anchor_price": 2850.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 1.0,
+    "tm_e15_e1": 1.0,
+    "tm_e1_e4": 0.6087,
+    "tm_g15": 1.0769,
+    "tm_g1": 1.0769,
+    "tm_g4": 1.0455,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
