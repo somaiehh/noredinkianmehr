@@ -9395,5 +9395,24 @@
       "max_up": 1.32,
       "max_down": -7.17
     }
+  },
+  {
+    "symbol": "AVAIRT",
+    "time": 1792297150759,
+    "price": 104848.0,
+    "pre30": 1.79,
+    "pre60": 2.39,
+    "pre120": 5.91,
+    "hunt": 67.5,
+    "persistence": 3,
+    "vr": 1.01,
+    "va": 10.0,
+    "buy": 47.0,
+    "bs": 1.41,
+    "ob": 0.8,
+    "p15": 0.28,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
