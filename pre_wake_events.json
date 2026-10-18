@@ -7178,7 +7178,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.9918,
-    "min_move": -2.2395,
+    "min_move": -3.274,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -7241,7 +7241,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 6.7633,
-    "min_move": -2.8986,
+    "min_move": -3.8647,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
