@@ -21125,5 +21125,49 @@
       }
     ],
     "expired_time": 1792208044663
+  },
+  {
+    "symbol": "EPICIRT",
+    "anchor_time": 1792216123775,
+    "anchor_price": 62082.0,
+    "status": "EXPIRED",
+    "created_time": 1792216123775,
+    "last_time": 1792284846232,
+    "last_price": 75112.0,
+    "max_gain_pct": 36.1103,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792216314266,
+    "confirmed_price": 66000.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792216314266,
+        "price": 66000.0,
+        "gain_pct": 6.311
+      },
+      {
+        "level": 10,
+        "time": 1792217132510,
+        "price": 84500.0,
+        "gain_pct": 36.1103
+      }
+    ],
+    "expired_time": 1792259817239
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1792189408395,
+    "anchor_price": 11403.0,
+    "status": "FAILED",
+    "created_time": 1792189408395,
+    "last_time": 1792284846232,
+    "last_price": 11104.0,
+    "max_gain_pct": 1.7276,
+    "levels": [],
+    "failed_time": 1792193637727,
+    "failed_price": 10930.0
   }
 ]
