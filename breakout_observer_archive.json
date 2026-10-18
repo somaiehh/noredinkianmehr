@@ -21312,5 +21312,18 @@
       }
     ],
     "expired_time": 1792297150759
+  },
+  {
+    "symbol": "OSMOIRT",
+    "anchor_time": 1792065980982,
+    "anchor_price": 12681.0,
+    "status": "FAILED",
+    "created_time": 1792065980982,
+    "last_time": 1792309933841,
+    "last_price": 12313.0,
+    "max_gain_pct": 0.6151,
+    "levels": [],
+    "failed_time": 1792066921715,
+    "failed_price": 11998.0
   }
 ]
