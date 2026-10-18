@@ -4909,5 +4909,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 1
+  },
+  {
+    "time": 1792295573467,
+    "symbol": "GTCIRT",
+    "price": 70713.0,
+    "hunt_score": 91.5,
+    "status": "EARLY",
+    "p15": 2.11,
+    "vr": 1.19,
+    "va": 10.0,
+    "bs": 1.29,
+    "breakout": true,
+    "persistence": 2
   }
 ]
