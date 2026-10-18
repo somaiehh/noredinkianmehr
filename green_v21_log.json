@@ -9414,5 +9414,43 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "AVAIRT",
+    "time": 1792298021027,
+    "price": 104848.0,
+    "pre30": -1.97,
+    "pre60": 3.09,
+    "pre120": 9.53,
+    "hunt": 67.0,
+    "persistence": 5,
+    "vr": 2.53,
+    "va": 10.0,
+    "buy": 81.0,
+    "bs": 2.43,
+    "ob": 0.42,
+    "p15": 0.28,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "AVAIRT",
+    "time": 1792298204872,
+    "price": 104848.0,
+    "pre30": -1.97,
+    "pre60": 3.09,
+    "pre120": 9.53,
+    "hunt": 67.0,
+    "persistence": 6,
+    "vr": 2.53,
+    "va": 10.0,
+    "buy": 97.33333333333333,
+    "bs": 2.92,
+    "ob": 0.45,
+    "p15": 0.28,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
