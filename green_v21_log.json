@@ -9416,7 +9416,10 @@
       "max_up": 0.14,
       "max_down": -3.48
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.14,
+      "max_down": -4.5
+    }
   },
   {
     "symbol": "AVAIRT",
@@ -9460,6 +9463,25 @@
       "max_up": -0.39,
       "max_down": -3.48
     },
+    "result_4h": null
+  },
+  {
+    "symbol": "EPICIRT",
+    "time": 1792311800956,
+    "price": 65450.0,
+    "pre30": 0.86,
+    "pre60": -3.03,
+    "pre120": -4.61,
+    "hunt": 63.7,
+    "persistence": 2,
+    "vr": 1.02,
+    "va": 10.0,
+    "buy": 12.0,
+    "bs": 0.36,
+    "ob": 1.0,
+    "p15": 0.57,
+    "breakout": false,
+    "result_1h": null,
     "result_4h": null
   }
 ]
