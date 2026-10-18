@@ -21616,5 +21616,18 @@
     "levels": [],
     "failed_time": 1792271697363,
     "failed_price": 183.2
+  },
+  {
+    "symbol": "PTBIRT",
+    "anchor_time": 1792268442643,
+    "anchor_price": 191.0,
+    "status": "FAILED",
+    "created_time": 1792268442643,
+    "last_time": 1792343276781,
+    "last_price": 182.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792274497970,
+    "failed_price": 183.0
   }
 ]

@@ -3287,6 +3287,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "WMTXIRT": {
+      "trigger_time": 1792344156705,
+      "trigger_price": 5779.0,
+      "secondary_score": 60.0,
+      "hunt_score": 52.6,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
