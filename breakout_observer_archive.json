@@ -21655,5 +21655,18 @@
     "levels": [],
     "failed_time": 1792171376069,
     "failed_price": 211.6
+  },
+  {
+    "symbol": "SUNDOGIRT",
+    "anchor_time": 1792145909937,
+    "anchor_price": 351.0,
+    "status": "FAILED",
+    "created_time": 1792145909937,
+    "last_time": 1792347838806,
+    "last_price": 325.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792149517724,
+    "failed_price": 335.0
   }
 ]
