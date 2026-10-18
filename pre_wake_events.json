@@ -7178,7 +7178,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.9918,
-    "min_move": -3.4659,
+    "min_move": -3.7859,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -7220,7 +7220,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.5214,
-    "min_move": -3.3609,
+    "min_move": -3.8677,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -7409,7 +7409,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.9722,
-    "min_move": -1.4481,
+    "min_move": -1.965,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -7426,11 +7426,11 @@
     "book": 0.47,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1792354014853,
+    "result_move": -5.1429,
     "max_move": 0.8571,
-    "min_move": -1.4286,
+    "min_move": -5.1429,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -7452,6 +7452,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -2.3947,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "WODIRT",
+    "event_time": 1792353806634,
+    "event_price": 2585.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 35.0,
+    "p15": -0.81,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 2.36,
+    "book": 0.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 2.9014,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]

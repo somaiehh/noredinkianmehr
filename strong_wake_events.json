@@ -9736,11 +9736,11 @@
     "tm_g1": 1.0769,
     "tm_g4": 1.0455,
     "legacy": false,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1792353806634,
+    "result_move": -5.3745,
     "max_move": 0.0,
-    "min_move": -4.266,
+    "min_move": -5.3745,
     "ledger_version": "wake-ledger-v1"
   },
   {
