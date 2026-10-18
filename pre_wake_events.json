@@ -7411,5 +7411,26 @@
     "max_move": 0.9722,
     "min_move": -0.5758,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "SUNDOGIRT",
+    "event_time": 1792349548177,
+    "event_price": 350.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 48.8,
+    "p15": -1.96,
+    "vr": null,
+    "va": 4.12,
+    "ta": null,
+    "bs": 1.56,
+    "book": 0.47,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
