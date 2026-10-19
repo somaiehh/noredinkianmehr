@@ -7744,7 +7744,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 6.3054,
+    "max_move": 7.4818,
     "min_move": -1.5334,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -7767,6 +7767,27 @@
     "result_move": -5.0591,
     "max_move": 0.0,
     "min_move": -5.0591,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "SIRT",
+    "event_time": 1792436942378,
+    "event_price": 15275.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 72.9,
+    "p15": -1.97,
+    "vr": null,
+    "va": 7.8,
+    "ta": null,
+    "bs": 1.64,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -1.6301,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
