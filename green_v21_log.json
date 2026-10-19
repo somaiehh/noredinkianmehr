@@ -9766,7 +9766,10 @@
       "max_up": 3.12,
       "max_down": -2.09
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.12,
+      "max_down": -5.6
+    }
   },
   {
     "symbol": "ZECIRT",
