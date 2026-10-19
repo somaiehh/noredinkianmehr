@@ -9966,7 +9966,10 @@
       "max_up": 1.05,
       "max_down": -0.05
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.46,
+      "max_down": -0.69
+    }
   },
   {
     "symbol": "TUTIRT",
