@@ -7577,7 +7577,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.8074,
-    "min_move": -1.7259,
+    "min_move": -1.8447,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -7620,6 +7620,48 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -3.6585,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "SIRT",
+    "event_time": 1792400659914,
+    "event_price": 14039.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 32.7,
+    "p15": -1.1,
+    "vr": null,
+    "va": 2.0,
+    "ta": null,
+    "bs": 4.49,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "SIRT",
+    "event_time": 1792400859908,
+    "event_price": 14039.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 38.2,
+    "p15": -1.1,
+    "vr": null,
+    "va": 2.0,
+    "ta": null,
+    "bs": 4.49,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
