@@ -9761,5 +9761,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "ZECIRT",
+    "time": 1792396413180,
+    "price": 302324537.0,
+    "pre30": 0.73,
+    "pre60": 1.18,
+    "pre120": 0.77,
+    "hunt": 82.3,
+    "persistence": 2,
+    "vr": 1.04,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.67,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

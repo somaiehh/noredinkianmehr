@@ -21990,5 +21990,30 @@
     "levels": [],
     "failed_time": 1792172016685,
     "failed_price": 298000.0
+  },
+  {
+    "symbol": "LSKIRT",
+    "anchor_time": 1792241975740,
+    "anchor_price": 56997.0,
+    "status": "FAILED",
+    "created_time": 1792241975740,
+    "last_time": 1792395479307,
+    "last_price": 55711.0,
+    "max_gain_pct": 2.9651,
+    "levels": [],
+    "failed_time": 1792244960732,
+    "failed_price": 53154.0
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1792230541712,
+    "anchor_price": 324.0,
+    "status": "EXPIRED",
+    "created_time": 1792230541712,
+    "last_time": 1792396205541,
+    "last_price": 317.0,
+    "max_gain_pct": 1.2346,
+    "levels": [],
+    "expired_time": 1792274497970
   }
 ]
