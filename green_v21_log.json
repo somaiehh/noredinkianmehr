@@ -10042,5 +10042,24 @@
       "max_down": -0.28
     },
     "result_4h": null
+  },
+  {
+    "symbol": "PHAIRT",
+    "time": 1792449426935,
+    "price": 16914.0,
+    "pre30": -2.06,
+    "pre60": -2.06,
+    "pre120": 2.83,
+    "hunt": 63.7,
+    "persistence": 2,
+    "vr": 1.35,
+    "va": 2.0,
+    "buy": 12.666666666666668,
+    "bs": 0.38,
+    "ob": 0.94,
+    "p15": 0.59,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
