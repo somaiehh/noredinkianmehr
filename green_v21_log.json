@@ -9816,7 +9816,10 @@
       "max_up": 1.64,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.64,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "ZECIRT",
@@ -9899,6 +9902,25 @@
     "bs": 0.38,
     "ob": 1.0,
     "p15": 1.21,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1792411441955,
+    "price": 11621.0,
+    "pre30": 2.82,
+    "pre60": 2.84,
+    "pre120": -3.17,
+    "hunt": 79.1,
+    "persistence": 7,
+    "vr": 1.9,
+    "va": 10.0,
+    "buy": 14.333333333333334,
+    "bs": 0.43,
+    "ob": 1.0,
+    "p15": 0.68,
     "breakout": false,
     "result_1h": null,
     "result_4h": null
