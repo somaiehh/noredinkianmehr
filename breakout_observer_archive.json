@@ -22341,5 +22341,17 @@
       }
     ],
     "expired_time": 1792436179044
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1792367806643,
+    "anchor_price": 261010.0,
+    "status": "EXPIRED",
+    "created_time": 1792367806643,
+    "last_time": 1792444066926,
+    "last_price": 257564.0,
+    "max_gain_pct": 1.8359,
+    "levels": [],
+    "expired_time": 1792411441955
   }
 ]
