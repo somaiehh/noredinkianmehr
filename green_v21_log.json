@@ -9841,7 +9841,10 @@
       "max_up": 0.23,
       "max_down": -0.35
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.53,
+      "max_down": -2.85
+    }
   },
   {
     "symbol": "ZECIRT",
@@ -9863,7 +9866,10 @@
       "max_up": 0.23,
       "max_down": -0.35
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.53,
+      "max_down": -2.85
+    }
   },
   {
     "symbol": "ZECIRT",
@@ -9885,7 +9891,10 @@
       "max_up": 0.0,
       "max_down": -0.58
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.3,
+      "max_down": -3.07
+    }
   },
   {
     "symbol": "ARIAIRT",
