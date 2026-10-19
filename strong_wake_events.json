@@ -9716,10 +9716,10 @@
     "tm_g4": 1.05,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1792351993184,
-    "result_move": -6.332,
+    "result_time": 1792352668498,
+    "result_move": -7.5261,
     "max_move": 0.4681,
-    "min_move": -6.332,
+    "min_move": -7.5261,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -9930,6 +9930,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -0.5389,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "event_time": 1792403375586,
+    "event_price": 1076.3,
+    "anchor_time": 1792399188932,
+    "anchor_price": 1096.9,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.7143,
+    "tm_e15_e1": 0.7143,
+    "tm_e1_e4": 0.1892,
+    "tm_g15": 1.6667,
+    "tm_g1": 0.2917,
+    "tm_g4": 1.0571,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -0.0279,
     "ledger_version": "wake-ledger-v1"
   }
 ]
