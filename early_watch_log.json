@@ -46954,7 +46954,10 @@
       "max_up": 1.29,
       "max_down": -5.39
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.29,
+      "max_down": -5.39
+    }
   },
   {
     "symbol": "ZECIRT",
@@ -46982,7 +46985,10 @@
       "max_up": 1.18,
       "max_down": -2.21
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.18,
+      "max_down": -3.97
+    }
   },
   {
     "symbol": "HIPPOIRT",
@@ -47010,7 +47016,10 @@
       "max_up": -2.38,
       "max_down": -7.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -2.38,
+      "max_down": -12.14
+    }
   },
   {
     "symbol": "MUBARAKIRT",
@@ -47038,7 +47047,10 @@
       "max_up": 0.39,
       "max_down": -0.52
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.61,
+      "max_down": -1.88
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -47066,7 +47078,10 @@
       "max_up": 0.36,
       "max_down": -1.04
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.37,
+      "max_down": -1.11
+    }
   },
   {
     "symbol": "MAGICIRT",
@@ -47094,7 +47109,10 @@
       "max_up": 1.64,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.64,
+      "max_down": -0.32
+    }
   },
   {
     "symbol": "WODIRT",
@@ -47460,7 +47478,10 @@
       "max_up": -1.46,
       "max_down": -1.46
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -1.46,
+      "max_down": -3.74
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -47476,6 +47497,28 @@
     "va": 7.21,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "RLCIRT",
+    "time": 1792440298867,
+    "price": 188582.0,
+    "level": "STRONG",
+    "hunt": 69.5,
+    "persistence": 1,
+    "p15": 0.41,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.88,
     "breakout": false,
     "priority": false,
     "result_15m": null,

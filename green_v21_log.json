@@ -10016,6 +10016,28 @@
       "max_up": -0.5,
       "max_down": -0.72
     },
+    "result_4h": {
+      "max_up": 3.67,
+      "max_down": -1.83
+    }
+  },
+  {
+    "symbol": "RLCIRT",
+    "time": 1792440527715,
+    "price": 188582.0,
+    "pre30": 0.99,
+    "pre60": 1.28,
+    "pre120": 1.28,
+    "hunt": 71.5,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 43.0,
+    "bs": 1.29,
+    "ob": 1.0,
+    "p15": 0.41,
+    "breakout": false,
+    "result_1h": null,
     "result_4h": null
   }
 ]
