@@ -9791,7 +9791,10 @@
       "max_up": 0.88,
       "max_down": 0.55
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.18,
+      "max_down": -2.21
+    }
   },
   {
     "symbol": "MAGICIRT",
@@ -9879,6 +9882,25 @@
       "max_up": 0.0,
       "max_down": -0.58
     },
+    "result_4h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1792410895833,
+    "price": 11682.0,
+    "pre30": 3.36,
+    "pre60": 3.38,
+    "pre120": -2.66,
+    "hunt": 84.0,
+    "persistence": 6,
+    "vr": 1.9,
+    "va": 10.0,
+    "buy": 12.666666666666668,
+    "bs": 0.38,
+    "ob": 1.0,
+    "p15": 1.21,
+    "breakout": false,
+    "result_1h": null,
     "result_4h": null
   }
 ]
