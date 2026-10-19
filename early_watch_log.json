@@ -46861,7 +46861,10 @@
       "max_up": 1.52,
       "max_down": -2.49
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.52,
+      "max_down": -3.76
+    }
   },
   {
     "symbol": "USELESSIRT",
@@ -47427,6 +47430,25 @@
       "max_up": 0.68,
       "max_down": -0.68
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "OSMOIRT",
+    "time": 1792436179044,
+    "price": 14554.0,
+    "level": "STRONG",
+    "hunt": 55.1,
+    "persistence": 1,
+    "p15": 0.51,
+    "vr": 0.25,
+    "va": 2.67,
+    "buy": 98.0,
+    "bs": 2.94,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
