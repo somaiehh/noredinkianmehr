@@ -9866,7 +9866,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.2628,
-    "min_move": -0.7063,
+    "min_move": -2.4932,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -9929,7 +9929,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -2.1255,
+    "min_move": -4.0269,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -9972,6 +9972,48 @@
     "result_move": null,
     "max_move": 0.1497,
     "min_move": -0.863,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "DOGSIRT",
+    "event_time": 1792420028958,
+    "event_price": 9.9,
+    "anchor_time": 1792416873660,
+    "anchor_price": 9.93,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1111,
+    "tm_e15_e1": 0.1111,
+    "tm_e1_e4": 0.6923,
+    "tm_g15": 0.25,
+    "tm_g1": 1.9286,
+    "tm_g4": 1.3929,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "UAIIRT",
+    "event_time": 1792420028958,
+    "event_price": 76483.0,
+    "anchor_time": 1792419715424,
+    "anchor_price": 76483.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.5,
+    "tm_e15_e1": 0.5,
+    "tm_e1_e4": 0.5714,
+    "tm_g15": 0.7273,
+    "tm_g1": 1.2308,
+    "tm_g4": 1.12,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
