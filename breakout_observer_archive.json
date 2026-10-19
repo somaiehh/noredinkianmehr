@@ -22266,5 +22266,36 @@
     "max_gain_pct": 0.321,
     "levels": [],
     "expired_time": 1792409693661
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1792379239998,
+    "anchor_price": 32474.7,
+    "status": "EXPIRED",
+    "created_time": 1792379239998,
+    "last_time": 1792432681095,
+    "last_price": 32711.9,
+    "max_gain_pct": 53.7323,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792380148745,
+    "confirmed_price": 34867.4,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792380148745,
+        "price": 34867.4,
+        "gain_pct": 7.3679
+      },
+      {
+        "level": 10,
+        "time": 1792381172985,
+        "price": 36404.5,
+        "gain_pct": 12.1011
+      }
+    ],
+    "expired_time": 1792422567020
   }
 ]
