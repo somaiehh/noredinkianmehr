@@ -9742,5 +9742,24 @@
       "max_down": -4.53
     },
     "result_4h": null
+  },
+  {
+    "symbol": "LSKIRT",
+    "time": 1792395479307,
+    "price": 55711.0,
+    "pre30": 6.48,
+    "pre60": 6.48,
+    "pre120": 14.03,
+    "hunt": 68.8,
+    "persistence": 2,
+    "vr": 9.05,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.62,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
