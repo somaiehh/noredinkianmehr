@@ -21877,5 +21877,18 @@
       }
     ],
     "expired_time": 1792374117307
+  },
+  {
+    "symbol": "BCHIRT",
+    "anchor_time": 1792301026498,
+    "anchor_price": 72699008.0,
+    "status": "FAILED",
+    "created_time": 1792301026498,
+    "last_time": 1792389032678,
+    "last_price": 72105432.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792341260201,
+    "failed_price": 70489542.0
   }
 ]
