@@ -21890,5 +21890,18 @@
     "levels": [],
     "failed_time": 1792341260201,
     "failed_price": 70489542.0
+  },
+  {
+    "symbol": "AVAIRT",
+    "anchor_time": 1792306161986,
+    "anchor_price": 104726.0,
+    "status": "FAILED",
+    "created_time": 1792306161986,
+    "last_time": 1792389257548,
+    "last_price": 102959.0,
+    "max_gain_pct": 5.185,
+    "levels": [],
+    "failed_time": 1792309735122,
+    "failed_price": 101500.0
   }
 ]
