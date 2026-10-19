@@ -22241,5 +22241,18 @@
         "gain_pct": 5.1246
       }
     ]
+  },
+  {
+    "symbol": "KAIOIRT",
+    "anchor_time": 1792141510430,
+    "anchor_price": 10500.0,
+    "status": "FAILED",
+    "created_time": 1792141510430,
+    "last_time": 1792429046857,
+    "last_price": 7743.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792146761950,
+    "failed_price": 10137.0
   }
 ]
