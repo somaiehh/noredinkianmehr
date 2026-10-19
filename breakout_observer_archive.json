@@ -22041,5 +22041,18 @@
     "levels": [],
     "failed_time": 1792249370936,
     "failed_price": 15150.0
+  },
+  {
+    "symbol": "OSMOIRT",
+    "anchor_time": 1792310513188,
+    "anchor_price": 12494.0,
+    "status": "FAILED",
+    "created_time": 1792310513188,
+    "last_time": 1792403572965,
+    "last_price": 14267.0,
+    "max_gain_pct": 16.2718,
+    "levels": [],
+    "failed_time": 1792313377792,
+    "failed_price": 12005.0
   }
 ]
