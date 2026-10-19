@@ -9916,7 +9916,10 @@
       "max_up": 3.45,
       "max_down": -0.87
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.45,
+      "max_down": -4.13
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -9938,7 +9941,10 @@
       "max_up": 3.99,
       "max_down": -0.35
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.99,
+      "max_down": -3.62
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -9978,7 +9984,10 @@
     "ob": 1.0,
     "p15": 0.91,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.39,
+      "max_down": -0.1
+    },
     "result_4h": null
   },
   {

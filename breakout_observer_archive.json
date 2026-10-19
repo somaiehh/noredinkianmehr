@@ -22218,5 +22218,28 @@
     "max_gain_pct": 2.4272,
     "levels": [],
     "expired_time": 1792401819159
+  },
+  {
+    "symbol": "EPICIRT",
+    "anchor_time": 1792383108493,
+    "anchor_price": 73684.0,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1792383108493,
+    "last_time": 1792425219699,
+    "last_price": 67624.0,
+    "max_gain_pct": 7.1969,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792384852708,
+    "confirmed_price": 76786.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792387112304,
+        "price": 77460.0,
+        "gain_pct": 5.1246
+      }
+    ]
   }
 ]
