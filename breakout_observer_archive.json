@@ -22149,5 +22149,50 @@
       }
     ],
     "expired_time": 1792404305374
+  },
+  {
+    "symbol": "GTCIRT",
+    "anchor_time": 1792325160464,
+    "anchor_price": 68142.0,
+    "status": "EXPIRED",
+    "created_time": 1792325160464,
+    "last_time": 1792413690514,
+    "last_price": 78312.0,
+    "max_gain_pct": 17.8275,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792347650298,
+    "confirmed_price": 70927.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792348529117,
+        "price": 72000.0,
+        "gain_pct": 5.6617
+      },
+      {
+        "level": 10,
+        "time": 1792357520496,
+        "price": 80000.0,
+        "gain_pct": 17.4019
+      }
+    ],
+    "expired_time": 1792368432426
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1792360939163,
+    "anchor_price": 11132.0,
+    "status": "EXPIRED",
+    "created_time": 1792360939163,
+    "last_time": 1792413690514,
+    "last_price": 10839.0,
+    "max_gain_pct": 3.5843,
+    "levels": [],
+    "confirmed_time": 1792366294623,
+    "confirmed_price": 11491.0,
+    "expired_time": 1792404305374
   }
 ]
