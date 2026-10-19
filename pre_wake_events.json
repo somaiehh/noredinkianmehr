@@ -7534,7 +7534,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.6379,
+    "max_move": 2.5,
     "min_move": -1.4483,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -7661,6 +7661,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.0969,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "MARSCOINIRT",
+    "event_time": 1792402580103,
+    "event_price": 21349.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 36.9,
+    "p15": -0.84,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 3.83,
+    "book": 0.22,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0796,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
