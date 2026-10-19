@@ -3359,6 +3359,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "PHAIRT": {
+      "trigger_time": 1792432405042,
+      "trigger_price": 15091.0,
+      "secondary_score": 60.0,
+      "hunt_score": null,
+      "flags": [
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
