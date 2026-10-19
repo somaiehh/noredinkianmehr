@@ -47140,7 +47140,10 @@
       "max_up": 8.26,
       "max_down": -5.41
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.26,
+      "max_down": -5.41
+    }
   },
   {
     "symbol": "ARBIRT",
@@ -47519,6 +47522,47 @@
     "va": 10.0,
     "buy": 100,
     "bs": 3.88,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -0.28
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PEPEIRT",
+    "time": 1792441361080,
+    "price": 1.06796,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.58,
+    "vr": 7.07,
+    "va": 5.87,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GTCIRT",
+    "time": 1792441361080,
+    "price": 90000.0,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 2,
+    "p15": 1.21,
+    "vr": 0.34,
+    "va": 4.64,
+    "buy": 33.666666666666664,
+    "bs": 1.01,
     "breakout": false,
     "priority": false,
     "result_15m": null,
