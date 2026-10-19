@@ -21933,5 +21933,49 @@
         "gain_pct": 12.0232
       }
     ]
+  },
+  {
+    "symbol": "BRIRT",
+    "anchor_time": 1792337020711,
+    "anchor_price": 107350.0,
+    "status": "EXPIRED",
+    "created_time": 1792337020711,
+    "last_time": 1792392545852,
+    "last_price": 120648.0,
+    "max_gain_pct": 29.483,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792337680899,
+    "confirmed_price": 111471.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792338444894,
+        "price": 113235.0,
+        "gain_pct": 5.4821
+      },
+      {
+        "level": 10,
+        "time": 1792349332239,
+        "price": 119850.0,
+        "gain_pct": 11.6442
+      }
+    ],
+    "expired_time": 1792380335647
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1792340441575,
+    "anchor_price": 127.8,
+    "status": "FAILED",
+    "created_time": 1792340441575,
+    "last_time": 1792392545852,
+    "last_price": 117.6,
+    "max_gain_pct": 0.313,
+    "levels": [],
+    "failed_time": 1792341458830,
+    "failed_price": 123.1
   }
 ]
