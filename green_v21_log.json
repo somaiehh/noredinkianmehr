@@ -9818,5 +9818,43 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "ZECIRT",
+    "time": 1792397916935,
+    "price": 304300000.0,
+    "pre30": 0.1,
+    "pre60": 1.39,
+    "pre120": 1.84,
+    "hunt": 77.4,
+    "persistence": 5,
+    "vr": 10.33,
+    "va": 7.71,
+    "buy": 100,
+    "bs": 3.0,
+    "ob": 0.2,
+    "p15": 0.1,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ZECIRT",
+    "time": 1792398135631,
+    "price": 305000000.0,
+    "pre30": 1.57,
+    "pre60": 1.62,
+    "pre120": 2.07,
+    "hunt": 95.1,
+    "persistence": 6,
+    "vr": 6.96,
+    "va": 5.44,
+    "buy": 100,
+    "bs": 4.39,
+    "ob": 0.0,
+    "p15": 0.23,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
