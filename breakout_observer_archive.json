@@ -21903,5 +21903,35 @@
     "levels": [],
     "failed_time": 1792309735122,
     "failed_price": 101500.0
+  },
+  {
+    "symbol": "AMPIRT",
+    "anchor_time": 1792347650298,
+    "anchor_price": 207.1,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1792347650298,
+    "last_time": 1792390039265,
+    "last_price": 232.0,
+    "max_gain_pct": 12.0232,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792354784699,
+    "confirmed_price": 216.4,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792386416627,
+        "price": 218.9,
+        "gain_pct": 5.6977
+      },
+      {
+        "level": 10,
+        "time": 1792390039265,
+        "price": 232.0,
+        "gain_pct": 12.0232
+      }
+    ]
   }
 ]
