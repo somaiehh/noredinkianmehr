@@ -21853,5 +21853,29 @@
     "levels": [],
     "failed_time": 1792336790926,
     "failed_price": 29178.0
+  },
+  {
+    "symbol": "EPICIRT",
+    "anchor_time": 1792330433778,
+    "anchor_price": 68854.0,
+    "status": "EXPIRED",
+    "created_time": 1792330433778,
+    "last_time": 1792382905195,
+    "last_price": 72516.0,
+    "max_gain_pct": 8.9261,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792338444894,
+    "confirmed_price": 71000.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792338662479,
+        "price": 72297.0,
+        "gain_pct": 5.0004
+      }
+    ],
+    "expired_time": 1792374117307
   }
 ]

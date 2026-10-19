@@ -46210,7 +46210,10 @@
       "max_up": 6.76,
       "max_down": -3.21
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 20.72,
+      "max_down": -3.21
+    }
   },
   {
     "symbol": "ERAIRT",
@@ -46666,6 +46669,28 @@
     "va": 10.0,
     "buy": 100,
     "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.08,
+      "max_down": -0.08
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GTCIRT",
+    "time": 1792382905195,
+    "price": 75955.0,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 1,
+    "p15": 1.27,
+    "vr": 0.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
