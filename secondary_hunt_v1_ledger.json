@@ -3314,6 +3314,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BARIRT": {
+      "trigger_time": 1792377525962,
+      "trigger_price": 70219.0,
+      "secondary_score": 85.0,
+      "hunt_score": 62.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
