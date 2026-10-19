@@ -47435,7 +47435,10 @@
       "max_up": 0.04,
       "max_down": -1.4
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.55,
+      "max_down": -1.4
+    },
     "result_12h": null
   },
   {
@@ -47506,7 +47509,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.11,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -47546,7 +47552,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -47563,6 +47572,28 @@
     "va": 4.64,
     "buy": 33.666666666666664,
     "bs": 1.01,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -2.98,
+      "max_down": -2.98
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PIGGYIRT",
+    "time": 1792442079100,
+    "price": 3475.0,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 1,
+    "p15": 0.78,
+    "vr": 0.25,
+    "va": 8.47,
+    "buy": 100,
+    "bs": 4.79,
     "breakout": false,
     "priority": false,
     "result_15m": null,

@@ -7513,7 +7513,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 3.2232,
+    "max_move": 3.2235,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -7555,7 +7555,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.508,
+    "max_move": 1.5083,
     "min_move": -0.2485,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -7723,7 +7723,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 0.6329,
     "min_move": -3.4968,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -7787,7 +7787,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -2.2193,
+    "min_move": -3.2275,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -7809,6 +7809,48 @@
     "result_move": -7.079,
     "max_move": 0.3259,
     "min_move": -7.079,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "PHAIRT",
+    "event_time": 1792442079100,
+    "event_price": 16448.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 58.4,
+    "p15": -1.63,
+    "vr": null,
+    "va": 2.56,
+    "ta": null,
+    "bs": 1.95,
+    "book": 0.52,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 2.5657,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "QIRT",
+    "event_time": 1792442079100,
+    "event_price": 35000.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 31.6,
+    "p15": -1.29,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 1.51,
+    "book": 0.08,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
