@@ -46737,7 +46737,10 @@
       "max_up": -0.08,
       "max_down": -2.72
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.17,
+      "max_down": -2.72
+    }
   },
   {
     "symbol": "GTCIRT",
@@ -47178,7 +47181,10 @@
       "max_up": 0.0,
       "max_down": -6.95
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -9.39
+    },
     "result_12h": null
   },
   {
@@ -47203,7 +47209,10 @@
       "max_up": 4.36,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.36,
+      "max_down": -3.28
+    },
     "result_12h": null
   },
   {
