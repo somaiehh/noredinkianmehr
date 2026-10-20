@@ -47773,7 +47773,10 @@
       "max_up": 3.07,
       "max_down": 1.87
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.19,
+      "max_down": 1.87
+    }
   },
   {
     "symbol": "SIRT",
