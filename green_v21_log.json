@@ -10166,7 +10166,10 @@
       "max_up": 0.0,
       "max_down": -0.76
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.71,
+      "max_down": -0.9
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -10188,7 +10191,10 @@
       "max_up": -0.67,
       "max_down": -2.63
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.61,
+      "max_down": -2.63
+    }
   },
   {
     "symbol": "OSMOIRT",
@@ -10210,7 +10216,10 @@
       "max_up": -0.76,
       "max_down": -0.76
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.71,
+      "max_down": -0.9
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -10232,7 +10241,10 @@
       "max_up": 0.06,
       "max_down": -1.92
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.12,
+      "max_down": -1.92
+    }
   },
   {
     "symbol": "ANIMEIRT",
@@ -10249,6 +10261,25 @@
     "bs": 0.42,
     "ob": 1.0,
     "p15": 1.12,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "GTCIRT",
+    "time": 1792539090099,
+    "price": 84825.0,
+    "pre30": 1.27,
+    "pre60": 4.81,
+    "pre120": 5.28,
+    "hunt": 84.0,
+    "persistence": 3,
+    "vr": 7.5,
+    "va": 10.0,
+    "buy": 11.666666666666666,
+    "bs": 0.35,
+    "ob": 1.0,
+    "p15": 0.76,
     "breakout": false,
     "result_1h": null,
     "result_4h": null
