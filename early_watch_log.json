@@ -47624,7 +47624,10 @@
       "max_up": 0.43,
       "max_down": -0.66
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.0,
+      "max_down": -1.96
+    }
   },
   {
     "symbol": "GTCIRT",
@@ -47652,7 +47655,10 @@
       "max_up": 2.86,
       "max_down": -2.98
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.15,
+      "max_down": -11.95
+    }
   },
   {
     "symbol": "PIGGYIRT",
@@ -47834,7 +47840,10 @@
     "bs": 1.09,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.81,
+      "max_down": -0.81
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -47853,7 +47862,10 @@
     "bs": 1.89,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -3.85,
+      "max_down": -3.86
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

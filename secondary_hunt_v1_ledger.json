@@ -3413,6 +3413,20 @@
         "va3",
         "premove_pos"
       ]
+    },
+    "SQDIRT": {
+      "trigger_time": 1792484592785,
+      "trigger_price": 4782.0,
+      "secondary_score": 65.0,
+      "hunt_score": 47.4,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

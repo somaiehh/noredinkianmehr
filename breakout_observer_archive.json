@@ -22668,5 +22668,31 @@
     "levels": [],
     "failed_time": 1792390039265,
     "failed_price": 99769.0
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "anchor_time": 1792437177876,
+    "anchor_price": 991.8,
+    "status": "FAILED",
+    "created_time": 1792437177876,
+    "last_time": 1792483620333,
+    "last_price": 935.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792441124297,
+    "failed_price": 957.9
+  },
+  {
+    "symbol": "PUFFERIRT",
+    "anchor_time": 1792301766224,
+    "anchor_price": 10916.0,
+    "status": "FAILED",
+    "created_time": 1792301766224,
+    "last_time": 1792484386704,
+    "last_price": 10676.0,
+    "max_gain_pct": 2.336,
+    "levels": [],
+    "failed_time": 1792318042732,
+    "failed_price": 10504.0
   }
 ]
