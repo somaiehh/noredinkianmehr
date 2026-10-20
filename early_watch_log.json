@@ -47959,7 +47959,10 @@
       "max_up": 1.59,
       "max_down": -7.48
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.59,
+      "max_down": -9.24
+    }
   },
   {
     "symbol": "OSMOIRT",
@@ -47984,7 +47987,10 @@
       "max_up": 2.29,
       "max_down": -3.18
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.56,
+      "max_down": -3.18
+    }
   },
   {
     "symbol": "KAIOIRT",
@@ -48012,7 +48018,10 @@
       "max_up": 1.22,
       "max_down": -3.32
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.22,
+      "max_down": -4.92
+    }
   },
   {
     "symbol": "WENSOLIRT",
@@ -48397,7 +48406,10 @@
       "max_up": 0.0,
       "max_down": -3.49
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -4.41
+    },
     "result_12h": null
   },
   {
@@ -48483,8 +48495,14 @@
     "bs": 1.26,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
-    "result_1h": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   }
