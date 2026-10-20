@@ -47469,7 +47469,10 @@
       "max_up": 3.55,
       "max_down": -1.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.55,
+      "max_down": -4.01
+    }
   },
   {
     "symbol": "COMMONIRT",
