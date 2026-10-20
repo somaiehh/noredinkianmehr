@@ -47531,7 +47531,10 @@
       "max_up": -1.46,
       "max_down": -9.54
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.46,
+      "max_down": -11.08
+    }
   },
   {
     "symbol": "XNYIRT",
