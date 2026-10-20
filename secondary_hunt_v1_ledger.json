@@ -3386,6 +3386,20 @@
         "book1",
         "dt15_pos"
       ]
+    },
+    "XAUTIRT": {
+      "trigger_time": 1792482588348,
+      "trigger_price": 1067027094.0,
+      "secondary_score": 60.0,
+      "hunt_score": null,
+      "flags": [
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

@@ -5325,5 +5325,18 @@
     "bs": 0.01,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1792482837429,
+    "symbol": "SIRT",
+    "price": 14900.0,
+    "hunt_score": 83.1,
+    "status": "EARLY",
+    "p15": 0.88,
+    "vr": 0.7,
+    "va": 10.0,
+    "bs": 4.51,
+    "breakout": true,
+    "persistence": 4
   }
 ]
