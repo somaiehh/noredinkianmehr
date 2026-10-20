@@ -9800,7 +9800,7 @@
     "tm_g4": 1.0476,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1792416873660,
+    "result_time": 1792418259489,
     "result_move": -8.1395,
     "max_move": 0.0,
     "min_move": -8.4302,
@@ -9821,8 +9821,8 @@
     "tm_g4": 1.16,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1792416658209,
-    "result_move": -6.6256,
+    "result_time": 1792418259489,
+    "result_move": -6.6934,
     "max_move": 7.1969,
     "min_move": -8.7075,
     "ledger_version": "wake-ledger-v1"
@@ -9947,10 +9947,10 @@
     "tm_g4": 1.0571,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1792416658209,
-    "result_move": -5.3888,
+    "result_time": 1792418259489,
+    "result_move": -5.872,
     "max_move": 1.9418,
-    "min_move": -5.3888,
+    "min_move": -5.872,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -10098,6 +10098,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -1.236,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "event_time": 1792475805468,
+    "event_price": 1.412,
+    "anchor_time": 1792474434234,
+    "anchor_price": 1.412,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.2,
+    "tm_e15_e1": 0.2,
+    "tm_e1_e4": 0.5,
+    "tm_g15": 0.2727,
+    "tm_g1": 1.25,
+    "tm_g4": 1.1111,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
