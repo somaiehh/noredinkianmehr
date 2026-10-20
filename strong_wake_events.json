@@ -9947,10 +9947,10 @@
     "tm_g4": 1.0571,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1792440298867,
-    "result_move": -9.7928,
+    "result_time": 1792441124297,
+    "result_move": -11.0007,
     "max_move": 1.9418,
-    "min_move": -10.8984,
+    "min_move": -11.0007,
     "ledger_version": "wake-ledger-v1"
   },
   {

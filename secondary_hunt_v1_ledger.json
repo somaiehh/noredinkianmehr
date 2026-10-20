@@ -3442,6 +3442,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "DOODIRT": {
+      "trigger_time": 1792495458900,
+      "trigger_price": 397.9,
+      "secondary_score": 70.0,
+      "hunt_score": 25.6,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
