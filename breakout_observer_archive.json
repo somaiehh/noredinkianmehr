@@ -22764,5 +22764,31 @@
     "levels": [],
     "failed_time": 1791778025700,
     "failed_price": 1.6677
+  },
+  {
+    "symbol": "BRIRT",
+    "anchor_time": 1792436942378,
+    "anchor_price": 173450.0,
+    "status": "FAILED",
+    "created_time": 1792436942378,
+    "last_time": 1792490428605,
+    "last_price": 176567.0,
+    "max_gain_pct": 8.3131,
+    "levels": [],
+    "failed_time": 1792441124297,
+    "failed_price": 163506.0
+  },
+  {
+    "symbol": "PTBIRT",
+    "anchor_time": 1792343947547,
+    "anchor_price": 185.0,
+    "status": "FAILED",
+    "created_time": 1792343947547,
+    "last_time": 1792491843138,
+    "last_price": 183.0,
+    "max_gain_pct": 0.5405,
+    "levels": [],
+    "failed_time": 1792345601435,
+    "failed_price": 179.0
   }
 ]
