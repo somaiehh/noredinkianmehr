@@ -47804,7 +47804,10 @@
       "max_up": 1.4,
       "max_down": -0.28
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.29,
+      "max_down": -0.95
+    }
   },
   {
     "symbol": "MUBARAKIRT",
@@ -47832,7 +47835,10 @@
       "max_up": 0.44,
       "max_down": -2.39
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.44,
+      "max_down": -4.33
+    }
   },
   {
     "symbol": "COMMONIRT",
@@ -47860,7 +47866,10 @@
       "max_up": 3.05,
       "max_down": -7.93
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.05,
+      "max_down": -9.15
+    }
   },
   {
     "symbol": "PHAIRT",
@@ -47888,7 +47897,10 @@
       "max_up": -0.54,
       "max_down": -3.83
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.54,
+      "max_down": -6.65
+    }
   },
   {
     "symbol": "BRIRT",
@@ -47916,7 +47928,10 @@
       "max_up": 1.08,
       "max_down": -8.62
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.08,
+      "max_down": -8.68
+    }
   },
   {
     "symbol": "ALTIRT",

@@ -10135,7 +10135,7 @@
     "tm_g1": 1.3077,
     "tm_g4": 1.1154,
     "legacy": false,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 3.3533,
@@ -10329,6 +10329,27 @@
     "result_move": null,
     "max_move": 0.7753,
     "min_move": -1.7253,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "IRIRT",
+    "event_time": 1792526055915,
+    "event_price": 841.0,
+    "anchor_time": 1792525108875,
+    "anchor_price": 841.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1923,
+    "tm_e15_e1": 0.1923,
+    "tm_e1_e4": 0.6341,
+    "tm_g15": 2.5,
+    "tm_g1": 1.2381,
+    "tm_g4": 1.1081,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
