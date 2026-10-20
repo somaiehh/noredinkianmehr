@@ -22816,5 +22816,19 @@
     "levels": [],
     "failed_time": 1791543847600,
     "failed_price": 701.8
+  },
+  {
+    "symbol": "LIGHTIRT",
+    "anchor_time": 1791714113664,
+    "anchor_price": 56240.0,
+    "status": "EXPIRED",
+    "created_time": 1791714113664,
+    "last_time": 1792495458900,
+    "last_price": 55767.0,
+    "max_gain_pct": 3.0121,
+    "levels": [],
+    "confirmed_time": 1791734381780,
+    "confirmed_price": 57934.0,
+    "expired_time": 1791758344340
   }
 ]
