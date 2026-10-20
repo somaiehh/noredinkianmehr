@@ -8020,5 +8020,26 @@
     "max_move": 7.6959,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "NEARIRT",
+    "event_time": 1792536974540,
+    "event_price": 1292404.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 40.7,
+    "p15": -1.29,
+    "vr": null,
+    "va": 2.0,
+    "ta": null,
+    "bs": 1.65,
+    "book": 0.23,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]

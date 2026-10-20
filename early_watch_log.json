@@ -48434,7 +48434,10 @@
       "max_up": 1.61,
       "max_down": -1.06
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.61,
+      "max_down": -1.06
+    },
     "result_12h": null
   },
   {
@@ -48520,6 +48523,28 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GTCIRT",
+    "time": 1792537200685,
+    "price": 83758.0,
+    "level": "STRONG",
+    "hunt": 72.8,
+    "persistence": 2,
+    "p15": 1.99,
+    "vr": 4.77,
+    "va": 2.0,
+    "buy": 88.66666666666667,
+    "bs": 2.66,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
