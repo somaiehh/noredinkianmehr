@@ -3400,6 +3400,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "DAOIRT": {
+      "trigger_time": 1792483620333,
+      "trigger_price": 7000.0,
+      "secondary_score": 75.0,
+      "hunt_score": 72.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "premove_pos"
+      ]
     }
   }
 }
