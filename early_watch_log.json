@@ -47230,7 +47230,10 @@
       "max_up": 0.0,
       "max_down": -9.39
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -9.39
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -47258,7 +47261,10 @@
       "max_up": 4.36,
       "max_down": -3.28
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.36,
+      "max_down": -4.97
+    }
   },
   {
     "symbol": "PTBIRT",
@@ -47525,7 +47531,10 @@
       "max_up": 1.11,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.63,
+      "max_down": -2.76
+    },
     "result_12h": null
   },
   {
@@ -47550,7 +47559,10 @@
       "max_up": 0.0,
       "max_down": -0.28
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -1.58
+    },
     "result_12h": null
   },
   {
@@ -47625,6 +47637,25 @@
       "max_up": -1.53,
       "max_down": -5.47
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1792454716951,
+    "price": 11239.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.94,
+    "vr": 6.17,
+    "va": 2.0,
+    "buy": 98.33333333333334,
+    "bs": 2.95,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
