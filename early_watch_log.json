@@ -47686,7 +47686,10 @@
       "max_up": 0.0,
       "max_down": -5.47
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.24,
+      "max_down": -5.47
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -47756,7 +47759,10 @@
       "max_up": 1.87,
       "max_down": 1.87
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.07,
+      "max_down": 1.87
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -47866,6 +47872,25 @@
       "max_up": -3.85,
       "max_down": -3.86
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ALTIRT",
+    "time": 1792485611401,
+    "price": 2835.0,
+    "level": "STRONG",
+    "hunt": 72.5,
+    "persistence": 2,
+    "p15": 1.76,
+    "vr": 0.86,
+    "va": 2.16,
+    "buy": 41.0,
+    "bs": 1.23,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
