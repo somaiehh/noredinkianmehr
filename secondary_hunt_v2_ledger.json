@@ -1793,6 +1793,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "TURBOIRT": {
+      "trigger_time": 1792511086981,
+      "trigger_price": 225.09,
+      "secondary_score": 70.0,
+      "hunt_score": 31.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
