@@ -9947,8 +9947,8 @@
     "tm_g4": 1.0571,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1792434042490,
-    "result_move": -8.9473,
+    "result_time": 1792434899123,
+    "result_move": -9.4397,
     "max_move": 1.9418,
     "min_move": -10.8984,
     "ledger_version": "wake-ledger-v1"
@@ -10138,7 +10138,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.1986,
+    "max_move": 0.3233,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
