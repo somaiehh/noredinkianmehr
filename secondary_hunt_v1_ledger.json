@@ -3484,6 +3484,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ASTERIRT": {
+      "trigger_time": 1792512159527,
+      "trigger_price": 187256.0,
+      "secondary_score": 60.0,
+      "hunt_score": 42.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
