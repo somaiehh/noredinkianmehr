@@ -3373,6 +3373,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "KSMIRT": {
+      "trigger_time": 1792472037612,
+      "trigger_price": 1050000.0,
+      "secondary_score": 60.0,
+      "hunt_score": 42.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "dt15_pos"
+      ]
     }
   }
 }
