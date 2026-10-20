@@ -47320,7 +47320,10 @@
       "max_up": 19.09,
       "max_down": -7.1
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 32.02,
+      "max_down": -7.1
+    }
   },
   {
     "symbol": "GTCIRT",
@@ -47665,6 +47668,25 @@
     "buy": 98.33333333333334,
     "bs": 2.95,
     "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1792457615543,
+    "price": 10270.0,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 4,
+    "p15": 0.79,
+    "vr": 0.37,
+    "va": 6.39,
+    "buy": 60.66666666666667,
+    "bs": 1.82,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
