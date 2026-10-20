@@ -47562,7 +47562,10 @@
       "max_up": 1.63,
       "max_down": -2.76
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.95,
+      "max_down": -13.58
+    }
   },
   {
     "symbol": "RLCIRT",
@@ -47724,6 +47727,25 @@
       "max_up": -0.34,
       "max_down": -3.6
     },
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1792481921281,
+    "price": 1.2707,
+    "level": "WATCH",
+    "hunt": 40.2,
+    "persistence": 1,
+    "p15": 0.4,
+    "vr": 0.34,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
     "result_12h": null
   }
 ]
