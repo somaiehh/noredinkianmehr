@@ -3497,6 +3497,22 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "KERNELIRT": {
+      "trigger_time": 1792513635053,
+      "trigger_price": 12783.0,
+      "secondary_score": 95.0,
+      "hunt_score": 58.6,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
