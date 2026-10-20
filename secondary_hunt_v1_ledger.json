@@ -3513,6 +3513,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ROAMIRT": {
+      "trigger_time": 1792526785471,
+      "trigger_price": 3112.2,
+      "secondary_score": 80.0,
+      "hunt_score": 62.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
