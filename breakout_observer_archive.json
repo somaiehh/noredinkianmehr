@@ -22942,5 +22942,18 @@
     "levels": [],
     "failed_time": 1792407846224,
     "failed_price": 38.8
+  },
+  {
+    "symbol": "NOTIRT",
+    "anchor_time": 1792344748023,
+    "anchor_price": 98.5,
+    "status": "FAILED",
+    "created_time": 1792344748023,
+    "last_time": 1792506762177,
+    "last_price": 107.2,
+    "max_gain_pct": 8.8325,
+    "levels": [],
+    "failed_time": 1792355004696,
+    "failed_price": 95.4
   }
 ]
