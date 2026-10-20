@@ -22803,5 +22803,18 @@
     "levels": [],
     "failed_time": 1792413466960,
     "failed_price": 11644.0
+  },
+  {
+    "symbol": "BEAMXIRT",
+    "anchor_time": 1791532964225,
+    "anchor_price": 726.6,
+    "status": "FAILED",
+    "created_time": 1791532964225,
+    "last_time": 1792494476951,
+    "last_price": 824.7,
+    "max_gain_pct": 14.2307,
+    "levels": [],
+    "failed_time": 1791543847600,
+    "failed_price": 701.8
   }
 ]
