@@ -3427,6 +3427,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "MPLXIRT": {
+      "trigger_time": 1792487941780,
+      "trigger_price": 15380.0,
+      "secondary_score": 80.0,
+      "hunt_score": 62.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
