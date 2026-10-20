@@ -1765,6 +1765,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ALTIRT": {
+      "trigger_time": 1792469807630,
+      "trigger_price": 2677.0,
+      "secondary_score": 65.0,
+      "hunt_score": 7.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

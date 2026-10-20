@@ -5299,5 +5299,18 @@
     "bs": 0.02,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1792470011059,
+    "symbol": "PHAIRT",
+    "price": 14881.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.01,
+    "vr": 1.9,
+    "va": 3.58,
+    "bs": 0.0,
+    "breakout": false,
+    "persistence": 2
   }
 ]
