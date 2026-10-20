@@ -10183,5 +10183,26 @@
     "max_move": 4.1745,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "GAIAIRT",
+    "event_time": 1792504344410,
+    "event_price": 527.0,
+    "anchor_time": 1792503358057,
+    "anchor_price": 519.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1364,
+    "tm_e15_e1": 0.1364,
+    "tm_e1_e4": 0.6667,
+    "tm_g15": 3.0,
+    "tm_g1": 1.1,
+    "tm_g4": 1.0645,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]

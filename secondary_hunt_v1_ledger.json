@@ -3456,6 +3456,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BMTIRT": {
+      "trigger_time": 1792504556395,
+      "trigger_price": 5437.0,
+      "secondary_score": 85.0,
+      "hunt_score": 59.8,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
