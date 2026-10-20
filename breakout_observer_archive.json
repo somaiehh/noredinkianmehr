@@ -23076,5 +23076,18 @@
     "levels": [],
     "failed_time": 1792408990287,
     "failed_price": 50755.0
+  },
+  {
+    "symbol": "STRKIRT",
+    "anchor_time": 1792228767967,
+    "anchor_price": 19168.0,
+    "status": "FAILED",
+    "created_time": 1792228767967,
+    "last_time": 1792521335384,
+    "last_price": 14823.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792240580369,
+    "failed_price": 18583.0
   }
 ]
