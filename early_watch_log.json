@@ -47379,7 +47379,10 @@
       "max_up": -1.64,
       "max_down": -6.9
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.64,
+      "max_down": -11.56
+    }
   },
   {
     "symbol": "HIPPOIRT",
@@ -47404,7 +47407,10 @@
       "max_up": 0.0,
       "max_down": -4.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.55,
+      "max_down": -4.4
+    }
   },
   {
     "symbol": "TUTIRT",
