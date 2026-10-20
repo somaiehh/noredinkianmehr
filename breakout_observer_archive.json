@@ -22830,5 +22830,18 @@
     "confirmed_time": 1791734381780,
     "confirmed_price": 57934.0,
     "expired_time": 1791758344340
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1792415216363,
+    "anchor_price": 10927.0,
+    "status": "FAILED",
+    "created_time": 1792415216363,
+    "last_time": 1792497198461,
+    "last_price": 10820.0,
+    "max_gain_pct": 0.1373,
+    "levels": [],
+    "failed_time": 1792420028958,
+    "failed_price": 10583.0
   }
 ]
