@@ -22843,5 +22843,104 @@
     "levels": [],
     "failed_time": 1792420028958,
     "failed_price": 10583.0
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1792316984511,
+    "anchor_price": 9.403e-05,
+    "status": "FAILED",
+    "created_time": 1792316984511,
+    "last_time": 1792504556395,
+    "last_price": 9.499e-05,
+    "max_gain_pct": 1.3613,
+    "levels": [],
+    "failed_time": 1792337680899,
+    "failed_price": 9.07e-05
+  },
+  {
+    "symbol": "LTCIRT",
+    "anchor_time": 1792234965968,
+    "anchor_price": 15676135.0,
+    "status": "EXPIRED",
+    "created_time": 1792234965968,
+    "last_time": 1792504556395,
+    "last_price": 15548764.0,
+    "max_gain_pct": 0.5971,
+    "levels": [],
+    "expired_time": 1792278621610
+  },
+  {
+    "symbol": "FILIRT",
+    "anchor_time": 1792395479307,
+    "anchor_price": 276604.0,
+    "status": "FAILED",
+    "created_time": 1792395479307,
+    "last_time": 1792504556395,
+    "last_price": 267944.0,
+    "max_gain_pct": 0.7187,
+    "levels": [],
+    "failed_time": 1792408765951,
+    "failed_price": 267787.0
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1792358768713,
+    "anchor_price": 1237851.0,
+    "status": "EXPIRED",
+    "created_time": 1792358768713,
+    "last_time": 1792504556395,
+    "last_price": 1239184.0,
+    "max_gain_pct": 7.9937,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792363984011,
+    "confirmed_price": 1297262.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792367626087,
+        "price": 1316691.0,
+        "gain_pct": 6.3691
+      }
+    ],
+    "expired_time": 1792402580103
+  },
+  {
+    "symbol": "WLDIRT",
+    "anchor_time": 1792077455000,
+    "anchor_price": 131017.0,
+    "status": "EXPIRED",
+    "created_time": 1792077455000,
+    "last_time": 1792504556395,
+    "last_price": 145165.0,
+    "max_gain_pct": 12.0015,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792140557575,
+    "confirmed_price": 142237.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792140557575,
+        "price": 142237.0,
+        "gain_pct": 8.5638
+      }
+    ],
+    "expired_time": 1792140557575
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "anchor_time": 1792406954123,
+    "anchor_price": 40.9,
+    "status": "FAILED",
+    "created_time": 1792406954123,
+    "last_time": 1792504556395,
+    "last_price": 37.2,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792407846224,
+    "failed_price": 38.8
   }
 ]
