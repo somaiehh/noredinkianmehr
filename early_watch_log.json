@@ -49381,5 +49381,43 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "LTCIRT",
+    "time": 1792615371639,
+    "price": 16601415.0,
+    "level": "STRONG",
+    "hunt": 65.3,
+    "persistence": 1,
+    "p15": 0.79,
+    "vr": 2.19,
+    "va": 2.0,
+    "buy": 40.33333333333333,
+    "bs": 1.21,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHIBIRT",
+    "time": 1792615780308,
+    "price": 1.3951,
+    "level": "STRONG",
+    "hunt": 63.1,
+    "persistence": 1,
+    "p15": 0.42,
+    "vr": 2.91,
+    "va": 6.58,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]

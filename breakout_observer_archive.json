@@ -24020,5 +24020,18 @@
       }
     ],
     "expired_time": 1791790360884
+  },
+  {
+    "symbol": "WODIRT",
+    "anchor_time": 1792409693661,
+    "anchor_price": 2662.0,
+    "status": "FAILED",
+    "created_time": 1792409693661,
+    "last_time": 1792614604922,
+    "last_price": 2695.0,
+    "max_gain_pct": 13.9745,
+    "levels": [],
+    "failed_time": 1792410895833,
+    "failed_price": 2494.0
   }
 ]
