@@ -23841,5 +23841,32 @@
       }
     ],
     "expired_time": 1791481148049
+  },
+  {
+    "symbol": "ALTIRT",
+    "anchor_time": 1792482588348,
+    "anchor_price": 2825.0,
+    "status": "FAILED",
+    "created_time": 1792482588348,
+    "last_time": 1792601724674,
+    "last_price": 3776.0,
+    "max_gain_pct": 33.6637,
+    "levels": [],
+    "failed_time": 1792482834549,
+    "failed_price": 2738.0
+  },
+  {
+    "symbol": "COMMONIRT",
+    "anchor_time": 1792482588348,
+    "anchor_price": 16.4,
+    "status": "EXPIRED",
+    "created_time": 1792482588348,
+    "last_time": 1792601724674,
+    "last_price": 15.1,
+    "max_gain_pct": 3.0488,
+    "levels": [],
+    "confirmed_time": 1792483407952,
+    "confirmed_price": 16.9,
+    "expired_time": 1792525821672
   }
 ]
