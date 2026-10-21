@@ -23578,5 +23578,31 @@
     "levels": [],
     "failed_time": 1792021124676,
     "failed_price": 4019.0
+  },
+  {
+    "symbol": "ARBIRT",
+    "anchor_time": 1792521109486,
+    "anchor_price": 50175.0,
+    "status": "EXPIRED",
+    "created_time": 1792521109486,
+    "last_time": 1792580816347,
+    "last_price": 50900.0,
+    "max_gain_pct": 1.4449,
+    "levels": [],
+    "expired_time": 1792566553463
+  },
+  {
+    "symbol": "BASEDIRT",
+    "anchor_time": 1792265611294,
+    "anchor_price": 13860.0,
+    "status": "EXPIRED",
+    "created_time": 1792265611294,
+    "last_time": 1792581678061,
+    "last_price": 14080.0,
+    "max_gain_pct": 3.8889,
+    "levels": [],
+    "confirmed_time": 1792275697743,
+    "confirmed_price": 14399.0,
+    "expired_time": 1792309735122
   }
 ]
