@@ -48111,7 +48111,10 @@
       "max_up": 7.41,
       "max_down": -1.13
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.52,
+      "max_down": -1.13
+    }
   },
   {
     "symbol": "ENSOIRT",
@@ -48139,7 +48142,10 @@
       "max_up": 1.56,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.38,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -48167,7 +48173,10 @@
       "max_up": 5.52,
       "max_down": -0.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.23,
+      "max_down": -0.61
+    }
   },
   {
     "symbol": "ARIAIRT",

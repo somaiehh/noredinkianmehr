@@ -23230,5 +23230,18 @@
       }
     ],
     "expired_time": 1792525334582
+  },
+  {
+    "symbol": "MBLIRT",
+    "anchor_time": 1792340626703,
+    "anchor_price": 183.9,
+    "status": "FAILED",
+    "created_time": 1792340626703,
+    "last_time": 1792542331387,
+    "last_price": 187.0,
+    "max_gain_pct": 1.6857,
+    "levels": [],
+    "failed_time": 1792348799150,
+    "failed_price": 177.5
   }
 ]
