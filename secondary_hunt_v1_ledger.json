@@ -3599,6 +3599,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "CHZIRT": {
+      "trigger_time": 1792611235665,
+      "trigger_price": 3801.0,
+      "secondary_score": 60.0,
+      "hunt_score": 7.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

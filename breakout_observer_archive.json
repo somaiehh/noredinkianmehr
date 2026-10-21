@@ -23989,5 +23989,36 @@
       }
     ],
     "expired_time": 1792593468210
+  },
+  {
+    "symbol": "GRASSIRT",
+    "anchor_time": 1791747112409,
+    "anchor_price": 202176.0,
+    "status": "EXPIRED",
+    "created_time": 1791747112409,
+    "last_time": 1792610156951,
+    "last_price": 185134.0,
+    "max_gain_pct": 15.1388,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791752725144,
+    "confirmed_price": 210000.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791758937470,
+        "price": 213209.0,
+        "gain_pct": 5.4571
+      },
+      {
+        "level": 10,
+        "time": 1791765747888,
+        "price": 225000.0,
+        "gain_pct": 11.2892
+      }
+    ],
+    "expired_time": 1791790360884
   }
 ]
