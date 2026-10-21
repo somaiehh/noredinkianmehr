@@ -48567,7 +48567,10 @@
       "max_up": 0.35,
       "max_down": -0.27
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.89,
+      "max_down": -0.64
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -48700,7 +48703,10 @@
       "max_up": 4.58,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.58,
+      "max_down": -3.77
+    },
     "result_12h": null
   },
   {
@@ -48722,7 +48728,10 @@
       "max_up": -0.51,
       "max_down": -0.74
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.68,
+      "max_down": -1.11
+    },
     "result_12h": null
   },
   {
@@ -48740,7 +48749,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.09,
+      "max_down": 1.09
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -48758,8 +48770,14 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
-    "result_1h": null,
+    "result_15m": {
+      "max_up": 0.19,
+      "max_down": 0.19
+    },
+    "result_1h": {
+      "max_up": 0.19,
+      "max_down": 0.19
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -48777,8 +48795,14 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
-    "result_1h": null,
+    "result_15m": {
+      "max_up": 0.18,
+      "max_down": 0.18
+    },
+    "result_1h": {
+      "max_up": 0.18,
+      "max_down": 0.18
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -48794,6 +48818,31 @@
     "va": 2.74,
     "buy": 100,
     "bs": 3.35,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.13,
+      "max_down": -0.13
+    },
+    "result_1h": {
+      "max_up": -0.13,
+      "max_down": -0.13
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1792573915761,
+    "price": 11850.0,
+    "level": "WATCH",
+    "hunt": 44.3,
+    "persistence": 1,
+    "p15": 0.44,
+    "vr": 0.43,
+    "va": 2.86,
+    "buy": 35.0,
+    "bs": 1.05,
     "breakout": false,
     "priority": false,
     "result_15m": null,
