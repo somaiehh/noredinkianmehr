@@ -5481,5 +5481,18 @@
     "bs": 0.26,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1792586215048,
+    "symbol": "BMTIRT",
+    "price": 6473.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 0.86,
+    "vr": 1.62,
+    "va": 10.0,
+    "bs": 2.24,
+    "breakout": false,
+    "persistence": 2
   }
 ]

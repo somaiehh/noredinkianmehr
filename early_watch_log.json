@@ -48986,7 +48986,10 @@
       "max_up": 2.0,
       "max_down": 2.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.0,
+      "max_down": -0.45
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -49004,6 +49007,28 @@
     "bs": 4.26,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 1.41,
+      "max_down": 1.41
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BMTIRT",
+    "time": 1792586211509,
+    "price": 6473.0,
+    "level": "STRONG",
+    "hunt": 84.0,
+    "persistence": 2,
+    "p15": 0.86,
+    "vr": 1.62,
+    "va": 10.0,
+    "buy": 74.66666666666667,
+    "bs": 2.24,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
