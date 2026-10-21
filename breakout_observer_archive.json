@@ -23755,5 +23755,67 @@
     "max_gain_pct": 0.2946,
     "levels": [],
     "expired_time": 1792585813473
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1792506440665,
+    "anchor_price": 9.783e-05,
+    "status": "EXPIRED",
+    "created_time": 1792506440665,
+    "last_time": 1792596757161,
+    "last_price": 9.882e-05,
+    "max_gain_pct": 1.2982,
+    "levels": [],
+    "expired_time": 1792558434051
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1792552068357,
+    "anchor_price": 337328177.0,
+    "status": "FAILED",
+    "created_time": 1792552068357,
+    "last_time": 1792596757161,
+    "last_price": 352055178.0,
+    "max_gain_pct": 4.3658,
+    "levels": [],
+    "failed_time": 1792558434051,
+    "failed_price": 318709637.0
+  },
+  {
+    "symbol": "POLIRT",
+    "anchor_time": 1791227636992,
+    "anchor_price": 28955.0,
+    "status": "EXPIRED",
+    "created_time": 1791227636992,
+    "last_time": 1792596757161,
+    "last_price": 25626.0,
+    "max_gain_pct": 3.1014,
+    "levels": [],
+    "expired_time": 1791271031812
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1792534173347,
+    "anchor_price": 355839.0,
+    "status": "EXPIRED",
+    "created_time": 1792534173347,
+    "last_time": 1792597990986,
+    "last_price": 358999.0,
+    "max_gain_pct": 0.888,
+    "levels": [],
+    "expired_time": 1792577450093
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "anchor_time": 1792490040624,
+    "anchor_price": 1.6,
+    "status": "FAILED",
+    "created_time": 1792490040624,
+    "last_time": 1792597990986,
+    "last_price": 1.7039,
+    "max_gain_pct": 21.8687,
+    "levels": [],
+    "failed_time": 1792515228679,
+    "failed_price": 1.5501
   }
 ]
