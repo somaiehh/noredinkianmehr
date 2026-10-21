@@ -3612,6 +3612,22 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "DYMIRT": {
+      "trigger_time": 1792614232215,
+      "trigger_price": 5400.0,
+      "secondary_score": 90.0,
+      "hunt_score": 73.2,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
