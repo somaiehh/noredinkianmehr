@@ -23517,5 +23517,29 @@
     "levels": [],
     "failed_time": 1791261241550,
     "failed_price": 283.9
+  },
+  {
+    "symbol": "XNYIRT",
+    "anchor_time": 1792431577336,
+    "anchor_price": 1442.8,
+    "status": "EXPIRED",
+    "created_time": 1792431577336,
+    "last_time": 1792578906739,
+    "last_price": 1791.1,
+    "max_gain_pct": 24.1406,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792435886044,
+    "confirmed_price": 1500.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792438641522,
+        "price": 1523.1,
+        "gain_pct": 5.5656
+      }
+    ],
+    "expired_time": 1792475566185
   }
 ]
