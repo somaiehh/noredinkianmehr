@@ -3571,6 +3571,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ENAIRT": {
+      "trigger_time": 1792596757161,
+      "trigger_price": 57360.0,
+      "secondary_score": 70.0,
+      "hunt_score": 78.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "dt15_pos"
+      ]
     }
   }
 }
