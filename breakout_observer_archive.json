@@ -23375,5 +23375,18 @@
     "levels": [],
     "failed_time": 1792490040624,
     "failed_price": 31701.4
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1792506440665,
+    "anchor_price": 1296075.0,
+    "status": "FAILED",
+    "created_time": 1792506440665,
+    "last_time": 1792566553463,
+    "last_price": 1347132.0,
+    "max_gain_pct": 3.9394,
+    "levels": [],
+    "failed_time": 1792512159527,
+    "failed_price": 1253799.0
   }
 ]

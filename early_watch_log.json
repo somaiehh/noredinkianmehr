@@ -48480,7 +48480,10 @@
       "max_up": 1.61,
       "max_down": -1.06
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.78,
+      "max_down": -1.06
+    }
   },
   {
     "symbol": "PEPEIRT",
@@ -48505,7 +48508,10 @@
       "max_up": 0.84,
       "max_down": -2.5
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.84,
+      "max_down": -2.78
+    }
   },
   {
     "symbol": "GTCIRT",
@@ -48530,7 +48536,10 @@
       "max_up": 5.46,
       "max_down": -1.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.8,
+      "max_down": -3.61
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -48663,7 +48672,10 @@
       "max_up": 0.0,
       "max_down": -1.81
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -5.52
+    },
     "result_12h": null
   },
   {
@@ -48710,6 +48722,25 @@
       "max_up": -0.51,
       "max_down": -0.74
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1792567041214,
+    "price": 10728.0,
+    "level": "WATCH",
+    "hunt": 45.2,
+    "persistence": 1,
+    "p15": 0.26,
+    "vr": 0.51,
+    "va": 2.43,
+    "buy": 56.666666666666664,
+    "bs": 1.7,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
