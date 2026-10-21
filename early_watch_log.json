@@ -48387,7 +48387,10 @@
       "max_up": -1.22,
       "max_down": -2.3
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.37,
+      "max_down": -2.3
+    }
   },
   {
     "symbol": "BANKIRT",
@@ -48598,7 +48601,10 @@
       "max_up": 1.27,
       "max_down": 1.27
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.27,
+      "max_down": -5.29
+    },
     "result_12h": null
   },
   {
@@ -48623,6 +48629,25 @@
       "max_up": 2.93,
       "max_down": 1.8
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ZECIRT",
+    "time": 1792552068357,
+    "price": 337328177.0,
+    "level": "STRONG",
+    "hunt": 69.6,
+    "persistence": 1,
+    "p15": 0.12,
+    "vr": 2.94,
+    "va": 4.9,
+    "buy": 59.0,
+    "bs": 1.77,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
