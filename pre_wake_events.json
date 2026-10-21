@@ -8083,5 +8083,26 @@
     "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "MEWIRT",
+    "event_time": 1792548648918,
+    "event_price": 135.5,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 34.5,
+    "p15": -1.09,
+    "vr": null,
+    "va": 2.19,
+    "ta": null,
+    "bs": 5.0,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
