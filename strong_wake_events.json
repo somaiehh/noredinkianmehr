@@ -10178,8 +10178,8 @@
     "tm_g4": 1.0435,
     "legacy": false,
     "result": "HIT_FIRST",
-    "result_time": 1792522645457,
-    "result_move": 16.7194,
+    "result_time": 1792523428086,
+    "result_move": 15.7251,
     "max_move": 28.0549,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
@@ -10471,7 +10471,7 @@
     "tm_g1": 1.25,
     "tm_g4": 1.6562,
     "legacy": false,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 5.8201,
@@ -10492,7 +10492,7 @@
     "tm_g1": 1.3636,
     "tm_g4": 1.2857,
     "legacy": false,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 3.2606,
@@ -10601,7 +10601,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 3.3435,
-    "min_move": 0.0,
+    "min_move": -2.0973,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -10705,7 +10705,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.7329,
+    "max_move": 3.4829,
     "min_move": -1.1653,
     "ledger_version": "wake-ledger-v1"
   },
@@ -10895,7 +10895,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 2.8003,
-    "min_move": -1.371,
+    "min_move": -1.9325,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -11083,7 +11083,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.0266,
+    "max_move": 1.7059,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   },
@@ -11167,7 +11167,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.4209,
+    "max_move": 0.6543,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   },
@@ -11189,7 +11189,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": 0.0,
+    "min_move": -0.759,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -11205,6 +11205,27 @@
     "tm_g15": 2.8,
     "tm_g1": 2.6154,
     "tm_g4": 1.913,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -0.3382,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "DYMIRT",
+    "event_time": 1792610156951,
+    "event_price": 5176.0,
+    "anchor_time": 1792609727309,
+    "anchor_price": 5140.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.25,
+    "tm_e15_e1": 0.25,
+    "tm_e1_e4": 0.4444,
+    "tm_g15": 4.0,
+    "tm_g1": 1.0,
+    "tm_g4": 1.125,
     "legacy": false,
     "result": "PENDING",
     "result_time": null,

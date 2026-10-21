@@ -8080,7 +8080,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 3.1496,
+    "max_move": 3.4121,
     "min_move": -3.0971,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -8165,6 +8165,27 @@
     "result_time": 1792587171676,
     "result_move": 34.5989,
     "max_move": 34.5989,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "EPICIRT",
+    "event_time": 1792610156951,
+    "event_price": 44150.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 33.5,
+    "p15": -1.03,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 4.2,
+    "book": 0.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
