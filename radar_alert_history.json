@@ -5455,5 +5455,18 @@
     "bs": 2.6,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1792580819234,
+    "symbol": "OSMOIRT",
+    "price": 13629.0,
+    "hunt_score": 80.4,
+    "status": "EARLY",
+    "p15": 1.43,
+    "vr": 0.26,
+    "va": 3.02,
+    "bs": 3.47,
+    "breakout": true,
+    "persistence": 2
   }
 ]

@@ -23541,5 +23541,42 @@
       }
     ],
     "expired_time": 1792475566185
+  },
+  {
+    "symbol": "OSMOIRT",
+    "anchor_time": 1792404305374,
+    "anchor_price": 15094.0,
+    "status": "EXPIRED",
+    "created_time": 1792404305374,
+    "last_time": 1792580587230,
+    "last_price": 13437.0,
+    "max_gain_pct": 7.3274,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792404541670,
+    "confirmed_price": 15659.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792406954123,
+        "price": 16097.0,
+        "gain_pct": 6.645
+      }
+    ],
+    "expired_time": 1792447850381
+  },
+  {
+    "symbol": "WIRT",
+    "anchor_time": 1792012851601,
+    "anchor_price": 4147.0,
+    "status": "FAILED",
+    "created_time": 1792012851601,
+    "last_time": 1792580587230,
+    "last_price": 3872.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792021124676,
+    "failed_price": 4019.0
   }
 ]
