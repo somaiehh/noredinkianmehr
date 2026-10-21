@@ -10342,5 +10342,43 @@
       "max_up": 0.0,
       "max_down": -5.52
     }
+  },
+  {
+    "symbol": "ZECIRT",
+    "time": 1792570330067,
+    "price": 335985013.0,
+    "pre30": 1.58,
+    "pre60": 1.81,
+    "pre120": 5.32,
+    "hunt": 84.7,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.23,
+    "p15": 0.76,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1792570330067,
+    "price": 358342.0,
+    "pre30": 0.15,
+    "pre60": 0.59,
+    "pre120": 1.23,
+    "hunt": 62.6,
+    "persistence": 2,
+    "vr": 1.15,
+    "va": 6.49,
+    "buy": 28.999999999999996,
+    "bs": 0.87,
+    "ob": 1.0,
+    "p15": 0.17,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
