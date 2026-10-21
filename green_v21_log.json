@@ -10386,5 +10386,24 @@
       "max_down": -0.19
     },
     "result_4h": null
+  },
+  {
+    "symbol": "MEWIRT",
+    "time": 1792577179721,
+    "price": 130.7,
+    "pre30": 3.08,
+    "pre60": -0.15,
+    "pre120": -1.8,
+    "hunt": 67.9,
+    "persistence": 2,
+    "vr": 2.85,
+    "va": 2.12,
+    "buy": 11.0,
+    "bs": 0.33,
+    "ob": 1.0,
+    "p15": 1.16,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

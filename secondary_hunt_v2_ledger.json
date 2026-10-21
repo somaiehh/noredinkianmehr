@@ -1863,6 +1863,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "TAIRT": {
+      "trigger_time": 1792577179721,
+      "trigger_price": 13214.0,
+      "secondary_score": 70.0,
+      "hunt_score": 45.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
