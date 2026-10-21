@@ -23817,5 +23817,29 @@
     "levels": [],
     "failed_time": 1792515228679,
     "failed_price": 1.5501
+  },
+  {
+    "symbol": "PROMIRT",
+    "anchor_time": 1791437680684,
+    "anchor_price": 1533073.0,
+    "status": "EXPIRED",
+    "created_time": 1791437680684,
+    "last_time": 1792598360704,
+    "last_price": 1496529.0,
+    "max_gain_pct": 5.4234,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791443134469,
+    "confirmed_price": 1616218.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791443134469,
+        "price": 1616218.0,
+        "gain_pct": 5.4234
+      }
+    ],
+    "expired_time": 1791481148049
   }
 ]
