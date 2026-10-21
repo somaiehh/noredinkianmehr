@@ -23907,5 +23907,56 @@
     "levels": [],
     "failed_time": 1792552068357,
     "failed_price": 1233.4
+  },
+  {
+    "symbol": "UNIIRT",
+    "anchor_time": 1792076462118,
+    "anchor_price": 1958274.0,
+    "status": "EXPIRED",
+    "created_time": 1792076462118,
+    "last_time": 1792605403654,
+    "last_price": 2035160.0,
+    "max_gain_pct": 3.9262,
+    "levels": [],
+    "expired_time": 1792152388762
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1792558697888,
+    "anchor_price": 32985.8,
+    "status": "FAILED",
+    "created_time": 1792558697888,
+    "last_time": 1792605403654,
+    "last_price": 31012.8,
+    "max_gain_pct": 11.9588,
+    "levels": [],
+    "failed_time": 1792560327933,
+    "failed_price": 31958.0
+  },
+  {
+    "symbol": "IRIRT",
+    "anchor_time": 1791984082601,
+    "anchor_price": 1247.0,
+    "status": "FAILED",
+    "created_time": 1791984082601,
+    "last_time": 1792605403654,
+    "last_price": 865.0,
+    "max_gain_pct": 1.1227,
+    "levels": [],
+    "failed_time": 1792002823022,
+    "failed_price": 1209.0
+  },
+  {
+    "symbol": "EPICIRT",
+    "anchor_time": 1792556544950,
+    "anchor_price": 50300.0,
+    "status": "FAILED",
+    "created_time": 1792556544950,
+    "last_time": 1792606061499,
+    "last_price": 44413.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792558434051,
+    "failed_price": 48500.0
   }
 ]
