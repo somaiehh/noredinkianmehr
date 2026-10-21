@@ -48328,7 +48328,10 @@
       "max_up": 5.17,
       "max_down": -0.8
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.17,
+      "max_down": -1.97
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -48589,6 +48592,25 @@
       "max_up": 1.27,
       "max_down": 1.27
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MEWIRT",
+    "time": 1792547648435,
+    "price": 133.1,
+    "level": "WATCH",
+    "hunt": 42.5,
+    "persistence": 1,
+    "p15": 1.84,
+    "vr": 0.17,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
