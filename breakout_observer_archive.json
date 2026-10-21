@@ -23868,5 +23868,44 @@
     "confirmed_time": 1792483407952,
     "confirmed_price": 16.9,
     "expired_time": 1792525821672
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1792485378722,
+    "anchor_price": 376.0,
+    "status": "FAILED",
+    "created_time": 1792485378722,
+    "last_time": 1792602702738,
+    "last_price": 390.2,
+    "max_gain_pct": 4.867,
+    "levels": [],
+    "failed_time": 1792498253128,
+    "failed_price": 364.4
+  },
+  {
+    "symbol": "BILLIRT",
+    "anchor_time": 1791908966076,
+    "anchor_price": 2313.0,
+    "status": "FAILED",
+    "created_time": 1791908966076,
+    "last_time": 1792602702738,
+    "last_price": 1549.0,
+    "max_gain_pct": 1.297,
+    "levels": [],
+    "failed_time": 1791920059306,
+    "failed_price": 2231.0
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1792540870867,
+    "anchor_price": 1280.0,
+    "status": "FAILED",
+    "created_time": 1792540870867,
+    "last_time": 1792605133320,
+    "last_price": 1335.0,
+    "max_gain_pct": 4.2969,
+    "levels": [],
+    "failed_time": 1792552068357,
+    "failed_price": 1233.4
   }
 ]
