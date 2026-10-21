@@ -23630,5 +23630,29 @@
     "levels": [],
     "failed_time": 1792540870867,
     "failed_price": 15968.0
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1792498038770,
+    "anchor_price": 10980.0,
+    "status": "EXPIRED",
+    "created_time": 1792498038770,
+    "last_time": 1792588242197,
+    "last_price": 11742.0,
+    "max_gain_pct": 9.5811,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792504344410,
+    "confirmed_price": 11440.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792506440665,
+        "price": 11910.0,
+        "gain_pct": 8.4699
+      }
+    ],
+    "expired_time": 1792542331387
   }
 ]
