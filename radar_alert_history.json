@@ -5442,5 +5442,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1792575875733,
+    "symbol": "DOODIRT",
+    "price": 813.4,
+    "hunt_score": 85.7,
+    "status": "EARLY",
+    "p15": 1.74,
+    "vr": 2.2,
+    "va": 1.87,
+    "bs": 2.6,
+    "breakout": true,
+    "persistence": 2
   }
 ]
