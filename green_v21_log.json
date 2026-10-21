@@ -10263,7 +10263,10 @@
     "p15": 1.12,
     "breakout": false,
     "result_1h": null,
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.07,
+      "max_down": -0.28
+    }
   },
   {
     "symbol": "GTCIRT",
@@ -10281,7 +10284,10 @@
     "ob": 1.0,
     "p15": 0.76,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.24
+    },
     "result_4h": null
   }
 ]
