@@ -48656,5 +48656,43 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "MEWIRT",
+    "time": 1792556544950,
+    "price": 135.4,
+    "level": "STRONG",
+    "hunt": 55.1,
+    "persistence": 1,
+    "p15": 0.59,
+    "vr": 0.57,
+    "va": 10.0,
+    "buy": 49.0,
+    "bs": 1.47,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1792556760275,
+    "price": 11670.0,
+    "level": "WATCH",
+    "hunt": 40.4,
+    "persistence": 2,
+    "p15": 0.54,
+    "vr": 0.04,
+    "va": 7.51,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
