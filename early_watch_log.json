@@ -49865,7 +49865,10 @@
       "max_up": 4.42,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.72,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -49890,7 +49893,10 @@
       "max_up": 1.85,
       "max_down": -1.85
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 7.41,
+      "max_down": -1.85
+    },
     "result_12h": null
   },
   {
@@ -49962,6 +49968,44 @@
       "max_up": 3.19,
       "max_down": 0.0
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GTCIRT",
+    "time": 1792676203070,
+    "price": 86256.0,
+    "level": "STRONG",
+    "hunt": 72.2,
+    "persistence": 1,
+    "p15": 0.13,
+    "vr": 2.81,
+    "va": 5.36,
+    "buy": 55.666666666666664,
+    "bs": 1.67,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1792676405406,
+    "price": 108.1,
+    "level": "STRONG",
+    "hunt": 54.1,
+    "persistence": 1,
+    "p15": 0.09,
+    "vr": 1.79,
+    "va": 3.25,
+    "buy": 64.66666666666666,
+    "bs": 1.94,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }

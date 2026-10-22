@@ -24411,5 +24411,31 @@
       }
     ],
     "expired_time": 1792573915761
+  },
+  {
+    "symbol": "BMTIRT",
+    "anchor_time": 1792577179721,
+    "anchor_price": 6293.0,
+    "status": "FAILED",
+    "created_time": 1792577179721,
+    "last_time": 1792675121352,
+    "last_price": 6311.0,
+    "max_gain_pct": 6.6582,
+    "levels": [],
+    "failed_time": 1792580038710,
+    "failed_price": 6071.0
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1792622397796,
+    "anchor_price": 111.1,
+    "status": "FAILED",
+    "created_time": 1792622397796,
+    "last_time": 1792675121352,
+    "last_price": 106.8,
+    "max_gain_pct": 1.7102,
+    "levels": [],
+    "failed_time": 1792628838771,
+    "failed_price": 107.1
   }
 ]
