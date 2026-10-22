@@ -10782,7 +10782,10 @@
       "max_up": -0.33,
       "max_down": -0.8
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.22,
+      "max_down": -0.87
+    }
   },
   {
     "symbol": "PHAIRT",
@@ -10804,7 +10807,10 @@
       "max_up": -10.28,
       "max_down": -14.61
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -3.26,
+      "max_down": -14.61
+    }
   },
   {
     "symbol": "WODIRT",

@@ -49722,7 +49722,10 @@
       "max_up": 0.0,
       "max_down": -0.33
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.22,
+      "max_down": -0.87
+    },
     "result_12h": null
   },
   {
@@ -49872,6 +49875,25 @@
       "max_up": 1.85,
       "max_down": -1.85
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WODIRT",
+    "time": 1792667728800,
+    "price": 2870.0,
+    "level": "STRONG",
+    "hunt": 56.7,
+    "persistence": 1,
+    "p15": 1.92,
+    "vr": 0.36,
+    "va": 4.25,
+    "buy": 37.333333333333336,
+    "bs": 1.12,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
