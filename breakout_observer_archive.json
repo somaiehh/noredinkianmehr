@@ -24449,5 +24449,31 @@
     "max_gain_pct": 1.4164,
     "levels": [],
     "expired_time": 1792621062461
+  },
+  {
+    "symbol": "RSS3IRT",
+    "anchor_time": 1792573915761,
+    "anchor_price": 192.0,
+    "status": "FAILED",
+    "created_time": 1792573915761,
+    "last_time": 1792685475213,
+    "last_price": 191.0,
+    "max_gain_pct": 4.6875,
+    "levels": [],
+    "failed_time": 1792580816347,
+    "failed_price": 186.0
+  },
+  {
+    "symbol": "ALTIRT",
+    "anchor_time": 1792602414261,
+    "anchor_price": 3916.0,
+    "status": "FAILED",
+    "created_time": 1792602414261,
+    "last_time": 1792687083703,
+    "last_price": 2239.0,
+    "max_gain_pct": 2.7068,
+    "levels": [],
+    "failed_time": 1792605133320,
+    "failed_price": 3435.0
   }
 ]
