@@ -24514,5 +24514,18 @@
     "levels": [],
     "failed_time": 1792646595619,
     "failed_price": 16663.0
+  },
+  {
+    "symbol": "MEWIRT",
+    "anchor_time": 1792552862178,
+    "anchor_price": 143.2,
+    "status": "FAILED",
+    "created_time": 1792552862178,
+    "last_time": 1792691893393,
+    "last_price": 134.8,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792553942085,
+    "failed_price": 135.2
   }
 ]
