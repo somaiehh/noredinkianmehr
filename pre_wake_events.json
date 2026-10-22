@@ -8350,10 +8350,10 @@
     "book": 0.11,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
-    "max_move": 3.3689,
+    "result": "HIT_FIRST",
+    "result_time": 1792693665521,
+    "result_move": 10.5781,
+    "max_move": 10.5781,
     "min_move": -3.8126,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -8371,10 +8371,10 @@
     "book": 0.07,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
-    "max_move": 3.3689,
+    "result": "HIT_FIRST",
+    "result_time": 1792693665521,
+    "result_move": 10.5781,
+    "max_move": 10.5781,
     "min_move": -3.8126,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -8396,7 +8396,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 3.1847,
-    "min_move": 0.0,
+    "min_move": -0.6369,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -8417,7 +8417,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -0.5785,
+    "min_move": -1.8099,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "BMTIRT",
+    "event_time": 1792693949441,
+    "event_price": 7817.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 42.5,
+    "p15": -1.83,
+    "vr": null,
+    "va": 2.0,
+    "ta": null,
+    "bs": 5.0,
+    "book": 0.76,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
