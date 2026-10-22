@@ -49362,7 +49362,10 @@
       "max_up": 1.52,
       "max_down": -0.96
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.52,
+      "max_down": -3.88
+    }
   },
   {
     "symbol": "PEPEIRT",
@@ -49559,6 +49562,47 @@
     "bs": 4.76,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": -0.66,
+      "max_down": -1.5
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PEPEIRT",
+    "time": 1792645160460,
+    "price": 1.19525,
+    "level": "STRONG",
+    "hunt": 54.6,
+    "persistence": 1,
+    "p15": 0.33,
+    "vr": 2.34,
+    "va": 2.5,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PHAIRT",
+    "time": 1792645160460,
+    "price": 17463.0,
+    "level": "STRONG",
+    "hunt": 54.3,
+    "persistence": 2,
+    "p15": 0.16,
+    "vr": 1.31,
+    "va": 2.4,
+    "buy": 100,
+    "bs": 3.46,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

@@ -24084,5 +24084,18 @@
     "max_gain_pct": 2.5165,
     "levels": [],
     "expired_time": 1792630523024
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1792587171676,
+    "anchor_price": 17856.0,
+    "status": "FAILED",
+    "created_time": 1792587171676,
+    "last_time": 1792643930048,
+    "last_price": 16686.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792588242197,
+    "failed_price": 17300.0
   }
 ]
