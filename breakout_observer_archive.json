@@ -24292,5 +24292,33 @@
     "levels": [],
     "failed_time": 1792611235665,
     "failed_price": 43268.0
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1792570086973,
+    "anchor_price": 1.2,
+    "status": "EXPIRED",
+    "created_time": 1792570086973,
+    "last_time": 1792663865235,
+    "last_price": 1.21118,
+    "max_gain_pct": 4.5367,
+    "levels": [],
+    "confirmed_time": 1792596477128,
+    "confirmed_price": 1.24087,
+    "expired_time": 1792614232215
+  },
+  {
+    "symbol": "SOPHIRT",
+    "anchor_time": 1792519659148,
+    "anchor_price": 490.0,
+    "status": "EXPIRED",
+    "created_time": 1792519659148,
+    "last_time": 1792664496016,
+    "last_price": 423.0,
+    "max_gain_pct": 4.0816,
+    "levels": [],
+    "confirmed_time": 1792523428086,
+    "confirmed_price": 508.0,
+    "expired_time": 1792563203621
   }
 ]
