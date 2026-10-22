@@ -5598,5 +5598,18 @@
     "bs": 3.17,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1792653815516,
+    "symbol": "WODIRT",
+    "price": 2783.0,
+    "hunt_score": 83.9,
+    "status": "EARLY",
+    "p15": 0.76,
+    "vr": 3.13,
+    "va": 10.0,
+    "bs": 0.45,
+    "breakout": false,
+    "persistence": 2
   }
 ]
