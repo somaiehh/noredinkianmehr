@@ -24551,5 +24551,18 @@
       }
     ],
     "expired_time": 1792554142657
+  },
+  {
+    "symbol": "BRIRT",
+    "anchor_time": 1792646595619,
+    "anchor_price": 131674.0,
+    "status": "FAILED",
+    "created_time": 1792646595619,
+    "last_time": 1792695806376,
+    "last_price": 135100.0,
+    "max_gain_pct": 8.1375,
+    "levels": [],
+    "failed_time": 1792649134772,
+    "failed_price": 127127.0
   }
 ]

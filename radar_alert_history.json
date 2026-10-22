@@ -5702,5 +5702,18 @@
     "bs": 1.1,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1792696047768,
+    "symbol": "BRIRT",
+    "price": 136879.0,
+    "hunt_score": 96.8,
+    "status": "EARLY",
+    "p15": 1.28,
+    "vr": 0.86,
+    "va": 2.75,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
