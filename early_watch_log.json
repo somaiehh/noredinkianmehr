@@ -49871,7 +49871,10 @@
       "max_up": 4.96,
       "max_down": -1.8
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 15.12,
+      "max_down": -1.8
+    }
   },
   {
     "symbol": "QIRT",
@@ -50138,7 +50141,10 @@
       "max_up": -1.22,
       "max_down": -1.96
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -3.74
+    },
     "result_12h": null
   },
   {
@@ -50260,6 +50266,25 @@
       "max_up": 1.78,
       "max_down": -3.55
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1792703727922,
+    "price": 9.595e-05,
+    "level": "STRONG",
+    "hunt": 71.6,
+    "persistence": 2,
+    "p15": 0.71,
+    "vr": 0.82,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
