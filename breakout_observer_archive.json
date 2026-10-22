@@ -24589,5 +24589,42 @@
     "max_gain_pct": 2.6949,
     "levels": [],
     "expired_time": 1792633800079
+  },
+  {
+    "symbol": "ASPIRT",
+    "anchor_time": 1791482377036,
+    "anchor_price": 3400.0,
+    "status": "FAILED",
+    "created_time": 1791482377036,
+    "last_time": 1792711397524,
+    "last_price": 3856.0,
+    "max_gain_pct": 14.6471,
+    "levels": [],
+    "failed_time": 1791486717026,
+    "failed_price": 2950.0
+  },
+  {
+    "symbol": "BTRIRT",
+    "anchor_time": 1791530435941,
+    "anchor_price": 13863.0,
+    "status": "EXPIRED",
+    "created_time": 1791530435941,
+    "last_time": 1792711397524,
+    "last_price": 17400.0,
+    "max_gain_pct": 28.1469,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791532000844,
+    "confirmed_price": 14488.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791532964225,
+        "price": 14658.0,
+        "gain_pct": 5.7347
+      }
+    ],
+    "expired_time": 1791574364527
   }
 ]
