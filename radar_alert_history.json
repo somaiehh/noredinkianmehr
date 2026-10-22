@@ -5728,5 +5728,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1792704978516,
+    "symbol": "COMMONIRT",
+    "price": 16.7,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 2.45,
+    "vr": 7.77,
+    "va": 10.0,
+    "bs": 0.2,
+    "breakout": false,
+    "persistence": 2
   }
 ]
