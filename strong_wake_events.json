@@ -11042,7 +11042,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.6469,
-    "min_move": -0.6594,
+    "min_move": -1.6144,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -11253,6 +11253,27 @@
     "result_move": -5.2256,
     "max_move": 0.0,
     "min_move": -5.2256,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "NEARIRT",
+    "event_time": 1792634825289,
+    "event_price": 1383252.0,
+    "anchor_time": 1792634639601,
+    "anchor_price": 1382452.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.625,
+    "tm_e15_e1": 0.625,
+    "tm_e1_e4": 0.5714,
+    "tm_g15": 1.1111,
+    "tm_g1": 1.1429,
+    "tm_g4": 1.0769,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
