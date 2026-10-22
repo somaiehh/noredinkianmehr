@@ -49809,7 +49809,10 @@
       "max_up": 3.13,
       "max_down": -2.49
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.13,
+      "max_down": -5.57
+    }
   },
   {
     "symbol": "ALTIRT",
@@ -50079,7 +50082,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -0.12
+    },
     "result_12h": null
   },
   {
@@ -50219,7 +50225,10 @@
       "max_up": 2.28,
       "max_down": 2.28
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.74,
+      "max_down": 1.91
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -50241,7 +50250,10 @@
       "max_up": -2.96,
       "max_down": -2.96
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.78,
+      "max_down": -3.55
+    },
     "result_4h": null,
     "result_12h": null
   }
