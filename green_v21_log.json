@@ -10819,7 +10819,10 @@
     "ob": 1.0,
     "p15": 0.76,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.07,
+      "max_down": -2.19
+    },
     "result_4h": null
   },
   {
@@ -10838,7 +10841,10 @@
     "ob": 1.0,
     "p15": 0.43,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.25,
+      "max_down": -1.87
+    },
     "result_4h": null
   },
   {
@@ -10856,6 +10862,25 @@
     "bs": 3.07,
     "ob": 0.6,
     "p15": 0.3,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ALTIRT",
+    "time": 1792658467832,
+    "price": 2534.0,
+    "pre30": 4.02,
+    "pre60": 1.81,
+    "pre120": -2.24,
+    "hunt": 72.4,
+    "persistence": 2,
+    "vr": 2.39,
+    "va": 7.31,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.58,
+    "p15": 1.36,
     "breakout": false,
     "result_1h": null,
     "result_4h": null

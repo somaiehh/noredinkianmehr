@@ -49582,7 +49582,10 @@
       "max_up": -0.66,
       "max_down": -4.85
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.66,
+      "max_down": -27.09
+    },
     "result_12h": null
   },
   {
@@ -49738,6 +49741,28 @@
     "va": 10.0,
     "buy": 78.66666666666666,
     "bs": 2.36,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.8,
+      "max_down": -0.8
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ALTIRT",
+    "time": 1792658260132,
+    "price": 2534.0,
+    "level": "STRONG",
+    "hunt": 74.6,
+    "persistence": 1,
+    "p15": 1.36,
+    "vr": 2.39,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
