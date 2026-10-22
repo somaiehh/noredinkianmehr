@@ -49107,7 +49107,10 @@
       "max_up": 1.85,
       "max_down": -9.01
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.85,
+      "max_down": -12.39
+    }
   },
   {
     "symbol": "PEPEIRT",
@@ -49437,7 +49440,10 @@
       "max_up": 0.0,
       "max_down": -0.12
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -1.59
+    },
     "result_12h": null
   },
   {
@@ -49459,7 +49465,10 @@
       "max_up": -0.09,
       "max_down": -0.42
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.09,
+      "max_down": -1.87
+    },
     "result_12h": null
   },
   {
