@@ -10840,5 +10840,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "MBLIRT",
+    "time": 1792657241553,
+    "price": 199.6,
+    "pre30": 4.72,
+    "pre60": 5.55,
+    "pre120": 4.5,
+    "hunt": 75.0,
+    "persistence": 2,
+    "vr": 3.43,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.07,
+    "ob": 0.6,
+    "p15": 0.3,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

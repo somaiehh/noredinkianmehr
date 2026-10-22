@@ -1892,6 +1892,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "DGBIRT": {
+      "trigger_time": 1792657055103,
+      "trigger_price": 1006.8,
+      "secondary_score": 65.0,
+      "hunt_score": 31.4,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
