@@ -24346,5 +24346,19 @@
     "confirmed_time": 1792617001430,
     "confirmed_price": 2990.0,
     "expired_time": 1792659970082
+  },
+  {
+    "symbol": "SUNDOGIRT",
+    "anchor_time": 1792348529117,
+    "anchor_price": 363.0,
+    "status": "EXPIRED",
+    "created_time": 1792348529117,
+    "last_time": 1792666207844,
+    "last_price": 352.0,
+    "max_gain_pct": 3.3058,
+    "levels": [],
+    "confirmed_time": 1792348799150,
+    "confirmed_price": 375.0,
+    "expired_time": 1792392545852
   }
 ]
