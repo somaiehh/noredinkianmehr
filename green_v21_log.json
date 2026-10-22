@@ -10946,5 +10946,24 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "WODIRT",
+    "time": 1792670400358,
+    "price": 2962.0,
+    "pre30": 3.21,
+    "pre60": 1.58,
+    "pre120": 9.66,
+    "hunt": 100.0,
+    "persistence": 2,
+    "vr": 8.02,
+    "va": 10.0,
+    "buy": 34.0,
+    "bs": 1.02,
+    "ob": 1.0,
+    "p15": 0.99,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
