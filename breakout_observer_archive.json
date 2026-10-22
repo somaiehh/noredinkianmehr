@@ -24475,5 +24475,31 @@
     "levels": [],
     "failed_time": 1792605133320,
     "failed_price": 3435.0
+  },
+  {
+    "symbol": "OSMOIRT",
+    "anchor_time": 1792580816347,
+    "anchor_price": 13629.0,
+    "status": "FAILED",
+    "created_time": 1792580816347,
+    "last_time": 1792687335223,
+    "last_price": 14200.0,
+    "max_gain_pct": 4.1896,
+    "levels": [],
+    "failed_time": 1792586211509,
+    "failed_price": 13150.0
+  },
+  {
+    "symbol": "DOODIRT",
+    "anchor_time": 1792609727309,
+    "anchor_price": 656.8,
+    "status": "FAILED",
+    "created_time": 1792609727309,
+    "last_time": 1792688778671,
+    "last_price": 604.3,
+    "max_gain_pct": 3.6845,
+    "levels": [],
+    "failed_time": 1792621257963,
+    "failed_price": 611.1
   }
 ]
