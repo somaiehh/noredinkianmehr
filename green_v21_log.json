@@ -10755,5 +10755,43 @@
       "max_down": -1.22
     },
     "result_4h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1792652278238,
+    "price": 9.709e-05,
+    "pre30": 0.3,
+    "pre60": 0.08,
+    "pre120": 0.34,
+    "hunt": 85.4,
+    "persistence": 2,
+    "vr": 1.27,
+    "va": 8.84,
+    "buy": 100,
+    "bs": 3.0,
+    "ob": 0.84,
+    "p15": 0.06,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "PHAIRT",
+    "time": 1792652278238,
+    "price": 18451.0,
+    "pre30": 7.12,
+    "pre60": 2.48,
+    "pre120": 3.86,
+    "hunt": 90.1,
+    "persistence": 2,
+    "vr": 2.03,
+    "va": 3.22,
+    "buy": 100,
+    "bs": 3.17,
+    "ob": 0.96,
+    "p15": 0.83,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

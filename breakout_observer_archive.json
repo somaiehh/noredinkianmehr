@@ -24154,5 +24154,30 @@
       }
     ],
     "expired_time": 1792478388651
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1792597990986,
+    "anchor_price": 9.971e-05,
+    "status": "FAILED",
+    "created_time": 1792597990986,
+    "last_time": 1792650748454,
+    "last_price": 9.665e-05,
+    "max_gain_pct": 0.682,
+    "levels": [],
+    "failed_time": 1792638979738,
+    "failed_price": 9.616e-05
+  },
+  {
+    "symbol": "BCHIRT",
+    "anchor_time": 1792389257548,
+    "anchor_price": 72595652.0,
+    "status": "EXPIRED",
+    "created_time": 1792389257548,
+    "last_time": 1792650748454,
+    "last_price": 74286400.0,
+    "max_gain_pct": 5.671,
+    "levels": [],
+    "expired_time": 1792444066926
   }
 ]
