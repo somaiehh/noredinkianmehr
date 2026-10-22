@@ -24437,5 +24437,17 @@
     "levels": [],
     "failed_time": 1792628838771,
     "failed_price": 107.1
+  },
+  {
+    "symbol": "LTCIRT",
+    "anchor_time": 1792575549683,
+    "anchor_price": 16369550.0,
+    "status": "EXPIRED",
+    "created_time": 1792575549683,
+    "last_time": 1792676405406,
+    "last_price": 16100000.0,
+    "max_gain_pct": 1.4164,
+    "levels": [],
+    "expired_time": 1792621062461
   }
 ]
