@@ -24248,5 +24248,49 @@
     "max_gain_pct": 1.2321,
     "levels": [],
     "expired_time": 1792642114278
+  },
+  {
+    "symbol": "STRKIRT",
+    "anchor_time": 1792596757161,
+    "anchor_price": 15650.0,
+    "status": "EXPIRED",
+    "created_time": 1792596757161,
+    "last_time": 1792663672996,
+    "last_price": 14888.0,
+    "max_gain_pct": 12.4728,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792597990986,
+    "confirmed_price": 16794.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792597990986,
+        "price": 16794.0,
+        "gain_pct": 7.3099
+      },
+      {
+        "level": 10,
+        "time": 1792606061499,
+        "price": 17262.0,
+        "gain_pct": 10.3003
+      }
+    ],
+    "expired_time": 1792640241955
+  },
+  {
+    "symbol": "EPICIRT",
+    "anchor_time": 1792606335628,
+    "anchor_price": 45041.0,
+    "status": "FAILED",
+    "created_time": 1792606335628,
+    "last_time": 1792663672996,
+    "last_price": 38005.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792611235665,
+    "failed_price": 43268.0
   }
 ]

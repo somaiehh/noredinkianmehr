@@ -5611,5 +5611,31 @@
     "bs": 0.45,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1792663677387,
+    "symbol": "COMMONIRT",
+    "price": 16.5,
+    "hunt_score": 89.0,
+    "status": "EARLY",
+    "p15": 1.85,
+    "vr": 17.74,
+    "va": 5.5,
+    "bs": 0.97,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1792663869440,
+    "symbol": "COMMONIRT",
+    "price": 16.5,
+    "hunt_score": 91.0,
+    "status": "EARLY",
+    "p15": 1.85,
+    "vr": 17.74,
+    "va": 5.5,
+    "bs": 0.7,
+    "breakout": true,
+    "persistence": 3
   }
 ]

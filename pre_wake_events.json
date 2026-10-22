@@ -8269,7 +8269,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.7331,
+    "max_move": 1.7281,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -8291,6 +8291,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 8.4163,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "DGBIRT",
+    "event_time": 1792663865235,
+    "event_price": 1027.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 46.5,
+    "p15": -1.26,
+    "vr": null,
+    "va": 7.4,
+    "ta": null,
+    "bs": 1.5,
+    "book": 0.14,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
