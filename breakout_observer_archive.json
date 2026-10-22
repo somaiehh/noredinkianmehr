@@ -24360,5 +24360,32 @@
     "confirmed_time": 1792348799150,
     "confirmed_price": 375.0,
     "expired_time": 1792392545852
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "anchor_time": 1792598360704,
+    "anchor_price": 1.7298,
+    "status": "FAILED",
+    "created_time": 1792598360704,
+    "last_time": 1792667728800,
+    "last_price": 1.623,
+    "max_gain_pct": 5.8851,
+    "levels": [],
+    "failed_time": 1792601474969,
+    "failed_price": 1.677
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1792605403654,
+    "anchor_price": 1343.0,
+    "status": "EXPIRED",
+    "created_time": 1792605403654,
+    "last_time": 1792669050637,
+    "last_price": 1302.7,
+    "max_gain_pct": 3.0156,
+    "levels": [],
+    "confirmed_time": 1792627883068,
+    "confirmed_price": 1383.5,
+    "expired_time": 1792649134772
   }
 ]

@@ -10832,7 +10832,10 @@
       "max_up": -0.07,
       "max_down": -2.19
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 4.78,
+      "max_down": -4.02
+    }
   },
   {
     "symbol": "WODIRT",
@@ -10854,7 +10857,10 @@
       "max_up": 0.25,
       "max_down": -1.87
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 5.12,
+      "max_down": -3.71
+    }
   },
   {
     "symbol": "MBLIRT",
@@ -10916,6 +10922,28 @@
     "ob": 1.0,
     "p15": 0.25,
     "breakout": false,
+    "result_1h": {
+      "max_up": 3.5,
+      "max_down": -0.78
+    },
+    "result_4h": null
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "time": 1792669261993,
+    "price": 1.6239,
+    "pre30": 0.06,
+    "pre60": 0.05,
+    "pre120": 0.24,
+    "hunt": 70.5,
+    "persistence": 2,
+    "vr": 1.9,
+    "va": 6.21,
+    "buy": 21.333333333333336,
+    "bs": 0.64,
+    "ob": 1.0,
+    "p15": 0.06,
+    "breakout": true,
     "result_1h": null,
     "result_4h": null
   }
