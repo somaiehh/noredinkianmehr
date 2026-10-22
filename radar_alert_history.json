@@ -5650,5 +5650,18 @@
     "bs": 1.02,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1792673795195,
+    "symbol": "BILLIRT",
+    "price": 1822.0,
+    "hunt_score": 81.5,
+    "status": "EARLY",
+    "p15": 1.28,
+    "vr": 1.01,
+    "va": 0.28,
+    "bs": 0.14,
+    "breakout": true,
+    "persistence": 2
   }
 ]

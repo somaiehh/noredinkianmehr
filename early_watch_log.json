@@ -49539,7 +49539,10 @@
       "max_up": 0.51,
       "max_down": -4.7
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.51,
+      "max_down": -5.79
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -49778,7 +49781,10 @@
       "max_up": 3.13,
       "max_down": -0.8
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.13,
+      "max_down": -2.49
+    },
     "result_12h": null
   },
   {
@@ -49803,7 +49809,10 @@
       "max_up": 0.0,
       "max_down": -1.38
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -12.19
+    },
     "result_12h": null
   },
   {
@@ -49896,7 +49905,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.21,
+      "max_down": 1.57
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -49918,7 +49930,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.41,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -49936,8 +49951,14 @@
     "bs": 1.78,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
-    "result_1h": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": {
+      "max_up": 3.19,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   }

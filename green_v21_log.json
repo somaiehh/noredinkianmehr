@@ -10882,7 +10882,10 @@
       "max_up": 3.96,
       "max_down": 0.2
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.96,
+      "max_down": -1.7
+    }
   },
   {
     "symbol": "ALTIRT",
@@ -10904,7 +10907,10 @@
       "max_up": -0.75,
       "max_down": -5.13
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.75,
+      "max_down": -12.19
+    }
   },
   {
     "symbol": "QIRT",
@@ -10944,7 +10950,10 @@
     "ob": 1.0,
     "p15": 0.06,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.04,
+      "max_down": 0.04
+    },
     "result_4h": null
   },
   {
