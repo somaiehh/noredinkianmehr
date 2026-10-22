@@ -8203,11 +8203,11 @@
     "book": 0.14,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1792633800079,
+    "result_move": -8.5966,
     "max_move": 4.4537,
-    "min_move": -3.1072,
+    "min_move": -8.5966,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
