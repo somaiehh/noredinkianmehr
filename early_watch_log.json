@@ -49191,7 +49191,10 @@
       "max_up": 0.15,
       "max_down": -0.98
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.74,
+      "max_down": -5.72
+    }
   },
   {
     "symbol": "AVAXIRT",
@@ -49216,7 +49219,10 @@
       "max_up": 2.27,
       "max_down": 0.24
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.27,
+      "max_down": -1.17
+    }
   },
   {
     "symbol": "ENAIRT",
@@ -49241,7 +49247,10 @@
       "max_up": 4.27,
       "max_down": 0.65
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.27,
+      "max_down": -3.24
+    }
   },
   {
     "symbol": "BANKIRT",
@@ -49266,7 +49275,10 @@
       "max_up": 0.46,
       "max_down": -0.6
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.46,
+      "max_down": -1.46
+    }
   },
   {
     "symbol": "ZECIRT",
