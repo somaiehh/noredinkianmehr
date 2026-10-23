@@ -11057,7 +11057,10 @@
       "max_up": 1.91,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.79,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -11079,7 +11082,10 @@
       "max_up": 7.34,
       "max_down": 0.09
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 8.68,
+      "max_down": -2.76
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -11101,7 +11107,10 @@
       "max_up": -0.14,
       "max_down": -0.53
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.14,
+      "max_down": -1.08
+    }
   },
   {
     "symbol": "RSS3IRT",
