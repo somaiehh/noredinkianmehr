@@ -24626,5 +24626,29 @@
       }
     ],
     "expired_time": 1791574364527
+  },
+  {
+    "symbol": "COMMONIRT",
+    "anchor_time": 1792661718241,
+    "anchor_price": 16.0,
+    "status": "EXPIRED",
+    "created_time": 1792661718241,
+    "last_time": 1792712715000,
+    "last_price": 17.0,
+    "max_gain_pct": 8.75,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792663672996,
+    "confirmed_price": 16.5,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792673593577,
+        "price": 17.4,
+        "gain_pct": 8.75
+      }
+    ],
+    "expired_time": 1792704974449
   }
 ]
