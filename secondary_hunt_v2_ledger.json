@@ -1920,6 +1920,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ARKIRT": {
+      "trigger_time": 1792785285952,
+      "trigger_price": 62106.0,
+      "secondary_score": 60.0,
+      "hunt_score": 45.4,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
