@@ -50054,7 +50054,10 @@
       "max_up": 0.79,
       "max_down": -9.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.22,
+      "max_down": -9.36
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -50079,7 +50082,10 @@
       "max_up": -1.11,
       "max_down": -3.7
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.11,
+      "max_down": -5.83
+    }
   },
   {
     "symbol": "FTTIRT",
@@ -50318,7 +50324,10 @@
       "max_up": 0.0,
       "max_down": -0.31
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -0.31
+    },
     "result_12h": null
   },
   {
