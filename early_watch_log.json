@@ -50383,7 +50383,10 @@
       "max_up": -0.01,
       "max_down": -1.76
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.89,
+      "max_down": -1.76
+    }
   },
   {
     "symbol": "BRIRT",
@@ -50703,6 +50706,25 @@
       "max_up": 4.71,
       "max_down": 4.71
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ERAIRT",
+    "time": 1792751890917,
+    "price": 20571.0,
+    "level": "WATCH",
+    "hunt": 40.8,
+    "persistence": 1,
+    "p15": 0.84,
+    "vr": 0.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

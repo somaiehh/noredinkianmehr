@@ -5832,5 +5832,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1792751894868,
+    "symbol": "HIPPOIRT",
+    "price": 38.9,
+    "hunt_score": 97.5,
+    "status": "EARLY",
+    "p15": 2.1,
+    "vr": 3.14,
+    "va": 3.92,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
