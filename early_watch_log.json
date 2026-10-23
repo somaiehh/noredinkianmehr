@@ -50938,5 +50938,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1792770685473,
+    "price": 9.911e-05,
+    "level": "STRONG",
+    "hunt": 58.7,
+    "persistence": 2,
+    "p15": 0.23,
+    "vr": 12.48,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
