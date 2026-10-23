@@ -3670,6 +3670,21 @@
         "premove_pos",
         "da1_pos"
       ]
+    },
+    "INITIRT": {
+      "trigger_time": 1792776058028,
+      "trigger_price": 41358.0,
+      "secondary_score": 80.0,
+      "hunt_score": 72.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
