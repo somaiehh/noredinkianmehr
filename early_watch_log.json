@@ -50172,7 +50172,10 @@
       "max_up": 0.0,
       "max_down": -3.74
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -4.77
+    }
   },
   {
     "symbol": "DOODIRT",
@@ -50200,7 +50203,10 @@
       "max_up": 0.32,
       "max_down": -6.35
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.32,
+      "max_down": -16.03
+    }
   },
   {
     "symbol": "FILIRT",
@@ -50225,7 +50231,10 @@
       "max_up": 0.21,
       "max_down": -1.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.36,
+      "max_down": -1.36
+    }
   },
   {
     "symbol": "WENSOLIRT",
@@ -50253,7 +50262,10 @@
       "max_up": 0.0,
       "max_down": -4.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.43,
+      "max_down": -4.12
+    }
   },
   {
     "symbol": "BRIRT",
