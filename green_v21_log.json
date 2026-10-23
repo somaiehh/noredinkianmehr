@@ -11099,5 +11099,24 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "RSS3IRT",
+    "time": 1792747466289,
+    "price": 180.0,
+    "pre30": 2.27,
+    "pre60": 1.69,
+    "pre120": 8.43,
+    "hunt": 92.3,
+    "persistence": 2,
+    "vr": 12.18,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.29,
+    "ob": 0.0,
+    "p15": 1.12,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
