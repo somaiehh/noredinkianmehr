@@ -11132,7 +11132,10 @@
       "max_up": 1.11,
       "max_down": -1.67
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.78,
+      "max_down": -2.78
+    }
   },
   {
     "symbol": "HIPPOIRT",
