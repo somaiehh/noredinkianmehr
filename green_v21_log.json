@@ -11036,5 +11036,43 @@
       "max_up": 1.43,
       "max_down": -4.02
     }
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1792742787937,
+    "price": 10513.0,
+    "pre30": -1.25,
+    "pre60": -0.18,
+    "pre120": 0.61,
+    "hunt": 63.7,
+    "persistence": 2,
+    "vr": 2.1,
+    "va": 6.14,
+    "buy": 81.33333333333333,
+    "bs": 2.44,
+    "ob": 1.0,
+    "p15": 0.31,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1792742787937,
+    "price": 17482.0,
+    "pre30": 4.98,
+    "pre60": 4.98,
+    "pre120": 9.24,
+    "hunt": 90.2,
+    "persistence": 2,
+    "vr": 6.75,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 1.43,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

@@ -24712,5 +24712,43 @@
     "levels": [],
     "failed_time": 1792696044846,
     "failed_price": 592.2
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1792699217379,
+    "anchor_price": 33258.6,
+    "status": "FAILED",
+    "created_time": 1792699217379,
+    "last_time": 1792741282868,
+    "last_price": 32350.1,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792700481960,
+    "failed_price": 32066.9
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1792691643156,
+    "anchor_price": 16966.0,
+    "status": "FAILED",
+    "created_time": 1792691643156,
+    "last_time": 1792741282868,
+    "last_price": 16653.0,
+    "max_gain_pct": 0.2004,
+    "levels": [],
+    "failed_time": 1792694867571,
+    "failed_price": 16396.0
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1792664496016,
+    "anchor_price": 1.21807,
+    "status": "EXPIRED",
+    "created_time": 1792664496016,
+    "last_time": 1792742536218,
+    "last_price": 1.24909,
+    "max_gain_pct": 2.7716,
+    "levels": [],
+    "expired_time": 1792708240177
   }
 ]
