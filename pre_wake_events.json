@@ -8560,11 +8560,11 @@
     "book": 0.32,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1792774303971,
+    "result_move": -9.1702,
     "max_move": 1.0081,
-    "min_move": -4.9438,
+    "min_move": -9.1702,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
