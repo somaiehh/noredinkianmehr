@@ -24913,5 +24913,43 @@
       }
     ],
     "expired_time": 1792740020131
+  },
+  {
+    "symbol": "ARKIRT",
+    "anchor_time": 1791482051487,
+    "anchor_price": 59888.0,
+    "status": "EXPIRED",
+    "created_time": 1791482051487,
+    "last_time": 1792759236119,
+    "last_price": 54891.0,
+    "max_gain_pct": 1.4978,
+    "levels": [],
+    "expired_time": 1791530195259
+  },
+  {
+    "symbol": "COMMONIRT",
+    "anchor_time": 1792713528091,
+    "anchor_price": 17.1,
+    "status": "FAILED",
+    "created_time": 1792713528091,
+    "last_time": 1792759236119,
+    "last_price": 17.9,
+    "max_gain_pct": 21.0526,
+    "levels": [],
+    "failed_time": 1792714495084,
+    "failed_price": 16.0
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1792676203070,
+    "anchor_price": 109.0,
+    "status": "FAILED",
+    "created_time": 1792676203070,
+    "last_time": 1792759236119,
+    "last_price": 106.3,
+    "max_gain_pct": 7.5229,
+    "levels": [],
+    "failed_time": 1792680658575,
+    "failed_price": 105.1
   }
 ]
