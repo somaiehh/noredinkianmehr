@@ -50445,7 +50445,10 @@
       "max_up": 5.56,
       "max_down": -1.23
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 27.78,
+      "max_down": -1.23
+    }
   },
   {
     "symbol": "LIGHTIRT",
@@ -50740,6 +50743,44 @@
       "max_up": 0.79,
       "max_down": 0.79
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "EPICIRT",
+    "time": 1792754570780,
+    "price": 35304.0,
+    "level": "WATCH",
+    "hunt": 48.1,
+    "persistence": 2,
+    "p15": 0.55,
+    "vr": 0.2,
+    "va": 4.36,
+    "buy": 39.666666666666664,
+    "bs": 1.19,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BTRIRT",
+    "time": 1792754570780,
+    "price": 16641.0,
+    "level": "STRONG",
+    "hunt": 77.6,
+    "persistence": 1,
+    "p15": 0.54,
+    "vr": 1.13,
+    "va": 5.02,
+    "buy": 84.66666666666667,
+    "bs": 2.54,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

@@ -24865,5 +24865,29 @@
     "confirmed_time": 1792731845345,
     "confirmed_price": 12001.0,
     "expired_time": 1792748967072
+  },
+  {
+    "symbol": "GAIAIRT",
+    "anchor_time": 1792272306471,
+    "anchor_price": 600.0,
+    "status": "EXPIRED",
+    "created_time": 1792272306471,
+    "last_time": 1792753818670,
+    "last_price": 551.0,
+    "max_gain_pct": 8.0,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792275697743,
+    "confirmed_price": 648.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792275697743,
+        "price": 648.0,
+        "gain_pct": 8.0
+      }
+    ],
+    "expired_time": 1792315953000
   }
 ]
