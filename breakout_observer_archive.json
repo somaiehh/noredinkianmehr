@@ -24963,5 +24963,30 @@
     "max_gain_pct": 2.514,
     "levels": [],
     "expired_time": 1792555497384
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1792719954849,
+    "anchor_price": 358426.0,
+    "status": "EXPIRED",
+    "created_time": 1792719954849,
+    "last_time": 1792778888743,
+    "last_price": 354199.0,
+    "max_gain_pct": 0.9969,
+    "levels": [],
+    "expired_time": 1792763415128
+  },
+  {
+    "symbol": "BTRIRT",
+    "anchor_time": 1792711649451,
+    "anchor_price": 18000.0,
+    "status": "FAILED",
+    "created_time": 1792711649451,
+    "last_time": 1792779541707,
+    "last_price": 16014.0,
+    "max_gain_pct": 5.5556,
+    "levels": [],
+    "failed_time": 1792712469173,
+    "failed_price": 17209.0
   }
 ]
