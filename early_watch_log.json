@@ -50414,7 +50414,10 @@
       "max_up": 3.51,
       "max_down": -1.45
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.51,
+      "max_down": -4.9
+    }
   },
   {
     "symbol": "COMMONIRT",
@@ -50712,7 +50715,10 @@
       "max_up": 4.71,
       "max_down": 4.71
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 5.29,
+      "max_down": 1.76
+    },
     "result_4h": null,
     "result_12h": null
   },
