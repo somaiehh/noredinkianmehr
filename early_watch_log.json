@@ -50718,7 +50718,10 @@
       "max_up": 2.09,
       "max_down": -1.57
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.09,
+      "max_down": -5.24
+    }
   },
   {
     "symbol": "LABIRT",
@@ -50746,7 +50749,10 @@
       "max_up": 1.19,
       "max_down": -0.57
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.19,
+      "max_down": -8.67
+    }
   },
   {
     "symbol": "COMMONIRT",
@@ -50774,7 +50780,10 @@
       "max_up": 10.0,
       "max_down": 1.76
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.0,
+      "max_down": -10.0
+    }
   },
   {
     "symbol": "ERAIRT",
@@ -51162,6 +51171,28 @@
     "va": 10.0,
     "buy": 59.333333333333336,
     "bs": 1.78,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": -2.13,
+      "max_down": -2.45
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WODIRT",
+    "time": 1792793512619,
+    "price": 2990.0,
+    "level": "WATCH",
+    "hunt": 40.6,
+    "persistence": 1,
+    "p15": 1.53,
+    "vr": 0.0,
+    "va": 2.35,
+    "buy": 100,
+    "bs": 3.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,

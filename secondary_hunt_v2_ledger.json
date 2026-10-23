@@ -1933,6 +1933,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "INIRT": {
+      "trigger_time": 1792793261275,
+      "trigger_price": 8901.0,
+      "secondary_score": 65.0,
+      "hunt_score": 35.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
