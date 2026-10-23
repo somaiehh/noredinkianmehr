@@ -24750,5 +24750,17 @@
     "max_gain_pct": 2.7716,
     "levels": [],
     "expired_time": 1792708240177
+  },
+  {
+    "symbol": "BCHIRT",
+    "anchor_time": 1792652062427,
+    "anchor_price": 74639037.0,
+    "status": "EXPIRED",
+    "created_time": 1792652062427,
+    "last_time": 1792743499506,
+    "last_price": 78217105.0,
+    "max_gain_pct": 4.7938,
+    "levels": [],
+    "expired_time": 1792695806376
   }
 ]
