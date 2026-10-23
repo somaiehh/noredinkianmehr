@@ -51022,5 +51022,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "COMMONIRT",
+    "time": 1792782391944,
+    "price": 17.5,
+    "level": "STRONG",
+    "hunt": 62.3,
+    "persistence": 1,
+    "p15": 0.57,
+    "vr": 0.36,
+    "va": 2.0,
+    "buy": 38.666666666666664,
+    "bs": 1.16,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
