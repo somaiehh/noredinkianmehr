@@ -50532,7 +50532,10 @@
       "max_up": 9.69,
       "max_down": -1.85
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.69,
+      "max_down": -7.26
+    }
   },
   {
     "symbol": "PEPEIRT",
@@ -50560,7 +50563,10 @@
       "max_up": 8.59,
       "max_down": 0.15
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.44,
+      "max_down": -0.58
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -50588,7 +50594,10 @@
       "max_up": 2.79,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.79,
+      "max_down": -1.08
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -51050,7 +51059,10 @@
       "max_up": -0.57,
       "max_down": -0.57
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.57,
+      "max_down": -7.43
+    },
     "result_4h": null,
     "result_12h": null
   },
