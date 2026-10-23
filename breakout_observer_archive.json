@@ -24800,5 +24800,32 @@
     "levels": [],
     "failed_time": 1792703476204,
     "failed_price": 187.0
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "anchor_time": 1792694616691,
+    "anchor_price": 38.3,
+    "status": "FAILED",
+    "created_time": 1792694616691,
+    "last_time": 1792748967072,
+    "last_price": 37.9,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792700481960,
+    "failed_price": 36.9
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "anchor_time": 1792669050637,
+    "anchor_price": 1.6239,
+    "status": "EXPIRED",
+    "created_time": 1792669050637,
+    "last_time": 1792748967072,
+    "last_price": 1.7277,
+    "max_gain_pct": 10.3701,
+    "levels": [],
+    "confirmed_time": 1792693665521,
+    "confirmed_price": 1.685,
+    "expired_time": 1792719954849
   }
 ]

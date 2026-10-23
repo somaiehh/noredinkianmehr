@@ -11097,7 +11097,10 @@
     "ob": 1.0,
     "p15": 0.15,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.14,
+      "max_down": -0.53
+    },
     "result_4h": null
   },
   {
@@ -11115,6 +11118,25 @@
     "bs": 4.29,
     "ob": 0.0,
     "p15": 1.12,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "HIPPOIRT",
+    "time": 1792749226646,
+    "price": 38.2,
+    "pre30": 2.14,
+    "pre60": 0.79,
+    "pre120": 1.87,
+    "hunt": 100.0,
+    "persistence": 2,
+    "vr": 3.09,
+    "va": 4.66,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.0,
+    "p15": 1.06,
     "breakout": true,
     "result_1h": null,
     "result_4h": null
