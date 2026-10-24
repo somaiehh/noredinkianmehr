@@ -51512,7 +51512,10 @@
       "max_up": 4.66,
       "max_down": -4.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.66,
+      "max_down": -8.1
+    }
   },
   {
     "symbol": "BREVIRT",

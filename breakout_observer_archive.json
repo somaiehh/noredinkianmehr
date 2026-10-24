@@ -25719,5 +25719,36 @@
     "confirmed_time": 1792817401894,
     "confirmed_price": 105.3,
     "expired_time": 1792858701028
+  },
+  {
+    "symbol": "LIGHTIRT",
+    "anchor_time": 1792833733489,
+    "anchor_price": 66666.0,
+    "status": "EXPIRED",
+    "created_time": 1792833733489,
+    "last_time": 1792876996667,
+    "last_price": 79075.0,
+    "max_gain_pct": 18.6137,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792834656072,
+    "confirmed_price": 69236.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792839193797,
+        "price": 70707.0,
+        "gain_pct": 6.0616
+      },
+      {
+        "level": 10,
+        "time": 1792840056782,
+        "price": 74000.0,
+        "gain_pct": 11.0011
+      }
+    ],
+    "expired_time": 1792876996667
   }
 ]
