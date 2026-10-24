@@ -25374,5 +25374,19 @@
     "confirmed_time": 1792501536903,
     "confirmed_price": 323.0,
     "expired_time": 1792526785471
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1792719954849,
+    "anchor_price": 9.7e-05,
+    "status": "EXPIRED",
+    "created_time": 1792719954849,
+    "last_time": 1792840056782,
+    "last_price": 9.719e-05,
+    "max_gain_pct": 3.1649,
+    "levels": [],
+    "confirmed_time": 1792750780186,
+    "confirmed_price": 0.0001,
+    "expired_time": 1792763415128
   }
 ]
