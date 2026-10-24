@@ -25043,5 +25043,56 @@
       }
     ],
     "expired_time": 1792785882602
+  },
+  {
+    "symbol": "PTBIRT",
+    "anchor_time": 1792660806049,
+    "anchor_price": 215.0,
+    "status": "EXPIRED",
+    "created_time": 1792660806049,
+    "last_time": 1792803507592,
+    "last_price": 69.0,
+    "max_gain_pct": 9.3023,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792660988664,
+    "confirmed_price": 223.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792663865235,
+        "price": 226.0,
+        "gain_pct": 5.1163
+      }
+    ],
+    "expired_time": 1792704730608
+  },
+  {
+    "symbol": "DOODIRT",
+    "anchor_time": 1792738312537,
+    "anchor_price": 540.8,
+    "status": "EXPIRED",
+    "created_time": 1792738312537,
+    "last_time": 1792803507592,
+    "last_price": 430.6,
+    "max_gain_pct": 3.2729,
+    "levels": [],
+    "confirmed_time": 1792741025332,
+    "confirmed_price": 558.5,
+    "expired_time": 1792782391944
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1792750780186,
+    "anchor_price": 11856.0,
+    "status": "FAILED",
+    "created_time": 1792750780186,
+    "last_time": 1792803507592,
+    "last_price": 10651.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792769085271,
+    "failed_price": 11465.0
   }
 ]
