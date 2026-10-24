@@ -25475,5 +25475,31 @@
     "levels": [],
     "failed_time": 1792416658209,
     "failed_price": 14798.0
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "anchor_time": 1792617001430,
+    "anchor_price": 1149.0,
+    "status": "FAILED",
+    "created_time": 1792617001430,
+    "last_time": 1792859925695,
+    "last_price": 870.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792621062461,
+    "failed_price": 963.1
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "anchor_time": 1792749226646,
+    "anchor_price": 1.8063,
+    "status": "FAILED",
+    "created_time": 1792749226646,
+    "last_time": 1792860635536,
+    "last_price": 1.5719,
+    "max_gain_pct": 2.4193,
+    "levels": [],
+    "failed_time": 1792750114300,
+    "failed_price": 1.7173
   }
 ]
