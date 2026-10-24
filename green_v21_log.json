@@ -11211,5 +11211,43 @@
       "max_up": 2.18,
       "max_down": -0.62
     }
+  },
+  {
+    "symbol": "REZIRT",
+    "time": 1792822099428,
+    "price": 1237.0,
+    "pre30": 1.23,
+    "pre60": 3.08,
+    "pre120": 3.95,
+    "hunt": 86.9,
+    "persistence": 2,
+    "vr": 4.51,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.9,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "INIRT",
+    "time": 1792822099428,
+    "price": 14775.0,
+    "pre30": 3.88,
+    "pre60": 20.0,
+    "pre120": 32.62,
+    "hunt": 86.5,
+    "persistence": 2,
+    "vr": 1.76,
+    "va": 6.34,
+    "buy": 54.333333333333336,
+    "bs": 1.63,
+    "ob": 1.0,
+    "p15": 0.41,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

@@ -5910,5 +5910,18 @@
     "bs": 0.04,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1792822102930,
+    "symbol": "REZIRT",
+    "price": 1237.0,
+    "hunt_score": 86.9,
+    "status": "EARLY",
+    "p15": 0.9,
+    "vr": 4.51,
+    "va": 2.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
