@@ -3715,6 +3715,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BIGTIMEIRT": {
+      "trigger_time": 1792838256952,
+      "trigger_price": 2007.0,
+      "secondary_score": 80.0,
+      "hunt_score": 65.6,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
