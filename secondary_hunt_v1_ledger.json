@@ -3685,6 +3685,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "LAIRT": {
+      "trigger_time": 1792829842725,
+      "trigger_price": 16299.0,
+      "secondary_score": 85.0,
+      "hunt_score": 64.1,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

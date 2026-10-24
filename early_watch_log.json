@@ -51183,7 +51183,10 @@
       "max_up": 1.37,
       "max_down": -5.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 66.7,
+      "max_down": -5.36
+    }
   },
   {
     "symbol": "AVAIRT",
@@ -51211,7 +51214,10 @@
       "max_up": 7.08,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 24.62,
+      "max_down": -0.75
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -51335,7 +51341,10 @@
       "max_up": -1.26,
       "max_down": -2.36
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -1.26,
+      "max_down": -8.94
+    },
     "result_12h": null
   },
   {
