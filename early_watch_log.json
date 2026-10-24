@@ -51487,7 +51487,10 @@
       "max_up": 1.96,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.66,
+      "max_down": -4.82
+    },
     "result_12h": null
   },
   {
@@ -51674,6 +51677,47 @@
     "va": 3.79,
     "buy": 43.333333333333336,
     "bs": 1.3,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -3.98,
+      "max_down": -7.38
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1792848849116,
+    "price": 90.2,
+    "level": "STRONG",
+    "hunt": 70.0,
+    "persistence": 1,
+    "p15": 1.01,
+    "vr": 0.5,
+    "va": 2.33,
+    "buy": 72.00000000000001,
+    "bs": 2.16,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "RSS3IRT",
+    "time": 1792849119905,
+    "price": 159.0,
+    "level": "WATCH",
+    "hunt": 46.5,
+    "persistence": 2,
+    "p15": 0.63,
+    "vr": 0.08,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
