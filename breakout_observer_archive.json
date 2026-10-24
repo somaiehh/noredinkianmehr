@@ -25501,5 +25501,50 @@
     "levels": [],
     "failed_time": 1792750114300,
     "failed_price": 1.7173
+  },
+  {
+    "symbol": "EPICIRT",
+    "anchor_time": 1792811898635,
+    "anchor_price": 32850.0,
+    "status": "EXPIRED",
+    "created_time": 1792811898635,
+    "last_time": 1792860894432,
+    "last_price": 39718.0,
+    "max_gain_pct": 21.7565,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792812144955,
+    "confirmed_price": 37815.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792812144955,
+        "price": 37815.0,
+        "gain_pct": 15.1142
+      },
+      {
+        "level": 10,
+        "time": 1792812144955,
+        "price": 37815.0,
+        "gain_pct": 15.1142
+      }
+    ],
+    "expired_time": 1792855225538
+  },
+  {
+    "symbol": "RSS3IRT",
+    "anchor_time": 1792747205543,
+    "anchor_price": 180.0,
+    "status": "EXPIRED",
+    "created_time": 1792747205543,
+    "last_time": 1792861694178,
+    "last_price": 161.0,
+    "max_gain_pct": 3.3333,
+    "levels": [],
+    "confirmed_time": 1792768703117,
+    "confirmed_price": 186.0,
+    "expired_time": 1792791295035
   }
 ]
