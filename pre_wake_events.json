@@ -8668,7 +8668,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 4.842,
+    "max_move": 5.3556,
     "min_move": -0.0474,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -8690,7 +8690,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 6.1081,
-    "min_move": -0.2655,
+    "min_move": -1.1347,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -8711,7 +8711,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0652,
-    "min_move": -2.8696,
+    "min_move": -4.4565,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -8817,6 +8817,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -1.4663,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "PTBIRT",
+    "event_time": 1792875562124,
+    "event_price": 77.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 64.0,
+    "p15": -1.28,
+    "vr": null,
+    "va": 2.56,
+    "ta": null,
+    "bs": 1.5,
+    "book": 0.08,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]

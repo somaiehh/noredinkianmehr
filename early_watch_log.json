@@ -51894,7 +51894,10 @@
       "max_up": 2.18,
       "max_down": -1.7
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.34,
+      "max_down": -4.37
+    },
     "result_12h": null
   },
   {
@@ -51965,6 +51968,28 @@
       "max_up": -1.21,
       "max_down": -1.21
     },
+    "result_1h": {
+      "max_up": 0.73,
+      "max_down": -1.21
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PTBIRT",
+    "time": 1792875295842,
+    "price": 79.0,
+    "level": "STRONG",
+    "hunt": 95.8,
+    "persistence": 3,
+    "p15": 1.28,
+    "vr": 3.02,
+    "va": 3.09,
+    "buy": 57.99999999999999,
+    "bs": 1.74,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
