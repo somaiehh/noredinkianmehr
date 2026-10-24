@@ -51893,5 +51893,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "EPICIRT",
+    "time": 1792866054992,
+    "price": 47212.0,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 1,
+    "p15": 0.67,
+    "vr": 0.31,
+    "va": 3.41,
+    "buy": 100,
+    "bs": 4.01,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]

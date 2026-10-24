@@ -25583,5 +25583,31 @@
       }
     ],
     "expired_time": 1792638979738
+  },
+  {
+    "symbol": "DOODIRT",
+    "anchor_time": 1792808173522,
+    "anchor_price": 532.0,
+    "status": "FAILED",
+    "created_time": 1792808173522,
+    "last_time": 1792865369458,
+    "last_price": 399.9,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792808437985,
+    "failed_price": 505.5
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1792808173522,
+    "anchor_price": 10920.0,
+    "status": "FAILED",
+    "created_time": 1792808173522,
+    "last_time": 1792865369458,
+    "last_price": 10199.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792830922157,
+    "failed_price": 10578.0
   }
 ]
