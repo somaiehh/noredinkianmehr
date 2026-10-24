@@ -25667,5 +25667,17 @@
     "confirmed_time": 1792491843138,
     "confirmed_price": 18867.1,
     "expired_time": 1792525108875
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1792597990986,
+    "anchor_price": 354739818.0,
+    "status": "EXPIRED",
+    "created_time": 1792597990986,
+    "last_time": 1792871703145,
+    "last_price": 315000000.0,
+    "max_gain_pct": 2.5681,
+    "levels": [],
+    "expired_time": 1792641326833
   }
 ]
