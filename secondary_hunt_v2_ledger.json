@@ -1976,6 +1976,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BABYSHARKIRT": {
+      "trigger_time": 1792869584982,
+      "trigger_price": 1019.8,
+      "secondary_score": 75.0,
+      "hunt_score": 35.7,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
