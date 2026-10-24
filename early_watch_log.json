@@ -51481,7 +51481,10 @@
       "max_up": 2.15,
       "max_down": -5.26
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.15,
+      "max_down": -6.7
+    }
   },
   {
     "symbol": "ZORAIRT",
@@ -51989,7 +51992,10 @@
     "bs": 1.74,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -2.53,
+      "max_down": -2.53
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
