@@ -11232,7 +11232,10 @@
       "max_up": 0.73,
       "max_down": -2.83
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.73,
+      "max_down": -6.22
+    }
   },
   {
     "symbol": "INIRT",
@@ -11254,6 +11257,9 @@
       "max_up": -1.33,
       "max_down": -10.58
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -1.33,
+      "max_down": -29.96
+    }
   }
 ]
