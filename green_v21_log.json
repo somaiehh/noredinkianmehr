@@ -11308,5 +11308,24 @@
       "max_down": -1.66
     },
     "result_4h": null
+  },
+  {
+    "symbol": "PEPEIRT",
+    "time": 1792867673502,
+    "price": 1.18394,
+    "pre30": 1.7,
+    "pre60": 2.24,
+    "pre120": 3.99,
+    "hunt": 78.6,
+    "persistence": 2,
+    "vr": 3.66,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.22,
+    "p15": 0.38,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

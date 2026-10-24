@@ -25609,5 +25609,49 @@
     "levels": [],
     "failed_time": 1792830922157,
     "failed_price": 10578.0
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1792669261993,
+    "anchor_price": 1305.8,
+    "status": "FAILED",
+    "created_time": 1792669261993,
+    "last_time": 1792866312449,
+    "last_price": 1121.1,
+    "max_gain_pct": 0.3906,
+    "levels": [],
+    "failed_time": 1792688778671,
+    "failed_price": 1252.4
+  },
+  {
+    "symbol": "SOPHIRT",
+    "anchor_time": 1792750114300,
+    "anchor_price": 502.0,
+    "status": "EXPIRED",
+    "created_time": 1792750114300,
+    "last_time": 1792866312449,
+    "last_price": 391.0,
+    "max_gain_pct": 25.0996,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792751044942,
+    "confirmed_price": 543.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792751044942,
+        "price": 543.0,
+        "gain_pct": 8.1673
+      },
+      {
+        "level": 10,
+        "time": 1792752604180,
+        "price": 562.0,
+        "gain_pct": 11.9522
+      }
+    ],
+    "expired_time": 1792793512619
   }
 ]
