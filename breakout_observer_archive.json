@@ -25311,5 +25311,30 @@
     "levels": [],
     "failed_time": 1792803255456,
     "failed_price": 331280.0
+  },
+  {
+    "symbol": "LUMIAIRT",
+    "anchor_time": 1791991031987,
+    "anchor_price": 27660.0,
+    "status": "FAILED",
+    "created_time": 1791991031987,
+    "last_time": 1792833047660,
+    "last_price": 20894.0,
+    "max_gain_pct": 0.8026,
+    "levels": [],
+    "failed_time": 1791992009632,
+    "failed_price": 26662.0
+  },
+  {
+    "symbol": "LIGHTIRT",
+    "anchor_time": 1792497003342,
+    "anchor_price": 56900.0,
+    "status": "EXPIRED",
+    "created_time": 1792497003342,
+    "last_time": 1792833047660,
+    "last_price": 65432.0,
+    "max_gain_pct": 14.9947,
+    "levels": [],
+    "expired_time": 1792566553463
   }
 ]
