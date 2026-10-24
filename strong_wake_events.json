@@ -11605,11 +11605,11 @@
     "tm_g1": 0.625,
     "tm_g4": 1.2903,
     "legacy": false,
-    "result": "HIT_FIRST",
-    "result_time": 1792711649451,
-    "result_move": 10.834,
+    "result": "STOP_FIRST",
+    "result_time": 1792738942237,
+    "result_move": -7.7584,
     "max_move": 10.834,
-    "min_move": 0.0,
+    "min_move": -7.7584,
     "ledger_version": "wake-ledger-v1"
   },
   {
