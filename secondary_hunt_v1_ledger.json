@@ -3700,6 +3700,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BREVIRT": {
+      "trigger_time": 1792835572485,
+      "trigger_price": 23580.0,
+      "secondary_score": 85.0,
+      "hunt_score": 69.5,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
