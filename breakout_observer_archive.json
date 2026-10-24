@@ -25199,5 +25199,18 @@
       }
     ],
     "expired_time": 1792786137331
+  },
+  {
+    "symbol": "ERAIRT",
+    "anchor_time": 1792324151833,
+    "anchor_price": 20156.0,
+    "status": "FAILED",
+    "created_time": 1792324151833,
+    "last_time": 1792818297483,
+    "last_price": 25046.0,
+    "max_gain_pct": 28.721,
+    "levels": [],
+    "failed_time": 1792325160464,
+    "failed_price": 19348.0
   }
 ]
