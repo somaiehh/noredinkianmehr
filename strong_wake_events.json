@@ -11924,7 +11924,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -2.3606,
+    "min_move": -2.9021,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -11944,8 +11944,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.569,
+    "max_move": 1.8127,
     "min_move": -2.9675,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "LINKIRT",
+    "event_time": 1792833047660,
+    "event_price": 3096347.0,
+    "anchor_time": 1792832781984,
+    "anchor_price": 3101328.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.3182,
+    "tm_e15_e1": 0.3182,
+    "tm_e1_e4": 0.6875,
+    "tm_g15": 3.5,
+    "tm_g1": 1.375,
+    "tm_g4": 1.2308,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
