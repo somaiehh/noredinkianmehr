@@ -51121,7 +51121,10 @@
       "max_up": -0.57,
       "max_down": -12.57
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.57,
+      "max_down": -12.57
+    }
   },
   {
     "symbol": "HIRT",
@@ -51372,7 +51375,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.73,
+      "max_down": -2.83
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -51394,7 +51400,10 @@
       "max_up": -0.17,
       "max_down": -0.17
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.17,
+      "max_down": -10.73
+    },
     "result_4h": null,
     "result_12h": null
   }
