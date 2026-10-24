@@ -3745,6 +3745,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "KATIRT": {
+      "trigger_time": 1792841709167,
+      "trigger_price": 1499.0,
+      "secondary_score": 85.0,
+      "hunt_score": 78.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

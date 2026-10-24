@@ -1947,6 +1947,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "HOMEIRT": {
+      "trigger_time": 1792841709167,
+      "trigger_price": 1397.4,
+      "secondary_score": 75.0,
+      "hunt_score": 33.3,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
