@@ -50811,7 +50811,10 @@
       "max_up": 0.79,
       "max_down": -2.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.7,
+      "max_down": -6.95
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -50839,7 +50842,10 @@
       "max_up": 1.7,
       "max_down": -0.58
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.7,
+      "max_down": -11.53
+    }
   },
   {
     "symbol": "BTRIRT",
@@ -50867,7 +50873,10 @@
       "max_up": 2.76,
       "max_down": -1.98
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.76,
+      "max_down": -8.32
+    }
   },
   {
     "symbol": "BRIRT",
@@ -50895,7 +50904,10 @@
       "max_up": 10.79,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.79,
+      "max_down": -4.6
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -50923,7 +50935,10 @@
       "max_up": 0.0,
       "max_down": -4.95
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -5.87
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -51031,7 +51046,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 13.45,
+      "max_down": -3.77
+    },
     "result_12h": null
   },
   {
@@ -51056,7 +51074,10 @@
       "max_up": -0.18,
       "max_down": -2.52
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.6,
+      "max_down": -3.27
+    },
     "result_12h": null
   },
   {
@@ -51081,7 +51102,10 @@
       "max_up": -0.57,
       "max_down": -7.43
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.57,
+      "max_down": -12.57
+    },
     "result_12h": null
   },
   {
@@ -51106,7 +51130,10 @@
       "max_up": 0.0,
       "max_down": -2.01
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -2.01
+    },
     "result_12h": null
   },
   {
@@ -51131,7 +51158,10 @@
       "max_up": -1.8,
       "max_down": -5.36
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.37,
+      "max_down": -5.36
+    },
     "result_12h": null
   },
   {
@@ -51156,7 +51186,10 @@
       "max_up": 3.87,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 7.08,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
