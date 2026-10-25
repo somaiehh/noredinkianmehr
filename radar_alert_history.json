@@ -6001,5 +6001,18 @@
     "bs": 1.74,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1792891411532,
+    "symbol": "LIGHTIRT",
+    "price": 85125.0,
+    "hunt_score": 88.4,
+    "status": "EARLY",
+    "p15": 0.9,
+    "vr": 15.2,
+    "va": 8.56,
+    "bs": 1.77,
+    "breakout": true,
+    "persistence": 2
   }
 ]

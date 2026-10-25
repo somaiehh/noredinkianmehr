@@ -25781,5 +25781,31 @@
       }
     ],
     "expired_time": 1792881745959
+  },
+  {
+    "symbol": "GTCIRT",
+    "anchor_time": 1792810216436,
+    "anchor_price": 78215.0,
+    "status": "FAILED",
+    "created_time": 1792810216436,
+    "last_time": 1792890133842,
+    "last_price": 67792.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792811898635,
+    "failed_price": 75581.0
+  },
+  {
+    "symbol": "USELESSIRT",
+    "anchor_time": 1791405933057,
+    "anchor_price": 54611.0,
+    "status": "FAILED",
+    "created_time": 1791405933057,
+    "last_time": 1792890133842,
+    "last_price": 46326.0,
+    "max_gain_pct": 0.6592,
+    "levels": [],
+    "failed_time": 1791439673603,
+    "failed_price": 52685.0
   }
 ]

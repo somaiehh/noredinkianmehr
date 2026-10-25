@@ -11383,5 +11383,24 @@
       "max_down": -3.16
     },
     "result_4h": null
+  },
+  {
+    "symbol": "LIGHTIRT",
+    "time": 1792891407353,
+    "price": 85125.0,
+    "pre30": 2.97,
+    "pre60": 2.97,
+    "pre120": 4.65,
+    "hunt": 88.4,
+    "persistence": 2,
+    "vr": 15.2,
+    "va": 8.56,
+    "buy": 59.0,
+    "bs": 1.77,
+    "ob": 0.0,
+    "p15": 0.9,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
