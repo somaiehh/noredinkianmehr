@@ -51943,7 +51943,10 @@
       "max_up": 2.34,
       "max_down": -4.37
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.49,
+      "max_down": -20.01
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -52188,6 +52191,25 @@
       "max_up": 0.3,
       "max_down": -6.14
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1792902919723,
+    "price": 90.0,
+    "level": "STRONG",
+    "hunt": 70.0,
+    "persistence": 1,
+    "p15": 1.58,
+    "vr": 1.02,
+    "va": 2.0,
+    "buy": 69.0,
+    "bs": 2.07,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }

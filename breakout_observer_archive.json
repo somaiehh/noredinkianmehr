@@ -25846,5 +25846,18 @@
     "levels": [],
     "failed_time": 1792839193797,
     "failed_price": 21832.0
+  },
+  {
+    "symbol": "ANIMEIRT",
+    "anchor_time": 1792841709167,
+    "anchor_price": 863.0,
+    "status": "FAILED",
+    "created_time": 1792841709167,
+    "last_time": 1792902139630,
+    "last_price": 820.0,
+    "max_gain_pct": 33.2561,
+    "levels": [],
+    "failed_time": 1792841959181,
+    "failed_price": 810.0
   }
 ]
