@@ -11457,7 +11457,10 @@
       "max_up": 0.11,
       "max_down": -0.35
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.92,
+      "max_down": -3.28
+    }
   },
   {
     "symbol": "BABYIRT",
@@ -11475,7 +11478,10 @@
     "ob": 0.36,
     "p15": 1.23,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_4h": null
   }
 ]

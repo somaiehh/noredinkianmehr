@@ -52098,7 +52098,10 @@
       "max_up": 3.05,
       "max_down": -28.23
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.05,
+      "max_down": -29.12
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -52126,7 +52129,10 @@
       "max_up": 1.2,
       "max_down": -4.03
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.96,
+      "max_down": -5.66
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -52287,7 +52293,10 @@
       "max_up": 4.55,
       "max_down": 2.96
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.55,
+      "max_down": -19.87
+    },
     "result_12h": null
   },
   {
@@ -52312,7 +52321,10 @@
       "max_up": -1.32,
       "max_down": -1.72
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.46,
+      "max_down": -4.61
+    },
     "result_12h": null
   },
   {
@@ -52379,8 +52391,14 @@
     "bs": 3.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
-    "result_1h": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -52396,6 +52414,25 @@
     "va": 2.42,
     "buy": 65.33333333333333,
     "bs": 1.96,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1792925284950,
+    "price": 20700.0,
+    "level": "STRONG",
+    "hunt": 63.3,
+    "persistence": 1,
+    "p15": 1.23,
+    "vr": 1.21,
+    "va": 1.95,
+    "buy": 34.66666666666667,
+    "bs": 1.04,
     "breakout": false,
     "priority": false,
     "result_15m": null,
