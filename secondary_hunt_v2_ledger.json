@@ -2005,6 +2005,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "TIRT": {
+      "trigger_time": 1792899498769,
+      "trigger_price": 1759.0,
+      "secondary_score": 60.0,
+      "hunt_score": 44.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

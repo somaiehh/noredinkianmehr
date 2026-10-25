@@ -11408,5 +11408,24 @@
       "max_down": -6.27
     },
     "result_4h": null
+  },
+  {
+    "symbol": "ANIMEIRT",
+    "time": 1792899498769,
+    "price": 812.0,
+    "pre30": 0.25,
+    "pre60": -0.12,
+    "pre120": -4.02,
+    "hunt": 75.8,
+    "persistence": 2,
+    "vr": 4.06,
+    "va": 8.02,
+    "buy": 17.0,
+    "bs": 0.51,
+    "ob": 1.0,
+    "p15": 0.74,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
