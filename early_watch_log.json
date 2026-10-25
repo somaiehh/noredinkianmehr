@@ -52523,7 +52523,10 @@
       "max_up": 5.75,
       "max_down": -5.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.75,
+      "max_down": -8.74
+    }
   },
   {
     "symbol": "ORDERIRT",
