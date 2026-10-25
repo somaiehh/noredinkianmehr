@@ -3856,6 +3856,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "LRCIRT": {
+      "trigger_time": 1792960548717,
+      "trigger_price": 2303.0,
+      "secondary_score": 75.0,
+      "hunt_score": 67.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

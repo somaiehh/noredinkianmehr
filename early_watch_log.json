@@ -52405,7 +52405,10 @@
       "max_up": 2.34,
       "max_down": -0.65
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.73,
+      "max_down": -0.7
+    }
   },
   {
     "symbol": "TNSRIRT",
@@ -52877,7 +52880,10 @@
     "bs": 1.18,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
