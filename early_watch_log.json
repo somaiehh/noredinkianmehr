@@ -52191,7 +52191,10 @@
       "max_up": 6.12,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.13,
+      "max_down": -0.76
+    }
   },
   {
     "symbol": "LIGHTIRT",
@@ -52219,7 +52222,10 @@
       "max_up": 0.3,
       "max_down": -12.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.63,
+      "max_down": -29.66
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -52408,7 +52414,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -52427,7 +52436,10 @@
     "priority": false,
     "result_15m": null,
     "result_1h": null,
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.71,
+      "max_down": -18.27
+    },
     "result_12h": null
   },
   {
@@ -52477,6 +52489,25 @@
       "max_up": 5.75,
       "max_down": -0.52
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ORDERIRT",
+    "time": 1792935327394,
+    "price": 12573.0,
+    "level": "STRONG",
+    "hunt": 66.7,
+    "persistence": 1,
+    "p15": 0.14,
+    "vr": 6.23,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
