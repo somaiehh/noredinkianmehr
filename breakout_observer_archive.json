@@ -26089,5 +26089,44 @@
     "levels": [],
     "failed_time": 1792855225538,
     "failed_price": 1.2783
+  },
+  {
+    "symbol": "GRASSIRT",
+    "anchor_time": 1792611235665,
+    "anchor_price": 193548.0,
+    "status": "FAILED",
+    "created_time": 1792611235665,
+    "last_time": 1792948172591,
+    "last_price": 192444.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792615371639,
+    "failed_price": 187121.0
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "anchor_time": 1792482588348,
+    "anchor_price": 14424.0,
+    "status": "FAILED",
+    "created_time": 1792482588348,
+    "last_time": 1792941919991,
+    "last_price": 13878.0,
+    "max_gain_pct": 5.5324,
+    "levels": [],
+    "failed_time": 1792497003342,
+    "failed_price": 13800.0
+  },
+  {
+    "symbol": "ORDERIRT",
+    "anchor_time": 1792898416314,
+    "anchor_price": 15842.0,
+    "status": "FAILED",
+    "created_time": 1792898416314,
+    "last_time": 1792948172591,
+    "last_price": 13114.0,
+    "max_gain_pct": 7.3034,
+    "levels": [],
+    "failed_time": 1792899498769,
+    "failed_price": 15325.0
   }
 ]

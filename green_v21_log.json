@@ -11508,5 +11508,43 @@
       "max_down": -20.73
     },
     "result_4h": null
+  },
+  {
+    "symbol": "ETHFIIRT",
+    "time": 1792948957032,
+    "price": 169034.0,
+    "pre30": 4.78,
+    "pre60": 4.78,
+    "pre120": 4.78,
+    "hunt": 77.6,
+    "persistence": 2,
+    "vr": 1.0,
+    "va": 3.36,
+    "buy": 100,
+    "bs": 4.93,
+    "ob": 0.85,
+    "p15": 0.43,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "time": 1792949233355,
+    "price": 14084.0,
+    "pre30": 1.48,
+    "pre60": 1.48,
+    "pre120": 1.48,
+    "hunt": 93.4,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.94,
+    "ob": 0.0,
+    "p15": 0.44,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
