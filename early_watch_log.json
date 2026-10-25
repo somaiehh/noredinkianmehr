@@ -52153,7 +52153,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.13,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -52175,7 +52178,10 @@
       "max_up": 0.15,
       "max_down": 0.15
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.3,
+      "max_down": -6.14
+    },
     "result_4h": null,
     "result_12h": null
   }

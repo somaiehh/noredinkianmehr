@@ -11382,7 +11382,10 @@
       "max_up": -2.94,
       "max_down": -3.16
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.2,
+      "max_down": -4.03
+    }
   },
   {
     "symbol": "LIGHTIRT",
@@ -11400,7 +11403,10 @@
     "ob": 0.0,
     "p15": 0.9,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.15,
+      "max_down": -6.27
+    },
     "result_4h": null
   }
 ]
