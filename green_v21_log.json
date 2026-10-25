@@ -11532,7 +11532,10 @@
       "max_up": 0.5,
       "max_down": 0.23
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.5,
+      "max_down": 0.23
+    }
   },
   {
     "symbol": "MUBARAKIRT",
@@ -11554,7 +11557,10 @@
       "max_up": 0.67,
       "max_down": 0.2
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.94,
+      "max_down": -0.26
+    }
   },
   {
     "symbol": "GTCIRT",
