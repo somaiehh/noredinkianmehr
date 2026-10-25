@@ -11507,7 +11507,10 @@
       "max_up": -5.87,
       "max_down": -20.73
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -5.87,
+      "max_down": -24.13
+    }
   },
   {
     "symbol": "ETHFIIRT",
@@ -11551,6 +11554,25 @@
       "max_up": 0.67,
       "max_down": 0.2
     },
+    "result_4h": null
+  },
+  {
+    "symbol": "GTCIRT",
+    "time": 1792954289199,
+    "price": 68733.0,
+    "pre30": 0.19,
+    "pre60": -0.83,
+    "pre120": 1.71,
+    "hunt": 78.4,
+    "persistence": 3,
+    "vr": 19.15,
+    "va": 10.0,
+    "buy": 71.0,
+    "bs": 2.13,
+    "ob": 1.0,
+    "p15": 0.34,
+    "breakout": false,
+    "result_1h": null,
     "result_4h": null
   }
 ]

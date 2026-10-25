@@ -26140,5 +26140,56 @@
     "max_gain_pct": 2.7445,
     "levels": [],
     "expired_time": 1792910788783
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1792897545197,
+    "anchor_price": 21930.5,
+    "status": "FAILED",
+    "created_time": 1792897545197,
+    "last_time": 1792953517956,
+    "last_price": 16449.4,
+    "max_gain_pct": 0.9284,
+    "levels": [],
+    "failed_time": 1792900054395,
+    "failed_price": 21000.0
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1792887629705,
+    "anchor_price": 19158.0,
+    "status": "EXPIRED",
+    "created_time": 1792887629705,
+    "last_time": 1792953517956,
+    "last_price": 19952.0,
+    "max_gain_pct": 9.6148,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792904738576,
+    "confirmed_price": 19887.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792925284950,
+        "price": 20700.0,
+        "gain_pct": 8.0489
+      }
+    ],
+    "expired_time": 1792931729375
+  },
+  {
+    "symbol": "ENAIRT",
+    "anchor_time": 1792596757161,
+    "anchor_price": 57360.0,
+    "status": "EXPIRED",
+    "created_time": 1792596757161,
+    "last_time": 1792954289199,
+    "last_price": 56092.0,
+    "max_gain_pct": 4.2748,
+    "levels": [],
+    "confirmed_time": 1792605133320,
+    "confirmed_price": 59607.0,
+    "expired_time": 1792650535775
   }
 ]
