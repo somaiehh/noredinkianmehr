@@ -52343,7 +52343,10 @@
       "max_up": -0.46,
       "max_down": -4.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.46,
+      "max_down": -7.41
+    }
   },
   {
     "symbol": "CAPIRT",
@@ -52557,7 +52560,10 @@
       "max_up": 2.01,
       "max_down": -0.89
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.01,
+      "max_down": -2.73
+    },
     "result_12h": null
   },
   {
@@ -52650,7 +52656,10 @@
       "max_up": -1.59,
       "max_down": -1.59
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -1.59,
+      "max_down": -3.17
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -52672,7 +52681,10 @@
       "max_up": 0.43,
       "max_down": 0.43
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.54,
+      "max_down": -0.04
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -52738,6 +52750,25 @@
       "max_up": -0.36,
       "max_down": -0.36
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "CAPIRT",
+    "time": 1792951816304,
+    "price": 28904.0,
+    "level": "WATCH",
+    "hunt": 44.7,
+    "persistence": 1,
+    "p15": 0.05,
+    "vr": 0.28,
+    "va": 5.27,
+    "buy": 33.666666666666664,
+    "bs": 1.01,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
