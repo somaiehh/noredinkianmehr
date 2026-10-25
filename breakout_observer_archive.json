@@ -25807,5 +25807,31 @@
     "levels": [],
     "failed_time": 1791439673603,
     "failed_price": 52685.0
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1792850829161,
+    "anchor_price": 22110.5,
+    "status": "FAILED",
+    "created_time": 1792850829161,
+    "last_time": 1792896217262,
+    "last_price": 20653.5,
+    "max_gain_pct": 2.7815,
+    "levels": [],
+    "failed_time": 1792855474282,
+    "failed_price": 21098.8
+  },
+  {
+    "symbol": "INIRT",
+    "anchor_time": 1792821830287,
+    "anchor_price": 14800.0,
+    "status": "FAILED",
+    "created_time": 1792821830287,
+    "last_time": 1792897545197,
+    "last_price": 8078.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792824608165,
+    "failed_price": 13541.0
   }
 ]
