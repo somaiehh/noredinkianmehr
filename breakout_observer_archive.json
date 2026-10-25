@@ -25984,5 +25984,32 @@
     "max_gain_pct": 2.0158,
     "levels": [],
     "expired_time": 1792910559465
+  },
+  {
+    "symbol": "BMTIRT",
+    "anchor_time": 1792823054232,
+    "anchor_price": 12100.0,
+    "status": "FAILED",
+    "created_time": 1792823054232,
+    "last_time": 1792935606477,
+    "last_price": 7945.0,
+    "max_gain_pct": 2.5289,
+    "levels": [],
+    "failed_time": 1792823310643,
+    "failed_price": 11640.0
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1792509718976,
+    "anchor_price": 80458.0,
+    "status": "EXPIRED",
+    "created_time": 1792509718976,
+    "last_time": 1792935606477,
+    "last_price": 69317.0,
+    "max_gain_pct": 6.76,
+    "levels": [],
+    "confirmed_time": 1792513635053,
+    "confirmed_price": 83000.0,
+    "expired_time": 1792570086973
   }
 ]
