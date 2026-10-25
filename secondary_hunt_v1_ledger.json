@@ -3816,6 +3816,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BABYIRT": {
+      "trigger_time": 1792916256723,
+      "trigger_price": 3549.0,
+      "secondary_score": 60.0,
+      "hunt_score": 20.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
