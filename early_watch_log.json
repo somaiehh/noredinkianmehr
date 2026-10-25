@@ -52374,7 +52374,10 @@
       "max_up": 10.89,
       "max_down": 1.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 23.59,
+      "max_down": 1.4
+    }
   },
   {
     "symbol": "BABYIRT",
@@ -52613,7 +52616,10 @@
       "max_up": 0.46,
       "max_down": -0.89
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 9.31,
+      "max_down": -0.89
+    },
     "result_12h": null
   },
   {
@@ -52781,7 +52787,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.02,
+      "max_down": -0.81
+    },
     "result_4h": null,
     "result_12h": null
   },
