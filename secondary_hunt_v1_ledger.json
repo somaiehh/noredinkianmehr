@@ -3842,6 +3842,20 @@
         "book1",
         "dt15_pos"
       ]
+    },
+    "POLYXIRT": {
+      "trigger_time": 1792928322804,
+      "trigger_price": 9432.0,
+      "secondary_score": 65.0,
+      "hunt_score": 46.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
