@@ -26063,5 +26063,31 @@
     "confirmed_time": 1792821830287,
     "confirmed_price": 1237.0,
     "expired_time": 1792858701028
+  },
+  {
+    "symbol": "DOODIRT",
+    "anchor_time": 1792866054992,
+    "anchor_price": 407.2,
+    "status": "FAILED",
+    "created_time": 1792866054992,
+    "last_time": 1792947153942,
+    "last_price": 382.8,
+    "max_gain_pct": 7.5639,
+    "levels": [],
+    "failed_time": 1792889962472,
+    "failed_price": 394.9
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1792844567471,
+    "anchor_price": 1.3209,
+    "status": "FAILED",
+    "created_time": 1792844567471,
+    "last_time": 1792947928393,
+    "last_price": 1.3123,
+    "max_gain_pct": 0.4467,
+    "levels": [],
+    "failed_time": 1792855225538,
+    "failed_price": 1.2783
   }
 ]
