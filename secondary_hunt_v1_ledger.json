@@ -3788,6 +3788,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "IQIRT": {
+      "trigger_time": 1792893867693,
+      "trigger_price": 223.9,
+      "secondary_score": 80.0,
+      "hunt_score": 72.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
