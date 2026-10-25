@@ -3829,6 +3829,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "XECIRT": {
+      "trigger_time": 1792926487162,
+      "trigger_price": 1.963,
+      "secondary_score": 65.0,
+      "hunt_score": 59.6,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "book1",
+        "dt15_pos"
+      ]
     }
   }
 }
