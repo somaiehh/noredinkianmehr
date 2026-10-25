@@ -6014,5 +6014,18 @@
     "bs": 1.77,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1792893144593,
+    "symbol": "USELESSIRT",
+    "price": 47373.0,
+    "hunt_score": 80.8,
+    "status": "EARLY",
+    "p15": 0.79,
+    "vr": 0.48,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]

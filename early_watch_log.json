@@ -51819,7 +51819,10 @@
       "max_up": 5.66,
       "max_down": -1.89
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.18,
+      "max_down": -3.77
+    }
   },
   {
     "symbol": "ORDERIRT",
@@ -51847,7 +51850,10 @@
       "max_up": 4.23,
       "max_down": -5.08
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.23,
+      "max_down": -24.94
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -51875,7 +51881,10 @@
       "max_up": 8.18,
       "max_down": 0.6
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.18,
+      "max_down": -4.5
+    }
   },
   {
     "symbol": "ARIAIRT",
