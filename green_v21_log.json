@@ -11486,5 +11486,24 @@
       "max_up": 2.83,
       "max_down": 0.0
     }
+  },
+  {
+    "symbol": "QIRT",
+    "time": 1792939895653,
+    "price": 20184.9,
+    "pre30": -8.07,
+    "pre60": -4.58,
+    "pre120": -4.45,
+    "hunt": 75.9,
+    "persistence": 2,
+    "vr": 3.32,
+    "va": 3.15,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.78,
+    "p15": 1.39,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

@@ -26024,5 +26024,18 @@
     "levels": [],
     "failed_time": 1792764246041,
     "failed_price": 535.0
+  },
+  {
+    "symbol": "LIGHTIRT",
+    "anchor_time": 1792877807349,
+    "anchor_price": 81000.0,
+    "status": "FAILED",
+    "created_time": 1792877807349,
+    "last_time": 1792938434267,
+    "last_price": 64895.0,
+    "max_gain_pct": 6.6481,
+    "levels": [],
+    "failed_time": 1792879823193,
+    "failed_price": 77259.0
   }
 ]
