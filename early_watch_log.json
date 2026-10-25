@@ -52215,5 +52215,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "TIRT",
+    "time": 1792904962863,
+    "price": 1710.0,
+    "level": "STRONG",
+    "hunt": 54.9,
+    "persistence": 2,
+    "p15": 0.83,
+    "vr": 0.1,
+    "va": 6.99,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
