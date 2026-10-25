@@ -26037,5 +26037,31 @@
     "levels": [],
     "failed_time": 1792879823193,
     "failed_price": 77259.0
+  },
+  {
+    "symbol": "DOGSIRT",
+    "anchor_time": 1792720212356,
+    "anchor_price": 10.34,
+    "status": "EXPIRED",
+    "created_time": 1792720212356,
+    "last_time": 1792941919991,
+    "last_price": 9.64,
+    "max_gain_pct": 0.677,
+    "levels": [],
+    "expired_time": 1792763415128
+  },
+  {
+    "symbol": "REZIRT",
+    "anchor_time": 1792814715166,
+    "anchor_price": 1190.0,
+    "status": "EXPIRED",
+    "created_time": 1792814715166,
+    "last_time": 1792944437963,
+    "last_price": 1263.0,
+    "max_gain_pct": 6.1345,
+    "levels": [],
+    "confirmed_time": 1792821830287,
+    "confirmed_price": 1237.0,
+    "expired_time": 1792858701028
   }
 ]
