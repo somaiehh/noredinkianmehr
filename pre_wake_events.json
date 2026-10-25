@@ -8854,10 +8854,10 @@
     "book": 0.0,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
-    "max_move": 9.4817,
+    "result": "HIT_FIRST",
+    "result_time": 1792902139630,
+    "result_move": 11.7935,
+    "max_move": 11.7935,
     "min_move": -1.3181,
     "ledger_version": "pre-wake-ledger-v1"
   }

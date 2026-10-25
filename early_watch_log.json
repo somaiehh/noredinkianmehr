@@ -51912,7 +51912,10 @@
       "max_up": 3.17,
       "max_down": -5.05
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.17,
+      "max_down": -8.92
+    }
   },
   {
     "symbol": "BMTIRT",
