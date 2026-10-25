@@ -11407,7 +11407,10 @@
       "max_up": 0.15,
       "max_down": -6.27
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.15,
+      "max_down": -12.25
+    }
   },
   {
     "symbol": "ANIMEIRT",
