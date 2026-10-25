@@ -25833,5 +25833,18 @@
     "levels": [],
     "failed_time": 1792824608165,
     "failed_price": 13541.0
+  },
+  {
+    "symbol": "ORDERIRT",
+    "anchor_time": 1792838256952,
+    "anchor_price": 27000.0,
+    "status": "FAILED",
+    "created_time": 1792838256952,
+    "last_time": 1792897743860,
+    "last_price": 14300.0,
+    "max_gain_pct": 0.8481,
+    "levels": [],
+    "failed_time": 1792839193797,
+    "failed_price": 21832.0
   }
 ]
