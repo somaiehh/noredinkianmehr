@@ -52349,7 +52349,10 @@
       "max_up": 3.63,
       "max_down": 1.4
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 10.89,
+      "max_down": 1.4
+    },
     "result_12h": null
   },
   {
@@ -52439,6 +52442,25 @@
       "max_up": -0.45,
       "max_down": -0.45
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "time": 1792927215455,
+    "price": 974.6,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.13,
+    "vr": 0.56,
+    "va": 10.0,
+    "buy": 63.33333333333333,
+    "bs": 1.9,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

@@ -25903,5 +25903,74 @@
       }
     ],
     "expired_time": 1792904962863
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1792825798172,
+    "anchor_price": 1258564.0,
+    "status": "FAILED",
+    "created_time": 1792825798172,
+    "last_time": 1792926487162,
+    "last_price": 1186030.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792830922157,
+    "failed_price": 1218000.0
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "anchor_time": 1792860635536,
+    "anchor_price": 1000.0,
+    "status": "EXPIRED",
+    "created_time": 1792860635536,
+    "last_time": 1792926487162,
+    "last_price": 951.0,
+    "max_gain_pct": 40.5,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792860894432,
+    "confirmed_price": 1200.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792860894432,
+        "price": 1200.0,
+        "gain_pct": 20.0
+      },
+      {
+        "level": 10,
+        "time": 1792860894432,
+        "price": 1200.0,
+        "gain_pct": 20.0
+      }
+    ],
+    "expired_time": 1792903909361
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1792873239872,
+    "anchor_price": 321019564.0,
+    "status": "EXPIRED",
+    "created_time": 1792873239872,
+    "last_time": 1792927215455,
+    "last_price": 322042575.0,
+    "max_gain_pct": 1.6226,
+    "levels": [],
+    "expired_time": 1792916500796
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1792825798172,
+    "anchor_price": 339514.0,
+    "status": "FAILED",
+    "created_time": 1792825798172,
+    "last_time": 1792927215455,
+    "last_price": 337000.0,
+    "max_gain_pct": 0.1873,
+    "levels": [],
+    "failed_time": 1792855225538,
+    "failed_price": 327447.0
   }
 ]
