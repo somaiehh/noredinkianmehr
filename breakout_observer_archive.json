@@ -26191,5 +26191,18 @@
     "confirmed_time": 1792605133320,
     "confirmed_price": 59607.0,
     "expired_time": 1792650535775
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1792851713160,
+    "anchor_price": 10335.0,
+    "status": "FAILED",
+    "created_time": 1792851713160,
+    "last_time": 1792957820481,
+    "last_price": 10274.0,
+    "max_gain_pct": 1.4998,
+    "levels": [],
+    "failed_time": 1792869584982,
+    "failed_price": 9997.0
   }
 ]
