@@ -53230,7 +53230,10 @@
       "max_up": 10.11,
       "max_down": -3.13
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 13.21,
+      "max_down": -3.13
+    }
   },
   {
     "symbol": "OSMOIRT",
@@ -53258,7 +53261,10 @@
       "max_up": 1.78,
       "max_down": -4.37
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.78,
+      "max_down": -7.96
+    }
   },
   {
     "symbol": "LABIRT",
@@ -53286,7 +53292,10 @@
       "max_up": 6.79,
       "max_down": -0.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.21,
+      "max_down": -0.11
+    }
   },
   {
     "symbol": "ARIAIRT",
