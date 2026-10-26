@@ -52675,7 +52675,10 @@
       "max_up": 2.24,
       "max_down": -0.15
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.35,
+      "max_down": -0.38
+    }
   },
   {
     "symbol": "PTBIRT",
@@ -53032,7 +53035,10 @@
       "max_up": 0.0,
       "max_down": -0.63
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -2.34
+    },
     "result_12h": null
   },
   {
@@ -53078,7 +53084,10 @@
       "max_up": 1.14,
       "max_down": 1.14
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.51,
+      "max_down": 1.14
+    },
     "result_4h": null,
     "result_12h": null
   }

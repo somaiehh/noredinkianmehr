@@ -26321,5 +26321,19 @@
     "levels": [],
     "failed_time": 1792819179184,
     "failed_price": 25534.0
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1792863347023,
+    "anchor_price": 1.16075,
+    "status": "EXPIRED",
+    "created_time": 1792863347023,
+    "last_time": 1792989348324,
+    "last_price": 1.1786,
+    "max_gain_pct": 4.2852,
+    "levels": [],
+    "confirmed_time": 1792875295842,
+    "confirmed_price": 1.19645,
+    "expired_time": 1792907356273
   }
 ]
