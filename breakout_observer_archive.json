@@ -26387,5 +26387,35 @@
     "levels": [],
     "failed_time": 1792971492731,
     "failed_price": 1132.0
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1792954289199,
+    "anchor_price": 20109.0,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1792954289199,
+    "last_time": 1792997316803,
+    "last_price": 22990.0,
+    "max_gain_pct": 14.3766,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792956310097,
+    "confirmed_price": 21308.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792956310097,
+        "price": 21308.0,
+        "gain_pct": 5.9625
+      },
+      {
+        "level": 10,
+        "time": 1792960548717,
+        "price": 22800.0,
+        "gain_pct": 13.3821
+      }
+    ]
   }
 ]
