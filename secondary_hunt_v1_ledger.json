@@ -3900,6 +3900,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "HAEDALIRT": {
+      "trigger_time": 1793035186305,
+      "trigger_price": 5802.0,
+      "secondary_score": 80.0,
+      "hunt_score": 35.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
