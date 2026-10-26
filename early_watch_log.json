@@ -53075,7 +53075,10 @@
       "max_up": 0.0,
       "max_down": -2.34
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.65,
+      "max_down": -2.34
+    }
   },
   {
     "symbol": "DODOIRT",
