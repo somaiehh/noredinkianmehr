@@ -3870,6 +3870,22 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "HUMAIRT": {
+      "trigger_time": 1793020060427,
+      "trigger_price": 6164.0,
+      "secondary_score": 95.0,
+      "hunt_score": 64.5,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
