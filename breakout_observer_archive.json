@@ -26774,5 +26774,18 @@
     "confirmed_time": 1792960548717,
     "confirmed_price": 332692105.0,
     "expired_time": 1792971492731
+  },
+  {
+    "symbol": "ORDERIRT",
+    "anchor_time": 1792948957032,
+    "anchor_price": 13637.0,
+    "status": "FAILED",
+    "created_time": 1792948957032,
+    "last_time": 1793036104913,
+    "last_price": 10793.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792950287673,
+    "failed_price": 13048.0
   }
 ]
