@@ -26711,5 +26711,17 @@
     "confirmed_time": 1792908426720,
     "confirmed_price": 1625.7,
     "expired_time": 1792908694707
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1792859669680,
+    "anchor_price": 14011.0,
+    "status": "EXPIRED",
+    "created_time": 1792859669680,
+    "last_time": 1793026250892,
+    "last_price": 14636.0,
+    "max_gain_pct": 5.46,
+    "levels": [],
+    "expired_time": 1792917321639
   }
 ]
