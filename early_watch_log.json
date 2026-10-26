@@ -53133,5 +53133,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "BMTIRT",
+    "time": 1792996565693,
+    "price": 9484.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.55,
+    "vr": 5.06,
+    "va": 9.09,
+    "buy": 100,
+    "bs": 3.45,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
