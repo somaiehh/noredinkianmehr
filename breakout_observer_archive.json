@@ -26747,5 +26747,32 @@
       }
     ],
     "expired_time": 1793027988202
+  },
+  {
+    "symbol": "BCHIRT",
+    "anchor_time": 1792743746843,
+    "anchor_price": 78404897.0,
+    "status": "FAILED",
+    "created_time": 1792743746843,
+    "last_time": 1793029103166,
+    "last_price": 75085611.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792816411796,
+    "failed_price": 74265348.0
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1792927445925,
+    "anchor_price": 322620609.0,
+    "status": "EXPIRED",
+    "created_time": 1792927445925,
+    "last_time": 1793029103166,
+    "last_price": 338986960.0,
+    "max_gain_pct": 5.3792,
+    "levels": [],
+    "confirmed_time": 1792960548717,
+    "confirmed_price": 332692105.0,
+    "expired_time": 1792971492731
   }
 ]

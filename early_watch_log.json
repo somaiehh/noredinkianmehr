@@ -53137,7 +53137,10 @@
       "max_up": 2.51,
       "max_down": -4.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.51,
+      "max_down": -7.2
+    }
   },
   {
     "symbol": "DOODIRT",
