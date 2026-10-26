@@ -11632,7 +11632,10 @@
       "max_up": 30.8,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 65.99,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "DOODIRT",
@@ -11654,7 +11657,10 @@
       "max_up": 30.8,
       "max_down": 8.28
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 65.99,
+      "max_down": 6.28
+    }
   },
   {
     "symbol": "LABIRT",

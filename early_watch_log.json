@@ -53013,7 +53013,10 @@
       "max_up": 17.33,
       "max_down": -1.5
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 17.33,
+      "max_down": -7.14
+    }
   },
   {
     "symbol": "HIPPOIRT",
@@ -53149,7 +53152,10 @@
       "max_up": 30.8,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 65.99,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
