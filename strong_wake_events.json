@@ -12634,10 +12634,10 @@
     "tm_g1": 1.1852,
     "tm_g4": 1.1562,
     "legacy": false,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
-    "max_move": 5.1434,
+    "result": "HIT_FIRST",
+    "result_time": 1792989348324,
+    "result_move": 10.6746,
+    "max_move": 10.6746,
     "min_move": -1.5639,
     "ledger_version": "wake-ledger-v1"
   }

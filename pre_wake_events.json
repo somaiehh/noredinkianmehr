@@ -8965,5 +8965,26 @@
     "max_move": 3.9232,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "RSS3IRT",
+    "event_time": 1792989175709,
+    "event_price": 211.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 33.0,
+    "p15": -0.94,
+    "vr": null,
+    "va": 7.57,
+    "ta": null,
+    "bs": 1.66,
+    "book": 0.19,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.4739,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
