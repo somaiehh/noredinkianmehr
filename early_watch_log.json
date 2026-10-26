@@ -52737,7 +52737,10 @@
       "max_up": 0.54,
       "max_down": -0.98
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.54,
+      "max_down": -2.96
+    }
   },
   {
     "symbol": "ETHFIIRT",
@@ -52765,7 +52768,10 @@
       "max_up": 0.5,
       "max_down": 0.23
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.5,
+      "max_down": 0.23
+    }
   },
   {
     "symbol": "MUBARAKIRT",
@@ -52793,7 +52799,10 @@
       "max_up": 1.15,
       "max_down": -0.05
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.74,
+      "max_down": -0.05
+    }
   },
   {
     "symbol": "DOODIRT",
@@ -52821,7 +52830,10 @@
       "max_up": -0.36,
       "max_down": -2.9
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.36,
+      "max_down": -5.8
+    }
   },
   {
     "symbol": "CAPIRT",
@@ -53066,7 +53078,10 @@
       "max_up": 2.34,
       "max_down": -12.49
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.34,
+      "max_down": -16.85
+    },
     "result_12h": null
   },
   {
