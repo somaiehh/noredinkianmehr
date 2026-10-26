@@ -26697,5 +26697,19 @@
       }
     ],
     "expired_time": 1792803255456
+  },
+  {
+    "symbol": "XNYIRT",
+    "anchor_time": 1792865369458,
+    "anchor_price": 1550.0,
+    "status": "EXPIRED",
+    "created_time": 1792865369458,
+    "last_time": 1793025480906,
+    "last_price": 1900.0,
+    "max_gain_pct": 22.5806,
+    "levels": [],
+    "confirmed_time": 1792908426720,
+    "confirmed_price": 1625.7,
+    "expired_time": 1792908694707
   }
 ]
