@@ -52880,7 +52880,10 @@
       "max_up": -0.2,
       "max_down": -1.12
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.34,
+      "max_down": -1.12
+    },
     "result_12h": null
   },
   {
@@ -52905,7 +52908,10 @@
       "max_up": 6.68,
       "max_down": 0.61
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 6.68,
+      "max_down": 0.61
+    },
     "result_12h": null
   },
   {
@@ -52930,7 +52936,10 @@
       "max_up": 0.0,
       "max_down": -1.54
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -8.37
+    },
     "result_12h": null
   },
   {
@@ -52976,6 +52985,28 @@
       "max_up": 0.55,
       "max_down": 0.55
     },
+    "result_1h": {
+      "max_up": 0.55,
+      "max_down": -0.82
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1792975011150,
+    "price": 9.372e-05,
+    "level": "WATCH",
+    "hunt": 47.3,
+    "persistence": 1,
+    "p15": 0.09,
+    "vr": 2.9,
+    "va": 1.61,
+    "buy": 84.33333333333333,
+    "bs": 2.53,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
