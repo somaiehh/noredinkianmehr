@@ -52982,7 +52982,10 @@
       "max_up": 0.0,
       "max_down": -8.37
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.09,
+      "max_down": -11.34
+    }
   },
   {
     "symbol": "DODOIRT",
@@ -53187,6 +53190,44 @@
     "buy": 55.99999999999999,
     "bs": 1.68,
     "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "OSMOIRT",
+    "time": 1793001975583,
+    "price": 14505.0,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 1,
+    "p15": 0.99,
+    "vr": 0.0,
+    "va": 3.07,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1793001975583,
+    "price": 9996.0,
+    "level": "WATCH",
+    "hunt": 49.4,
+    "persistence": 1,
+    "p15": 0.47,
+    "vr": 0.0,
+    "va": 4.84,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
