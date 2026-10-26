@@ -26308,5 +26308,18 @@
     "max_gain_pct": 0.2434,
     "levels": [],
     "expired_time": 1792975011150
+  },
+  {
+    "symbol": "ERAIRT",
+    "anchor_time": 1792818552033,
+    "anchor_price": 26457.0,
+    "status": "FAILED",
+    "created_time": 1792818552033,
+    "last_time": 1792987735184,
+    "last_price": 24443.0,
+    "max_gain_pct": 2.0524,
+    "levels": [],
+    "failed_time": 1792819179184,
+    "failed_price": 25534.0
   }
 ]
