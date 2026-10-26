@@ -52920,7 +52920,10 @@
       "max_up": 2.34,
       "max_down": -1.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.34,
+      "max_down": -1.95
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -52948,7 +52951,10 @@
       "max_up": 6.68,
       "max_down": 0.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 11.42,
+      "max_down": -3.01
+    }
   },
   {
     "symbol": "BMTIRT",
@@ -53112,7 +53118,10 @@
       "max_up": 2.51,
       "max_down": 1.14
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.51,
+      "max_down": -4.0
+    },
     "result_12h": null
   },
   {
@@ -53162,6 +53171,25 @@
       "max_up": -1.31,
       "max_down": -5.39
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LIGHTIRT",
+    "time": 1793001290820,
+    "price": 68364.0,
+    "level": "STRONG",
+    "hunt": 75.6,
+    "persistence": 1,
+    "p15": 0.34,
+    "vr": 8.15,
+    "va": 10.0,
+    "buy": 55.99999999999999,
+    "bs": 1.68,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }

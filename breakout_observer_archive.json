@@ -26417,5 +26417,18 @@
         "gain_pct": 13.3821
       }
     ]
+  },
+  {
+    "symbol": "PTBIRT",
+    "anchor_time": 1792875295842,
+    "anchor_price": 79.0,
+    "status": "FAILED",
+    "created_time": 1792875295842,
+    "last_time": 1793001037824,
+    "last_price": 59.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792876739953,
+    "failed_price": 73.0
   }
 ]
