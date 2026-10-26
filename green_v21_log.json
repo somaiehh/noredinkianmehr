@@ -11611,5 +11611,43 @@
       "max_up": 2.55,
       "max_down": -0.92
     }
+  },
+  {
+    "symbol": "DOODIRT",
+    "time": 1792994632477,
+    "price": 420.5,
+    "pre30": 6.37,
+    "pre60": 9.59,
+    "pre120": 12.61,
+    "hunt": 100.0,
+    "persistence": 2,
+    "vr": 1.7,
+    "va": 5.03,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.45,
+    "p15": 1.18,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "DOODIRT",
+    "time": 1792994846337,
+    "price": 420.5,
+    "pre30": 6.37,
+    "pre60": 9.59,
+    "pre120": 12.01,
+    "hunt": 90.9,
+    "persistence": 3,
+    "vr": 1.7,
+    "va": 2.53,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.71,
+    "p15": 1.18,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
