@@ -26348,5 +26348,31 @@
     "levels": [],
     "failed_time": 1792940154479,
     "failed_price": 66703.0
+  },
+  {
+    "symbol": "BMTIRT",
+    "anchor_time": 1792936985293,
+    "anchor_price": 8287.0,
+    "status": "FAILED",
+    "created_time": 1792936985293,
+    "last_time": 1792992901453,
+    "last_price": 9193.0,
+    "max_gain_pct": 17.2559,
+    "levels": [],
+    "failed_time": 1792938434267,
+    "failed_price": 7905.0
+  },
+  {
+    "symbol": "DOODIRT",
+    "anchor_time": 1792947928393,
+    "anchor_price": 390.7,
+    "status": "FAILED",
+    "created_time": 1792947928393,
+    "last_time": 1792992901453,
+    "last_price": 395.3,
+    "max_gain_pct": 1.1774,
+    "levels": [],
+    "failed_time": 1792975011150,
+    "failed_price": 375.0
   }
 ]
