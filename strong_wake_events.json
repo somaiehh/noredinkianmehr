@@ -12764,7 +12764,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.5915,
-    "min_move": -1.183,
+    "min_move": -1.7823,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -12848,7 +12848,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.6978,
-    "min_move": -0.4444,
+    "min_move": -0.7333,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -12932,6 +12932,48 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.9709,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "PUFFERIRT",
+    "event_time": 1793032680303,
+    "event_price": 7554.0,
+    "anchor_time": 1793030703207,
+    "anchor_price": 7604.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1765,
+    "tm_e15_e1": 0.1765,
+    "tm_e1_e4": 0.7083,
+    "tm_g15": 0.2308,
+    "tm_g1": 1.2143,
+    "tm_g4": 1.2,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "TACIRT",
+    "event_time": 1793032680303,
+    "event_price": 304.0,
+    "anchor_time": 1793029828337,
+    "anchor_price": 302.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1818,
+    "tm_e15_e1": 0.1818,
+    "tm_e1_e4": 0.4783,
+    "tm_g15": 0.1818,
+    "tm_g1": 1.0,
+    "tm_g4": 1.0455,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
