@@ -26787,5 +26787,29 @@
     "levels": [],
     "failed_time": 1792950287673,
     "failed_price": 13048.0
+  },
+  {
+    "symbol": "CHIPIRT",
+    "anchor_time": 1792075200220,
+    "anchor_price": 12083.1,
+    "status": "EXPIRED",
+    "created_time": 1792075200220,
+    "last_time": 1793036283820,
+    "last_price": 14538.5,
+    "max_gain_pct": 21.9927,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792076240734,
+    "confirmed_price": 12500.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792156602353,
+        "price": 12809.4,
+        "gain_pct": 6.0109
+      }
+    ],
+    "expired_time": 1792156602353
   }
 ]
