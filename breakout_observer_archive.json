@@ -26588,5 +26588,18 @@
     "levels": [],
     "failed_time": 1792876739953,
     "failed_price": 90.5
+  },
+  {
+    "symbol": "BANKIRT",
+    "anchor_time": 1792596757161,
+    "anchor_price": 7175.0,
+    "status": "FAILED",
+    "created_time": 1792596757161,
+    "last_time": 1793017340617,
+    "last_price": 7086.0,
+    "max_gain_pct": 0.4599,
+    "levels": [],
+    "failed_time": 1792657055103,
+    "failed_price": 6879.0
   }
 ]
