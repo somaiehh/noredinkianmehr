@@ -11924,5 +11924,24 @@
       "max_down": -12.15
     },
     "result_4h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1793118562075,
+    "price": 11748.0,
+    "pre30": 1.94,
+    "pre60": 2.32,
+    "pre120": 2.71,
+    "hunt": 78.4,
+    "persistence": 2,
+    "vr": 2.93,
+    "va": 10.0,
+    "buy": 20.666666666666668,
+    "bs": 0.62,
+    "ob": 1.0,
+    "p15": 0.41,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

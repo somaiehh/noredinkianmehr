@@ -27307,5 +27307,29 @@
     "levels": [],
     "failed_time": 1792858957036,
     "failed_price": 306.0
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1792948172591,
+    "anchor_price": 1.3135,
+    "status": "EXPIRED",
+    "created_time": 1792948172591,
+    "last_time": 1793117140075,
+    "last_price": 1.308,
+    "max_gain_pct": 1.1268,
+    "levels": [],
+    "expired_time": 1793000101029
+  },
+  {
+    "symbol": "RVNIRT",
+    "anchor_time": 1791909559413,
+    "anchor_price": 414.5,
+    "status": "EXPIRED",
+    "created_time": 1791909559413,
+    "last_time": 1793117140075,
+    "last_price": 381.3,
+    "max_gain_pct": 4.6321,
+    "levels": [],
+    "expired_time": 1791958123173
   }
 ]
