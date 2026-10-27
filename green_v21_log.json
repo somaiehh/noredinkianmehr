@@ -11736,5 +11736,24 @@
       "max_up": 3.61,
       "max_down": -1.25
     }
+  },
+  {
+    "symbol": "ORDERIRT",
+    "time": 1793069339774,
+    "price": 11212.0,
+    "pre30": 1.92,
+    "pre60": 1.92,
+    "pre120": 7.6,
+    "hunt": 64.8,
+    "persistence": 2,
+    "vr": 1.39,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.6,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
