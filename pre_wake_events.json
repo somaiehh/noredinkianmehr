@@ -9169,10 +9169,10 @@
     "book": 1.0,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
-    "max_move": 9.4902,
+    "result": "HIT_FIRST",
+    "result_time": 1793087402798,
+    "result_move": 18.9122,
+    "max_move": 18.9122,
     "min_move": -2.3685,
     "ledger_version": "pre-wake-ledger-v1"
   }
