@@ -53958,6 +53958,28 @@
     "bs": 4.36,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 1.15,
+      "max_down": 1.03
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MYROIRT",
+    "time": 1793107037834,
+    "price": 453.0,
+    "level": "STRONG",
+    "hunt": 58.4,
+    "persistence": 1,
+    "p15": 0.44,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 45.333333333333336,
+    "bs": 1.36,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
