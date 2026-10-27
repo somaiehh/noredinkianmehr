@@ -27009,5 +27009,62 @@
     "max_gain_pct": 0.9574,
     "levels": [],
     "expired_time": 1793052206011
+  },
+  {
+    "symbol": "CAPIRT",
+    "anchor_time": 1793018872675,
+    "anchor_price": 22000.0,
+    "status": "EXPIRED",
+    "created_time": 1793018872675,
+    "last_time": 1793087582690,
+    "last_price": 25969.1,
+    "max_gain_pct": 33.3464,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793020060427,
+    "confirmed_price": 24000.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793020060427,
+        "price": 24000.0,
+        "gain_pct": 9.0909
+      },
+      {
+        "level": 10,
+        "time": 1793020824768,
+        "price": 24367.4,
+        "gain_pct": 10.7609
+      }
+    ],
+    "expired_time": 1793064467080
+  },
+  {
+    "symbol": "REZIRT",
+    "anchor_time": 1792944694705,
+    "anchor_price": 1273.0,
+    "status": "FAILED",
+    "created_time": 1792944694705,
+    "last_time": 1793088267714,
+    "last_price": 1326.0,
+    "max_gain_pct": 4.1634,
+    "levels": [],
+    "failed_time": 1792980197817,
+    "failed_price": 1213.0
+  },
+  {
+    "symbol": "BRIRT",
+    "anchor_time": 1793025480906,
+    "anchor_price": 139929.0,
+    "status": "FAILED",
+    "created_time": 1793025480906,
+    "last_time": 1793088267714,
+    "last_price": 134465.0,
+    "max_gain_pct": 2.0861,
+    "levels": [],
+    "failed_time": 1793031761576,
+    "failed_price": 135119.0
   }
 ]
