@@ -53936,7 +53936,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 2.12,
+      "max_down": 0.52
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
