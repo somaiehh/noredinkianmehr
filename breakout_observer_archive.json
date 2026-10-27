@@ -27206,5 +27206,41 @@
     "levels": [],
     "failed_time": 1793071052188,
     "failed_price": 22933.0
+  },
+  {
+    "symbol": "BANKIRT",
+    "anchor_time": 1793017548730,
+    "anchor_price": 7215.0,
+    "status": "EXPIRED",
+    "created_time": 1793017548730,
+    "last_time": 1793103775804,
+    "last_price": 7449.0,
+    "max_gain_pct": 8.1081,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793018872675,
+    "confirmed_price": 7557.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793019104096,
+        "price": 7665.0,
+        "gain_pct": 6.237
+      }
+    ],
+    "expired_time": 1793064467080
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1792990144504,
+    "anchor_price": 1.17598,
+    "status": "EXPIRED",
+    "created_time": 1792990144504,
+    "last_time": 1793104809450,
+    "last_price": 1.16406,
+    "max_gain_pct": 1.8606,
+    "levels": [],
+    "expired_time": 1793035186305
   }
 ]
