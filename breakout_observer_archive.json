@@ -27079,5 +27079,31 @@
     "levels": [],
     "failed_time": 1792639159605,
     "failed_price": 24679.0
+  },
+  {
+    "symbol": "ANIMEIRT",
+    "anchor_time": 1792902919723,
+    "anchor_price": 851.0,
+    "status": "FAILED",
+    "created_time": 1792902919723,
+    "last_time": 1793090456394,
+    "last_price": 786.0,
+    "max_gain_pct": 0.1175,
+    "levels": [],
+    "failed_time": 1792907356273,
+    "failed_price": 816.0
+  },
+  {
+    "symbol": "HUMAIRT",
+    "anchor_time": 1790848880852,
+    "anchor_price": 8754.0,
+    "status": "FAILED",
+    "created_time": 1790848880852,
+    "last_time": 1793090456394,
+    "last_price": 6960.0,
+    "max_gain_pct": 8.5789,
+    "levels": [],
+    "failed_time": 1790856076948,
+    "failed_price": 8454.0
   }
 ]
