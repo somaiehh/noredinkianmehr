@@ -27180,5 +27180,18 @@
     "max_gain_pct": 1.3819,
     "levels": [],
     "expired_time": 1793072203912
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1793029828337,
+    "anchor_price": 342803235.0,
+    "status": "FAILED",
+    "created_time": 1793029828337,
+    "last_time": 1793097531974,
+    "last_price": 336497484.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793032680303,
+    "failed_price": 332471052.0
   }
 ]
