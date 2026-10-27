@@ -53320,7 +53320,10 @@
       "max_up": 1.66,
       "max_down": -26.16
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.66,
+      "max_down": -26.16
+    }
   },
   {
     "symbol": "BANKIRT",
@@ -53348,7 +53351,10 @@
       "max_up": 13.0,
       "max_down": 1.5
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 13.0,
+      "max_down": 1.47
+    }
   },
   {
     "symbol": "CAPIRT",
@@ -53376,7 +53382,10 @@
       "max_up": 11.85,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 11.85,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -53512,7 +53521,10 @@
       "max_up": 3.88,
       "max_down": -8.44
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 36.04,
+      "max_down": -8.44
+    },
     "result_12h": null
   },
   {
@@ -53534,7 +53546,10 @@
       "max_up": 3.61,
       "max_down": 0.08
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.61,
+      "max_down": -1.25
+    },
     "result_12h": null
   }
 ]
