@@ -27331,5 +27331,18 @@
     "max_gain_pct": 4.6321,
     "levels": [],
     "expired_time": 1791958123173
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1793052206011,
+    "anchor_price": 10350.0,
+    "status": "FAILED",
+    "created_time": 1793052206011,
+    "last_time": 1793127459336,
+    "last_price": 10158.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793074770271,
+    "failed_price": 10013.0
   }
 ]
