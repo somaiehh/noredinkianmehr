@@ -53444,7 +53444,10 @@
       "max_up": 0.76,
       "max_down": -2.25
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.76,
+      "max_down": -3.47
+    }
   },
   {
     "symbol": "BRIRT",
@@ -53472,7 +53475,10 @@
       "max_up": 0.45,
       "max_down": -8.69
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.45,
+      "max_down": -9.65
+    }
   },
   {
     "symbol": "EPICIRT",
