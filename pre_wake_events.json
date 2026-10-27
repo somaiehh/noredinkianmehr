@@ -9047,7 +9047,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 5.3178,
-    "min_move": -3.3379,
+    "min_move": -4.0822,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -9109,7 +9109,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.9908,
+    "max_move": 3.3728,
     "min_move": -1.2299,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -9193,7 +9193,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 5.8735,
+    "max_move": 6.4759,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -9237,6 +9237,27 @@
     "result_move": null,
     "max_move": 7.6456,
     "min_move": -1.5777,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ZECIRT",
+    "event_time": 1793100179581,
+    "event_price": 337615915.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 77.7,
+    "p15": -0.94,
+    "vr": null,
+    "va": 2.0,
+    "ta": null,
+    "bs": 5.0,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
