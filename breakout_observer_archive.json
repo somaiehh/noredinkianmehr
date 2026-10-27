@@ -27242,5 +27242,31 @@
     "max_gain_pct": 1.8606,
     "levels": [],
     "expired_time": 1793035186305
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1793052386059,
+    "anchor_price": 1150.5,
+    "status": "FAILED",
+    "created_time": 1793052386059,
+    "last_time": 1793105448831,
+    "last_price": 1143.1,
+    "max_gain_pct": 0.678,
+    "levels": [],
+    "failed_time": 1793096422244,
+    "failed_price": 1111.4
+  },
+  {
+    "symbol": "ASPIRT",
+    "anchor_time": 1792711649451,
+    "anchor_price": 4000.0,
+    "status": "FAILED",
+    "created_time": 1792711649451,
+    "last_time": 1793105448831,
+    "last_price": 3589.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792712715000,
+    "failed_price": 3728.0
   }
 ]
