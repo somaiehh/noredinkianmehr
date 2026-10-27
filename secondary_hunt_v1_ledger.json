@@ -3945,6 +3945,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "HANAIRT": {
+      "trigger_time": 1793100875154,
+      "trigger_price": 3662.0,
+      "secondary_score": 60.0,
+      "hunt_score": 34.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
