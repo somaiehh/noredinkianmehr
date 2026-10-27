@@ -26943,5 +26943,18 @@
       }
     ],
     "expired_time": 1792830094268
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1793019104096,
+    "anchor_price": 12711.0,
+    "status": "FAILED",
+    "created_time": 1793019104096,
+    "last_time": 1793069339774,
+    "last_price": 19000.0,
+    "max_gain_pct": 49.4768,
+    "levels": [],
+    "failed_time": 1793020060427,
+    "failed_price": 11763.0
   }
 ]
