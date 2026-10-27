@@ -53658,7 +53658,10 @@
       "max_up": 1.22,
       "max_down": -2.21
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.22,
+      "max_down": -2.21
+    }
   },
   {
     "symbol": "OSMOIRT",
@@ -53686,7 +53689,10 @@
       "max_up": 9.51,
       "max_down": -11.35
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.51,
+      "max_down": -11.35
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -54040,7 +54046,10 @@
       "max_up": -0.57,
       "max_down": -12.65
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.57,
+      "max_down": -23.31
+    },
     "result_12h": null
   },
   {
@@ -54227,7 +54236,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.71,
+      "max_down": -1.29
+    },
     "result_4h": null,
     "result_12h": null
   },
