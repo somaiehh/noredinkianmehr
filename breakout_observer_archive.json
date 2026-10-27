@@ -27066,5 +27066,18 @@
     "levels": [],
     "failed_time": 1793031761576,
     "failed_price": 135119.0
+  },
+  {
+    "symbol": "POLIRT",
+    "anchor_time": 1792597990986,
+    "anchor_price": 25704.0,
+    "status": "FAILED",
+    "created_time": 1792597990986,
+    "last_time": 1793088440676,
+    "last_price": 24320.0,
+    "max_gain_pct": 0.6264,
+    "levels": [],
+    "failed_time": 1792639159605,
+    "failed_price": 24679.0
   }
 ]

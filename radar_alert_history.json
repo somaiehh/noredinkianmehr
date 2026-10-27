@@ -6300,5 +6300,31 @@
     "bs": 0.32,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1793089014618,
+    "symbol": "GRAMIRT",
+    "price": 330990.0,
+    "hunt_score": 86.2,
+    "status": "EARLY",
+    "p15": 0.91,
+    "vr": 0.51,
+    "va": 8.03,
+    "bs": 3.62,
+    "breakout": true,
+    "persistence": 3
+  },
+  {
+    "time": 1793089209120,
+    "symbol": "POLIRT",
+    "price": 24481.0,
+    "hunt_score": 86.9,
+    "status": "EARLY",
+    "p15": 1.32,
+    "vr": 15.42,
+    "va": 2.0,
+    "bs": 2.57,
+    "breakout": true,
+    "persistence": 2
   }
 ]

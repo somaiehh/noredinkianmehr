@@ -11805,5 +11805,24 @@
       "max_down": -1.29
     },
     "result_4h": null
+  },
+  {
+    "symbol": "POLIRT",
+    "time": 1793089206263,
+    "price": 24481.0,
+    "pre30": -0.22,
+    "pre60": -0.22,
+    "pre120": -0.22,
+    "hunt": 86.9,
+    "persistence": 2,
+    "vr": 15.42,
+    "va": 2.0,
+    "buy": 85.66666666666666,
+    "bs": 2.57,
+    "ob": 1.0,
+    "p15": 1.32,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
