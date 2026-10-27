@@ -3915,6 +3915,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "SOONIRT": {
+      "trigger_time": 1793081088953,
+      "trigger_price": 82595.0,
+      "secondary_score": 85.0,
+      "hunt_score": 55.2,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

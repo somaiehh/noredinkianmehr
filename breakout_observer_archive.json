@@ -26983,5 +26983,19 @@
     "confirmed_time": 1793012202060,
     "confirmed_price": 225.0,
     "expired_time": 1793052206011
+  },
+  {
+    "symbol": "OSMOIRT",
+    "anchor_time": 1792688778671,
+    "anchor_price": 15000.0,
+    "status": "EXPIRED",
+    "created_time": 1792688778671,
+    "last_time": 1793081088953,
+    "last_price": 16777.0,
+    "max_gain_pct": 11.8467,
+    "levels": [],
+    "confirmed_time": 1792689028132,
+    "confirmed_price": 15694.0,
+    "expired_time": 1792738312537
   }
 ]

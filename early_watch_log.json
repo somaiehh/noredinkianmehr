@@ -53613,5 +53613,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "SOONIRT",
+    "time": 1793081088953,
+    "price": 82595.0,
+    "level": "STRONG",
+    "hunt": 55.2,
+    "persistence": 2,
+    "p15": 0.66,
+    "vr": 2.41,
+    "va": 1.07,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
