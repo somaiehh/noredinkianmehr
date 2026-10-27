@@ -11857,7 +11857,10 @@
       "max_up": 0.53,
       "max_down": -1.6
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.53,
+      "max_down": -6.42
+    }
   },
   {
     "symbol": "MYROIRT",
@@ -11879,7 +11882,10 @@
       "max_up": -3.09,
       "max_down": -3.09
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -2.65,
+      "max_down": -3.97
+    }
   },
   {
     "symbol": "LABIRT",
