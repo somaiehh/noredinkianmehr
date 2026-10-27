@@ -53720,7 +53720,10 @@
       "max_up": 0.05,
       "max_down": -1.75
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.71,
+      "max_down": -1.75
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -54074,7 +54077,10 @@
       "max_up": 4.61,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 6.28,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -54257,6 +54263,28 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": 4.0,
+      "max_down": 4.0
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1793127284719,
+    "price": 9.42e-05,
+    "level": "STRONG",
+    "hunt": 70.6,
+    "persistence": 1,
+    "p15": 0.35,
+    "vr": 1.94,
+    "va": 10.0,
+    "buy": 72.66666666666667,
+    "bs": 2.18,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

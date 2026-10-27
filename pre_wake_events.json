@@ -9193,7 +9193,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 7.756,
+    "max_move": 8.0572,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -9361,7 +9361,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 1.1276,
     "min_move": -4.5102,
     "ledger_version": "pre-wake-ledger-v1"
   }
