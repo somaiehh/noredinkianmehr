@@ -13247,7 +13247,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": 0.0,
+    "min_move": -0.2395,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -13269,6 +13269,27 @@
     "result_move": -10.4667,
     "max_move": 0.0,
     "min_move": -10.4667,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "UAIIRT",
+    "event_time": 1793122988754,
+    "event_price": 64670.0,
+    "anchor_time": 1793122780377,
+    "anchor_price": 64583.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.9333,
+    "tm_e15_e1": 0.9333,
+    "tm_e1_e4": 0.4286,
+    "tm_g15": 1.1667,
+    "tm_g1": 1.1538,
+    "tm_g4": 1.0294,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
