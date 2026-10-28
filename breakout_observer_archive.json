@@ -27439,5 +27439,36 @@
     "levels": [],
     "failed_time": 1793078220457,
     "failed_price": 79.0
+  },
+  {
+    "symbol": "HAEDALIRT",
+    "anchor_time": 1793104809450,
+    "anchor_price": 6796.0,
+    "status": "EXPIRED",
+    "created_time": 1793104809450,
+    "last_time": 1793154394391,
+    "last_price": 7526.0,
+    "max_gain_pct": 35.0942,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793107037834,
+    "confirmed_price": 7179.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793107037834,
+        "price": 7179.0,
+        "gain_pct": 5.6357
+      },
+      {
+        "level": 10,
+        "time": 1793111047110,
+        "price": 7578.0,
+        "gain_pct": 11.5068
+      }
+    ],
+    "expired_time": 1793152554304
   }
 ]
