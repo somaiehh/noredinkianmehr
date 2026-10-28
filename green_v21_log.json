@@ -12130,5 +12130,24 @@
       "max_down": -2.02
     },
     "result_4h": null
+  },
+  {
+    "symbol": "KSMIRT",
+    "time": 1793198582707,
+    "price": 1004680.0,
+    "pre30": 1.47,
+    "pre60": null,
+    "pre120": null,
+    "hunt": 70.9,
+    "persistence": 2,
+    "vr": 2.33,
+    "va": 2.69,
+    "buy": 16.666666666666664,
+    "bs": 0.5,
+    "ob": 0.79,
+    "p15": 1.47,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

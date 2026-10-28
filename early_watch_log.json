@@ -54576,7 +54576,10 @@
       "max_up": 0.0,
       "max_down": -4.73
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.68,
+      "max_down": -4.73
+    },
     "result_12h": null
   },
   {
@@ -54698,6 +54701,44 @@
       "max_up": -0.07,
       "max_down": -1.5
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ANIMEIRT",
+    "time": 1793198393123,
+    "price": 815.0,
+    "level": "STRONG",
+    "hunt": 51.2,
+    "persistence": 1,
+    "p15": 0.12,
+    "vr": 1.59,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DOODIRT",
+    "time": 1793198393123,
+    "price": 533.3,
+    "level": "WATCH",
+    "hunt": 40.6,
+    "persistence": 2,
+    "p15": 1.04,
+    "vr": 0.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
