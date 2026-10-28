@@ -27780,5 +27780,18 @@
     "max_gain_pct": 4.1505,
     "levels": [],
     "expired_time": 1793180328239
+  },
+  {
+    "symbol": "MPLXIRT",
+    "anchor_time": 1792543420646,
+    "anchor_price": 19555.0,
+    "status": "FAILED",
+    "created_time": 1792543420646,
+    "last_time": 1793193757517,
+    "last_price": 21475.0,
+    "max_gain_pct": 9.8185,
+    "levels": [],
+    "failed_time": 1792548482625,
+    "failed_price": 18500.0
   }
 ]
