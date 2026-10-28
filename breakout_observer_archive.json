@@ -27540,5 +27540,18 @@
       }
     ],
     "expired_time": 1793140842155
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1792962698576,
+    "anchor_price": 253225.0,
+    "status": "FAILED",
+    "created_time": 1792962698576,
+    "last_time": 1793171020768,
+    "last_price": 252873.0,
+    "max_gain_pct": 0.697,
+    "levels": [],
+    "failed_time": 1792979334499,
+    "failed_price": 243795.0
   }
 ]

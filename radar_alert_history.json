@@ -6430,5 +6430,18 @@
     "bs": 2.34,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1793171223187,
+    "symbol": "ANIMEIRT",
+    "price": 841.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 0.72,
+    "vr": 8.8,
+    "va": 10.0,
+    "bs": 0.32,
+    "breakout": false,
+    "persistence": 2
   }
 ]
