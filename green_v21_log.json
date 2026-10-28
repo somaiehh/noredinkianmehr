@@ -12107,7 +12107,10 @@
       "max_up": 0.89,
       "max_down": -1.89
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.89,
+      "max_down": -3.05
+    }
   },
   {
     "symbol": "BANKIRT",
@@ -12146,6 +12149,25 @@
     "bs": 0.5,
     "ob": 0.79,
     "p15": 1.47,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "GALAIRT",
+    "time": 1793200126367,
+    "price": 471.6,
+    "pre30": -0.97,
+    "pre60": -0.97,
+    "pre120": -0.97,
+    "hunt": 60.4,
+    "persistence": 2,
+    "vr": 4.26,
+    "va": 2.0,
+    "buy": 95.0,
+    "bs": 2.85,
+    "ob": 0.65,
+    "p15": 0.45,
     "breakout": false,
     "result_1h": null,
     "result_4h": null

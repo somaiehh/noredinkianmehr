@@ -54415,7 +54415,10 @@
       "max_up": 1.46,
       "max_down": -4.39
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.46,
+      "max_down": -9.06
+    }
   },
   {
     "symbol": "AINIRT",
@@ -54604,7 +54607,10 @@
       "max_up": -0.46,
       "max_down": -2.35
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.43,
+      "max_down": -3.5
+    },
     "result_12h": null
   },
   {
@@ -54626,7 +54632,10 @@
       "max_up": -0.05,
       "max_down": -0.77
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.05,
+      "max_down": -3.51
+    },
     "result_12h": null
   },
   {
@@ -54718,7 +54727,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -54735,6 +54747,28 @@
     "va": 2.0,
     "buy": 100,
     "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.04,
+      "max_down": -0.04
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GALAIRT",
+    "time": 1793199910852,
+    "price": 471.6,
+    "level": "STRONG",
+    "hunt": 58.4,
+    "persistence": 1,
+    "p15": 0.45,
+    "vr": 4.48,
+    "va": 2.0,
+    "buy": 95.0,
+    "bs": 2.85,
     "breakout": false,
     "priority": false,
     "result_15m": null,
