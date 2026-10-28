@@ -27870,5 +27870,18 @@
     "levels": [],
     "failed_time": 1793035186305,
     "failed_price": 850.0
+  },
+  {
+    "symbol": "XANIRT",
+    "anchor_time": 1793158514024,
+    "anchor_price": 2895.9,
+    "status": "FAILED",
+    "created_time": 1793158514024,
+    "last_time": 1793202134043,
+    "last_price": 3045.4,
+    "max_gain_pct": 23.1223,
+    "levels": [],
+    "failed_time": 1793159413993,
+    "failed_price": 2741.1
   }
 ]
