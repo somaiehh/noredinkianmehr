@@ -54660,7 +54660,10 @@
       "max_up": 2.46,
       "max_down": -0.08
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.46,
+      "max_down": -0.45
+    },
     "result_12h": null
   },
   {
@@ -54769,6 +54772,47 @@
     "va": 2.0,
     "buy": 95.0,
     "bs": 2.85,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "QIRT",
+    "time": 1793200813955,
+    "price": 16148.0,
+    "level": "STRONG",
+    "hunt": 100.0,
+    "persistence": 2,
+    "p15": 1.57,
+    "vr": 3.5,
+    "va": 6.0,
+    "buy": 59.333333333333336,
+    "bs": 1.78,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FIGHTIRT",
+    "time": 1793201002661,
+    "price": 1107.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.64,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 56.666666666666664,
+    "bs": 1.7,
     "breakout": false,
     "priority": false,
     "result_15m": null,
