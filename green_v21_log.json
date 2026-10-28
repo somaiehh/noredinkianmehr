@@ -12024,5 +12024,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "AINIRT",
+    "time": 1793173634605,
+    "price": 41846.0,
+    "pre30": 0.22,
+    "pre60": 1.94,
+    "pre120": -2.4,
+    "hunt": 75.4,
+    "persistence": 3,
+    "vr": 2.31,
+    "va": 10.0,
+    "buy": 67.66666666666666,
+    "bs": 2.03,
+    "ob": 0.8,
+    "p15": 0.21,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
