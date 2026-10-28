@@ -27689,5 +27689,29 @@
     "confirmed_time": 1792492862470,
     "confirmed_price": 11189.0,
     "expired_time": 1792528233308
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1793018872675,
+    "anchor_price": 9.455e-05,
+    "status": "EXPIRED",
+    "created_time": 1793018872675,
+    "last_time": 1793180532428,
+    "last_price": 9.463e-05,
+    "max_gain_pct": 0.7932,
+    "levels": [],
+    "expired_time": 1793064655144
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1793117140075,
+    "anchor_price": 315.0,
+    "status": "EXPIRED",
+    "created_time": 1793117140075,
+    "last_time": 1793180532428,
+    "last_price": 322.0,
+    "max_gain_pct": 3.1746,
+    "levels": [],
+    "expired_time": 1793160643331
   }
 ]
