@@ -9487,7 +9487,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.5409,
+    "max_move": 4.0,
     "min_move": -0.3774,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -9508,7 +9508,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.5409,
+    "max_move": 4.0,
     "min_move": -0.3774,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -9571,8 +9571,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.3118,
+    "max_move": 0.3867,
     "min_move": -2.133,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ADXIRT",
+    "event_time": 1793212192775,
+    "event_price": 16743.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 31.4,
+    "p15": -1.51,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 2.6,
+    "book": 0.63,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
