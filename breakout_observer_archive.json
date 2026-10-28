@@ -27857,5 +27857,18 @@
     "max_gain_pct": 1.203,
     "levels": [],
     "expired_time": 1793196392593
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "anchor_time": 1793012202060,
+    "anchor_price": 882.6,
+    "status": "FAILED",
+    "created_time": 1793012202060,
+    "last_time": 1793201002661,
+    "last_price": 859.0,
+    "max_gain_pct": 8.0218,
+    "levels": [],
+    "failed_time": 1793035186305,
+    "failed_price": 850.0
   }
 ]
