@@ -27497,5 +27497,48 @@
     "levels": [],
     "failed_time": 1793097331821,
     "failed_price": 28000.0
+  },
+  {
+    "symbol": "BCHIRT",
+    "anchor_time": 1793029828337,
+    "anchor_price": 75826194.0,
+    "status": "EXPIRED",
+    "created_time": 1793029828337,
+    "last_time": 1793164038642,
+    "last_price": 79790436.0,
+    "max_gain_pct": 5.6201,
+    "levels": [],
+    "expired_time": 1793073781758
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1793096617513,
+    "anchor_price": 10996.0,
+    "status": "EXPIRED",
+    "created_time": 1793096617513,
+    "last_time": 1793164038642,
+    "last_price": 12879.0,
+    "max_gain_pct": 17.1244,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793104994990,
+    "confirmed_price": 11349.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793112883652,
+        "price": 11610.0,
+        "gain_pct": 5.5838
+      },
+      {
+        "level": 10,
+        "time": 1793122780377,
+        "price": 12280.0,
+        "gain_pct": 11.677
+      }
+    ],
+    "expired_time": 1793140842155
   }
 ]
