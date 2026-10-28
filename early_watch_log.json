@@ -54675,5 +54675,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "BANKIRT",
+    "time": 1793192743950,
+    "price": 7690.0,
+    "level": "STRONG",
+    "hunt": 70.7,
+    "persistence": 1,
+    "p15": 0.34,
+    "vr": 3.3,
+    "va": 10.0,
+    "buy": 67.33333333333333,
+    "bs": 2.02,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
