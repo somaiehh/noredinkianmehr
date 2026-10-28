@@ -27713,5 +27713,36 @@
     "max_gain_pct": 3.1746,
     "levels": [],
     "expired_time": 1793160643331
+  },
+  {
+    "symbol": "BANKIRT",
+    "anchor_time": 1793104809450,
+    "anchor_price": 7711.0,
+    "status": "EXPIRED",
+    "created_time": 1793104809450,
+    "last_time": 1793183933642,
+    "last_price": 8016.0,
+    "max_gain_pct": 12.1904,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793116941698,
+    "confirmed_price": 7944.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793122780377,
+        "price": 8144.0,
+        "gain_pct": 5.6154
+      },
+      {
+        "level": 10,
+        "time": 1793125825057,
+        "price": 8500.0,
+        "gain_pct": 10.2321
+      }
+    ],
+    "expired_time": 1793152554304
   }
 ]

@@ -12074,5 +12074,24 @@
       "max_down": -6.9
     },
     "result_4h": null
+  },
+  {
+    "symbol": "TUTIRT",
+    "time": 1793184983713,
+    "price": 5600.0,
+    "pre30": 5.54,
+    "pre60": 5.54,
+    "pre120": 6.79,
+    "hunt": 99.3,
+    "persistence": 2,
+    "vr": 1.9,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.89,
+    "p15": 0.65,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
