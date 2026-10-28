@@ -54404,5 +54404,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "AINIRT",
+    "time": 1793164038642,
+    "price": 41891.0,
+    "level": "STRONG",
+    "hunt": 66.7,
+    "persistence": 2,
+    "p15": 0.46,
+    "vr": 0.66,
+    "va": 10.0,
+    "buy": 52.33333333333333,
+    "bs": 1.57,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
