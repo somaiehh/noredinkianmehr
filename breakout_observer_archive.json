@@ -27566,5 +27566,29 @@
     "levels": [],
     "failed_time": 1792636102382,
     "failed_price": 14500.0
+  },
+  {
+    "symbol": "HUMAIRT",
+    "anchor_time": 1793091689568,
+    "anchor_price": 7171.0,
+    "status": "EXPIRED",
+    "created_time": 1793091689568,
+    "last_time": 1793175922150,
+    "last_price": 7616.0,
+    "max_gain_pct": 8.0742,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793098260585,
+    "confirmed_price": 7472.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793102691610,
+        "price": 7545.0,
+        "gain_pct": 5.2155
+      }
+    ],
+    "expired_time": 1793140842155
   }
 ]

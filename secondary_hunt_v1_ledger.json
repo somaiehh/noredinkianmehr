@@ -3972,6 +3972,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "SHELLIRT": {
+      "trigger_time": 1793175922150,
+      "trigger_price": 6773.0,
+      "secondary_score": 65.0,
+      "hunt_score": 17.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
