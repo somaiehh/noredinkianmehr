@@ -27768,5 +27768,17 @@
       }
     ],
     "expired_time": 1793184805616
+  },
+  {
+    "symbol": "RVNIRT",
+    "anchor_time": 1793118385594,
+    "anchor_price": 385.5,
+    "status": "EXPIRED",
+    "created_time": 1793118385594,
+    "last_time": 1793188406617,
+    "last_price": 401.5,
+    "max_gain_pct": 4.1505,
+    "levels": [],
+    "expired_time": 1793180328239
   }
 ]
