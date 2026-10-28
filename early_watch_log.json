@@ -53962,7 +53962,10 @@
       "max_up": 1.02,
       "max_down": -1.05
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.23,
+      "max_down": -1.05
+    }
   },
   {
     "symbol": "LABIRT",
@@ -53990,7 +53993,10 @@
       "max_up": 4.06,
       "max_down": -0.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 12.93,
+      "max_down": -0.61
+    }
   },
   {
     "symbol": "HAEDALIRT",
@@ -54018,7 +54024,10 @@
       "max_up": 33.52,
       "max_down": 1.03
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 33.52,
+      "max_down": 1.03
+    }
   },
   {
     "symbol": "MYROIRT",
@@ -54046,7 +54055,10 @@
       "max_up": 0.0,
       "max_down": -3.97
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -3.97
+    }
   },
   {
     "symbol": "QIRT",
@@ -54338,7 +54350,10 @@
       "max_up": -0.17,
       "max_down": -1.2
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.17,
+      "max_down": -1.24
+    },
     "result_12h": null
   }
 ]
