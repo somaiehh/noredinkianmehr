@@ -27663,5 +27663,31 @@
     "max_gain_pct": 3.1683,
     "levels": [],
     "expired_time": 1793140842155
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1793128754914,
+    "anchor_price": 10170.0,
+    "status": "EXPIRED",
+    "created_time": 1793128754914,
+    "last_time": 1793177620035,
+    "last_price": 10280.0,
+    "max_gain_pct": 2.6155,
+    "levels": [],
+    "expired_time": 1793171976298
+  },
+  {
+    "symbol": "PUFFERIRT",
+    "anchor_time": 1792484592785,
+    "anchor_price": 10825.0,
+    "status": "EXPIRED",
+    "created_time": 1792484592785,
+    "last_time": 1793178623411,
+    "last_price": 8920.0,
+    "max_gain_pct": 4.194,
+    "levels": [],
+    "confirmed_time": 1792492862470,
+    "confirmed_price": 11189.0,
+    "expired_time": 1792528233308
   }
 ]
