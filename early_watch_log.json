@@ -54269,7 +54269,10 @@
       "max_up": 0.0,
       "max_down": -3.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -3.82
+    }
   },
   {
     "symbol": "TACIRT",
@@ -54294,7 +54297,10 @@
       "max_up": 2.86,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.86,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -54392,7 +54398,10 @@
       "max_up": -2.92,
       "max_down": -2.92
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.29,
+      "max_down": -4.39
+    },
     "result_4h": null,
     "result_12h": null
   }
