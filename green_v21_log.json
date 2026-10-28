@@ -12182,6 +12182,28 @@
       "max_up": 0.85,
       "max_down": 0.0
     },
+    "result_4h": {
+      "max_up": 1.76,
+      "max_down": 0.0
+    }
+  },
+  {
+    "symbol": "INITIRT",
+    "time": 1793219641103,
+    "price": 72873.0,
+    "pre30": 3.51,
+    "pre60": 3.51,
+    "pre120": 3.6,
+    "hunt": 89.1,
+    "persistence": 2,
+    "vr": 1.7,
+    "va": 4.98,
+    "buy": 22.666666666666668,
+    "bs": 0.68,
+    "ob": 1.0,
+    "p15": 0.21,
+    "breakout": true,
+    "result_1h": null,
     "result_4h": null
   }
 ]

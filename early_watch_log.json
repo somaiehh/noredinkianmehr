@@ -54536,7 +54536,10 @@
       "max_up": 4.36,
       "max_down": 0.9
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.36,
+      "max_down": 0.57
+    }
   },
   {
     "symbol": "AINIRT",
@@ -54564,7 +54567,10 @@
       "max_up": 0.56,
       "max_down": -8.55
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.56,
+      "max_down": -11.34
+    }
   },
   {
     "symbol": "SHELLIRT",
@@ -54809,7 +54815,10 @@
       "max_up": 0.85,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.76,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -54834,7 +54843,10 @@
       "max_up": 10.63,
       "max_down": 0.78
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 22.6,
+      "max_down": 0.78
+    },
     "result_12h": null
   },
   {
@@ -54856,7 +54868,10 @@
       "max_up": -5.42,
       "max_down": -5.45
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.12,
+      "max_down": -5.45
+    },
     "result_12h": null
   },
   {
@@ -54881,7 +54896,10 @@
       "max_up": 1.21,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.76,
+      "max_down": -1.78
+    },
     "result_12h": null
   },
   {
