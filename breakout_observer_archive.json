@@ -27793,5 +27793,18 @@
     "levels": [],
     "failed_time": 1792548482625,
     "failed_price": 18500.0
+  },
+  {
+    "symbol": "BMTIRT",
+    "anchor_time": 1792993833379,
+    "anchor_price": 9483.0,
+    "status": "FAILED",
+    "created_time": 1792993833379,
+    "last_time": 1793195645584,
+    "last_price": 8227.0,
+    "max_gain_pct": 0.9491,
+    "levels": [],
+    "failed_time": 1792996352232,
+    "failed_price": 9102.0
   }
 ]
