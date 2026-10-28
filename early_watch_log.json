@@ -54474,7 +54474,10 @@
       "max_up": 5.14,
       "max_down": -6.43
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.14,
+      "max_down": -12.32
+    }
   },
   {
     "symbol": "HAEDALIRT",
@@ -54869,6 +54872,25 @@
       "max_up": 1.21,
       "max_down": 0.0
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "QIRT",
+    "time": 1793210269287,
+    "price": 19798.0,
+    "level": "STRONG",
+    "hunt": 61.5,
+    "persistence": 1,
+    "p15": 0.24,
+    "vr": 1.46,
+    "va": 3.01,
+    "buy": 81.33333333333333,
+    "bs": 2.44,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
