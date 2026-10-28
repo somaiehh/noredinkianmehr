@@ -54179,7 +54179,10 @@
       "max_up": 0.49,
       "max_down": -1.08
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.49,
+      "max_down": -1.08
+    }
   },
   {
     "symbol": "BTRIRT",
@@ -54207,7 +54210,10 @@
       "max_up": 3.96,
       "max_down": -5.69
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.96,
+      "max_down": -5.69
+    }
   },
   {
     "symbol": "NEARIRT",
@@ -54235,7 +54241,10 @@
       "max_up": 0.98,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.03,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "XNYIRT",
