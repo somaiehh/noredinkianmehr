@@ -12007,7 +12007,10 @@
       "max_up": 0.12,
       "max_down": -0.83
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.5,
+      "max_down": -0.83
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -12029,7 +12032,10 @@
       "max_up": 1.7,
       "max_down": -0.94
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.7,
+      "max_down": -3.76
+    }
   },
   {
     "symbol": "AINIRT",
