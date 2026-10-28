@@ -27395,5 +27395,49 @@
     "max_gain_pct": 1.0361,
     "levels": [],
     "expired_time": 1793130003664
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1793104994990,
+    "anchor_price": 1.172,
+    "status": "EXPIRED",
+    "created_time": 1793104994990,
+    "last_time": 1793152756199,
+    "last_price": 1.3038,
+    "max_gain_pct": 11.2457,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793120140090,
+    "confirmed_price": 1.21,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793152554304,
+        "price": 1.3038,
+        "gain_pct": 11.2457
+      },
+      {
+        "level": 10,
+        "time": 1793152554304,
+        "price": 1.3038,
+        "gain_pct": 11.2457
+      }
+    ],
+    "expired_time": 1793152554304
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1793075704037,
+    "anchor_price": 81.9,
+    "status": "FAILED",
+    "created_time": 1793075704037,
+    "last_time": 1793152756199,
+    "last_price": 65.5,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793078220457,
+    "failed_price": 79.0
   }
 ]

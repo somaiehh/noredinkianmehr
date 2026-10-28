@@ -54086,7 +54086,10 @@
       "max_up": -0.57,
       "max_down": -23.31
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.57,
+      "max_down": -25.06
+    }
   },
   {
     "symbol": "TUTIRT",
