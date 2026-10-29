@@ -2117,6 +2117,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "CSPRIRT": {
+      "trigger_time": 1793268466611,
+      "trigger_price": 616.0,
+      "secondary_score": 75.0,
+      "hunt_score": 27.3,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
