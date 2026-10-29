@@ -6560,5 +6560,31 @@
     "bs": 3.3,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1793285020513,
+    "symbol": "BABYDOGEIRT",
+    "price": 9.418e-05,
+    "hunt_score": 82.7,
+    "status": "EARLY",
+    "p15": 0.22,
+    "vr": 2.47,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 3
+  },
+  {
+    "time": 1793285200846,
+    "symbol": "PEPEIRT",
+    "price": 1.36409,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.68,
+    "vr": 4.38,
+    "va": 7.18,
+    "bs": 3.86,
+    "breakout": true,
+    "persistence": 2
   }
 ]

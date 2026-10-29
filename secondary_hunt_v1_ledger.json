@@ -4042,6 +4042,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "CETUSIRT": {
+      "trigger_time": 1793285016091,
+      "trigger_price": 6335.0,
+      "secondary_score": 80.0,
+      "hunt_score": 69.9,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
