@@ -55187,7 +55187,10 @@
     "breakout": true,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.04,
+      "max_down": -0.28
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -55209,7 +55212,10 @@
       "max_up": 0.4,
       "max_down": 0.4
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.09,
+      "max_down": 0.4
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -55231,7 +55237,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -0.03
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -55249,7 +55258,10 @@
     "bs": 3.4,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -55268,7 +55280,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -55287,6 +55302,28 @@
     "bs": 2.76,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PUMPIRT",
+    "time": 1793290418571,
+    "price": 1250.0,
+    "level": "STRONG",
+    "hunt": 72.7,
+    "persistence": 1,
+    "p15": 1.36,
+    "vr": 2.72,
+    "va": 0.92,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

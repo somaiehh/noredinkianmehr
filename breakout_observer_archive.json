@@ -28340,5 +28340,42 @@
     "max_gain_pct": 1.6299,
     "levels": [],
     "expired_time": 1793233492624
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1793183740267,
+    "anchor_price": 333.0,
+    "status": "FAILED",
+    "created_time": 1793183740267,
+    "last_time": 1793288657279,
+    "last_price": 325.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793192016175,
+    "failed_price": 322.0
+  },
+  {
+    "symbol": "TUTIRT",
+    "anchor_time": 1793177436338,
+    "anchor_price": 5244.0,
+    "status": "EXPIRED",
+    "created_time": 1793177436338,
+    "last_time": 1793290222320,
+    "last_price": 5387.0,
+    "max_gain_pct": 7.7422,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793180328239,
+    "confirmed_price": 5432.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793184805616,
+        "price": 5626.0,
+        "gain_pct": 7.2845
+      }
+    ],
+    "expired_time": 1793260226011
   }
 ]
