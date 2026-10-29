@@ -28138,5 +28138,31 @@
       }
     ],
     "expired_time": 1793207432257
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1793093697957,
+    "anchor_price": 1212984.0,
+    "status": "EXPIRED",
+    "created_time": 1793093697957,
+    "last_time": 1793273998002,
+    "last_price": 1196122.0,
+    "max_gain_pct": 5.9426,
+    "levels": [],
+    "confirmed_time": 1793118385594,
+    "confirmed_price": 1249787.0,
+    "expired_time": 1793140842155
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1793178623411,
+    "anchor_price": 10338.0,
+    "status": "EXPIRED",
+    "created_time": 1793178623411,
+    "last_time": 1793273998002,
+    "last_price": 10168.0,
+    "max_gain_pct": 0.6868,
+    "levels": [],
+    "expired_time": 1793233492624
   }
 ]
