@@ -28377,5 +28377,18 @@
       }
     ],
     "expired_time": 1793260226011
+  },
+  {
+    "symbol": "PARTIIRT",
+    "anchor_time": 1792577179721,
+    "anchor_price": 10450.0,
+    "status": "FAILED",
+    "created_time": 1792577179721,
+    "last_time": 1793290418571,
+    "last_price": 10089.0,
+    "max_gain_pct": 2.3541,
+    "levels": [],
+    "failed_time": 1792582935481,
+    "failed_price": 9988.0
   }
 ]
