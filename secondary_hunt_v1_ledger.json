@@ -4027,6 +4027,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BLENDIRT": {
+      "trigger_time": 1793263212045,
+      "trigger_price": 16857.0,
+      "secondary_score": 75.0,
+      "hunt_score": 47.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
