@@ -12229,7 +12229,10 @@
       "max_up": 1.85,
       "max_down": 0.73
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 4.5,
+      "max_down": 0.73
+    }
   },
   {
     "symbol": "TIRT",
@@ -12251,6 +12254,25 @@
       "max_up": -0.15,
       "max_down": -0.68
     },
+    "result_4h": null
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "time": 1793279515096,
+    "price": 9.389e-05,
+    "pre30": 0.31,
+    "pre60": 0.75,
+    "pre120": -0.15,
+    "hunt": 70.4,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.62,
+    "p15": 0.19,
+    "breakout": false,
+    "result_1h": null,
     "result_4h": null
   }
 ]

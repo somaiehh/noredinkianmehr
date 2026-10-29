@@ -28177,5 +28177,43 @@
     "levels": [],
     "failed_time": 1790791479705,
     "failed_price": 22346681.0
+  },
+  {
+    "symbol": "ARBIRT",
+    "anchor_time": 1792846852801,
+    "anchor_price": 46199.0,
+    "status": "FAILED",
+    "created_time": 1792846852801,
+    "last_time": 1793278663867,
+    "last_price": 46354.0,
+    "max_gain_pct": 2.1451,
+    "levels": [],
+    "failed_time": 1792851713160,
+    "failed_price": 44600.0
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1793210269287,
+    "anchor_price": 346750000.0,
+    "status": "EXPIRED",
+    "created_time": 1793210269287,
+    "last_time": 1793278663867,
+    "last_price": 345312191.0,
+    "max_gain_pct": 2.3792,
+    "levels": [],
+    "expired_time": 1793254464536
+  },
+  {
+    "symbol": "UNIIRT",
+    "anchor_time": 1792606061499,
+    "anchor_price": 2032243.0,
+    "status": "FAILED",
+    "created_time": 1792606061499,
+    "last_time": 1793278663867,
+    "last_price": 1959080.0,
+    "max_gain_pct": 0.4438,
+    "levels": [],
+    "failed_time": 1792643162821,
+    "failed_price": 1928567.0
   }
 ]
