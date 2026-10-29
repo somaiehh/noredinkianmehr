@@ -12333,5 +12333,24 @@
       "max_up": 4.46,
       "max_down": -0.03
     }
+  },
+  {
+    "symbol": "BLURIRT",
+    "time": 1793312612781,
+    "price": 2076.0,
+    "pre30": -0.19,
+    "pre60": -0.43,
+    "pre120": -4.33,
+    "hunt": 60.0,
+    "persistence": 2,
+    "vr": 3.41,
+    "va": 2.19,
+    "buy": 13.666666666666666,
+    "bs": 0.41,
+    "ob": 1.0,
+    "p15": 0.48,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
