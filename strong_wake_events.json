@@ -13412,10 +13412,10 @@
     "tm_g4": 1.9091,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1793192743950,
-    "result_move": -5.1467,
+    "result_time": 1793193757517,
+    "result_move": -7.3405,
     "max_move": 0.0,
-    "min_move": -6.8009,
+    "min_move": -7.3405,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -14108,7 +14108,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": 0.0,
+    "min_move": -0.2398,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -14129,7 +14129,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": 0.0,
+    "min_move": -1.8603,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -14145,6 +14145,27 @@
     "tm_g15": 1.5,
     "tm_g1": 1.0625,
     "tm_g4": 1.04,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "FETIRT",
+    "event_time": 1793309748960,
+    "event_price": 44500.0,
+    "anchor_time": 1793308240199,
+    "anchor_price": 44900.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1053,
+    "tm_e15_e1": 0.1053,
+    "tm_e1_e4": 0.7917,
+    "tm_g15": 2.0,
+    "tm_g1": 1.0556,
+    "tm_g4": 1.0909,
     "legacy": false,
     "result": "PENDING",
     "result_time": null,
