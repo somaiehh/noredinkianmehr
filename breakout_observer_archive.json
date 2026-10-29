@@ -28013,5 +28013,29 @@
     "levels": [],
     "failed_time": 1792939895653,
     "failed_price": 67470.0
+  },
+  {
+    "symbol": "CAPIRT",
+    "anchor_time": 1793088267714,
+    "anchor_price": 26947.4,
+    "status": "EXPIRED",
+    "created_time": 1793088267714,
+    "last_time": 1793257138812,
+    "last_price": 19690.0,
+    "max_gain_pct": 7.8958,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793092611723,
+    "confirmed_price": 29075.1,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793092611723,
+        "price": 29075.1,
+        "gain_pct": 7.8958
+      }
+    ],
+    "expired_time": 1793131522390
   }
 ]
