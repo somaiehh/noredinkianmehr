@@ -54750,7 +54750,10 @@
       "max_up": -0.07,
       "max_down": -3.99
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.07,
+      "max_down": -3.99
+    }
   },
   {
     "symbol": "ANIMEIRT",
@@ -54778,7 +54781,10 @@
       "max_up": 0.86,
       "max_down": -1.1
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.86,
+      "max_down": -3.56
+    }
   },
   {
     "symbol": "DOODIRT",
@@ -54806,7 +54812,10 @@
       "max_up": 0.9,
       "max_down": -1.63
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.9,
+      "max_down": -1.63
+    }
   },
   {
     "symbol": "GALAIRT",
@@ -54834,7 +54843,10 @@
       "max_up": 1.76,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.67,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "QIRT",
@@ -54862,7 +54874,10 @@
       "max_up": 22.6,
       "max_down": 0.78
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 22.6,
+      "max_down": 0.78
+    }
   },
   {
     "symbol": "FIGHTIRT",
@@ -54887,7 +54902,10 @@
       "max_up": 4.12,
       "max_down": -5.45
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.88,
+      "max_down": -5.45
+    }
   },
   {
     "symbol": "XANIRT",
@@ -54915,7 +54933,10 @@
       "max_up": 1.76,
       "max_down": -1.78
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.11,
+      "max_down": -1.78
+    }
   },
   {
     "symbol": "QIRT",
@@ -54943,7 +54964,10 @@
       "max_up": -0.24,
       "max_down": -7.5
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.24,
+      "max_down": -10.34
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -54965,6 +54989,25 @@
       "max_up": 3.39,
       "max_down": 2.88
     },
+    "result_12h": null
+  },
+  {
+    "symbol": "INITIRT",
+    "time": 1793254464536,
+    "price": 71000.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.51,
+    "vr": 1.63,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
     "result_12h": null
   }
 ]

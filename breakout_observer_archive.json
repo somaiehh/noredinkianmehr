@@ -27969,5 +27969,36 @@
     "levels": [],
     "failed_time": 1792636102382,
     "failed_price": 378.7
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1793200126367,
+    "anchor_price": 68.0,
+    "status": "EXPIRED",
+    "created_time": 1793200126367,
+    "last_time": 1793254464536,
+    "last_price": 80.9,
+    "max_gain_pct": 36.0294,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793200813955,
+    "confirmed_price": 73.8,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793200813955,
+        "price": 73.8,
+        "gain_pct": 8.5294
+      },
+      {
+        "level": 10,
+        "time": 1793201002661,
+        "price": 77.1,
+        "gain_pct": 13.3824
+      }
+    ],
+    "expired_time": 1793254464536
   }
 ]
