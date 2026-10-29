@@ -28037,5 +28037,18 @@
       }
     ],
     "expired_time": 1793131522390
+  },
+  {
+    "symbol": "MPLXIRT",
+    "anchor_time": 1793193945289,
+    "anchor_price": 22516.0,
+    "status": "FAILED",
+    "created_time": 1793193945289,
+    "last_time": 1793260409122,
+    "last_price": 16692.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793195445092,
+    "failed_price": 21000.0
   }
 ]
