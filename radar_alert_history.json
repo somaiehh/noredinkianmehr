@@ -6547,5 +6547,18 @@
     "bs": 0.86,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1793272184438,
+    "symbol": "EPICIRT",
+    "price": 28483.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.09,
+    "vr": 7.76,
+    "va": 8.29,
+    "bs": 3.3,
+    "breakout": true,
+    "persistence": 3
   }
 ]
