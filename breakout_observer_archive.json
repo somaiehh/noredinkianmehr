@@ -28390,5 +28390,42 @@
     "levels": [],
     "failed_time": 1792582935481,
     "failed_price": 9988.0
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1793152554304,
+    "anchor_price": 22321.0,
+    "status": "EXPIRED",
+    "created_time": 1793152554304,
+    "last_time": 1793295754808,
+    "last_price": 24072.0,
+    "max_gain_pct": 10.806,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793159413993,
+    "confirmed_price": 23090.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793162205396,
+        "price": 23834.0,
+        "gain_pct": 6.7784
+      }
+    ],
+    "expired_time": 1793196392593
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1793198393123,
+    "anchor_price": 40627.0,
+    "status": "FAILED",
+    "created_time": 1793198393123,
+    "last_time": 1793297858636,
+    "last_price": 41000.0,
+    "max_gain_pct": 1.0387,
+    "levels": [],
+    "failed_time": 1793200813955,
+    "failed_price": 38571.0
   }
 ]
