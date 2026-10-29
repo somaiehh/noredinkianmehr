@@ -12352,5 +12352,43 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "LSKIRT",
+    "time": 1793315335813,
+    "price": 52937.0,
+    "pre30": 1.1,
+    "pre60": -1.05,
+    "pre120": 3.9,
+    "hunt": 69.4,
+    "persistence": 2,
+    "vr": 10.66,
+    "va": 10.0,
+    "buy": 49.0,
+    "bs": 1.47,
+    "ob": 1.0,
+    "p15": 0.42,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "LSKIRT",
+    "time": 1793315523310,
+    "price": 52937.0,
+    "pre30": 1.1,
+    "pre60": -1.05,
+    "pre120": 5.87,
+    "hunt": 67.5,
+    "persistence": 3,
+    "vr": 10.66,
+    "va": 10.0,
+    "buy": 49.0,
+    "bs": 1.47,
+    "ob": 1.0,
+    "p15": 0.42,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
