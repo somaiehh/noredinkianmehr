@@ -28303,5 +28303,30 @@
     "levels": [],
     "failed_time": 1793203830174,
     "failed_price": 851.8
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1793175042454,
+    "anchor_price": 12526.0,
+    "status": "EXPIRED",
+    "created_time": 1793175042454,
+    "last_time": 1793285197095,
+    "last_price": 11943.0,
+    "max_gain_pct": 0.7824,
+    "levels": [],
+    "expired_time": 1793219462186
+  },
+  {
+    "symbol": "BANKIRT",
+    "anchor_time": 1793184805616,
+    "anchor_price": 8080.0,
+    "status": "FAILED",
+    "created_time": 1793184805616,
+    "last_time": 1793285197095,
+    "last_price": 7226.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793186394712,
+    "failed_price": 7800.0
   }
 ]
