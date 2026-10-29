@@ -13265,7 +13265,7 @@
     "tm_g4": 1.2174,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1793158514024,
+    "result_time": 1793159413993,
     "result_move": -9.8039,
     "max_move": 3.7235,
     "min_move": -18.7353,
@@ -13730,7 +13730,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.6266,
-    "min_move": -1.4645,
+    "min_move": -1.7982,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -13813,7 +13813,28 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.1938,
+    "max_move": 3.2946,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "PIGGYIRT",
+    "event_time": 1793270414595,
+    "event_price": 2980.0,
+    "anchor_time": 1793267562799,
+    "anchor_price": 3051.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.25,
+    "tm_e15_e1": 0.25,
+    "tm_e1_e4": 0.1026,
+    "tm_g15": 1.0,
+    "tm_g1": 0.1667,
+    "tm_g4": 1.0833,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
