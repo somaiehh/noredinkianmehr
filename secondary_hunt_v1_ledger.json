@@ -4013,6 +4013,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "CSPRIRT": {
+      "trigger_time": 1793260226011,
+      "trigger_price": 621.0,
+      "secondary_score": 60.0,
+      "hunt_score": null,
+      "flags": [
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

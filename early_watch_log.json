@@ -55018,5 +55018,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "HANAIRT",
+    "time": 1793260409122,
+    "price": 3875.0,
+    "level": "WATCH",
+    "hunt": 42.5,
+    "persistence": 1,
+    "p15": 1.49,
+    "vr": 0.12,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
