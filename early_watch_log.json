@@ -55165,7 +55165,10 @@
       "max_up": 4.38,
       "max_down": 4.38
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 10.91,
+      "max_down": -0.24
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -55202,7 +55205,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.4,
+      "max_down": 0.4
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -55221,6 +55227,66 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARBIRT",
+    "time": 1793288463639,
+    "price": 47250.0,
+    "level": "STRONG",
+    "hunt": 75.1,
+    "persistence": 1,
+    "p15": 0.51,
+    "vr": 8.51,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.4,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NOTIRT",
+    "time": 1793288463639,
+    "price": 105.5,
+    "level": "STRONG",
+    "hunt": 59.7,
+    "persistence": 3,
+    "p15": 0.29,
+    "vr": 0.25,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TACIRT",
+    "time": 1793288463639,
+    "price": 325.0,
+    "level": "STRONG",
+    "hunt": 72.0,
+    "persistence": 1,
+    "p15": 1.25,
+    "vr": 0.74,
+    "va": 10.0,
+    "buy": 92.0,
+    "bs": 2.76,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

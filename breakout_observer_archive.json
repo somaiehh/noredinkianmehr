@@ -28328,5 +28328,17 @@
     "levels": [],
     "failed_time": 1793186394712,
     "failed_price": 7800.0
+  },
+  {
+    "symbol": "NOTIRT",
+    "anchor_time": 1793177620035,
+    "anchor_price": 104.3,
+    "status": "EXPIRED",
+    "created_time": 1793177620035,
+    "last_time": 1793286772400,
+    "last_price": 104.8,
+    "max_gain_pct": 1.6299,
+    "levels": [],
+    "expired_time": 1793233492624
   }
 ]
