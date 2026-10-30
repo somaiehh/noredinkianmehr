@@ -29230,5 +29230,62 @@
       }
     ],
     "expired_time": 1793324088194
+  },
+  {
+    "symbol": "PTBIRT",
+    "anchor_time": 1793348681453,
+    "anchor_price": 36.0,
+    "status": "EXPIRED",
+    "created_time": 1793348681453,
+    "last_time": 1793393013810,
+    "last_price": 32.0,
+    "max_gain_pct": 11.1111,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793350546233,
+    "confirmed_price": 40.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793350546233,
+        "price": 40.0,
+        "gain_pct": 11.1111
+      },
+      {
+        "level": 10,
+        "time": 1793350546233,
+        "price": 40.0,
+        "gain_pct": 11.1111
+      }
+    ],
+    "expired_time": 1793392835768
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1793299838761,
+    "anchor_price": 81.7,
+    "status": "FAILED",
+    "created_time": 1793299838761,
+    "last_time": 1793393013810,
+    "last_price": 70.4,
+    "max_gain_pct": 1.5912,
+    "levels": [],
+    "failed_time": 1793308240199,
+    "failed_price": 77.5
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "anchor_time": 1793340668536,
+    "anchor_price": 1359.0,
+    "status": "FAILED",
+    "created_time": 1793340668536,
+    "last_time": 1793393975796,
+    "last_price": 1467.22,
+    "max_gain_pct": 21.4128,
+    "levels": [],
+    "failed_time": 1793340855126,
+    "failed_price": 1307.96
   }
 ]
