@@ -55661,5 +55661,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "MPLXIRT",
+    "time": 1793360083050,
+    "price": 19340.0,
+    "level": "STRONG",
+    "hunt": 66.1,
+    "persistence": 1,
+    "p15": 0.21,
+    "vr": 1.28,
+    "va": 4.71,
+    "buy": 70.0,
+    "bs": 2.1,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
