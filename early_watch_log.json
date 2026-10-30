@@ -55107,7 +55107,10 @@
       "max_up": 1.32,
       "max_down": -0.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.32,
+      "max_down": -9.73
+    }
   },
   {
     "symbol": "UAIIRT",
@@ -55135,7 +55138,10 @@
       "max_up": 3.64,
       "max_down": -4.13
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.64,
+      "max_down": -7.77
+    }
   },
   {
     "symbol": "CSPRIRT",
