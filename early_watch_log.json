@@ -55637,7 +55637,10 @@
       "max_up": -1.28,
       "max_down": -2.82
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -1.28,
+      "max_down": -5.89
+    },
     "result_12h": null
   },
   {
@@ -55680,6 +55683,44 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DOODIRT",
+    "time": 1793363108426,
+    "price": 545.1,
+    "level": "STRONG",
+    "hunt": 66.3,
+    "persistence": 1,
+    "p15": 0.09,
+    "vr": 1.45,
+    "va": 8.76,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1793363108426,
+    "price": 75.7,
+    "level": "STRONG",
+    "hunt": 54.8,
+    "persistence": 1,
+    "p15": 0.13,
+    "vr": 1.58,
+    "va": 2.23,
+    "buy": 59.66666666666667,
+    "bs": 1.79,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

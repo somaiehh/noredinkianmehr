@@ -12458,5 +12458,24 @@
       "max_up": -2.26,
       "max_down": -10.71
     }
+  },
+  {
+    "symbol": "DOODIRT",
+    "time": 1793363277775,
+    "price": 545.1,
+    "pre30": 2.44,
+    "pre60": 3.71,
+    "pre120": 3.81,
+    "hunt": 64.0,
+    "persistence": 2,
+    "vr": 1.45,
+    "va": 6.8,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.66,
+    "p15": 0.09,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
