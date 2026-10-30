@@ -12429,7 +12429,10 @@
       "max_up": -0.26,
       "max_down": -2.78
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 16.37,
+      "max_down": -2.78
+    }
   },
   {
     "symbol": "PARTIIRT",

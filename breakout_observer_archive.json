@@ -28741,5 +28741,18 @@
     "levels": [],
     "failed_time": 1793305268122,
     "failed_price": 44700.0
+  },
+  {
+    "symbol": "MPLXIRT",
+    "anchor_time": 1793261429064,
+    "anchor_price": 18238.0,
+    "status": "FAILED",
+    "created_time": 1793261429064,
+    "last_time": 1793343406847,
+    "last_price": 17632.0,
+    "max_gain_pct": 4.5235,
+    "levels": [],
+    "failed_time": 1793263212045,
+    "failed_price": 17608.0
   }
 ]
