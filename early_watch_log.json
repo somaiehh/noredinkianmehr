@@ -55594,7 +55594,10 @@
       "max_up": 3.13,
       "max_down": -7.91
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.13,
+      "max_down": -9.57
+    }
   },
   {
     "symbol": "DOODIRT",
@@ -55622,7 +55625,10 @@
       "max_up": 0.0,
       "max_down": -5.42
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.16,
+      "max_down": -5.42
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
