@@ -55653,7 +55653,10 @@
       "max_up": -1.28,
       "max_down": -5.89
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.64,
+      "max_down": -11.65
+    }
   },
   {
     "symbol": "SOPHIRT",

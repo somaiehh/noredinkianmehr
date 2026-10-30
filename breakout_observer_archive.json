@@ -29206,5 +29206,29 @@
       }
     ],
     "expired_time": 1793372170545
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1793279326202,
+    "anchor_price": 349000000.0,
+    "status": "EXPIRED",
+    "created_time": 1793279326202,
+    "last_time": 1793391313175,
+    "last_price": 338359921.0,
+    "max_gain_pct": 8.0304,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793288463639,
+    "confirmed_price": 361261442.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793290222320,
+        "price": 372128896.0,
+        "gain_pct": 6.6272
+      }
+    ],
+    "expired_time": 1793324088194
   }
 ]
