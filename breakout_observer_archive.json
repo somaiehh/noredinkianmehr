@@ -29300,5 +29300,18 @@
     "levels": [],
     "failed_time": 1793311033829,
     "failed_price": 20114.2
+  },
+  {
+    "symbol": "DENTIRT",
+    "anchor_time": 1793346938142,
+    "anchor_price": 8.704,
+    "status": "FAILED",
+    "created_time": 1793346938142,
+    "last_time": 1793398390124,
+    "last_price": 8.93,
+    "max_gain_pct": 7.9044,
+    "levels": [],
+    "failed_time": 1793348681453,
+    "failed_price": 8.361
   }
 ]
