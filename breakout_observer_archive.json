@@ -28768,5 +28768,31 @@
     "confirmed_time": 1792150556040,
     "confirmed_price": 13.83,
     "expired_time": 1792192105090
+  },
+  {
+    "symbol": "PTBIRT",
+    "anchor_time": 1793001290820,
+    "anchor_price": 60.0,
+    "status": "FAILED",
+    "created_time": 1793001290820,
+    "last_time": 1793347115296,
+    "last_price": 33.0,
+    "max_gain_pct": 20.0,
+    "levels": [],
+    "failed_time": 1793002697100,
+    "failed_price": 58.0
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1793255948889,
+    "anchor_price": 73500.0,
+    "status": "FAILED",
+    "created_time": 1793255948889,
+    "last_time": 1793347115296,
+    "last_price": 74874.0,
+    "max_gain_pct": 4.3456,
+    "levels": [],
+    "failed_time": 1793256942439,
+    "failed_price": 70766.0
   }
 ]
