@@ -9761,7 +9761,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 6.3003,
-    "min_move": -3.8957,
+    "min_move": -3.9342,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -9929,7 +9929,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 7.6768,
-    "min_move": -1.5971,
+    "min_move": -1.6563,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -9949,7 +9949,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.7636,
+    "max_move": 3.018,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -9971,7 +9971,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 7.6768,
-    "min_move": -1.5971,
+    "min_move": -1.6563,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -9991,7 +9991,28 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.9048,
+    "max_move": 1.9244,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ALPINEIRT",
+    "event_time": 1793398183665,
+    "event_price": 177375.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 42.0,
+    "p15": -0.91,
+    "vr": null,
+    "va": 2.44,
+    "ta": null,
+    "bs": 1.63,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 1.6209,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
