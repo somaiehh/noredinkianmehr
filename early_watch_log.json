@@ -55662,7 +55662,10 @@
       "max_up": 0.63,
       "max_down": -2.95
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.84,
+      "max_down": -3.16
+    },
     "result_12h": null
   },
   {
@@ -55683,7 +55686,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.85
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -55701,8 +55707,14 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
-    "result_1h": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -55718,6 +55730,31 @@
     "va": 2.23,
     "buy": 59.66666666666667,
     "bs": 1.79,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.92,
+      "max_down": 0.92
+    },
+    "result_1h": {
+      "max_up": 0.92,
+      "max_down": 0.92
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1793368643355,
+    "price": 319200.0,
+    "level": "WATCH",
+    "hunt": 47.9,
+    "persistence": 1,
+    "p15": 0.19,
+    "vr": 1.5,
+    "va": 1.66,
+    "buy": 67.33333333333333,
+    "bs": 2.02,
     "breakout": false,
     "priority": false,
     "result_15m": null,
