@@ -55546,5 +55546,43 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "PARTIIRT",
+    "time": 1793338911592,
+    "price": 14771.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.85,
+    "vr": 1.19,
+    "va": 4.05,
+    "buy": 100,
+    "bs": 3.55,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DOODIRT",
+    "time": 1793338911592,
+    "price": 539.0,
+    "level": "STRONG",
+    "hunt": 69.4,
+    "persistence": 1,
+    "p15": 1.7,
+    "vr": 1.12,
+    "va": 1.25,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
