@@ -12430,5 +12430,24 @@
       "max_down": -2.78
     },
     "result_4h": null
+  },
+  {
+    "symbol": "PARTIIRT",
+    "time": 1793342295167,
+    "price": 15233.0,
+    "pre30": 3.27,
+    "pre60": 0.37,
+    "pre120": 0.01,
+    "hunt": 63.2,
+    "persistence": 2,
+    "vr": 1.73,
+    "va": 2.45,
+    "buy": 26.333333333333336,
+    "bs": 0.79,
+    "ob": 1.0,
+    "p15": 0.77,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
