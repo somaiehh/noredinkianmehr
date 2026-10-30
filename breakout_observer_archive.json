@@ -28690,5 +28690,43 @@
       }
     ],
     "expired_time": 1793318965442
+  },
+  {
+    "symbol": "USELESSIRT",
+    "anchor_time": 1792891208946,
+    "anchor_price": 47000.0,
+    "status": "EXPIRED",
+    "created_time": 1792891208946,
+    "last_time": 1793334449358,
+    "last_price": 34708.0,
+    "max_gain_pct": 6.1298,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792898595794,
+    "confirmed_price": 49000.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792900054395,
+        "price": 49616.0,
+        "gain_pct": 5.566
+      }
+    ],
+    "expired_time": 1792935327394
+  },
+  {
+    "symbol": "SOPHIRT",
+    "anchor_time": 1793011245190,
+    "anchor_price": 382.0,
+    "status": "EXPIRED",
+    "created_time": 1793011245190,
+    "last_time": 1793335859916,
+    "last_price": 417.0,
+    "max_gain_pct": 11.7801,
+    "levels": [],
+    "confirmed_time": 1793028197053,
+    "confirmed_price": 397.0,
+    "expired_time": 1793064467080
   }
 ]
