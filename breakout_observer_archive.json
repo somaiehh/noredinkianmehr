@@ -28958,5 +28958,142 @@
     "levels": [],
     "failed_time": 1793306661373,
     "failed_price": 11565.0
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1793283041898,
+    "anchor_price": 253716.0,
+    "status": "FAILED",
+    "created_time": 1793283041898,
+    "last_time": 1793372348223,
+    "last_price": 245169.0,
+    "max_gain_pct": 2.4768,
+    "levels": [],
+    "failed_time": 1793308240199,
+    "failed_price": 236000.0
+  },
+  {
+    "symbol": "NOTIRT",
+    "anchor_time": 1793288463639,
+    "anchor_price": 105.5,
+    "status": "FAILED",
+    "created_time": 1793288463639,
+    "last_time": 1793372348223,
+    "last_price": 97.3,
+    "max_gain_pct": 0.3791,
+    "levels": [],
+    "failed_time": 1793306661373,
+    "failed_price": 99.1
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1793330004072,
+    "anchor_price": 1081.4,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1793330004072,
+    "last_time": 1793372348223,
+    "last_price": 1113.2,
+    "max_gain_pct": 5.2247,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793337108284,
+    "confirmed_price": 1116.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793338911592,
+        "price": 1137.9,
+        "gain_pct": 5.2247
+      }
+    ]
+  },
+  {
+    "symbol": "DOODIRT",
+    "anchor_time": 1793324088194,
+    "anchor_price": 521.8,
+    "status": "EXPIRED",
+    "created_time": 1793324088194,
+    "last_time": 1793372348223,
+    "last_price": 528.0,
+    "max_gain_pct": 11.2687,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793327147247,
+    "confirmed_price": 540.5,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793327977686,
+        "price": 548.8,
+        "gain_pct": 5.1744
+      },
+      {
+        "level": 10,
+        "time": 1793334449358,
+        "price": 580.6,
+        "gain_pct": 11.2687
+      }
+    ],
+    "expired_time": 1793368643355
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1793327977686,
+    "anchor_price": 13614.0,
+    "status": "EXPIRED",
+    "created_time": 1793327977686,
+    "last_time": 1793372348223,
+    "last_price": 13115.0,
+    "max_gain_pct": 21.9333,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793334247528,
+    "confirmed_price": 14333.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793334247528,
+        "price": 14333.0,
+        "gain_pct": 5.2813
+      },
+      {
+        "level": 10,
+        "time": 1793335859916,
+        "price": 15590.9,
+        "gain_pct": 14.5211
+      }
+    ],
+    "expired_time": 1793372170545
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1793285016091,
+    "anchor_price": 1.347,
+    "status": "FAILED",
+    "created_time": 1793285016091,
+    "last_time": 1793374035198,
+    "last_price": 1.3182,
+    "max_gain_pct": 2.101,
+    "levels": [],
+    "failed_time": 1793306424708,
+    "failed_price": 1.3055
+  },
+  {
+    "symbol": "LTCIRT",
+    "anchor_time": 1793270414595,
+    "anchor_price": 15764984.0,
+    "status": "FAILED",
+    "created_time": 1793270414595,
+    "last_time": 1793374035198,
+    "last_price": 15364135.0,
+    "max_gain_pct": 1.1137,
+    "levels": [],
+    "failed_time": 1793309748960,
+    "failed_price": 15213839.0
   }
 ]
