@@ -28869,5 +28869,31 @@
     "levels": [],
     "failed_time": 1793178623411,
     "failed_price": 2300.0
+  },
+  {
+    "symbol": "BEAMXIRT",
+    "anchor_time": 1792494705041,
+    "anchor_price": 834.0,
+    "status": "EXPIRED",
+    "created_time": 1792494705041,
+    "last_time": 1793360257878,
+    "last_price": 1286.9,
+    "max_gain_pct": 54.5683,
+    "levels": [],
+    "confirmed_time": 1792498038770,
+    "confirmed_price": 864.7,
+    "expired_time": 1792609727309
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1793274190078,
+    "anchor_price": 10200.0,
+    "status": "EXPIRED",
+    "created_time": 1793274190078,
+    "last_time": 1793360257878,
+    "last_price": 10011.0,
+    "max_gain_pct": 1.3725,
+    "levels": [],
+    "expired_time": 1793318965442
   }
 ]
