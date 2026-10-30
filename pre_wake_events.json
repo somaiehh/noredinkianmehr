@@ -9698,7 +9698,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.6524,
-    "min_move": -0.5462,
+    "min_move": -0.8334,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -9762,6 +9762,27 @@
     "result_move": null,
     "max_move": 6.3003,
     "min_move": -3.8957,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "HIRT",
+    "event_time": 1793357047382,
+    "event_price": 14884.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 31.4,
+    "p15": -0.95,
+    "vr": null,
+    "va": 5.01,
+    "ta": null,
+    "bs": 4.63,
+    "book": 0.37,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
