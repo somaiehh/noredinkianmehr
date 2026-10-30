@@ -55259,7 +55259,10 @@
       "max_up": 2.09,
       "max_down": -3.83
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.09,
+      "max_down": -7.92
+    }
   },
   {
     "symbol": "BANKIRT",
@@ -55287,7 +55290,10 @@
       "max_up": 4.46,
       "max_down": -0.03
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.46,
+      "max_down": -3.06
+    }
   },
   {
     "symbol": "ARBIRT",

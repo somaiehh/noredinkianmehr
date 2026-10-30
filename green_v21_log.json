@@ -12379,7 +12379,10 @@
       "max_up": 0.0,
       "max_down": -1.5
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -12.62
+    }
   },
   {
     "symbol": "LSKIRT",
@@ -12401,7 +12404,10 @@
       "max_up": -1.5,
       "max_down": -1.65
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -1.5,
+      "max_down": -12.62
+    }
   },
   {
     "symbol": "QIRT",
