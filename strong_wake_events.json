@@ -14633,7 +14633,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.6043,
-    "min_move": -0.5348,
+    "min_move": -0.8021,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -14674,7 +14674,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.4504,
+    "max_move": 0.8632,
     "min_move": -0.7506,
     "ledger_version": "wake-ledger-v1"
   },
@@ -14696,7 +14696,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.5392,
-    "min_move": 0.0,
+    "min_move": -0.3572,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -14733,6 +14733,27 @@
     "tm_g15": 0.5,
     "tm_g1": 1.25,
     "tm_g4": 1.12,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "ZAMAIRT",
+    "event_time": 1793388390220,
+    "event_price": 17884.0,
+    "anchor_time": 1793382113475,
+    "anchor_price": 17957.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.75,
+    "tm_e15_e1": 0.75,
+    "tm_e1_e4": 0.1818,
+    "tm_g15": 3.0,
+    "tm_g1": 0.2353,
+    "tm_g4": 1.0476,
     "legacy": false,
     "result": "PENDING",
     "result_time": null,
