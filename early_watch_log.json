@@ -55200,7 +55200,10 @@
       "max_up": 10.91,
       "max_down": -0.24
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.91,
+      "max_down": -13.36
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -55225,7 +55228,10 @@
       "max_up": 1.86,
       "max_down": -0.44
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.86,
+      "max_down": -9.47
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -55509,7 +55515,10 @@
     "bs": 1.25,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
