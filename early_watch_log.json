@@ -55473,7 +55473,10 @@
       "max_up": 2.66,
       "max_down": -1.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 12.29,
+      "max_down": -1.89
+    }
   },
   {
     "symbol": "LSKIRT",
@@ -55498,7 +55501,10 @@
       "max_up": -1.05,
       "max_down": -13.15
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.72,
+      "max_down": -14.95
+    }
   },
   {
     "symbol": "PEPEIRT",
