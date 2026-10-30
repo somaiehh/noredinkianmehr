@@ -28932,5 +28932,31 @@
     "levels": [],
     "failed_time": 1793073781758,
     "failed_price": 1.591
+  },
+  {
+    "symbol": "RSS3IRT",
+    "anchor_time": 1793177436338,
+    "anchor_price": 186.0,
+    "status": "FAILED",
+    "created_time": 1793177436338,
+    "last_time": 1793370270062,
+    "last_price": 164.0,
+    "max_gain_pct": 2.1505,
+    "levels": [],
+    "failed_time": 1793180328239,
+    "failed_price": 179.0
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1793286598052,
+    "anchor_price": 12061.0,
+    "status": "FAILED",
+    "created_time": 1793286598052,
+    "last_time": 1793372170545,
+    "last_price": 11550.0,
+    "max_gain_pct": 2.5039,
+    "levels": [],
+    "failed_time": 1793306661373,
+    "failed_price": 11565.0
   }
 ]
