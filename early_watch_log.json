@@ -55169,7 +55169,10 @@
       "max_up": -2.14,
       "max_down": -8.24
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -2.14,
+      "max_down": -15.27
+    }
   },
   {
     "symbol": "LSKIRT",
@@ -55439,7 +55442,10 @@
       "max_up": 0.48,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.66,
+      "max_down": -1.36
+    },
     "result_12h": null
   },
   {
@@ -55461,6 +55467,28 @@
       "max_up": -1.12,
       "max_down": -2.13
     },
+    "result_4h": {
+      "max_up": -1.05,
+      "max_down": -13.15
+    },
+    "result_12h": null
+  },
+  {
+    "symbol": "PEPEIRT",
+    "time": 1793327147247,
+    "price": 1.28196,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.74,
+    "vr": 4.85,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
