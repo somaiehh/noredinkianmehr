@@ -56162,7 +56162,10 @@
       "max_up": -0.07,
       "max_down": -5.83
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.07,
+      "max_down": -8.65
+    }
   },
   {
     "symbol": "RADIRT",
@@ -56662,7 +56665,10 @@
       "max_up": -0.75,
       "max_down": -3.23
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.85,
+      "max_down": -3.23
+    },
     "result_12h": null
   },
   {
