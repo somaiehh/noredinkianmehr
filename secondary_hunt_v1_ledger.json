@@ -4072,6 +4072,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ALPINEIRT": {
+      "trigger_time": 1793421837513,
+      "trigger_price": 142213.0,
+      "secondary_score": 60.0,
+      "hunt_score": 3.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

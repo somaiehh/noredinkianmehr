@@ -29368,5 +29368,49 @@
       }
     ],
     "expired_time": 1793405426493
+  },
+  {
+    "symbol": "SOPHIRT",
+    "anchor_time": 1793336048171,
+    "anchor_price": 433.0,
+    "status": "EXPIRED",
+    "created_time": 1793336048171,
+    "last_time": 1793420639296,
+    "last_price": 559.0,
+    "max_gain_pct": 55.4273,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793338911592,
+    "confirmed_price": 481.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793338911592,
+        "price": 481.0,
+        "gain_pct": 11.0855
+      },
+      {
+        "level": 10,
+        "time": 1793338911592,
+        "price": 481.0,
+        "gain_pct": 11.0855
+      }
+    ],
+    "expired_time": 1793382113475
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "anchor_time": 1793331160302,
+    "anchor_price": 820.0,
+    "status": "FAILED",
+    "created_time": 1793331160302,
+    "last_time": 1793420639296,
+    "last_price": 752.6,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793340668536,
+    "failed_price": 792.2
   }
 ]
