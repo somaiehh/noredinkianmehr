@@ -56072,7 +56072,10 @@
       "max_up": 0.39,
       "max_down": -2.32
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.39,
+      "max_down": -4.8
+    }
   },
   {
     "symbol": "DOODIRT",
@@ -56513,7 +56516,10 @@
       "max_up": 1.97,
       "max_down": -4.21
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.97,
+      "max_down": -4.21
+    },
     "result_12h": null
   },
   {
@@ -56659,6 +56665,44 @@
       "max_up": -1.73,
       "max_down": -1.73
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "COWIRT",
+    "time": 1793472133321,
+    "price": 36424.0,
+    "level": "STRONG",
+    "hunt": 52.0,
+    "persistence": 1,
+    "p15": 0.12,
+    "vr": 0.88,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1793472133321,
+    "price": 327614.0,
+    "level": "STRONG",
+    "hunt": 63.0,
+    "persistence": 1,
+    "p15": 0.45,
+    "vr": 1.83,
+    "va": 4.48,
+    "buy": 37.666666666666664,
+    "bs": 1.13,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
