@@ -55990,5 +55990,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "AVAIRT",
+    "time": 1793425522825,
+    "price": 88140.0,
+    "level": "WATCH",
+    "hunt": 44.7,
+    "persistence": 1,
+    "p15": 0.61,
+    "vr": 0.47,
+    "va": 2.0,
+    "buy": 92.0,
+    "bs": 2.76,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
