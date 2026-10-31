@@ -29745,5 +29745,18 @@
     "levels": [],
     "failed_time": 1793400223526,
     "failed_price": 69.8
+  },
+  {
+    "symbol": "DOGSIRT",
+    "anchor_time": 1792944437963,
+    "anchor_price": 9.91,
+    "status": "FAILED",
+    "created_time": 1792944437963,
+    "last_time": 1793459844945,
+    "last_price": 8.92,
+    "max_gain_pct": 0.2018,
+    "levels": [],
+    "failed_time": 1792946902839,
+    "failed_price": 9.57
   }
 ]
