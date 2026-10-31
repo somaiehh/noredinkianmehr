@@ -6742,5 +6742,18 @@
     "bs": 4.75,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1793455187906,
+    "symbol": "RSS3IRT",
+    "price": 185.0,
+    "hunt_score": 89.9,
+    "status": "EARLY",
+    "p15": 1.09,
+    "vr": 6.16,
+    "va": 2.63,
+    "bs": 1.72,
+    "breakout": true,
+    "persistence": 2
   }
 ]
