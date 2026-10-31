@@ -12651,7 +12651,10 @@
       "max_up": 3.26,
       "max_down": -2.54
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 10.75,
+      "max_down": -2.6
+    }
   },
   {
     "symbol": "DOODIRT",
@@ -12673,7 +12676,10 @@
       "max_up": 0.0,
       "max_down": -2.06
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -2.79
+    }
   },
   {
     "symbol": "AMPIRT",
@@ -12709,6 +12715,44 @@
     "bs": 0.35,
     "ob": 1.0,
     "p15": 0.94,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1793445123522,
+    "price": 12000.0,
+    "pre30": 0.72,
+    "pre60": -0.17,
+    "pre120": 1.1,
+    "hunt": 74.4,
+    "persistence": 4,
+    "vr": 2.33,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.06,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1793445325359,
+    "price": 12000.0,
+    "pre30": 0.41,
+    "pre60": 0.86,
+    "pre120": 0.84,
+    "hunt": 76.4,
+    "persistence": 5,
+    "vr": 2.33,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.06,
     "breakout": false,
     "result_1h": null,
     "result_4h": null
