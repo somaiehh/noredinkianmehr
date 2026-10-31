@@ -12801,7 +12801,10 @@
       "max_up": 1.62,
       "max_down": -7.57
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.62,
+      "max_down": -14.05
+    }
   },
   {
     "symbol": "AINIRT",
@@ -12818,6 +12821,28 @@
     "bs": 5.0,
     "ob": 0.39,
     "p15": 0.23,
+    "breakout": false,
+    "result_1h": {
+      "max_up": -0.75,
+      "max_down": -3.23
+    },
+    "result_4h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1793470511345,
+    "price": 69.5,
+    "pre30": 1.02,
+    "pre60": -0.29,
+    "pre120": 1.61,
+    "hunt": 77.2,
+    "persistence": 2,
+    "vr": 1.59,
+    "va": 2.04,
+    "buy": 36.66666666666667,
+    "bs": 1.1,
+    "ob": 1.0,
+    "p15": 1.31,
     "breakout": false,
     "result_1h": null,
     "result_4h": null
