@@ -29487,5 +29487,18 @@
       }
     ],
     "expired_time": 1793417748613
+  },
+  {
+    "symbol": "RSS3IRT",
+    "anchor_time": 1793372170545,
+    "anchor_price": 169.0,
+    "status": "FAILED",
+    "created_time": 1793372170545,
+    "last_time": 1793436124089,
+    "last_price": 157.0,
+    "max_gain_pct": 0.5917,
+    "levels": [],
+    "failed_time": 1793378723519,
+    "failed_price": 163.0
   }
 ]
