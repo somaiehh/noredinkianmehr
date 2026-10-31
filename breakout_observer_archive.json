@@ -29513,5 +29513,19 @@
     "levels": [],
     "failed_time": 1793376807358,
     "failed_price": 12914.9
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "anchor_time": 1793394152249,
+    "anchor_price": 1508.99,
+    "status": "EXPIRED",
+    "created_time": 1793394152249,
+    "last_time": 1793439209996,
+    "last_price": 1285.07,
+    "max_gain_pct": 4.9046,
+    "levels": [],
+    "confirmed_time": 1793395539285,
+    "confirmed_price": 1583.0,
+    "expired_time": 1793438012904
   }
 ]
