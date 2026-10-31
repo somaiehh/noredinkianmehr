@@ -12846,5 +12846,43 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1793473914580,
+    "price": 70.8,
+    "pre30": 3.66,
+    "pre60": 3.06,
+    "pre120": 3.21,
+    "hunt": 84.0,
+    "persistence": 2,
+    "vr": 2.91,
+    "va": 3.59,
+    "buy": 42.66666666666667,
+    "bs": 1.28,
+    "ob": 0.94,
+    "p15": 0.85,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1793474109326,
+    "price": 70.8,
+    "pre30": 1.87,
+    "pre60": 1.87,
+    "pre120": 1.58,
+    "hunt": 84.0,
+    "persistence": 3,
+    "vr": 3.47,
+    "va": 3.35,
+    "buy": 45.66666666666667,
+    "bs": 1.37,
+    "ob": 1.0,
+    "p15": 0.85,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

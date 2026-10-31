@@ -15010,8 +15010,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 0.3134,
     "min_move": -1.4015,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "TUTIRT",
+    "event_time": 1793474109326,
+    "event_price": 4741.0,
+    "anchor_time": 1793471230786,
+    "anchor_price": 4776.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.2667,
+    "tm_e15_e1": 0.2667,
+    "tm_e1_e4": 0.4545,
+    "tm_g15": 0.3636,
+    "tm_g1": 1.3636,
+    "tm_g4": 1.1379,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
