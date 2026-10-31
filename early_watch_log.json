@@ -56193,7 +56193,10 @@
       "max_up": 2.48,
       "max_down": -10.79
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.48,
+      "max_down": -12.7
+    }
   },
   {
     "symbol": "FUNTOKENIRT",
@@ -56221,7 +56224,10 @@
       "max_up": 4.27,
       "max_down": -8.48
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.35,
+      "max_down": -8.49
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -56249,7 +56255,10 @@
       "max_up": 2.47,
       "max_down": -2.05
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.47,
+      "max_down": -4.26
+    }
   },
   {
     "symbol": "LSKIRT",
@@ -56277,7 +56286,10 @@
       "max_up": 26.81,
       "max_down": -4.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 26.81,
+      "max_down": -5.6
+    }
   },
   {
     "symbol": "DENTIRT",
@@ -56305,7 +56317,10 @@
       "max_up": 4.79,
       "max_down": -17.26
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.79,
+      "max_down": -19.17
+    }
   },
   {
     "symbol": "LABIRT",
@@ -56333,7 +56348,10 @@
       "max_up": 3.47,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.47,
+      "max_down": -0.61
+    }
   },
   {
     "symbol": "CAPIRT",
@@ -56361,7 +56379,10 @@
       "max_up": 1.06,
       "max_down": -11.27
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.06,
+      "max_down": -11.78
+    }
   },
   {
     "symbol": "UAIIRT",
@@ -56693,7 +56714,10 @@
       "max_up": 1.87,
       "max_down": -1.73
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 14.96,
+      "max_down": -1.73
+    },
     "result_12h": null
   },
   {
@@ -56718,7 +56742,10 @@
       "max_up": 0.79,
       "max_down": -2.27
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.79,
+      "max_down": -6.51
+    },
     "result_12h": null
   },
   {
@@ -56743,7 +56770,10 @@
       "max_up": 0.0,
       "max_down": -0.46
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -1.42
+    },
     "result_12h": null
   }
 ]
