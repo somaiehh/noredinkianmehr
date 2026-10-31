@@ -29823,5 +29823,49 @@
     "confirmed_time": 1793378513628,
     "confirmed_price": 37656.0,
     "expired_time": 1793386443596
+  },
+  {
+    "symbol": "ALPINEIRT",
+    "anchor_time": 1793351816581,
+    "anchor_price": 155560.0,
+    "status": "EXPIRED",
+    "created_time": 1793351816581,
+    "last_time": 1793474977194,
+    "last_price": 113377.0,
+    "max_gain_pct": 108.8294,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793352011787,
+    "confirmed_price": 170000.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793352011787,
+        "price": 170000.0,
+        "gain_pct": 9.2826
+      },
+      {
+        "level": 10,
+        "time": 1793352984835,
+        "price": 255000.0,
+        "gain_pct": 63.9239
+      }
+    ],
+    "expired_time": 1793395539285
+  },
+  {
+    "symbol": "CAPIRT",
+    "anchor_time": 1793395539285,
+    "anchor_price": 23436.4,
+    "status": "FAILED",
+    "created_time": 1793395539285,
+    "last_time": 1793474977194,
+    "last_price": 19762.0,
+    "max_gain_pct": 2.9305,
+    "levels": [],
+    "failed_time": 1793400223526,
+    "failed_price": 22218.5
   }
 ]
