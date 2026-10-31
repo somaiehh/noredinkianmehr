@@ -10117,7 +10117,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 5.613,
+    "max_move": 7.2677,
     "min_move": -4.41,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -10160,7 +10160,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.1776,
-    "min_move": -4.2738,
+    "min_move": -4.4091,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -10180,7 +10180,28 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.9753,
+    "max_move": 3.573,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "QIRT",
+    "event_time": 1793458852490,
+    "event_price": 9010.3,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 45.4,
+    "p15": -1.31,
+    "vr": null,
+    "va": 2.41,
+    "ta": null,
+    "bs": 5.0,
+    "book": 0.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
