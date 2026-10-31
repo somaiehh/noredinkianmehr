@@ -55951,7 +55951,10 @@
       "max_up": 0.67,
       "max_down": -0.71
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.67,
+      "max_down": -2.75
+    }
   },
   {
     "symbol": "SOPHIRT",
@@ -56233,7 +56236,10 @@
       "max_up": 0.0,
       "max_down": -4.11
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 15.63,
+      "max_down": -4.11
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -56277,6 +56283,25 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "CAPIRT",
+    "time": 1793446976105,
+    "price": 22130.7,
+    "level": "STRONG",
+    "hunt": 52.3,
+    "persistence": 2,
+    "p15": 0.59,
+    "vr": 0.43,
+    "va": 2.21,
+    "buy": 100,
+    "bs": 4.55,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
