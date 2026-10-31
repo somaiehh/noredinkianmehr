@@ -12751,7 +12751,10 @@
       "max_up": 1.97,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.47,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "LABIRT",
@@ -12773,7 +12776,10 @@
       "max_up": 1.97,
       "max_down": 0.41
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.47,
+      "max_down": 0.41
+    }
   },
   {
     "symbol": "RSS3IRT",
