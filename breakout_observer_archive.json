@@ -29614,5 +29614,41 @@
         "gain_pct": 18.831
       }
     ]
+  },
+  {
+    "symbol": "LTCIRT",
+    "anchor_time": 1793374234314,
+    "anchor_price": 15373279.0,
+    "status": "EXPIRED",
+    "created_time": 1793374234314,
+    "last_time": 1793445325359,
+    "last_price": 14900001.0,
+    "max_gain_pct": 0.2129,
+    "levels": [],
+    "expired_time": 1793421658644
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1793391313175,
+    "anchor_price": 12061.0,
+    "status": "EXPIRED",
+    "created_time": 1793391313175,
+    "last_time": 1793445325359,
+    "last_price": 12000.0,
+    "max_gain_pct": 1.1939,
+    "levels": [],
+    "expired_time": 1793435285176
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1793389857761,
+    "anchor_price": 318140.0,
+    "status": "EXPIRED",
+    "created_time": 1793389857761,
+    "last_time": 1793446037941,
+    "last_price": 320724.0,
+    "max_gain_pct": 2.9053,
+    "levels": [],
+    "expired_time": 1793433498460
   }
 ]
