@@ -29553,5 +29553,36 @@
     "levels": [],
     "failed_time": 1793352984835,
     "failed_price": 72315.0
+  },
+  {
+    "symbol": "LSKIRT",
+    "anchor_time": 1793350546233,
+    "anchor_price": 53099.0,
+    "status": "EXPIRED",
+    "created_time": 1793350546233,
+    "last_time": 1793440805664,
+    "last_price": 64123.0,
+    "max_gain_pct": 37.4903,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793355324887,
+    "confirmed_price": 55198.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793360083050,
+        "price": 56626.0,
+        "gain_pct": 6.6423
+      },
+      {
+        "level": 10,
+        "time": 1793370080817,
+        "price": 61712.0,
+        "gain_pct": 16.2206
+      }
+    ],
+    "expired_time": 1793393975796
   }
 ]
