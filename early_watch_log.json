@@ -56314,7 +56314,10 @@
       "max_up": 1.06,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.06,
+      "max_down": -4.44
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -56332,6 +56335,25 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ALPINEIRT",
+    "time": 1793450571122,
+    "price": 113000.0,
+    "level": "STRONG",
+    "hunt": 71.5,
+    "persistence": 1,
+    "p15": 1.24,
+    "vr": 0.6,
+    "va": 3.72,
+    "buy": 46.33333333333333,
+    "bs": 1.39,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
