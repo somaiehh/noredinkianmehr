@@ -2146,6 +2146,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "THQIRT": {
+      "trigger_time": 1793405426493,
+      "trigger_price": 2748.0,
+      "secondary_score": 65.0,
+      "hunt_score": 25.7,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
