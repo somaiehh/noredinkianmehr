@@ -12701,7 +12701,10 @@
       "max_up": 0.25,
       "max_down": -3.62
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.25,
+      "max_down": -5.0
+    }
   },
   {
     "symbol": "WODIRT",
