@@ -2160,6 +2160,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "INITIRT": {
+      "trigger_time": 1793448363672,
+      "trigger_price": 91834.0,
+      "secondary_score": 70.0,
+      "hunt_score": 24.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
