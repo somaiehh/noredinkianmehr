@@ -29437,5 +29437,18 @@
     "levels": [],
     "failed_time": 1793386644709,
     "failed_price": 26500.0
+  },
+  {
+    "symbol": "BRIRT",
+    "anchor_time": 1793088440676,
+    "anchor_price": 136000.0,
+    "status": "FAILED",
+    "created_time": 1793088440676,
+    "last_time": 1793427381731,
+    "last_price": 137000.0,
+    "max_gain_pct": 2.714,
+    "levels": [],
+    "failed_time": 1793126009074,
+    "failed_price": 130000.0
   }
 ]
