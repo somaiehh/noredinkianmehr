@@ -29758,5 +29758,30 @@
     "levels": [],
     "failed_time": 1792946902839,
     "failed_price": 9.57
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1793391109933,
+    "anchor_price": 8.859e-05,
+    "status": "EXPIRED",
+    "created_time": 1793391109933,
+    "last_time": 1793461532777,
+    "last_price": 8.81e-05,
+    "max_gain_pct": 2.5172,
+    "levels": [],
+    "expired_time": 1793434310317
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1793361355604,
+    "anchor_price": 10150.0,
+    "status": "FAILED",
+    "created_time": 1793361355604,
+    "last_time": 1793461532777,
+    "last_price": 9979.0,
+    "max_gain_pct": 0.4631,
+    "levels": [],
+    "failed_time": 1793388390220,
+    "failed_price": 9732.0
   }
 ]
