@@ -29732,5 +29732,18 @@
     "max_gain_pct": 2.2005,
     "levels": [],
     "expired_time": 1793431657881
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1793393975796,
+    "anchor_price": 72.0,
+    "status": "FAILED",
+    "created_time": 1793393975796,
+    "last_time": 1793452538565,
+    "last_price": 69.6,
+    "max_gain_pct": 2.7778,
+    "levels": [],
+    "failed_time": 1793400223526,
+    "failed_price": 69.8
   }
 ]
