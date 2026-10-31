@@ -1,0 +1,30 @@
+name: Kian Checkout Benchmark
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout shallow
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+          persist-credentials: false
+
+      - name: Verify repository
+        run: |
+          echo "=== CHECKOUT TEST ==="
+          git rev-parse --is-shallow-repository
+          git rev-parse --short HEAD
+          test -f radar_live.py
+          test -f green_logger.py
+          test -f early_watch_logger.py
+          echo "CHECKOUT_SUCCESS"
