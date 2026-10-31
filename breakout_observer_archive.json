@@ -29584,5 +29584,35 @@
       }
     ],
     "expired_time": 1793393975796
+  },
+  {
+    "symbol": "DENTIRT",
+    "anchor_time": 1793400223526,
+    "anchor_price": 9.256,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1793400223526,
+    "last_time": 1793443393148,
+    "last_price": 11.234,
+    "max_gain_pct": 21.3699,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793401805719,
+    "confirmed_price": 9.8,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793401805719,
+        "price": 9.8,
+        "gain_pct": 5.8773
+      },
+      {
+        "level": 10,
+        "time": 1793421658644,
+        "price": 10.999,
+        "gain_pct": 18.831
+      }
+    ]
   }
 ]

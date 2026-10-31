@@ -12601,7 +12601,10 @@
       "max_up": 0.39,
       "max_down": -1.94
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.39,
+      "max_down": -2.32
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -12623,7 +12626,10 @@
       "max_up": 0.01,
       "max_down": -0.86
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.01,
+      "max_down": -2.78
+    }
   },
   {
     "symbol": "LSKIRT",
@@ -12684,6 +12690,25 @@
     "bs": 0.34,
     "ob": 1.0,
     "p15": 0.56,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "WODIRT",
+    "time": 1793443593763,
+    "price": 3528.0,
+    "pre30": 8.32,
+    "pre60": 8.32,
+    "pre120": 7.46,
+    "hunt": 76.8,
+    "persistence": 2,
+    "vr": 7.46,
+    "va": 2.52,
+    "buy": 11.666666666666666,
+    "bs": 0.35,
+    "ob": 1.0,
+    "p15": 0.94,
     "breakout": false,
     "result_1h": null,
     "result_4h": null
