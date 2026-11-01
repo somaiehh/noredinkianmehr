@@ -56998,5 +56998,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1793532149747,
+    "price": 12229.0,
+    "level": "STRONG",
+    "hunt": 53.8,
+    "persistence": 1,
+    "p15": 0.24,
+    "vr": 8.44,
+    "va": 2.0,
+    "buy": 44.66666666666667,
+    "bs": 1.34,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]

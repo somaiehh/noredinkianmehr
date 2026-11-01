@@ -30221,5 +30221,18 @@
     "levels": [],
     "failed_time": 1793427176564,
     "failed_price": 58745.0
+  },
+  {
+    "symbol": "DOODIRT",
+    "anchor_time": 1793429876306,
+    "anchor_price": 534.7,
+    "status": "FAILED",
+    "created_time": 1793429876306,
+    "last_time": 1793532149747,
+    "last_price": 529.0,
+    "max_gain_pct": 2.4874,
+    "levels": [],
+    "failed_time": 1793466094148,
+    "failed_price": 513.2
   }
 ]

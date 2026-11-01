@@ -10288,5 +10288,26 @@
     "max_move": 0.9709,
     "min_move": -5.8252,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "BEAMXIRT",
+    "event_time": 1793532347380,
+    "event_price": 1422.2,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 34.8,
+    "p15": -1.94,
+    "vr": null,
+    "va": 10.0,
+    "ta": null,
+    "bs": 4.78,
+    "book": 0.53,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
