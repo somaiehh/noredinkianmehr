@@ -30336,5 +30336,29 @@
       }
     ],
     "expired_time": 1793545365541
+  },
+  {
+    "symbol": "AVAIRT",
+    "anchor_time": 1793069140642,
+    "anchor_price": 93037.0,
+    "status": "EXPIRED",
+    "created_time": 1793069140642,
+    "last_time": 1793557708041,
+    "last_price": 82533.0,
+    "max_gain_pct": 9.9939,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793074770271,
+    "confirmed_price": 97691.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793074770271,
+        "price": 97691.0,
+        "gain_pct": 5.0023
+      }
+    ],
+    "expired_time": 1793112883652
   }
 ]
