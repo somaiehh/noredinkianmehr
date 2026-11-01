@@ -29974,5 +29974,36 @@
     "confirmed_time": 1793463492453,
     "confirmed_price": 331520.0,
     "expired_time": 1793490002227
+  },
+  {
+    "symbol": "LSKIRT",
+    "anchor_time": 1793441698830,
+    "anchor_price": 64869.0,
+    "status": "EXPIRED",
+    "created_time": 1793441698830,
+    "last_time": 1793507410026,
+    "last_price": 64000.0,
+    "max_gain_pct": 32.0816,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793443393148,
+    "confirmed_price": 67567.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793445325359,
+        "price": 69000.0,
+        "gain_pct": 6.3682
+      },
+      {
+        "level": 10,
+        "time": 1793446037941,
+        "price": 76002.0,
+        "gain_pct": 17.1623
+      }
+    ],
+    "expired_time": 1793490002227
   }
 ]
