@@ -30170,5 +30170,30 @@
     "max_gain_pct": 2.9908,
     "levels": [],
     "expired_time": 1792644954524
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1793462230273,
+    "anchor_price": 10001.0,
+    "status": "FAILED",
+    "created_time": 1793462230273,
+    "last_time": 1793524579584,
+    "last_price": 9717.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793501868510,
+    "failed_price": 9694.0
+  },
+  {
+    "symbol": "SLVONIRT",
+    "anchor_time": 1793391109933,
+    "anchor_price": 12277718.0,
+    "status": "EXPIRED",
+    "created_time": 1793391109933,
+    "last_time": 1793524384753,
+    "last_price": 12200000.0,
+    "max_gain_pct": 1.1188,
+    "levels": [],
+    "expired_time": 1793434310317
   }
 ]
