@@ -4127,6 +4127,19 @@
         "book1",
         "premove_pos"
       ]
+    },
+    "XPLIRT": {
+      "trigger_time": 1793510798687,
+      "trigger_price": 20346.0,
+      "secondary_score": 60.0,
+      "hunt_score": 49.1,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
