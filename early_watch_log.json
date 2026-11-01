@@ -57023,7 +57023,10 @@
       "max_up": 0.05,
       "max_down": 0.05
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.17,
+      "max_down": -0.4
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -57045,7 +57048,10 @@
       "max_up": -0.58,
       "max_down": -0.58
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.58,
+      "max_down": -6.73
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -57107,7 +57113,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 2.68,
+      "max_down": 1.28
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -57124,6 +57133,28 @@
     "va": 2.0,
     "buy": 81.33333333333333,
     "bs": 2.44,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.39,
+      "max_down": -0.39
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "POWRIRT",
+    "time": 1793535996368,
+    "price": 18708.0,
+    "level": "STRONG",
+    "hunt": 55.6,
+    "persistence": 1,
+    "p15": 0.19,
+    "vr": 7.79,
+    "va": 10.0,
+    "buy": 58.666666666666664,
+    "bs": 1.76,
     "breakout": false,
     "priority": false,
     "result_15m": null,
