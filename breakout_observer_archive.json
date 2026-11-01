@@ -30260,5 +30260,36 @@
     "levels": [],
     "failed_time": 1793478442236,
     "failed_price": 106000.0
+  },
+  {
+    "symbol": "RSS3IRT",
+    "anchor_time": 1793480417447,
+    "anchor_price": 172.0,
+    "status": "EXPIRED",
+    "created_time": 1793480417447,
+    "last_time": 1793549739548,
+    "last_price": 173.0,
+    "max_gain_pct": 27.907,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793500811132,
+    "confirmed_price": 178.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793508133514,
+        "price": 181.0,
+        "gain_pct": 5.2326
+      },
+      {
+        "level": 10,
+        "time": 1793511742691,
+        "price": 197.0,
+        "gain_pct": 14.5349
+      }
+    ],
+    "expired_time": 1793524384753
   }
 ]
