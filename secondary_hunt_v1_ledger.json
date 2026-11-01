@@ -4154,6 +4154,18 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "FLOCKIRT": {
+      "trigger_time": 1793535403973,
+      "trigger_price": 12426.0,
+      "secondary_score": 60.0,
+      "hunt_score": 37.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos"
+      ]
     }
   }
 }
