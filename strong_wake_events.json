@@ -14924,8 +14924,8 @@
     "tm_g4": 1.8261,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1793448821477,
-    "result_move": -13.7713,
+    "result_time": 1793465305255,
+    "result_move": -12.8238,
     "max_move": 0.0,
     "min_move": -15.2243,
     "ledger_version": "wake-ledger-v1"
@@ -15116,6 +15116,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 3.4483,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "TNSRIRT",
+    "event_time": 1793510060654,
+    "event_price": 7678.0,
+    "anchor_time": 1793509049879,
+    "anchor_price": 7705.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.2812,
+    "tm_e15_e1": 0.2812,
+    "tm_e1_e4": 1.0,
+    "tm_g15": 9.0,
+    "tm_g1": 1.3913,
+    "tm_g4": 1.3913,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
