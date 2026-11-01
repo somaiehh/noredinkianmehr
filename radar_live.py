@@ -2090,6 +2090,7 @@ def save_dashboard_data(out, alerts_enabled=True):
             "p15": x.get("p15"),
             "vr": x.get("vr"),
             "va": x.get("va"),
+            "ta": x.get("ta"),
             "bs": x.get("bs"),
             "breakout": x.get("breakout", False),
             "book": x.get("book", 0),
