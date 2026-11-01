@@ -15307,5 +15307,26 @@
     "max_move": 1.2024,
     "min_move": -1.8704,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "XPLIRT",
+    "event_time": 1793559336877,
+    "event_price": 19662.0,
+    "anchor_time": 1793557501976,
+    "anchor_price": 19763.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.2692,
+    "tm_e15_e1": 0.2692,
+    "tm_e1_e4": 0.5532,
+    "tm_g15": 3.5,
+    "tm_g1": 1.3684,
+    "tm_g4": 1.119,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
