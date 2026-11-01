@@ -56889,7 +56889,10 @@
       "max_up": 0.1,
       "max_down": -1.56
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.1,
+      "max_down": -1.56
+    },
     "result_4h": null,
     "result_12h": null
   }
