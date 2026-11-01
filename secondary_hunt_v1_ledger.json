@@ -4114,6 +4114,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "POWRIRT": {
+      "trigger_time": 1793507410026,
+      "trigger_price": 18466.0,
+      "secondary_score": 70.0,
+      "hunt_score": 62.7,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "book1",
+        "premove_pos"
+      ]
     }
   }
 }
