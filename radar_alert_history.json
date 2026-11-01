@@ -6807,5 +6807,18 @@
     "bs": 0.62,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1793502051114,
+    "symbol": "ALPINEIRT",
+    "price": 112000.0,
+    "hunt_score": 81.0,
+    "status": "EARLY",
+    "p15": 1.36,
+    "vr": 1.09,
+    "va": 2.19,
+    "bs": 0.18,
+    "breakout": false,
+    "persistence": 3
   }
 ]
