@@ -14924,7 +14924,7 @@
     "tm_g4": 1.8261,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1793465305255,
+    "result_time": 1793465889260,
     "result_move": -12.8238,
     "max_move": 0.0,
     "min_move": -15.2243,
@@ -15094,7 +15094,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.2162,
+    "max_move": 1.3969,
     "min_move": -0.5068,
     "ledger_version": "wake-ledger-v1"
   },
@@ -15200,7 +15200,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -1.6997,
+    "min_move": -1.983,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "AVAXIRT",
+    "event_time": 1793526435786,
+    "event_price": 2401822.0,
+    "anchor_time": 1793525219696,
+    "anchor_price": 2397326.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1538,
+    "tm_e15_e1": 0.1538,
+    "tm_e1_e4": 0.5,
+    "tm_g15": 0.2,
+    "tm_g1": 1.0833,
+    "tm_g4": 1.04,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
