@@ -30158,5 +30158,17 @@
     "levels": [],
     "failed_time": 1793452340180,
     "failed_price": 22776.0
+  },
+  {
+    "symbol": "PROMIRT",
+    "anchor_time": 1792601474969,
+    "anchor_price": 1553537.0,
+    "status": "EXPIRED",
+    "created_time": 1792601474969,
+    "last_time": 1793522735122,
+    "last_price": 1566449.0,
+    "max_gain_pct": 2.9908,
+    "levels": [],
+    "expired_time": 1792644954524
   }
 ]
