@@ -56410,7 +56410,10 @@
       "max_up": 7.26,
       "max_down": -1.24
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.26,
+      "max_down": -1.24
+    }
   },
   {
     "symbol": "ALPINEIRT",
@@ -56438,7 +56441,10 @@
       "max_up": 3.24,
       "max_down": -1.77
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.24,
+      "max_down": -6.63
+    }
   },
   {
     "symbol": "LSKIRT",
@@ -56466,7 +56472,10 @@
       "max_up": 15.08,
       "max_down": -1.62
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 15.08,
+      "max_down": -14.33
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -56494,7 +56503,10 @@
       "max_up": -0.14,
       "max_down": -4.6
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 11.44,
+      "max_down": -4.74
+    }
   },
   {
     "symbol": "RSS3IRT",
@@ -56522,7 +56534,10 @@
       "max_up": 1.08,
       "max_down": -14.52
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.08,
+      "max_down": -14.52
+    }
   },
   {
     "symbol": "AINIRT",
@@ -56774,6 +56789,25 @@
       "max_up": 0.0,
       "max_down": -1.42
     },
+    "result_12h": null
+  },
+  {
+    "symbol": "GIRT",
+    "time": 1793500462082,
+    "price": 1070.0,
+    "level": "WATCH",
+    "hunt": 42.1,
+    "persistence": 1,
+    "p15": 1.42,
+    "vr": 0.24,
+    "va": 2.71,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
     "result_12h": null
   }
 ]
