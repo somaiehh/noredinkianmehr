@@ -30195,5 +30195,18 @@
     "max_gain_pct": 1.1188,
     "levels": [],
     "expired_time": 1793434310317
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1793374035198,
+    "anchor_price": 249304.0,
+    "status": "FAILED",
+    "created_time": 1793374035198,
+    "last_time": 1793528127304,
+    "last_price": 246710.0,
+    "max_gain_pct": 1.2816,
+    "levels": [],
+    "failed_time": 1793386443596,
+    "failed_price": 240200.0
   }
 ]

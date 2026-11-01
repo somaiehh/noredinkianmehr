@@ -6872,5 +6872,31 @@
     "bs": 3.71,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1793528956945,
+    "symbol": "MARSCOINIRT",
+    "price": 16044.0,
+    "hunt_score": 82.7,
+    "status": "PRE_EARLY",
+    "p15": 0.29,
+    "vr": 1.35,
+    "va": 4.74,
+    "bs": 1.86,
+    "breakout": true,
+    "persistence": 1
+  },
+  {
+    "time": 1793529152090,
+    "symbol": "MARSCOINIRT",
+    "price": 16017.0,
+    "hunt_score": 82.6,
+    "status": "PRE_EARLY",
+    "p15": 0.12,
+    "vr": 1.35,
+    "va": 4.49,
+    "bs": 1.88,
+    "breakout": true,
+    "persistence": 2
   }
 ]
