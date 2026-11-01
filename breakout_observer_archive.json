@@ -30391,5 +30391,41 @@
       }
     ],
     "expired_time": 1793515533797
+  },
+  {
+    "symbol": "LSKIRT",
+    "anchor_time": 1793508133514,
+    "anchor_price": 66615.0,
+    "status": "FAILED",
+    "created_time": 1793508133514,
+    "last_time": 1793559507882,
+    "last_price": 55280.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793511927349,
+    "failed_price": 64500.0
+  },
+  {
+    "symbol": "BEAMXIRT",
+    "anchor_time": 1793517135357,
+    "anchor_price": 1700.0,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1793517135357,
+    "last_time": 1793559507882,
+    "last_price": 1380.9,
+    "max_gain_pct": 5.2294,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793518212809,
+    "confirmed_price": 1788.9,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793518212809,
+        "price": 1788.9,
+        "gain_pct": 5.2294
+      }
+    ]
   }
 ]
