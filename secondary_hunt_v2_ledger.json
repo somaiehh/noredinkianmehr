@@ -2188,6 +2188,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "FUNTOKENIRT": {
+      "trigger_time": 1793504718195,
+      "trigger_price": 1230.08,
+      "secondary_score": 70.0,
+      "hunt_score": 43.4,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
