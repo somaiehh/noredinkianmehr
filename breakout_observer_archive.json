@@ -30109,5 +30109,54 @@
     "levels": [],
     "failed_time": 1793439717509,
     "failed_price": 8913.8
+  },
+  {
+    "symbol": "WINIRT",
+    "anchor_time": 1791448398840,
+    "anchor_price": 16.005,
+    "status": "EXPIRED",
+    "created_time": 1791448398840,
+    "last_time": 1793521775504,
+    "last_price": 19.0,
+    "max_gain_pct": 18.7129,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791449276097,
+    "confirmed_price": 16.846,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791449276097,
+        "price": 16.846,
+        "gain_pct": 5.2546
+      }
+    ],
+    "expired_time": 1791491728302
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1793429876306,
+    "anchor_price": 1126.9,
+    "status": "EXPIRED",
+    "created_time": 1793429876306,
+    "last_time": 1793521775504,
+    "last_price": 1140.4,
+    "max_gain_pct": 2.1919,
+    "levels": [],
+    "expired_time": 1793473168140
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1793447816510,
+    "anchor_price": 23524.0,
+    "status": "FAILED",
+    "created_time": 1793447816510,
+    "last_time": 1793521775504,
+    "last_price": 22302.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793452340180,
+    "failed_price": 22776.0
   }
 ]
