@@ -12927,5 +12927,24 @@
       "max_down": -0.45
     },
     "result_4h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1793520875673,
+    "price": 331540.0,
+    "pre30": 0.65,
+    "pre60": 0.73,
+    "pre120": 0.9,
+    "hunt": 91.9,
+    "persistence": 2,
+    "vr": 1.04,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.71,
+    "ob": 0.86,
+    "p15": 0.65,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
