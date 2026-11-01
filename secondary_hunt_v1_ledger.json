@@ -4140,6 +4140,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "SUPERIRT": {
+      "trigger_time": 1793530616889,
+      "trigger_price": 49150.0,
+      "secondary_score": 75.0,
+      "hunt_score": 69.5,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
