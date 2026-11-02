@@ -30427,5 +30427,49 @@
         "gain_pct": 5.2294
       }
     ]
+  },
+  {
+    "symbol": "SOPHIRT",
+    "anchor_time": 1793517327773,
+    "anchor_price": 376.0,
+    "status": "EXPIRED",
+    "created_time": 1793517327773,
+    "last_time": 1793579534724,
+    "last_price": 405.0,
+    "max_gain_pct": 10.6383,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793541428606,
+    "confirmed_price": 390.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793541627576,
+        "price": 399.0,
+        "gain_pct": 6.117
+      },
+      {
+        "level": 10,
+        "time": 1793557708041,
+        "price": 416.0,
+        "gain_pct": 10.6383
+      }
+    ],
+    "expired_time": 1793566415459
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1793521775504,
+    "anchor_price": 8244.0,
+    "status": "FAILED",
+    "created_time": 1793521775504,
+    "last_time": 1793579534724,
+    "last_price": 8178.0,
+    "max_gain_pct": 5.5774,
+    "levels": [],
+    "failed_time": 1793524579584,
+    "failed_price": 7982.3
   }
 ]

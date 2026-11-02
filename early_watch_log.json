@@ -57278,7 +57278,10 @@
       "max_up": 2.71,
       "max_down": -4.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.71,
+      "max_down": -5.04
+    }
   },
   {
     "symbol": "COMMONIRT",
@@ -57306,7 +57309,10 @@
       "max_up": 0.7,
       "max_down": -1.41
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.41,
+      "max_down": -1.41
+    }
   },
   {
     "symbol": "LABIRT",
@@ -57334,7 +57340,10 @@
       "max_up": 0.7,
       "max_down": -2.59
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.7,
+      "max_down": -3.39
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -57362,7 +57371,10 @@
       "max_up": 14.99,
       "max_down": -0.93
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 14.99,
+      "max_down": -0.93
+    }
   },
   {
     "symbol": "QIRT",
