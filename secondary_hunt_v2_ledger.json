@@ -2241,6 +2241,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ZBTIRT": {
+      "trigger_time": 1793647638203,
+      "trigger_price": 18013.0,
+      "secondary_score": 65.0,
+      "hunt_score": 48.9,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
