@@ -30802,5 +30802,18 @@
     "max_gain_pct": 2.1287,
     "levels": [],
     "expired_time": 1793490002227
+  },
+  {
+    "symbol": "HAEDALIRT",
+    "anchor_time": 1793155194319,
+    "anchor_price": 8255.0,
+    "status": "FAILED",
+    "created_time": 1793155194319,
+    "last_time": 1793627131461,
+    "last_price": 7574.0,
+    "max_gain_pct": 10.2241,
+    "levels": [],
+    "failed_time": 1793158514024,
+    "failed_price": 7416.0
   }
 ]
