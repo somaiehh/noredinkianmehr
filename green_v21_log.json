@@ -13118,5 +13118,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "GIGAIRT",
+    "time": 1793617193443,
+    "price": 571.0,
+    "pre30": 2.7,
+    "pre60": 4.2,
+    "pre120": 6.53,
+    "hunt": 100.0,
+    "persistence": 2,
+    "vr": 2.03,
+    "va": 4.58,
+    "buy": 13.333333333333334,
+    "bs": 0.4,
+    "ob": 1.0,
+    "p15": 1.42,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

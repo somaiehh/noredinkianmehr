@@ -6989,5 +6989,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1793617198166,
+    "symbol": "GIGAIRT",
+    "price": 571.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.42,
+    "vr": 2.03,
+    "va": 4.58,
+    "bs": 0.4,
+    "breakout": true,
+    "persistence": 2
   }
 ]
