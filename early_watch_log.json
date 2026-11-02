@@ -57489,7 +57489,10 @@
       "max_up": 1.33,
       "max_down": -6.83
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.33,
+      "max_down": -16.18
+    }
   },
   {
     "symbol": "STXIRT",
