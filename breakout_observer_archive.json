@@ -30515,5 +30515,31 @@
     "levels": [],
     "failed_time": 1793553111766,
     "failed_price": 177.0
+  },
+  {
+    "symbol": "ALPINEIRT",
+    "anchor_time": 1793548706864,
+    "anchor_price": 95858.0,
+    "status": "FAILED",
+    "created_time": 1793548706864,
+    "last_time": 1793597425402,
+    "last_price": 95828.0,
+    "max_gain_pct": 14.7395,
+    "levels": [],
+    "failed_time": 1793549531834,
+    "failed_price": 92500.0
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1793554940227,
+    "anchor_price": 76241.0,
+    "status": "FAILED",
+    "created_time": 1793554940227,
+    "last_time": 1793598240305,
+    "last_price": 75034.0,
+    "max_gain_pct": 7.5537,
+    "levels": [],
+    "failed_time": 1793555848118,
+    "failed_price": 73555.0
   }
 ]
