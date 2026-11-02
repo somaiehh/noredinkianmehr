@@ -30665,5 +30665,18 @@
     "levels": [],
     "failed_time": 1793547875216,
     "failed_price": 1.312
+  },
+  {
+    "symbol": "INJIRT",
+    "anchor_time": 1792146761950,
+    "anchor_price": 2434019.0,
+    "status": "FAILED",
+    "created_time": 1792146761950,
+    "last_time": 1793610937872,
+    "last_price": 1987375.0,
+    "max_gain_pct": 1.3117,
+    "levels": [],
+    "failed_time": 1792163978122,
+    "failed_price": 2347635.0
   }
 ]
