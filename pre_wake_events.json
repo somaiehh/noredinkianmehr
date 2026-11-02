@@ -10454,7 +10454,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 2.5145,
-    "min_move": 0.0,
+    "min_move": -0.5394,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -10538,7 +10538,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.4459,
-    "min_move": -0.7725,
+    "min_move": -0.9295,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -10559,7 +10559,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.9085,
-    "min_move": -0.3155,
+    "min_move": -0.4732,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "EPICIRT",
+    "event_time": 1793639669967,
+    "event_price": 19700.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 35.4,
+    "p15": -1.41,
+    "vr": null,
+    "va": 10.0,
+    "ta": 3.23,
+    "bs": 5.0,
+    "book": 0.4,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
