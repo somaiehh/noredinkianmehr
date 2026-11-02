@@ -57761,6 +57761,28 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SOPHIRT",
+    "time": 1793624217603,
+    "price": 417.0,
+    "level": "STRONG",
+    "hunt": 73.4,
+    "persistence": 1,
+    "p15": 1.21,
+    "vr": 0.67,
+    "va": 10.0,
+    "buy": 65.66666666666666,
+    "bs": 1.97,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

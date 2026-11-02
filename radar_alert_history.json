@@ -7067,5 +7067,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 6
+  },
+  {
+    "time": 1793624392644,
+    "symbol": "SOPHIRT",
+    "price": 419.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.7,
+    "vr": 1.07,
+    "va": 10.0,
+    "bs": 2.09,
+    "breakout": false,
+    "persistence": 2
   }
 ]
