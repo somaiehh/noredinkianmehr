@@ -7080,5 +7080,18 @@
     "bs": 2.09,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1793627135557,
+    "symbol": "HOTIRT",
+    "price": 111.3,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.49,
+    "vr": 10.93,
+    "va": 3.85,
+    "bs": 0.16,
+    "breakout": true,
+    "persistence": 2
   }
 ]
