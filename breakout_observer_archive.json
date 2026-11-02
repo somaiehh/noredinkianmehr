@@ -30815,5 +30815,29 @@
     "levels": [],
     "failed_time": 1793158514024,
     "failed_price": 7416.0
+  },
+  {
+    "symbol": "LIGHTIRT",
+    "anchor_time": 1793116941698,
+    "anchor_price": 76000.0,
+    "status": "EXPIRED",
+    "created_time": 1793116941698,
+    "last_time": 1793630584604,
+    "last_price": 66267.0,
+    "max_gain_pct": 8.2895,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793125825057,
+    "confirmed_price": 80666.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793125825057,
+        "price": 80666.0,
+        "gain_pct": 6.1395
+      }
+    ],
+    "expired_time": 1793160643331
   }
 ]
