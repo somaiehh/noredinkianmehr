@@ -57615,7 +57615,10 @@
       "max_up": -0.95,
       "max_down": -0.95
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.08,
+      "max_down": -4.29
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -57637,6 +57640,25 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "time": 1793614659677,
+    "price": 1020.68,
+    "level": "STRONG",
+    "hunt": 71.8,
+    "persistence": 2,
+    "p15": 0.31,
+    "vr": 9.49,
+    "va": 4.72,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
