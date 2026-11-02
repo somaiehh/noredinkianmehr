@@ -13176,7 +13176,10 @@
       "max_up": 0.0,
       "max_down": -0.84
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.44,
+      "max_down": -2.19
+    }
   },
   {
     "symbol": "HOTIRT",
