@@ -58010,7 +58010,10 @@
       "max_up": 0.49,
       "max_down": 0.49
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.5,
+      "max_down": -2.12
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -58032,7 +58035,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -2.6
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -58054,6 +58060,25 @@
       "max_up": -0.81,
       "max_down": -0.81
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "time": 1793649412036,
+    "price": 984.47,
+    "level": "STRONG",
+    "hunt": 56.9,
+    "persistence": 2,
+    "p15": 0.14,
+    "vr": 16.83,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.1,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
