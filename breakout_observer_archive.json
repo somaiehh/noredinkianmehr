@@ -30891,5 +30891,18 @@
     "levels": [],
     "failed_time": 1793599366041,
     "failed_price": 96653.0
+  },
+  {
+    "symbol": "INITIRT",
+    "anchor_time": 1793448003252,
+    "anchor_price": 91811.0,
+    "status": "FAILED",
+    "created_time": 1793448003252,
+    "last_time": 1793645951987,
+    "last_price": 59589.0,
+    "max_gain_pct": 3.7131,
+    "levels": [],
+    "failed_time": 1793448821477,
+    "failed_price": 86500.0
   }
 ]
