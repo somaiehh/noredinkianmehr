@@ -2228,6 +2228,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "CATIRT": {
+      "trigger_time": 1793618842820,
+      "trigger_price": 0.536,
+      "secondary_score": 60.0,
+      "hunt_score": 53.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
