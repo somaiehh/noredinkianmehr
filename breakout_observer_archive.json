@@ -30565,5 +30565,18 @@
       }
     ],
     "expired_time": 1793553111766
+  },
+  {
+    "symbol": "OGNIRT",
+    "anchor_time": 1791975793699,
+    "anchor_price": 8669.0,
+    "status": "FAILED",
+    "created_time": 1791975793699,
+    "last_time": 1793601355323,
+    "last_price": 7650.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791983421482,
+    "failed_price": 8370.0
   }
 ]
