@@ -4179,6 +4179,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "CATIRT": {
+      "trigger_time": 1793610937872,
+      "trigger_price": 0.555,
+      "secondary_score": 85.0,
+      "hunt_score": 78.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "dt15_pos"
+      ]
     }
   }
 }

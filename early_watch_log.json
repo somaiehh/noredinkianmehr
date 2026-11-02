@@ -57593,5 +57593,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "CATIRT",
+    "time": 1793610937872,
+    "price": 0.555,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.85,
+    "vr": 1.0,
+    "va": 6.17,
+    "buy": 100,
+    "bs": 3.07,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
