@@ -56968,7 +56968,10 @@
       "max_up": 0.0,
       "max_down": -4.81
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -10.46
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -56996,7 +56999,10 @@
       "max_up": 2.05,
       "max_down": -0.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.21,
+      "max_down": -0.7
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -57024,7 +57030,10 @@
       "max_up": 7.83,
       "max_down": -0.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.83,
+      "max_down": -1.49
+    }
   },
   {
     "symbol": "LABIRT",
@@ -57052,7 +57061,10 @@
       "max_up": 5.04,
       "max_down": -0.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.04,
+      "max_down": -0.4
+    }
   },
   {
     "symbol": "GTCIRT",
@@ -57080,7 +57092,10 @@
       "max_up": -0.58,
       "max_down": -9.18
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.58,
+      "max_down": -9.18
+    }
   },
   {
     "symbol": "GIRT",
@@ -57108,7 +57123,10 @@
       "max_up": -1.15,
       "max_down": -11.89
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.15,
+      "max_down": -14.01
+    }
   },
   {
     "symbol": "AINIRT",
@@ -57136,7 +57154,10 @@
       "max_up": 4.88,
       "max_down": -2.85
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.95,
+      "max_down": -2.85
+    }
   },
   {
     "symbol": "WINIRT",
@@ -57164,7 +57185,10 @@
       "max_up": 2.68,
       "max_down": -5.65
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.68,
+      "max_down": -5.65
+    }
   },
   {
     "symbol": "CAPIRT",
@@ -57192,7 +57216,10 @@
       "max_up": 0.92,
       "max_down": -7.62
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.21,
+      "max_down": -7.62
+    }
   },
   {
     "symbol": "POWRIRT",
@@ -57220,7 +57247,10 @@
       "max_up": 0.0,
       "max_down": -16.76
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -16.85
+    }
   },
   {
     "symbol": "LSKIRT",
@@ -57384,7 +57414,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.62,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -57403,7 +57436,10 @@
     "priority": true,
     "result_15m": null,
     "result_1h": null,
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.65,
+      "max_down": 1.28
+    },
     "result_12h": null
   }
 ]
