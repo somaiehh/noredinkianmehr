@@ -10370,7 +10370,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 3.481,
-    "min_move": -0.9494,
+    "min_move": -1.5823,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -10391,7 +10391,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 3.481,
-    "min_move": -0.9494,
+    "min_move": -1.5823,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -10496,7 +10496,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -2.3429,
+    "min_move": -2.8331,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "SIRENIRT",
+    "event_time": 1793634312883,
+    "event_price": 9912.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 65.1,
+    "p15": -0.85,
+    "vr": null,
+    "va": 10.0,
+    "ta": 3.18,
+    "bs": 2.46,
+    "book": 0.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
