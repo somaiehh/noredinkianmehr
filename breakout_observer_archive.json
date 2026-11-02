@@ -30777,5 +30777,18 @@
     "max_gain_pct": 1.513,
     "levels": [],
     "expired_time": 1793566415459
+  },
+  {
+    "symbol": "PIGGYIRT",
+    "anchor_time": 1792233593370,
+    "anchor_price": 4073.0,
+    "status": "FAILED",
+    "created_time": 1792233593370,
+    "last_time": 1793622630699,
+    "last_price": 3027.0,
+    "max_gain_pct": 0.6384,
+    "levels": [],
+    "failed_time": 1792234405038,
+    "failed_price": 3672.0
   }
 ]

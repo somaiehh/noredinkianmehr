@@ -57739,6 +57739,28 @@
     "bs": 3.0,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 0.13,
+      "max_down": 0.13
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PIGGYIRT",
+    "time": 1793623403881,
+    "price": 3038.0,
+    "level": "STRONG",
+    "hunt": 87.0,
+    "persistence": 5,
+    "p15": 0.36,
+    "vr": 3.78,
+    "va": 1.94,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

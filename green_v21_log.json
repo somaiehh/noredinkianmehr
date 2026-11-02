@@ -13165,5 +13165,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "HOTIRT",
+    "time": 1793623594716,
+    "price": 107.0,
+    "pre30": 1.9,
+    "pre60": 1.23,
+    "pre120": 3.08,
+    "hunt": 71.2,
+    "persistence": 2,
+    "vr": 2.55,
+    "va": 2.0,
+    "buy": 12.0,
+    "bs": 0.36,
+    "ob": 1.0,
+    "p15": 0.94,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
