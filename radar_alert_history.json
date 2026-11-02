@@ -7093,5 +7093,18 @@
     "bs": 0.16,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1793631577625,
+    "symbol": "CATIRT",
+    "price": 0.4933,
+    "hunt_score": 81.3,
+    "status": "EARLY",
+    "p15": 1.82,
+    "vr": 4.29,
+    "va": 2.42,
+    "bs": 0.82,
+    "breakout": false,
+    "persistence": 2
   }
 ]
