@@ -57551,7 +57551,10 @@
       "max_up": -1.42,
       "max_down": -11.74
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.42,
+      "max_down": -25.07
+    }
   },
   {
     "symbol": "SOPHIRT",
@@ -57918,6 +57921,25 @@
       "max_up": -1.24,
       "max_down": -1.98
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ROSEIRT",
+    "time": 1793642374644,
+    "price": 1594.0,
+    "level": "WATCH",
+    "hunt": 40.6,
+    "persistence": 2,
+    "p15": 0.06,
+    "vr": 1.27,
+    "va": 0.72,
+    "buy": 54.0,
+    "bs": 1.62,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
