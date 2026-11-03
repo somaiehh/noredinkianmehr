@@ -10582,5 +10582,26 @@
     "max_move": 0.4975,
     "min_move": -7.868,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "event_time": 1793673966698,
+    "event_price": 748.09,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 31.9,
+    "p15": -1.54,
+    "vr": null,
+    "va": 10.0,
+    "ta": 1.4,
+    "bs": 4.36,
+    "book": 0.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
