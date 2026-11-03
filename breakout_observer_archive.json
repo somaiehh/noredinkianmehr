@@ -31421,5 +31421,42 @@
     "levels": [],
     "failed_time": 1793447174152,
     "failed_price": 133580.0
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "anchor_time": 1792948957032,
+    "anchor_price": 14055.0,
+    "status": "EXPIRED",
+    "created_time": 1792948957032,
+    "last_time": 1793719916061,
+    "last_price": 10672.0,
+    "max_gain_pct": 3.28,
+    "levels": [],
+    "expired_time": 1792992695536
+  },
+  {
+    "symbol": "RSS3IRT",
+    "anchor_time": 1793596321110,
+    "anchor_price": 188.0,
+    "status": "FAILED",
+    "created_time": 1793596321110,
+    "last_time": 1793720596140,
+    "last_price": 162.0,
+    "max_gain_pct": 1.5957,
+    "levels": [],
+    "failed_time": 1793603714078,
+    "failed_price": 181.0
+  },
+  {
+    "symbol": "POLIRT",
+    "anchor_time": 1793089011671,
+    "anchor_price": 24481.0,
+    "status": "EXPIRED",
+    "created_time": 1793089011671,
+    "last_time": 1793720596140,
+    "last_price": 24616.0,
+    "max_gain_pct": 6.2048,
+    "levels": [],
+    "expired_time": 1793140842155
   }
 ]
