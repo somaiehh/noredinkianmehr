@@ -31677,5 +31677,67 @@
       }
     ],
     "expired_time": 1793726244871
+  },
+  {
+    "symbol": "INITIRT",
+    "anchor_time": 1793691760963,
+    "anchor_price": 65000.0,
+    "status": "EXPIRED",
+    "created_time": 1793691760963,
+    "last_time": 1793741460800,
+    "last_price": 75742.0,
+    "max_gain_pct": 44.6138,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793692634387,
+    "confirmed_price": 71999.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793692634387,
+        "price": 71999.0,
+        "gain_pct": 10.7677
+      },
+      {
+        "level": 10,
+        "time": 1793692634387,
+        "price": 71999.0,
+        "gain_pct": 10.7677
+      }
+    ],
+    "expired_time": 1793735918489
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1793686527288,
+    "anchor_price": 7700.0,
+    "status": "EXPIRED",
+    "created_time": 1793686527288,
+    "last_time": 1793741634708,
+    "last_price": 7960.0,
+    "max_gain_pct": 11.2844,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793702497308,
+    "confirmed_price": 7931.3,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793703576518,
+        "price": 8099.0,
+        "gain_pct": 5.1818
+      },
+      {
+        "level": 10,
+        "time": 1793723235065,
+        "price": 8568.9,
+        "gain_pct": 11.2844
+      }
+    ],
+    "expired_time": 1793731141555
   }
 ]
