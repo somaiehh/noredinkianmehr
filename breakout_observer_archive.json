@@ -31201,5 +31201,18 @@
     "max_gain_pct": 2.6236,
     "levels": [],
     "expired_time": 1793421658644
+  },
+  {
+    "symbol": "LSKIRT",
+    "anchor_time": 1793566415459,
+    "anchor_price": 57832.0,
+    "status": "FAILED",
+    "created_time": 1793566415459,
+    "last_time": 1793696404536,
+    "last_price": 47935.0,
+    "max_gain_pct": 2.7545,
+    "levels": [],
+    "failed_time": 1793585248696,
+    "failed_price": 54610.0
   }
 ]

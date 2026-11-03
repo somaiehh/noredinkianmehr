@@ -7210,5 +7210,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1793697560062,
+    "symbol": "LSKIRT",
+    "price": 48563.0,
+    "hunt_score": 86.9,
+    "status": "EARLY",
+    "p15": 1.31,
+    "vr": 19.28,
+    "va": 2.0,
+    "bs": 0.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
