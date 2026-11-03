@@ -30904,5 +30904,36 @@
     "levels": [],
     "failed_time": 1793448821477,
     "failed_price": 86500.0
+  },
+  {
+    "symbol": "MPLXIRT",
+    "anchor_time": 1793617012253,
+    "anchor_price": 20472.0,
+    "status": "EXPIRED",
+    "created_time": 1793617012253,
+    "last_time": 1793663239020,
+    "last_price": 21016.0,
+    "max_gain_pct": 14.5027,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793620686553,
+    "confirmed_price": 22000.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793620686553,
+        "price": 22000.0,
+        "gain_pct": 7.4639
+      },
+      {
+        "level": 10,
+        "time": 1793624217603,
+        "price": 23441.0,
+        "gain_pct": 14.5027
+      }
+    ],
+    "expired_time": 1793663049473
   }
 ]
