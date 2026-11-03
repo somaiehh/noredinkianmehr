@@ -58519,7 +58519,10 @@
       "max_up": 2.39,
       "max_down": -0.98
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.39,
+      "max_down": -3.18
+    }
   },
   {
     "symbol": "MPLXIRT",
@@ -58547,7 +58550,10 @@
       "max_up": -1.44,
       "max_down": -12.84
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.44,
+      "max_down": -16.56
+    }
   },
   {
     "symbol": "QIRT",
@@ -59242,6 +59248,28 @@
     "bs": 3.0,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BEAMXIRT",
+    "time": 1793743208837,
+    "price": 1140.0,
+    "level": "STRONG",
+    "hunt": 60.2,
+    "persistence": 1,
+    "p15": 1.79,
+    "vr": 0.01,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

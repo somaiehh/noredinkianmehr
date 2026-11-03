@@ -31751,5 +31751,49 @@
     "max_gain_pct": 2.9284,
     "levels": [],
     "expired_time": 1793739618143
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1793679164967,
+    "anchor_price": 36385.0,
+    "status": "EXPIRED",
+    "created_time": 1793679164967,
+    "last_time": 1793742287372,
+    "last_price": 27485.0,
+    "max_gain_pct": 24.4991,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793680032110,
+    "confirmed_price": 39876.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793680032110,
+        "price": 39876.0,
+        "gain_pct": 9.5946
+      },
+      {
+        "level": 10,
+        "time": 1793680200649,
+        "price": 41000.0,
+        "gain_pct": 12.6838
+      }
+    ],
+    "expired_time": 1793722699443
+  },
+  {
+    "symbol": "BEAMXIRT",
+    "anchor_time": 1793566415459,
+    "anchor_price": 1565.0,
+    "status": "FAILED",
+    "created_time": 1793566415459,
+    "last_time": 1793743035587,
+    "last_price": 1134.3,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793579343943,
+    "failed_price": 1476.3
   }
 ]
