@@ -7379,5 +7379,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 5
+  },
+  {
+    "time": 1793736300776,
+    "symbol": "TAIRT",
+    "price": 18898.0,
+    "hunt_score": 81.2,
+    "status": "PRE_EARLY",
+    "p15": 0.14,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 1.32,
+    "breakout": true,
+    "persistence": 1
   }
 ]
