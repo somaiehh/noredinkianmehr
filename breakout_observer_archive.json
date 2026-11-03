@@ -31572,5 +31572,42 @@
     "levels": [],
     "failed_time": 1793683642933,
     "failed_price": 18101.0
+  },
+  {
+    "symbol": "ALPINEIRT",
+    "anchor_time": 1793690851033,
+    "anchor_price": 95000.0,
+    "status": "FAILED",
+    "created_time": 1793690851033,
+    "last_time": 1793736931540,
+    "last_price": 95440.0,
+    "max_gain_pct": 130.3947,
+    "levels": [],
+    "failed_time": 1793691760963,
+    "failed_price": 92100.0
+  },
+  {
+    "symbol": "WLDIRT",
+    "anchor_time": 1792506440665,
+    "anchor_price": 148500.0,
+    "status": "EXPIRED",
+    "created_time": 1792506440665,
+    "last_time": 1793737947066,
+    "last_price": 101214.0,
+    "max_gain_pct": 6.0229,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792526970963,
+    "confirmed_price": 153248.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792535990646,
+        "price": 156000.0,
+        "gain_pct": 5.0505
+      }
+    ],
+    "expired_time": 1792560327933
   }
 ]
