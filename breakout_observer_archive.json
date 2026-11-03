@@ -31535,5 +31535,29 @@
     "confirmed_time": 1793710611489,
     "confirmed_price": 1.33552,
     "expired_time": 1793727133513
+  },
+  {
+    "symbol": "TAIRT",
+    "anchor_time": 1792927445925,
+    "anchor_price": 15560.0,
+    "status": "EXPIRED",
+    "created_time": 1792927445925,
+    "last_time": 1793735918489,
+    "last_price": 18813.0,
+    "max_gain_pct": 20.9062,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792946072773,
+    "confirmed_price": 16365.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792946072773,
+        "price": 16365.0,
+        "gain_pct": 5.1735
+      }
+    ],
+    "expired_time": 1792971492731
   }
 ]

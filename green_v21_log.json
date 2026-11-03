@@ -13551,7 +13551,10 @@
       "max_up": 0.65,
       "max_down": -1.08
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.94,
+      "max_down": -1.08
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -13573,7 +13576,10 @@
       "max_up": -0.64,
       "max_down": -1.72
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.29,
+      "max_down": -1.72
+    }
   },
   {
     "symbol": "HOTIRT",
@@ -13613,7 +13619,10 @@
     "ob": 1.0,
     "p15": 0.24,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.51,
+      "max_down": 0.02
+    },
     "result_4h": null
   },
   {
@@ -13632,7 +13641,10 @@
     "ob": 1.0,
     "p15": 0.75,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -0.49
+    },
     "result_4h": null
   }
 ]
