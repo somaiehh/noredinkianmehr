@@ -31382,5 +31382,31 @@
     "levels": [],
     "failed_time": 1793644230381,
     "failed_price": 14644821.0
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1793617193443,
+    "anchor_price": 10147.0,
+    "status": "FAILED",
+    "created_time": 1793617193443,
+    "last_time": 1793717087805,
+    "last_price": 9790.0,
+    "max_gain_pct": 1.498,
+    "levels": [],
+    "failed_time": 1793621538203,
+    "failed_price": 9818.0
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1793613421927,
+    "anchor_price": 330460.0,
+    "status": "FAILED",
+    "created_time": 1793613421927,
+    "last_time": 1793717087805,
+    "last_price": 317259.0,
+    "max_gain_pct": 0.0384,
+    "levels": [],
+    "failed_time": 1793648542810,
+    "failed_price": 318252.0
   }
 ]
