@@ -31471,5 +31471,29 @@
     "levels": [],
     "failed_time": 1793681081984,
     "failed_price": 31900.0
+  },
+  {
+    "symbol": "BTRIRT",
+    "anchor_time": 1793093884003,
+    "anchor_price": 14460.0,
+    "status": "EXPIRED",
+    "created_time": 1793093884003,
+    "last_time": 1793726407668,
+    "last_price": 12646.0,
+    "max_gain_pct": 5.9751,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793118385594,
+    "confirmed_price": 15040.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793118562075,
+        "price": 15324.0,
+        "gain_pct": 5.9751
+      }
+    ],
+    "expired_time": 1793163866416
   }
 ]
