@@ -58398,7 +58398,10 @@
       "max_up": 5.64,
       "max_down": -6.47
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.93,
+      "max_down": -37.75
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -58426,7 +58429,10 @@
       "max_up": -0.27,
       "max_down": -5.53
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.27,
+      "max_down": -9.04
+    }
   },
   {
     "symbol": "BABYSHARKIRT",
@@ -58920,7 +58926,10 @@
       "max_up": 1.1,
       "max_down": -1.31
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.13,
+      "max_down": -3.65
+    },
     "result_12h": null
   },
   {
@@ -58945,7 +58954,10 @@
       "max_up": -0.1,
       "max_down": -7.4
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.54,
+      "max_down": -7.4
+    },
     "result_12h": null
   },
   {
@@ -59092,6 +59104,25 @@
       "max_up": 1.02,
       "max_down": 0.19
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PUMPIRT",
+    "time": 1793731336733,
+    "price": 1160.0,
+    "level": "STRONG",
+    "hunt": 86.1,
+    "persistence": 3,
+    "p15": 0.24,
+    "vr": 1.43,
+    "va": 2.53,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }

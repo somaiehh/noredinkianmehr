@@ -13501,7 +13501,10 @@
       "max_up": -0.1,
       "max_down": -7.4
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.54,
+      "max_down": -7.4
+    }
   },
   {
     "symbol": "HUMAIRT",
@@ -13589,6 +13592,25 @@
       "max_up": 1.16,
       "max_down": -1.43
     },
+    "result_4h": null
+  },
+  {
+    "symbol": "PUMPIRT",
+    "time": 1793731336733,
+    "price": 1160.0,
+    "pre30": 1.01,
+    "pre60": 0.87,
+    "pre120": 1.53,
+    "hunt": 86.1,
+    "persistence": 3,
+    "vr": 1.43,
+    "va": 2.53,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.24,
+    "breakout": true,
+    "result_1h": null,
     "result_4h": null
   }
 ]
