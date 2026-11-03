@@ -58646,6 +58646,28 @@
     "bs": 2.18,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 0.71,
+      "max_down": 0.71
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HUMAIRT",
+    "time": 1793707383188,
+    "price": 5371.0,
+    "level": "STRONG",
+    "hunt": 56.5,
+    "persistence": 1,
+    "p15": 0.79,
+    "vr": 0.43,
+    "va": 2.04,
+    "buy": 100,
+    "bs": 4.92,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
