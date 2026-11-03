@@ -31343,5 +31343,31 @@
     "max_gain_pct": 1.3415,
     "levels": [],
     "expired_time": 1793382113475
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "anchor_time": 1793617193443,
+    "anchor_price": 698.5,
+    "status": "FAILED",
+    "created_time": 1793617193443,
+    "last_time": 1793709144051,
+    "last_price": 621.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793620686553,
+    "failed_price": 668.0
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1793372348223,
+    "anchor_price": 11622.0,
+    "status": "FAILED",
+    "created_time": 1793372348223,
+    "last_time": 1793709695456,
+    "last_price": 10589.0,
+    "max_gain_pct": 0.5851,
+    "levels": [],
+    "failed_time": 1793386443596,
+    "failed_price": 11222.0
   }
 ]
