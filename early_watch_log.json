@@ -57967,7 +57967,10 @@
       "max_up": -1.24,
       "max_down": -5.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.81,
+      "max_down": -5.84
+    }
   },
   {
     "symbol": "ROSEIRT",
@@ -58159,7 +58162,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.5,
+      "max_down": -2.31
+    },
     "result_12h": null
   },
   {

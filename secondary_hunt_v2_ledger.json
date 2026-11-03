@@ -2255,6 +2255,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "HOTIRT": {
+      "trigger_time": 1793677414207,
+      "trigger_price": 125.2,
+      "secondary_score": 70.0,
+      "hunt_score": 37.3,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
