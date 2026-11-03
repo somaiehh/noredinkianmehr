@@ -31048,5 +31048,29 @@
       }
     ],
     "expired_time": 1793663049473
+  },
+  {
+    "symbol": "BMTIRT",
+    "anchor_time": 1793196392593,
+    "anchor_price": 8395.0,
+    "status": "EXPIRED",
+    "created_time": 1793196392593,
+    "last_time": 1793681081984,
+    "last_price": 6392.0,
+    "max_gain_pct": 5.8845,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793198582707,
+    "confirmed_price": 8889.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793198582707,
+        "price": 8889.0,
+        "gain_pct": 5.8845
+      }
+    ],
+    "expired_time": 1793258757460
   }
 ]
