@@ -31150,5 +31150,31 @@
     "levels": [],
     "failed_time": 1793647892722,
     "failed_price": 63000.0
+  },
+  {
+    "symbol": "SOPHIRT",
+    "anchor_time": 1793639497865,
+    "anchor_price": 426.0,
+    "status": "FAILED",
+    "created_time": 1793639497865,
+    "last_time": 1793692634387,
+    "last_price": 385.0,
+    "max_gain_pct": 0.2347,
+    "levels": [],
+    "failed_time": 1793644926911,
+    "failed_price": 411.0
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1793598446202,
+    "anchor_price": 79185.0,
+    "status": "FAILED",
+    "created_time": 1793598446202,
+    "last_time": 1793692634387,
+    "last_price": 66642.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793605325404,
+    "failed_price": 75000.0
   }
 ]
