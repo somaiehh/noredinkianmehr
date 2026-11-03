@@ -15790,5 +15790,26 @@
     "max_move": 0.0473,
     "min_move": -1.089,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "PUFFERIRT",
+    "event_time": 1793739980407,
+    "event_price": 7727.0,
+    "anchor_time": 1793739618143,
+    "anchor_price": 7726.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1111,
+    "tm_e15_e1": 0.1111,
+    "tm_e1_e4": 0.72,
+    "tm_g15": 0.6667,
+    "tm_g1": 1.125,
+    "tm_g4": 1.087,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]

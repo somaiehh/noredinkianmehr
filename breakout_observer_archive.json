@@ -31609,5 +31609,42 @@
       }
     ],
     "expired_time": 1792560327933
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1793693683685,
+    "anchor_price": 1139.9,
+    "status": "FAILED",
+    "created_time": 1793693683685,
+    "last_time": 1793739802875,
+    "last_price": 1161.1,
+    "max_gain_pct": 2.4739,
+    "levels": [],
+    "failed_time": 1793694614323,
+    "failed_price": 1068.3
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1793683642933,
+    "anchor_price": 12273.0,
+    "status": "EXPIRED",
+    "created_time": 1793683642933,
+    "last_time": 1793739980407,
+    "last_price": 12364.0,
+    "max_gain_pct": 5.8421,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793692634387,
+    "confirmed_price": 12711.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793705218932,
+        "price": 12900.0,
+        "gain_pct": 5.1088
+      }
+    ],
+    "expired_time": 1793727133513
   }
 ]
