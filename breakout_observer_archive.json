@@ -31228,5 +31228,18 @@
     "confirmed_time": 1793411743578,
     "confirmed_price": 356369369.0,
     "expired_time": 1793436124089
+  },
+  {
+    "symbol": "AAVEIRT",
+    "anchor_time": 1791314773537,
+    "anchor_price": 48785944.0,
+    "status": "FAILED",
+    "created_time": 1791314773537,
+    "last_time": 1793700021627,
+    "last_price": 35033581.0,
+    "max_gain_pct": 0.5839,
+    "levels": [],
+    "failed_time": 1791347805793,
+    "failed_price": 46300000.0
   }
 ]
