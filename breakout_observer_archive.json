@@ -31072,5 +31072,31 @@
       }
     ],
     "expired_time": 1793258757460
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1793610937872,
+    "anchor_price": 1.33762,
+    "status": "FAILED",
+    "created_time": 1793610937872,
+    "last_time": 1793682912710,
+    "last_price": 1.2902,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793628922188,
+    "failed_price": 1.29001
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1793599174890,
+    "anchor_price": 12411.0,
+    "status": "FAILED",
+    "created_time": 1793599174890,
+    "last_time": 1793682912710,
+    "last_price": 12165.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793604414227,
+    "failed_price": 11910.0
   }
 ]
