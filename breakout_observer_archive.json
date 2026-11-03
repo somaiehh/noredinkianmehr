@@ -31124,5 +31124,18 @@
     "levels": [],
     "failed_time": 1793607300984,
     "failed_price": 1033.67
+  },
+  {
+    "symbol": "ALPINEIRT",
+    "anchor_time": 1793645791398,
+    "anchor_price": 99000.0,
+    "status": "FAILED",
+    "created_time": 1793645791398,
+    "last_time": 1793690498659,
+    "last_price": 93479.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793646974918,
+    "failed_price": 95663.0
   }
 ]
