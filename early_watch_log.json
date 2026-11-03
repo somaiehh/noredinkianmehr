@@ -58488,7 +58488,10 @@
       "max_up": 4.9,
       "max_down": -3.33
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.04,
+      "max_down": -3.66
+    }
   },
   {
     "symbol": "LSKIRT",
