@@ -13453,5 +13453,43 @@
       "max_down": -1.71
     },
     "result_4h": null
+  },
+  {
+    "symbol": "HUMAIRT",
+    "time": 1793716911846,
+    "price": 5974.0,
+    "pre30": 2.29,
+    "pre60": 7.29,
+    "pre120": 8.7,
+    "hunt": 94.9,
+    "persistence": 3,
+    "vr": 2.87,
+    "va": 5.48,
+    "buy": 100,
+    "bs": 4.98,
+    "ob": 1.0,
+    "p15": 0.32,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "HUMAIRT",
+    "time": 1793717087805,
+    "price": 5968.0,
+    "pre30": 2.19,
+    "pre60": 7.18,
+    "pre120": 8.59,
+    "hunt": 79.9,
+    "persistence": 4,
+    "vr": 4.04,
+    "va": 6.15,
+    "buy": 100,
+    "bs": 4.17,
+    "ob": 1.0,
+    "p15": 0.22,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
