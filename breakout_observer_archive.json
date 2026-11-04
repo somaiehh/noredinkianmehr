@@ -32347,5 +32347,55 @@
     "levels": [],
     "failed_time": 1793734053657,
     "failed_price": 10672.0
+  },
+  {
+    "symbol": "SEIIRT",
+    "anchor_time": 1793622426148,
+    "anchor_price": 13069.0,
+    "status": "FAILED",
+    "created_time": 1793622426148,
+    "last_time": 1793805420269,
+    "last_price": 13600.0,
+    "max_gain_pct": 4.063,
+    "levels": [],
+    "failed_time": 1793648542810,
+    "failed_price": 12610.0
+  },
+  {
+    "symbol": "ANIMEIRT",
+    "anchor_time": 1793091689568,
+    "anchor_price": 831.0,
+    "status": "EXPIRED",
+    "created_time": 1793091689568,
+    "last_time": 1793803526986,
+    "last_price": 711.0,
+    "max_gain_pct": 6.7389,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793092611723,
+    "confirmed_price": 859.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793099029959,
+        "price": 882.0,
+        "gain_pct": 6.1372
+      }
+    ],
+    "expired_time": 1793140842155
+  },
+  {
+    "symbol": "TUTIRT",
+    "anchor_time": 1793290418571,
+    "anchor_price": 5389.0,
+    "status": "FAILED",
+    "created_time": 1793290418571,
+    "last_time": 1793805420269,
+    "last_price": 4890.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793297858636,
+    "failed_price": 5188.0
   }
 ]
