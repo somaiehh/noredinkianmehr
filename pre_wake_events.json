@@ -10939,5 +10939,26 @@
     "max_move": 2.6643,
     "min_move": -6.7006,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "BATIRT",
+    "event_time": 1793833269033,
+    "event_price": 39525.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 31.0,
+    "p15": -1.03,
+    "vr": null,
+    "va": 10.0,
+    "ta": 2.43,
+    "bs": 5.0,
+    "book": 0.04,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
