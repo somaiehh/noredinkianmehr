@@ -31857,5 +31857,17 @@
     "max_gain_pct": 0.9372,
     "levels": [],
     "expired_time": 1793761067152
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1793680912783,
+    "anchor_price": 1051715.0,
+    "status": "EXPIRED",
+    "created_time": 1793680912783,
+    "last_time": 1793771052997,
+    "last_price": 1046570.0,
+    "max_gain_pct": 1.8031,
+    "levels": [],
+    "expired_time": 1793724363819
   }
 ]
