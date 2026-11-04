@@ -13776,7 +13776,10 @@
       "max_up": 2.15,
       "max_down": -1.58
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.15,
+      "max_down": -3.67
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -13798,7 +13801,10 @@
       "max_up": 2.15,
       "max_down": -1.58
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.15,
+      "max_down": -3.67
+    }
   },
   {
     "symbol": "USELESSIRT",
