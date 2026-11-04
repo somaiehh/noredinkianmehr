@@ -59592,7 +59592,10 @@
       "max_up": 2.26,
       "max_down": -1.57
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.1,
+      "max_down": -3.12
+    }
   },
   {
     "symbol": "STXIRT",
@@ -59620,7 +59623,10 @@
       "max_up": 0.4,
       "max_down": -0.01
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.17,
+      "max_down": -0.01
+    }
   },
   {
     "symbol": "LABIRT",
@@ -60061,7 +60067,10 @@
       "max_up": 0.99,
       "max_down": -1.66
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.99,
+      "max_down": -3.9
+    },
     "result_12h": null
   },
   {
@@ -60086,7 +60095,10 @@
       "max_up": 1.42,
       "max_down": -0.64
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.42,
+      "max_down": -0.73
+    },
     "result_12h": null
   },
   {
@@ -60111,7 +60123,10 @@
       "max_up": 1.33,
       "max_down": -0.48
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.33,
+      "max_down": -4.84
+    },
     "result_12h": null
   },
   {
@@ -60136,7 +60151,10 @@
       "max_up": 1.51,
       "max_down": 0.85
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.51,
+      "max_down": -0.52
+    },
     "result_12h": null
   },
   {
@@ -60161,7 +60179,10 @@
       "max_up": 2.07,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.13,
+      "max_down": -0.31
+    },
     "result_12h": null
   },
   {
@@ -60186,7 +60207,10 @@
       "max_up": 1.73,
       "max_down": -0.19
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.73,
+      "max_down": -3.9
+    },
     "result_12h": null
   },
   {
@@ -60211,7 +60235,10 @@
       "max_up": 0.94,
       "max_down": 0.06
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.94,
+      "max_down": -1.37
+    },
     "result_12h": null
   },
   {
@@ -60378,7 +60405,10 @@
     "bs": 1.49,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.83,
+      "max_down": -0.83
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

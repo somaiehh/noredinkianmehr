@@ -14026,7 +14026,10 @@
       "max_up": 0.99,
       "max_down": -1.66
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.99,
+      "max_down": -3.9
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -14048,7 +14051,10 @@
       "max_up": 1.61,
       "max_down": -0.45
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.61,
+      "max_down": -0.54
+    }
   },
   {
     "symbol": "ZECIRT",
@@ -14070,7 +14076,10 @@
       "max_up": 1.44,
       "max_down": -1.22
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.44,
+      "max_down": -3.47
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -14092,7 +14101,10 @@
       "max_up": 1.42,
       "max_down": -0.65
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.42,
+      "max_down": -0.73
+    }
   },
   {
     "symbol": "SIRT",
@@ -14114,7 +14126,10 @@
       "max_up": 1.65,
       "max_down": -0.17
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.65,
+      "max_down": -4.53
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -14136,7 +14151,10 @@
       "max_up": 2.08,
       "max_down": 0.65
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.08,
+      "max_down": -0.3
+    }
   },
   {
     "symbol": "SIRT",
@@ -14158,6 +14176,9 @@
       "max_up": 1.78,
       "max_down": -0.04
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.78,
+      "max_down": -4.69
+    }
   }
 ]
