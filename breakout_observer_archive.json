@@ -32178,5 +32178,43 @@
     "levels": [],
     "failed_time": 1793751073446,
     "failed_price": 72282.0
+  },
+  {
+    "symbol": "CAPIRT",
+    "anchor_time": 1793701622794,
+    "anchor_price": 20194.0,
+    "status": "FAILED",
+    "created_time": 1793701622794,
+    "last_time": 1793797199061,
+    "last_price": 23000.0,
+    "max_gain_pct": 13.8952,
+    "levels": [],
+    "failed_time": 1793771800820,
+    "failed_price": 19494.3
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "anchor_time": 1793370080817,
+    "anchor_price": 1.5831,
+    "status": "FAILED",
+    "created_time": 1793370080817,
+    "last_time": 1793797199061,
+    "last_price": 1.4782,
+    "max_gain_pct": 2.3372,
+    "levels": [],
+    "failed_time": 1793370270062,
+    "failed_price": 1.5334
+  },
+  {
+    "symbol": "BEAMXIRT",
+    "anchor_time": 1793743208837,
+    "anchor_price": 1140.0,
+    "status": "EXPIRED",
+    "created_time": 1793743208837,
+    "last_time": 1793797921952,
+    "last_price": 1187.5,
+    "max_gain_pct": 5.2632,
+    "levels": [],
+    "expired_time": 1793788915720
   }
 ]
