@@ -59682,7 +59682,10 @@
       "max_up": 0.48,
       "max_down": -0.39
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.73,
+      "max_down": -0.64
+    },
     "result_12h": null
   },
   {
@@ -59850,6 +59853,28 @@
       "max_up": -0.51,
       "max_down": -0.51
     },
+    "result_1h": {
+      "max_up": -0.03,
+      "max_down": -2.33
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LSKIRT",
+    "time": 1793794337495,
+    "price": 56599.0,
+    "level": "STRONG",
+    "hunt": 81.1,
+    "persistence": 3,
+    "p15": 1.64,
+    "vr": 0.26,
+    "va": 3.16,
+    "buy": 36.00000000000001,
+    "bs": 1.08,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
