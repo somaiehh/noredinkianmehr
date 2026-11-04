@@ -32267,5 +32267,32 @@
     "max_gain_pct": 0.136,
     "levels": [],
     "expired_time": 1793783569472
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1793462230273,
+    "anchor_price": 8.891e-05,
+    "status": "FAILED",
+    "created_time": 1793462230273,
+    "last_time": 1793804220760,
+    "last_price": 8.741e-05,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793490002227,
+    "failed_price": 8.613e-05
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1793270603346,
+    "anchor_price": 340.9,
+    "status": "EXPIRED",
+    "created_time": 1793270603346,
+    "last_time": 1793804220760,
+    "last_price": 301.7,
+    "max_gain_pct": 4.0481,
+    "levels": [],
+    "confirmed_time": 1793286772400,
+    "confirmed_price": 351.8,
+    "expired_time": 1793314279770
   }
 ]
