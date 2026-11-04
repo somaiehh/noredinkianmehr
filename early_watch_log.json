@@ -59530,7 +59530,10 @@
       "max_up": 2.5,
       "max_down": -1.41
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.36,
+      "max_down": -2.81
+    }
   },
   {
     "symbol": "USELESSIRT",
@@ -59971,7 +59974,10 @@
       "max_up": 0.87,
       "max_down": -0.67
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.87,
+      "max_down": -1.62
+    },
     "result_12h": null
   },
   {
@@ -59996,7 +60002,10 @@
       "max_up": 0.0,
       "max_down": -1.26
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.59,
+      "max_down": -1.26
+    },
     "result_12h": null
   },
   {
@@ -60021,7 +60030,10 @@
       "max_up": 0.46,
       "max_down": -0.98
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 9.96,
+      "max_down": -2.06
+    },
     "result_12h": null
   },
   {
@@ -60317,7 +60329,10 @@
       "max_up": -0.36,
       "max_down": -0.36
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.36,
+      "max_down": -3.54
+    },
     "result_4h": null,
     "result_12h": null
   },
