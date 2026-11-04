@@ -59288,7 +59288,10 @@
       "max_up": 2.51,
       "max_down": -0.91
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.51,
+      "max_down": -23.73
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -59589,7 +59592,10 @@
       "max_up": -0.89,
       "max_down": -1.14
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.11,
+      "max_down": -1.49
+    },
     "result_4h": null,
     "result_12h": null
   },
