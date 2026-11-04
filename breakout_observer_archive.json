@@ -31869,5 +31869,17 @@
     "max_gain_pct": 1.8031,
     "levels": [],
     "expired_time": 1793724363819
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1793528952476,
+    "anchor_price": 247508.0,
+    "status": "EXPIRED",
+    "created_time": 1793528952476,
+    "last_time": 1793771961924,
+    "last_price": 240010.0,
+    "max_gain_pct": 0.6028,
+    "levels": [],
+    "expired_time": 1793585248696
   }
 ]
