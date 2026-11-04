@@ -58981,7 +58981,10 @@
       "max_up": 2.13,
       "max_down": -3.65
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.72,
+      "max_down": -10.46
+    }
   },
   {
     "symbol": "HUMAIRT",
@@ -59009,7 +59012,10 @@
       "max_up": 1.54,
       "max_down": -7.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.54,
+      "max_down": -7.4
+    }
   },
   {
     "symbol": "ARIAIRT",
