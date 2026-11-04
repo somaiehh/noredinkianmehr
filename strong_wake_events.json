@@ -15893,7 +15893,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.8072,
-    "min_move": -2.2435,
+    "min_move": -2.7628,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -15957,6 +15957,48 @@
     "result_move": null,
     "max_move": 0.3235,
     "min_move": -1.1838,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "NIGHTIRT",
+    "event_time": 1793813212834,
+    "event_price": 11645.9,
+    "anchor_time": 1793812338806,
+    "anchor_price": 11800.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.2941,
+    "tm_e15_e1": 0.2941,
+    "tm_e1_e4": 0.5862,
+    "tm_g15": 0.4167,
+    "tm_g1": 1.4167,
+    "tm_g4": 1.2083,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "ONDOIRT",
+    "event_time": 1793813381982,
+    "event_price": 110028.0,
+    "anchor_time": 1793811408500,
+    "anchor_price": 110309.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.75,
+    "tm_e15_e1": 0.75,
+    "tm_e1_e4": 0.2581,
+    "tm_g15": 12.0,
+    "tm_g1": 0.7273,
+    "tm_g4": 1.1923,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
