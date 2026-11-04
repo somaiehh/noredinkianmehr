@@ -31881,5 +31881,54 @@
     "max_gain_pct": 0.6028,
     "levels": [],
     "expired_time": 1793585248696
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1793699834919,
+    "anchor_price": 313800796.0,
+    "status": "EXPIRED",
+    "created_time": 1793699834919,
+    "last_time": 1793772938501,
+    "last_price": 335000000.0,
+    "max_gain_pct": 8.5313,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793708958222,
+    "confirmed_price": 327735616.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793710611489,
+        "price": 329659057.0,
+        "gain_pct": 5.0536
+      }
+    ],
+    "expired_time": 1793743035587
+  },
+  {
+    "symbol": "STRKIRT",
+    "anchor_time": 1793707239322,
+    "anchor_price": 11930.0,
+    "status": "FAILED",
+    "created_time": 1793707239322,
+    "last_time": 1793772938501,
+    "last_price": 11700.0,
+    "max_gain_pct": 1.995,
+    "levels": [],
+    "failed_time": 1793735918489,
+    "failed_price": 11548.0
+  },
+  {
+    "symbol": "USELESSIRT",
+    "anchor_time": 1793471230786,
+    "anchor_price": 35021.0,
+    "status": "EXPIRED",
+    "created_time": 1793471230786,
+    "last_time": 1793773808744,
+    "last_price": 38227.0,
+    "max_gain_pct": 9.1545,
+    "levels": [],
+    "expired_time": 1793556038226
   }
 ]
