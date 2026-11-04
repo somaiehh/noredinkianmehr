@@ -13626,7 +13626,10 @@
       "max_up": 0.51,
       "max_down": 0.02
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.44,
+      "max_down": -0.59
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -13648,7 +13651,10 @@
       "max_up": 0.0,
       "max_down": -0.49
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.92,
+      "max_down": -1.1
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -13670,7 +13676,10 @@
       "max_up": 0.35,
       "max_down": -0.71
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.31,
+      "max_down": -0.71
+    }
   },
   {
     "symbol": "LABIRT",
@@ -13688,7 +13697,10 @@
     "ob": 1.0,
     "p15": 0.55,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.03,
+      "max_down": -0.54
+    },
     "result_4h": null
   },
   {
@@ -13707,7 +13719,10 @@
     "ob": 0.35,
     "p15": 0.44,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.89,
+      "max_down": -0.19
+    },
     "result_4h": null
   },
   {
@@ -13726,7 +13741,10 @@
     "ob": 0.38,
     "p15": 0.44,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.89,
+      "max_down": -0.19
+    },
     "result_4h": null
   }
 ]
