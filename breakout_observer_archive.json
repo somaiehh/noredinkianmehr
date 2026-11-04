@@ -32097,5 +32097,29 @@
     "levels": [],
     "failed_time": 1793699834919,
     "failed_price": 69885.0
+  },
+  {
+    "symbol": "DOODIRT",
+    "anchor_time": 1793532347380,
+    "anchor_price": 529.0,
+    "status": "EXPIRED",
+    "created_time": 1793532347380,
+    "last_time": 1793793396856,
+    "last_price": 467.2,
+    "max_gain_pct": 5.0095,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793543311123,
+    "confirmed_price": 545.4,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793545365541,
+        "price": 555.5,
+        "gain_pct": 5.0095
+      }
+    ],
+    "expired_time": 1793592739340
   }
 ]
