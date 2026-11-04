@@ -32422,5 +32422,17 @@
     "max_gain_pct": 0.9949,
     "levels": [],
     "expired_time": 1793761067152
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1793777406831,
+    "anchor_price": 1.2726,
+    "status": "EXPIRED",
+    "created_time": 1793777406831,
+    "last_time": 1793826851473,
+    "last_price": 1.272,
+    "max_gain_pct": 1.823,
+    "levels": [],
+    "expired_time": 1793826681689
   }
 ]
