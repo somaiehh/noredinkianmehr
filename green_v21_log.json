@@ -14019,7 +14019,10 @@
     "ob": 0.94,
     "p15": 0.83,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.99,
+      "max_down": -1.66
+    },
     "result_4h": null
   },
   {
@@ -14038,7 +14041,10 @@
     "ob": 1.0,
     "p15": 1.2,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.61,
+      "max_down": -0.45
+    },
     "result_4h": null
   },
   {
@@ -14057,7 +14063,10 @@
     "ob": 0.26,
     "p15": 0.38,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.44,
+      "max_down": -1.22
+    },
     "result_4h": null
   },
   {
@@ -14076,7 +14085,10 @@
     "ob": 1.0,
     "p15": 1.4,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.42,
+      "max_down": -0.65
+    },
     "result_4h": null
   },
   {
@@ -14095,7 +14107,10 @@
     "ob": 0.98,
     "p15": 1.38,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.65,
+      "max_down": -0.17
+    },
     "result_4h": null
   },
   {
@@ -14114,7 +14129,10 @@
     "ob": 1.0,
     "p15": 0.74,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.08,
+      "max_down": 0.65
+    },
     "result_4h": null
   },
   {
@@ -14133,7 +14151,10 @@
     "ob": 1.0,
     "p15": 1.25,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.78,
+      "max_down": -0.04
+    },
     "result_4h": null
   }
 ]

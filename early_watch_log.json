@@ -59906,7 +59906,10 @@
       "max_up": 0.0,
       "max_down": -5.83
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -5.83
+    },
     "result_12h": null
   },
   {
@@ -60027,7 +60030,10 @@
       "max_up": 0.0,
       "max_down": -0.91
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.99,
+      "max_down": -1.66
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -60049,7 +60055,10 @@
       "max_up": 0.0,
       "max_down": -0.64
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.42,
+      "max_down": -0.64
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -60071,7 +60080,10 @@
       "max_up": -0.32,
       "max_down": -0.44
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.33,
+      "max_down": -0.48
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -60093,7 +60105,10 @@
       "max_up": 1.43,
       "max_down": 1.43
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.51,
+      "max_down": 0.85
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -60115,7 +60130,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.07,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -60137,7 +60155,10 @@
       "max_up": 1.73,
       "max_down": 1.73
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.73,
+      "max_down": -0.19
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -60159,7 +60180,10 @@
       "max_up": 0.54,
       "max_down": 0.54
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.94,
+      "max_down": 0.06
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -60181,7 +60205,10 @@
       "max_up": -0.08,
       "max_down": -1.57
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.08,
+      "max_down": -2.71
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -60203,7 +60230,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.99
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -60225,6 +60255,28 @@
       "max_up": 1.35,
       "max_down": -0.45
     },
+    "result_1h": {
+      "max_up": 1.35,
+      "max_down": -1.35
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HYPEIRT",
+    "time": 1793808772874,
+    "price": 23149020.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.13,
+    "vr": 4.33,
+    "va": 10.0,
+    "buy": 70.66666666666667,
+    "bs": 2.12,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
