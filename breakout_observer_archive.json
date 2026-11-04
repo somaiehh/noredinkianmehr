@@ -31930,5 +31930,19 @@
     "max_gain_pct": 9.1545,
     "levels": [],
     "expired_time": 1793556038226
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1793724553999,
+    "anchor_price": 32453.0,
+    "status": "EXPIRED",
+    "created_time": 1793724553999,
+    "last_time": 1793775573135,
+    "last_price": 32640.0,
+    "max_gain_pct": 4.1506,
+    "levels": [],
+    "confirmed_time": 1793734053657,
+    "confirmed_price": 33800.0,
+    "expired_time": 1793769129274
   }
 ]
