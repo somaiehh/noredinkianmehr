@@ -31994,5 +31994,44 @@
     "levels": [],
     "failed_time": 1793734232651,
     "failed_price": 25.0
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "anchor_time": 1793709695456,
+    "anchor_price": 638.5,
+    "status": "FAILED",
+    "created_time": 1793709695456,
+    "last_time": 1793784583490,
+    "last_price": 581.5,
+    "max_gain_pct": 1.3312,
+    "levels": [],
+    "failed_time": 1793713912177,
+    "failed_price": 609.6
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1793709863052,
+    "anchor_price": 10650.0,
+    "status": "FAILED",
+    "created_time": 1793709863052,
+    "last_time": 1793786255389,
+    "last_price": 10816.0,
+    "max_gain_pct": 1.5587,
+    "levels": [],
+    "failed_time": 1793737947066,
+    "failed_price": 10248.0
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1793741826942,
+    "anchor_price": 7970.0,
+    "status": "FAILED",
+    "created_time": 1793741826942,
+    "last_time": 1793786255389,
+    "last_price": 7604.8,
+    "max_gain_pct": 2.1531,
+    "levels": [],
+    "failed_time": 1793762097368,
+    "failed_price": 7583.4
   }
 ]
