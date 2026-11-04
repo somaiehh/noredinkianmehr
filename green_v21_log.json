@@ -13826,7 +13826,10 @@
       "max_up": 3.54,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.54,
+      "max_down": -2.41
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -13848,7 +13851,10 @@
       "max_up": 1.59,
       "max_down": -0.83
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.0,
+      "max_down": -0.83
+    }
   },
   {
     "symbol": "USELESSIRT",
@@ -13870,7 +13876,10 @@
       "max_up": 3.54,
       "max_down": 0.19
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.54,
+      "max_down": -2.41
+    }
   },
   {
     "symbol": "LABIRT",
