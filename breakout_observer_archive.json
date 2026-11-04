@@ -32033,5 +32033,31 @@
     "levels": [],
     "failed_time": 1793762097368,
     "failed_price": 7583.4
+  },
+  {
+    "symbol": "ALPINEIRT",
+    "anchor_time": 1793737947066,
+    "anchor_price": 95602.0,
+    "status": "FAILED",
+    "created_time": 1793737947066,
+    "last_time": 1793786413460,
+    "last_price": 85139.0,
+    "max_gain_pct": 0.0753,
+    "levels": [],
+    "failed_time": 1793766482426,
+    "failed_price": 92313.0
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1793731141555,
+    "anchor_price": 69.2,
+    "status": "FAILED",
+    "created_time": 1793731141555,
+    "last_time": 1793786413460,
+    "last_price": 67.6,
+    "max_gain_pct": 0.1445,
+    "levels": [],
+    "failed_time": 1793741460800,
+    "failed_price": 67.0
   }
 ]
