@@ -4262,6 +4262,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "XLMIRT": {
+      "trigger_time": 1793806967609,
+      "trigger_price": 45593.1,
+      "secondary_score": 60.0,
+      "hunt_score": 32.4,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
