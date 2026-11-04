@@ -59875,7 +59875,10 @@
       "max_up": -0.03,
       "max_down": -2.33
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.94,
+      "max_down": -3.34
+    },
     "result_12h": null
   },
   {
@@ -60017,7 +60020,10 @@
     "bs": 1.77,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -0.91
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -60036,7 +60042,10 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -0.64
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -60055,7 +60064,10 @@
     "bs": 1.81,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.32,
+      "max_down": -0.44
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -60074,7 +60086,10 @@
     "bs": 2.77,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 1.43,
+      "max_down": 1.43
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -60093,7 +60108,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -60112,7 +60130,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 1.73,
+      "max_down": 1.73
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -60131,6 +60152,66 @@
     "bs": 4.65,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 0.54,
+      "max_down": 0.54
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NEARIRT",
+    "time": 1793805216015,
+    "price": 1147289.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 2.0,
+    "vr": 3.27,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 4.18,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ETHFIIRT",
+    "time": 1793805216015,
+    "price": 166081.0,
+    "level": "STRONG",
+    "hunt": 59.5,
+    "persistence": 1,
+    "p15": 1.67,
+    "vr": 1.0,
+    "va": 0.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1793805216015,
+    "price": 66.6,
+    "level": "STRONG",
+    "hunt": 76.3,
+    "persistence": 1,
+    "p15": 1.68,
+    "vr": 1.35,
+    "va": 2.67,
+    "buy": 42.333333333333336,
+    "bs": 1.27,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

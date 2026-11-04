@@ -32294,5 +32294,58 @@
     "confirmed_time": 1793286772400,
     "confirmed_price": 351.8,
     "expired_time": 1793314279770
+  },
+  {
+    "symbol": "ARBIRT",
+    "anchor_time": 1793708958222,
+    "anchor_price": 44197.0,
+    "status": "FAILED",
+    "created_time": 1793708958222,
+    "last_time": 1793804397054,
+    "last_price": 44934.0,
+    "max_gain_pct": 1.6675,
+    "levels": [],
+    "failed_time": 1793728039576,
+    "failed_price": 42736.0
+  },
+  {
+    "symbol": "LINKIRT",
+    "anchor_time": 1793326969951,
+    "anchor_price": 2906278.0,
+    "status": "EXPIRED",
+    "created_time": 1793326969951,
+    "last_time": 1793804397054,
+    "last_price": 3082493.0,
+    "max_gain_pct": 10.478,
+    "levels": [],
+    "confirmed_time": 1793334247528,
+    "confirmed_price": 2994275.0,
+    "expired_time": 1793370270062
+  },
+  {
+    "symbol": "UNIIRT",
+    "anchor_time": 1793279326202,
+    "anchor_price": 1966768.0,
+    "status": "FAILED",
+    "created_time": 1793279326202,
+    "last_time": 1793804397054,
+    "last_price": 2024839.0,
+    "max_gain_pct": 3.4692,
+    "levels": [],
+    "failed_time": 1793306424708,
+    "failed_price": 1870001.0
+  },
+  {
+    "symbol": "MUBARAKIRT",
+    "anchor_time": 1793720596140,
+    "anchor_price": 11011.0,
+    "status": "FAILED",
+    "created_time": 1793720596140,
+    "last_time": 1793805216015,
+    "last_price": 11621.0,
+    "max_gain_pct": 7.9375,
+    "levels": [],
+    "failed_time": 1793734053657,
+    "failed_price": 10672.0
   }
 ]
