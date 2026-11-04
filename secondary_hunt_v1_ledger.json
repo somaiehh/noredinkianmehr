@@ -4194,6 +4194,20 @@
         "book1",
         "dt15_pos"
       ]
+    },
+    "CLANKERIRT": {
+      "trigger_time": 1793763934629,
+      "trigger_price": 4297183.0,
+      "secondary_score": 70.0,
+      "hunt_score": 71.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

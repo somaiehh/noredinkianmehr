@@ -59074,7 +59074,10 @@
       "max_up": 3.69,
       "max_down": -1.42
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.69,
+      "max_down": -4.25
+    }
   },
   {
     "symbol": "WENSOLIRT",
@@ -59102,7 +59105,10 @@
       "max_up": 0.8,
       "max_down": -0.38
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.8,
+      "max_down": -0.38
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -59345,6 +59351,25 @@
       "max_up": -2.92,
       "max_down": -2.92
     },
+    "result_12h": null
+  },
+  {
+    "symbol": "CLANKERIRT",
+    "time": 1793763934629,
+    "price": 4297183.0,
+    "level": "STRONG",
+    "hunt": 71.0,
+    "persistence": 1,
+    "p15": 1.77,
+    "vr": 3.59,
+    "va": 1.69,
+    "buy": 45.333333333333336,
+    "bs": 1.36,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
     "result_12h": null
   }
 ]
