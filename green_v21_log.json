@@ -13701,7 +13701,10 @@
       "max_up": -0.03,
       "max_down": -0.54
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.14,
+      "max_down": -0.54
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -13723,7 +13726,10 @@
       "max_up": 1.89,
       "max_down": -0.19
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.89,
+      "max_down": -0.19
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -13745,6 +13751,9 @@
       "max_up": 1.89,
       "max_down": -0.19
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.89,
+      "max_down": -0.19
+    }
   }
 ]
