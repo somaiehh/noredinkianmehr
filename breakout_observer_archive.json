@@ -31956,5 +31956,17 @@
     "max_gain_pct": 0.0607,
     "levels": [],
     "expired_time": 1793422142879
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1793734053657,
+    "anchor_price": 1.32208,
+    "status": "EXPIRED",
+    "created_time": 1793734053657,
+    "last_time": 1793780127301,
+    "last_price": 1.35937,
+    "max_gain_pct": 2.8629,
+    "levels": [],
+    "expired_time": 1793777406831
   }
 ]

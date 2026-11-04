@@ -4208,6 +4208,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "CELRIRT": {
+      "trigger_time": 1793780992314,
+      "trigger_price": 653.0,
+      "secondary_score": 60.0,
+      "hunt_score": 15.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
