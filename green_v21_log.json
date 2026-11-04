@@ -13974,5 +13974,24 @@
       "max_down": -1.37
     },
     "result_4h": null
+  },
+  {
+    "symbol": "TACIRT",
+    "time": 1793799857242,
+    "price": 297.0,
+    "pre30": 1.37,
+    "pre60": 1.37,
+    "pre120": 1.71,
+    "hunt": 91.5,
+    "persistence": 3,
+    "vr": 2.1,
+    "va": 6.18,
+    "buy": 100,
+    "bs": 3.4,
+    "ob": 1.0,
+    "p15": 1.02,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

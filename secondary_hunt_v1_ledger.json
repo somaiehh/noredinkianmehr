@@ -4234,6 +4234,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "AEROIRT": {
+      "trigger_time": 1793799857242,
+      "trigger_price": 168958.0,
+      "secondary_score": 65.0,
+      "hunt_score": 44.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
