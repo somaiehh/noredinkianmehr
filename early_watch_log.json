@@ -59570,6 +59570,28 @@
     "bs": 4.38,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": -0.89,
+      "max_down": -1.14
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "INJIRT",
+    "time": 1793777220521,
+    "price": 2055000.0,
+    "level": "STRONG",
+    "hunt": 57.6,
+    "persistence": 1,
+    "p15": 1.73,
+    "vr": 0.0,
+    "va": 2.62,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
