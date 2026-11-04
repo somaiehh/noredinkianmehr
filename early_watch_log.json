@@ -59561,7 +59561,10 @@
       "max_up": 3.34,
       "max_down": -2.6
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.24,
+      "max_down": -2.6
+    }
   },
   {
     "symbol": "PEPEIRT",
@@ -60358,6 +60361,25 @@
       "max_up": 5.5,
       "max_down": 2.05
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "QIRT",
+    "time": 1793817705293,
+    "price": 7942.0,
+    "level": "STRONG",
+    "hunt": 63.8,
+    "persistence": 3,
+    "p15": 0.74,
+    "vr": 0.67,
+    "va": 2.5,
+    "buy": 49.666666666666664,
+    "bs": 1.49,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
