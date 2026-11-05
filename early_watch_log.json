@@ -60054,7 +60054,10 @@
       "max_up": 2.59,
       "max_down": -1.26
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.59,
+      "max_down": -4.73
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -60082,7 +60085,10 @@
       "max_up": 9.96,
       "max_down": -2.06
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.96,
+      "max_down": -2.06
+    }
   },
   {
     "symbol": "ZECIRT",
@@ -60110,7 +60116,10 @@
       "max_up": 0.99,
       "max_down": -3.9
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.99,
+      "max_down": -3.9
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -60138,7 +60147,10 @@
       "max_up": 1.42,
       "max_down": -0.73
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.42,
+      "max_down": -1.68
+    }
   },
   {
     "symbol": "SIRT",
@@ -60166,7 +60178,10 @@
       "max_up": 1.33,
       "max_down": -4.84
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.33,
+      "max_down": -5.11
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -60194,7 +60209,10 @@
       "max_up": 1.51,
       "max_down": -0.52
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.51,
+      "max_down": -0.99
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -60222,7 +60240,10 @@
       "max_up": 2.13,
       "max_down": -0.31
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.13,
+      "max_down": -0.31
+    }
   },
   {
     "symbol": "LABIRT",
@@ -60250,7 +60271,10 @@
       "max_up": 1.73,
       "max_down": -3.9
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.73,
+      "max_down": -4.14
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -60278,7 +60302,10 @@
       "max_up": 0.94,
       "max_down": -1.37
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.94,
+      "max_down": -1.92
+    }
   },
   {
     "symbol": "NEARIRT",
@@ -60306,7 +60333,10 @@
       "max_up": -0.08,
       "max_down": -5.79
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.08,
+      "max_down": -6.4
+    }
   },
   {
     "symbol": "ETHFIIRT",
@@ -60334,7 +60364,10 @@
       "max_up": 0.0,
       "max_down": -1.99
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -1.99
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -60362,7 +60395,10 @@
       "max_up": 1.35,
       "max_down": -5.26
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.35,
+      "max_down": -5.26
+    }
   },
   {
     "symbol": "HYPEIRT",
@@ -60390,7 +60426,10 @@
       "max_up": 0.0,
       "max_down": -2.42
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -2.99
+    }
   },
   {
     "symbol": "PEPEIRT",
@@ -60418,7 +60457,10 @@
       "max_up": -0.36,
       "max_down": -4.55
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.36,
+      "max_down": -4.55
+    }
   },
   {
     "symbol": "CLANKERIRT",
@@ -60446,7 +60488,10 @@
       "max_up": 30.46,
       "max_down": 2.05
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 33.03,
+      "max_down": -10.91
+    }
   },
   {
     "symbol": "QIRT",
@@ -60474,7 +60519,10 @@
       "max_up": -0.11,
       "max_down": -1.49
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.11,
+      "max_down": -4.81
+    }
   },
   {
     "symbol": "APUIRT",
