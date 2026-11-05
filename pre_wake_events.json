@@ -10999,7 +10999,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 5.2458,
+    "max_move": 5.6438,
     "min_move": -2.5756,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -11041,7 +11041,28 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 0.7259,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "event_time": 1793897222988,
+    "event_price": 8.28e-05,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 33.1,
+    "p15": -0.9,
+    "vr": null,
+    "va": 10.0,
+    "ta": 1.57,
+    "bs": 5.0,
+    "book": 0.01,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.5556,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
