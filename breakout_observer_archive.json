@@ -32771,5 +32771,18 @@
     "confirmed_time": 1793805420269,
     "confirmed_price": 1213.1,
     "expired_time": 1793863238994
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "anchor_time": 1793789106370,
+    "anchor_price": 731.42,
+    "status": "FAILED",
+    "created_time": 1793789106370,
+    "last_time": 1793906146463,
+    "last_price": 465.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793790702971,
+    "failed_price": 707.18
   }
 ]
