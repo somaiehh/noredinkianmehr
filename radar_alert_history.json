@@ -7769,5 +7769,18 @@
     "bs": 0.35,
     "breakout": true,
     "persistence": 5
+  },
+  {
+    "time": 1793902553491,
+    "symbol": "CAPIRT",
+    "price": 29510.7,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.0,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 1.39,
+    "breakout": false,
+    "persistence": 3
   }
 ]
