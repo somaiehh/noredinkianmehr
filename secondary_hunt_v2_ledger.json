@@ -2311,6 +2311,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ARXIRT": {
+      "trigger_time": 1793895331434,
+      "trigger_price": 61993.0,
+      "secondary_score": 75.0,
+      "hunt_score": 29.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
