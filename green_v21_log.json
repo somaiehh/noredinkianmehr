@@ -14326,7 +14326,10 @@
       "max_up": -0.67,
       "max_down": -4.04
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.42,
+      "max_down": -4.04
+    }
   },
   {
     "symbol": "HOMEIRT",
