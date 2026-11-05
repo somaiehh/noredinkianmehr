@@ -32517,5 +32517,43 @@
     "levels": [],
     "failed_time": 1793768214482,
     "failed_price": 10180.0
+  },
+  {
+    "symbol": "INJIRT",
+    "anchor_time": 1793611685560,
+    "anchor_price": 1990000.0,
+    "status": "FAILED",
+    "created_time": 1793611685560,
+    "last_time": 1793867493721,
+    "last_price": 2200000.0,
+    "max_gain_pct": 10.5528,
+    "levels": [],
+    "failed_time": 1793635285544,
+    "failed_price": 1898648.0
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1793803899875,
+    "anchor_price": 12500.0,
+    "status": "FAILED",
+    "created_time": 1793803899875,
+    "last_time": 1793867493721,
+    "last_price": 11883.0,
+    "max_gain_pct": 1.872,
+    "levels": [],
+    "failed_time": 1793813212834,
+    "failed_price": 12030.0
+  },
+  {
+    "symbol": "IRIRT",
+    "anchor_time": 1792606061499,
+    "anchor_price": 887.0,
+    "status": "EXPIRED",
+    "created_time": 1792606061499,
+    "last_time": 1793867493721,
+    "last_price": 779.0,
+    "max_gain_pct": 9.2446,
+    "levels": [],
+    "expired_time": 1792653632025
   }
 ]
