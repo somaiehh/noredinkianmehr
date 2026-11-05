@@ -60658,7 +60658,10 @@
       "max_up": 0.83,
       "max_down": -1.41
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.64,
+      "max_down": -1.41
+    },
     "result_12h": null
   },
   {
@@ -60829,6 +60832,25 @@
       "max_up": 1.4,
       "max_down": 1.4
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FOGOIRT",
+    "time": 1793884330268,
+    "price": 703.0,
+    "level": "WATCH",
+    "hunt": 42.6,
+    "persistence": 1,
+    "p15": 1.88,
+    "vr": 0.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
