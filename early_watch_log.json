@@ -60733,7 +60733,10 @@
       "max_up": 14.51,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 23.07,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "IRIRT",
