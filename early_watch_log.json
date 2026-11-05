@@ -60577,7 +60577,10 @@
       "max_up": 2.78,
       "max_down": -2.81
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.78,
+      "max_down": -5.56
+    },
     "result_12h": null
   },
   {
@@ -60670,7 +60673,10 @@
       "max_up": -1.38,
       "max_down": -1.99
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.25,
+      "max_down": -2.45
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -60692,6 +60698,44 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "IRIRT",
+    "time": 1793878922698,
+    "price": 780.0,
+    "level": "WATCH",
+    "hunt": 41.1,
+    "persistence": 1,
+    "p15": 1.56,
+    "vr": 0.03,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HUMAIRT",
+    "time": 1793879112888,
+    "price": 4161.0,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 2,
+    "p15": 1.0,
+    "vr": 0.29,
+    "va": 8.01,
+    "buy": 88.33333333333333,
+    "bs": 2.65,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
