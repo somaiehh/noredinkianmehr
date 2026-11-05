@@ -7678,5 +7678,18 @@
     "bs": 0.2,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1793885402083,
+    "symbol": "FOGOIRT",
+    "price": 722.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.41,
+    "vr": 1.07,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
