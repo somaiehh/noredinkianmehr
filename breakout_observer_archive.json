@@ -32616,5 +32616,43 @@
       }
     ],
     "expired_time": 1793842240735
+  },
+  {
+    "symbol": "INITIRT",
+    "anchor_time": 1793797027099,
+    "anchor_price": 72000.0,
+    "status": "EXPIRED",
+    "created_time": 1793797027099,
+    "last_time": 1793874575620,
+    "last_price": 72600.0,
+    "max_gain_pct": 8.6972,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793798091994,
+    "confirmed_price": 74999.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793798849812,
+        "price": 78262.0,
+        "gain_pct": 8.6972
+      }
+    ],
+    "expired_time": 1793863238994
+  },
+  {
+    "symbol": "ALPINEIRT",
+    "anchor_time": 1793787162702,
+    "anchor_price": 87673.0,
+    "status": "EXPIRED",
+    "created_time": 1793787162702,
+    "last_time": 1793874575620,
+    "last_price": 82622.0,
+    "max_gain_pct": 3.545,
+    "levels": [],
+    "confirmed_time": 1793787332162,
+    "confirmed_price": 90594.0,
+    "expired_time": 1793832778889
   }
 ]
