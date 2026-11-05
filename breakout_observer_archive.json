@@ -32719,5 +32719,18 @@
       }
     ],
     "expired_time": 1793813212834
+  },
+  {
+    "symbol": "KAIOIRT",
+    "anchor_time": 1792429340176,
+    "anchor_price": 8036.0,
+    "status": "FAILED",
+    "created_time": 1792429340176,
+    "last_time": 1793902548987,
+    "last_price": 6211.0,
+    "max_gain_pct": 2.1528,
+    "levels": [],
+    "failed_time": 1792430269089,
+    "failed_price": 7743.0
   }
 ]
