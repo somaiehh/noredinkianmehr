@@ -14180,5 +14180,24 @@
       "max_up": 1.78,
       "max_down": -4.69
     }
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1793877288543,
+    "price": 36088.0,
+    "pre30": 3.55,
+    "pre60": 3.82,
+    "pre120": 4.21,
+    "hunt": 73.3,
+    "persistence": 2,
+    "vr": 1.59,
+    "va": 2.6,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 0.38,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
