@@ -59930,7 +59930,10 @@
       "max_up": 0.94,
       "max_down": -3.34
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.42,
+      "max_down": -6.51
+    }
   },
   {
     "symbol": "LSKIRT",
@@ -59958,7 +59961,10 @@
       "max_up": 0.0,
       "max_down": -5.83
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -7.13
+    }
   },
   {
     "symbol": "TACIRT",
@@ -59986,7 +59992,10 @@
       "max_up": 2.04,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.04,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "ALPINEIRT",
@@ -60014,7 +60023,10 @@
       "max_up": 0.87,
       "max_down": -1.62
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.38,
+      "max_down": -2.96
+    }
   },
   {
     "symbol": "BABYSHARKIRT",
@@ -60486,7 +60498,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.63,
+      "max_down": -2.11
+    },
     "result_12h": null
   }
 ]
