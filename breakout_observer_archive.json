@@ -32784,5 +32784,30 @@
     "levels": [],
     "failed_time": 1793790702971,
     "failed_price": 707.18
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1793772750506,
+    "anchor_price": 245510.0,
+    "status": "FAILED",
+    "created_time": 1793772750506,
+    "last_time": 1793906984225,
+    "last_price": 231270.0,
+    "max_gain_pct": 4.0919,
+    "levels": [],
+    "failed_time": 1793775573135,
+    "failed_price": 236000.0
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1793770001676,
+    "anchor_price": 319073.0,
+    "status": "EXPIRED",
+    "created_time": 1793770001676,
+    "last_time": 1793906984225,
+    "last_price": 301000.0,
+    "max_gain_pct": 1.4924,
+    "levels": [],
+    "expired_time": 1793813212834
   }
 ]
