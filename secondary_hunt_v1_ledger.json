@@ -4275,6 +4275,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "MERLIRT": {
+      "trigger_time": 1793911326891,
+      "trigger_price": 8157.0,
+      "secondary_score": 85.0,
+      "hunt_score": 59.6,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
