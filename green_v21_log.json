@@ -14226,7 +14226,10 @@
       "max_up": 0.09,
       "max_down": -0.94
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.09,
+      "max_down": -7.77
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -14265,6 +14268,25 @@
     "bs": 0.34,
     "ob": 1.0,
     "p15": 0.73,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "HUMAIRT",
+    "time": 1793897096366,
+    "price": 3866.0,
+    "pre30": 1.44,
+    "pre60": 1.34,
+    "pre120": -2.84,
+    "hunt": 62.2,
+    "persistence": 2,
+    "vr": 1.01,
+    "va": 3.68,
+    "buy": 21.333333333333336,
+    "bs": 0.64,
+    "ob": 0.76,
+    "p15": 0.08,
     "breakout": false,
     "result_1h": null,
     "result_4h": null
