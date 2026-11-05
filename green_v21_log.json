@@ -14321,5 +14321,24 @@
       "max_down": -4.04
     },
     "result_4h": null
+  },
+  {
+    "symbol": "HOMEIRT",
+    "time": 1793909687742,
+    "price": 1478.0,
+    "pre30": 0.33,
+    "pre60": 5.13,
+    "pre120": 5.13,
+    "hunt": 62.0,
+    "persistence": 2,
+    "vr": 12.62,
+    "va": 2.0,
+    "buy": 27.999999999999996,
+    "bs": 0.84,
+    "ob": 1.0,
+    "p15": 0.47,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
