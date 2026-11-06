@@ -61499,7 +61499,10 @@
       "max_up": 16.93,
       "max_down": -0.96
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 37.77,
+      "max_down": -0.96
+    }
   },
   {
     "symbol": "LABIRT",
@@ -61527,7 +61530,10 @@
       "max_up": 1.96,
       "max_down": -0.05
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.96,
+      "max_down": -3.97
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -61555,7 +61561,10 @@
       "max_up": 16.62,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 16.62,
+      "max_down": -3.79
+    }
   },
   {
     "symbol": "QIRT",
@@ -62024,7 +62033,10 @@
       "max_up": -1.12,
       "max_down": -6.44
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.38,
+      "max_down": -7.56
+    },
     "result_12h": null
   },
   {
@@ -62049,7 +62061,10 @@
       "max_up": 0.46,
       "max_down": -0.37
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.72,
+      "max_down": -0.61
+    },
     "result_12h": null
   },
   {
@@ -62249,6 +62264,25 @@
       "max_up": 1.86,
       "max_down": -0.88
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1793995345717,
+    "price": 39320.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.51,
+    "vr": 0.77,
+    "va": 10.0,
+    "buy": 37.666666666666664,
+    "bs": 1.13,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
