@@ -14476,7 +14476,10 @@
       "max_up": 0.18,
       "max_down": -3.34
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.18,
+      "max_down": -4.18
+    }
   },
   {
     "symbol": "DOODIRT",
@@ -14516,7 +14519,10 @@
     "ob": 0.7,
     "p15": 0.45,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.0
+    },
     "result_4h": null
   },
   {
@@ -14535,7 +14541,10 @@
     "ob": 1.0,
     "p15": 0.45,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.22,
+      "max_down": -1.0
+    },
     "result_4h": null
   }
 ]
