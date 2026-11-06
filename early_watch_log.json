@@ -61716,7 +61716,10 @@
       "max_up": 0.18,
       "max_down": -4.18
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.18,
+      "max_down": -8.22
+    }
   },
   {
     "symbol": "CAPIRT",
