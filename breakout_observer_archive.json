@@ -32979,5 +32979,31 @@
     "levels": [],
     "failed_time": 1793886313081,
     "failed_price": 81650.0
+  },
+  {
+    "symbol": "EPICIRT",
+    "anchor_time": 1793887020134,
+    "anchor_price": 19295.0,
+    "status": "FAILED",
+    "created_time": 1793887020134,
+    "last_time": 1793949357977,
+    "last_price": 18500.0,
+    "max_gain_pct": 0.3732,
+    "levels": [],
+    "failed_time": 1793894211587,
+    "failed_price": 18700.0
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1793873523105,
+    "anchor_price": 9550.0,
+    "status": "FAILED",
+    "created_time": 1793873523105,
+    "last_time": 1793949357977,
+    "last_price": 9500.0,
+    "max_gain_pct": 0.2513,
+    "levels": [],
+    "failed_time": 1793900724725,
+    "failed_price": 9217.0
   }
 ]

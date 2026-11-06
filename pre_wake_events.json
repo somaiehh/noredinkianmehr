@@ -11125,7 +11125,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.297,
+    "max_move": 0.502,
     "min_move": -0.0859,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -11146,8 +11146,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.0,
+    "max_move": 0.2044,
     "min_move": -0.3818,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "PUMPIRT",
+    "event_time": 1793950230650,
+    "event_price": 1059.5,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 50.9,
+    "p15": -0.94,
+    "vr": null,
+    "va": 2.67,
+    "ta": 2.59,
+    "bs": 5.0,
+    "book": 0.1,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
