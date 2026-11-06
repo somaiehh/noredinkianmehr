@@ -16037,7 +16037,7 @@
     "tm_g4": 1.0435,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1793896932984,
+    "result_time": 1793897222988,
     "result_move": -9.7421,
     "max_move": 2.1653,
     "min_move": -12.8039,
@@ -16079,8 +16079,8 @@
     "tm_g4": 1.1364,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1793896932984,
-    "result_move": -7.8287,
+    "result_time": 1793897222988,
+    "result_move": -7.5162,
     "max_move": 0.0,
     "min_move": -10.591,
     "ledger_version": "wake-ledger-v1"
@@ -16121,8 +16121,8 @@
     "tm_g4": 1.0645,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1793896932984,
-    "result_move": -6.4833,
+    "result_time": 1793897222988,
+    "result_move": -5.0373,
     "max_move": 0.0,
     "min_move": -6.4833,
     "ledger_version": "wake-ledger-v1"
@@ -16314,6 +16314,27 @@
     "result_move": null,
     "max_move": 1.0138,
     "min_move": -3.0415,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "TACIRT",
+    "event_time": 1793949357977,
+    "event_price": 279.0,
+    "anchor_time": 1793947386496,
+    "anchor_price": 279.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1667,
+    "tm_e15_e1": 0.1667,
+    "tm_e1_e4": 0.4615,
+    "tm_g15": 0.5,
+    "tm_g1": 1.2,
+    "tm_g4": 1.0833,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
