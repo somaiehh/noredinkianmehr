@@ -60888,7 +60888,10 @@
       "max_up": 13.08,
       "max_down": 0.73
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 13.08,
+      "max_down": 0.73
+    }
   },
   {
     "symbol": "FOGOIRT",
@@ -60916,7 +60919,10 @@
       "max_up": 8.11,
       "max_down": -5.55
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.11,
+      "max_down": -13.51
+    }
   },
   {
     "symbol": "ARIAIRT",
