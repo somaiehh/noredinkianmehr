@@ -33533,5 +33533,36 @@
     "max_gain_pct": 0.8434,
     "levels": [],
     "expired_time": 1793997843601
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1793951151029,
+    "anchor_price": 318.9,
+    "status": "EXPIRED",
+    "created_time": 1793951151029,
+    "last_time": 1794005947189,
+    "last_price": 479.0,
+    "max_gain_pct": 50.2038,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793952720269,
+    "confirmed_price": 328.9,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793958148422,
+        "price": 342.3,
+        "gain_pct": 7.3377
+      },
+      {
+        "level": 10,
+        "time": 1793961608929,
+        "price": 353.6,
+        "gain_pct": 10.8812
+      }
+    ],
+    "expired_time": 1793995345717
   }
 ]
