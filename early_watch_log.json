@@ -61548,5 +61548,43 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1793957225227,
+    "price": 48312.0,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 1,
+    "p15": 1.28,
+    "vr": 0.42,
+    "va": 3.47,
+    "buy": 55.99999999999999,
+    "bs": 1.68,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "time": 1793957225227,
+    "price": 478.54,
+    "level": "STRONG",
+    "hunt": 55.7,
+    "persistence": 3,
+    "p15": 0.9,
+    "vr": 0.29,
+    "va": 4.11,
+    "buy": 91.0,
+    "bs": 2.73,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
