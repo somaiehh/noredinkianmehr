@@ -61136,7 +61136,10 @@
       "max_up": 1.09,
       "max_down": -1.62
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 15.32,
+      "max_down": -1.62
+    }
   },
   {
     "symbol": "SEIIRT",
@@ -61164,7 +61167,10 @@
       "max_up": 1.16,
       "max_down": -0.87
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.16,
+      "max_down": -2.65
+    }
   },
   {
     "symbol": "TAIRT",
@@ -61192,7 +61198,10 @@
       "max_up": 1.44,
       "max_down": -1.21
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.06,
+      "max_down": -1.21
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -61325,7 +61334,10 @@
       "max_up": 5.08,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 9.55,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -61393,7 +61405,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.28,
+      "max_down": -2.52
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -61412,7 +61427,10 @@
     "breakout": true,
     "priority": true,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.73,
+      "max_down": -0.94
+    },
     "result_4h": null,
     "result_12h": null
   }

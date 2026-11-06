@@ -14372,6 +14372,28 @@
     "ob": 1.0,
     "p15": 0.89,
     "breakout": false,
+    "result_1h": {
+      "max_up": 1.47,
+      "max_down": -3.97
+    },
+    "result_4h": null
+  },
+  {
+    "symbol": "EPICIRT",
+    "time": 1793947582917,
+    "price": 18635.0,
+    "pre30": 3.26,
+    "pre60": 1.22,
+    "pre120": -0.35,
+    "hunt": 84.0,
+    "persistence": 2,
+    "vr": 1.79,
+    "va": 10.0,
+    "buy": 12.0,
+    "bs": 0.36,
+    "ob": 1.0,
+    "p15": 1.32,
+    "breakout": false,
     "result_1h": null,
     "result_4h": null
   }
