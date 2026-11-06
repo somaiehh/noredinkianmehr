@@ -60764,7 +60764,10 @@
       "max_up": -3.85,
       "max_down": -10.26
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -3.85,
+      "max_down": -14.87
+    }
   },
   {
     "symbol": "HUMAIRT",
@@ -60792,7 +60795,10 @@
       "max_up": -1.63,
       "max_down": -8.32
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.63,
+      "max_down": -13.89
+    }
   },
   {
     "symbol": "WENSOLIRT",
@@ -60820,7 +60826,10 @@
       "max_up": 2.27,
       "max_down": -3.59
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.27,
+      "max_down": -7.84
+    }
   },
   {
     "symbol": "UAIIRT",
@@ -60848,7 +60857,10 @@
       "max_up": 2.21,
       "max_down": -3.65
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.58,
+      "max_down": -7.75
+    }
   },
   {
     "symbol": "CAPIRT",
@@ -61208,7 +61220,10 @@
       "max_up": 0.0,
       "max_down": -1.09
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.03,
+      "max_down": -1.09
+    },
     "result_12h": null
   },
   {
