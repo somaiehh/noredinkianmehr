@@ -33422,5 +33422,29 @@
     "levels": [],
     "failed_time": 1793925378163,
     "failed_price": 85462.0
+  },
+  {
+    "symbol": "ZILIRT",
+    "anchor_time": 1791191049941,
+    "anchor_price": 1073.0,
+    "status": "EXPIRED",
+    "created_time": 1791191049941,
+    "last_time": 1793980840713,
+    "last_price": 500.0,
+    "max_gain_pct": 9.2265,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791201947852,
+    "confirmed_price": 1172.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791201947852,
+        "price": 1172.0,
+        "gain_pct": 9.2265
+      }
+    ],
+    "expired_time": 1791234415809
   }
 ]
