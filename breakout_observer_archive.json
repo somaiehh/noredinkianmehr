@@ -33372,5 +33372,42 @@
       }
     ],
     "expired_time": 1793842240735
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1793771800820,
+    "anchor_price": 1064640.0,
+    "status": "EXPIRED",
+    "created_time": 1793771800820,
+    "last_time": 1793976350060,
+    "last_price": 994511.0,
+    "max_gain_pct": 7.7631,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793784418918,
+    "confirmed_price": 1097043.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793803899875,
+        "price": 1124830.0,
+        "gain_pct": 5.6536
+      }
+    ],
+    "expired_time": 1793815162015
+  },
+  {
+    "symbol": "RSS3IRT",
+    "anchor_time": 1793792489703,
+    "anchor_price": 172.0,
+    "status": "FAILED",
+    "created_time": 1793792489703,
+    "last_time": 1793976350060,
+    "last_price": 163.0,
+    "max_gain_pct": 2.3256,
+    "levels": [],
+    "failed_time": 1793798849812,
+    "failed_price": 165.0
   }
 ]
