@@ -33070,5 +33070,49 @@
     "levels": [],
     "failed_time": 1793943137759,
     "failed_price": 293001.0
+  },
+  {
+    "symbol": "INITIRT",
+    "anchor_time": 1793875393133,
+    "anchor_price": 74741.0,
+    "status": "FAILED",
+    "created_time": 1793875393133,
+    "last_time": 1793955602515,
+    "last_price": 59066.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793876220010,
+    "failed_price": 71003.0
+  },
+  {
+    "symbol": "HUMAIRT",
+    "anchor_time": 1793706359815,
+    "anchor_price": 5358.0,
+    "status": "EXPIRED",
+    "created_time": 1793706359815,
+    "last_time": 1793956602840,
+    "last_price": 3665.0,
+    "max_gain_pct": 13.2139,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793710611489,
+    "confirmed_price": 5665.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793710611489,
+        "price": 5665.0,
+        "gain_pct": 5.7297
+      },
+      {
+        "level": 10,
+        "time": 1793716159362,
+        "price": 5955.0,
+        "gain_pct": 11.1422
+      }
+    ],
+    "expired_time": 1793791600390
   }
 ]
