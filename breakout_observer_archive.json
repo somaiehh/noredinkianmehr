@@ -33409,5 +33409,18 @@
     "levels": [],
     "failed_time": 1793798849812,
     "failed_price": 165.0
+  },
+  {
+    "symbol": "CYBERIRT",
+    "anchor_time": 1793923729728,
+    "anchor_price": 88139.0,
+    "status": "FAILED",
+    "created_time": 1793923729728,
+    "last_time": 1793977216939,
+    "last_price": 104000.0,
+    "max_gain_pct": 24.6077,
+    "levels": [],
+    "failed_time": 1793925378163,
+    "failed_price": 85462.0
   }
 ]
