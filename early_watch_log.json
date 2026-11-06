@@ -61381,7 +61381,10 @@
       "max_up": 23.42,
       "max_down": -4.41
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 45.75,
+      "max_down": -4.41
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -62029,6 +62032,28 @@
     "buy": 97.66666666666667,
     "bs": 2.93,
     "breakout": true,
+    "priority": false,
+    "result_15m": {
+      "max_up": -2.56,
+      "max_down": -3.54
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TAIRT",
+    "time": 1793982476398,
+    "price": 22493.0,
+    "level": "STRONG",
+    "hunt": 52.9,
+    "persistence": 1,
+    "p15": 0.31,
+    "vr": 1.19,
+    "va": 0.87,
+    "buy": 64.66666666666666,
+    "bs": 1.94,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
