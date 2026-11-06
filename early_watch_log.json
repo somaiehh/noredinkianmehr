@@ -61573,7 +61573,10 @@
       "max_up": 1.73,
       "max_down": 1.73
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.73,
+      "max_down": -1.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -61595,7 +61598,10 @@
       "max_up": 1.18,
       "max_down": 1.18
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 6.1,
+      "max_down": 1.18
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -61617,6 +61623,25 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "QIRT",
+    "time": 1793961020351,
+    "price": 7875.0,
+    "level": "STRONG",
+    "hunt": 86.4,
+    "persistence": 3,
+    "p15": 0.24,
+    "vr": 3.55,
+    "va": 3.76,
+    "buy": 53.0,
+    "bs": 1.59,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

@@ -14443,5 +14443,24 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "QIRT",
+    "time": 1793961020351,
+    "price": 7875.0,
+    "pre30": 0.4,
+    "pre60": 3.01,
+    "pre120": 5.55,
+    "hunt": 86.4,
+    "persistence": 3,
+    "vr": 3.55,
+    "va": 3.76,
+    "buy": 53.0,
+    "bs": 1.59,
+    "ob": 0.0,
+    "p15": 0.24,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
