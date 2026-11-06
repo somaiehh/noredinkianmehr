@@ -2340,6 +2340,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "CYBERIRT": {
+      "trigger_time": 1793967309219,
+      "trigger_price": 104689.0,
+      "secondary_score": 65.0,
+      "hunt_score": 45.4,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
