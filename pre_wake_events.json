@@ -11170,5 +11170,26 @@
     "max_move": 1.4158,
     "min_move": -0.5002,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "CAPIRT",
+    "event_time": 1793963844166,
+    "event_price": 27503.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 48.1,
+    "p15": -1.11,
+    "vr": null,
+    "va": 10.0,
+    "ta": 1.41,
+    "bs": 5.0,
+    "book": 0.85,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
