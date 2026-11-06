@@ -60981,7 +60981,10 @@
       "max_up": 5.36,
       "max_down": 0.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.36,
+      "max_down": 0.31
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -61009,7 +61012,10 @@
       "max_up": 1.13,
       "max_down": -2.93
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.13,
+      "max_down": -2.93
+    }
   },
   {
     "symbol": "QIRT",
@@ -61037,7 +61043,10 @@
       "max_up": 1.21,
       "max_down": -4.1
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.21,
+      "max_down": -12.88
+    }
   },
   {
     "symbol": "CAPIRT",
@@ -61065,7 +61074,10 @@
       "max_up": 0.25,
       "max_down": -5.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.25,
+      "max_down": -5.36
+    }
   },
   {
     "symbol": "DEXEIRT",
@@ -61307,6 +61319,25 @@
       "max_up": 5.08,
       "max_down": 0.0
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1793939295564,
+    "price": 40468.0,
+    "level": "STRONG",
+    "hunt": 62.0,
+    "persistence": 1,
+    "p15": 1.17,
+    "vr": 1.61,
+    "va": 2.0,
+    "buy": 84.33333333333333,
+    "bs": 2.53,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
