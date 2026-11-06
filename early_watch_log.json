@@ -61812,7 +61812,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -1.14
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -61831,6 +61834,28 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRT",
+    "time": 1793972539146,
+    "price": 10858.0,
+    "level": "STRONG",
+    "hunt": 84.8,
+    "persistence": 4,
+    "p15": 0.45,
+    "vr": 12.6,
+    "va": 10.0,
+    "buy": 54.666666666666664,
+    "bs": 1.64,
+    "breakout": true,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
