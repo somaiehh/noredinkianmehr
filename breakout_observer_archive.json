@@ -33043,5 +33043,19 @@
       }
     ],
     "expired_time": 1793921532794
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1793905000967,
+    "anchor_price": 1.31,
+    "status": "EXPIRED",
+    "created_time": 1793905000967,
+    "last_time": 1793952897253,
+    "last_price": 1.34408,
+    "max_gain_pct": 3.0527,
+    "levels": [],
+    "confirmed_time": 1793947386496,
+    "confirmed_price": 1.34999,
+    "expired_time": 1793948270464
   }
 ]
