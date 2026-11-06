@@ -32942,5 +32942,29 @@
     "levels": [],
     "confirmed_time": 1793896932984,
     "confirmed_price": 7670.0
+  },
+  {
+    "symbol": "PTBIRT",
+    "anchor_time": 1793863732021,
+    "anchor_price": 37.0,
+    "status": "EXPIRED",
+    "created_time": 1793863732021,
+    "last_time": 1793940497562,
+    "last_price": 32.0,
+    "max_gain_pct": 5.4054,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793865416532,
+    "confirmed_price": 39.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793865416532,
+        "price": 39.0,
+        "gain_pct": 5.4054
+      }
+    ],
+    "expired_time": 1793906984225
   }
 ]
