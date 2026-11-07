@@ -33651,5 +33651,18 @@
       }
     ],
     "expired_time": 1794010421923
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1793973404005,
+    "anchor_price": 39340.0,
+    "status": "FAILED",
+    "created_time": 1793973404005,
+    "last_time": 1794027427790,
+    "last_price": 41000.0,
+    "max_gain_pct": 4.4357,
+    "levels": [],
+    "failed_time": 1793975217871,
+    "failed_price": 37639.0
   }
 ]
