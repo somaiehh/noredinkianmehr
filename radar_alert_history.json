@@ -8107,5 +8107,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1794076967822,
+    "symbol": "ACTIRT",
+    "price": 3095.0,
+    "hunt_score": 80.3,
+    "status": "EARLY",
+    "p15": 0.29,
+    "vr": 1.76,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 3
   }
 ]

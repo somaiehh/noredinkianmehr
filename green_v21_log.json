@@ -14702,5 +14702,24 @@
       "max_down": -1.17
     },
     "result_4h": null
+  },
+  {
+    "symbol": "ACTIRT",
+    "time": 1794076963543,
+    "price": 3095.0,
+    "pre30": 1.48,
+    "pre60": 3.17,
+    "pre120": 7.35,
+    "hunt": 80.3,
+    "persistence": 3,
+    "vr": 1.76,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.63,
+    "p15": 0.29,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
