@@ -11443,5 +11443,26 @@
     "max_move": 1.8857,
     "min_move": -1.9732,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ACTIRT",
+    "event_time": 1794050040410,
+    "event_price": 3098.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 41.0,
+    "p15": -1.62,
+    "vr": null,
+    "va": 10.0,
+    "ta": 0.9,
+    "bs": 1.95,
+    "book": 0.76,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
