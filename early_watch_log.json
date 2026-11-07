@@ -62751,5 +62751,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "LIGHTIRT",
+    "time": 1794050986514,
+    "price": 65187.0,
+    "level": "WATCH",
+    "hunt": 49.9,
+    "persistence": 1,
+    "p15": 0.39,
+    "vr": 0.05,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
