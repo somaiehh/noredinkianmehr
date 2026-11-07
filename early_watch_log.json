@@ -62736,7 +62736,10 @@
       "max_up": 39.69,
       "max_down": -0.72
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 39.69,
+      "max_down": -0.72
+    }
   },
   {
     "symbol": "ACTIRT",
