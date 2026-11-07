@@ -16546,5 +16546,26 @@
     "max_move": 1.0445,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "GHXIRT",
+    "event_time": 1794059845294,
+    "event_price": 2482.1,
+    "anchor_time": 1794057269834,
+    "anchor_price": 2470.2,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.2222,
+    "tm_e15_e1": 0.2222,
+    "tm_e1_e4": 0.5294,
+    "tm_g15": 0.3333,
+    "tm_g1": 1.5,
+    "tm_g4": 1.0625,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
