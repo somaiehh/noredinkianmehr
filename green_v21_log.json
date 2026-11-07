@@ -14580,5 +14580,24 @@
       "max_up": 5.18,
       "max_down": -0.15
     }
+  },
+  {
+    "symbol": "ALPINEIRT",
+    "time": 1794038375593,
+    "price": 81575.0,
+    "pre30": -0.42,
+    "pre60": -1.32,
+    "pre120": 0.52,
+    "hunt": 62.2,
+    "persistence": 2,
+    "vr": 13.09,
+    "va": 2.0,
+    "buy": 65.66666666666666,
+    "bs": 1.97,
+    "ob": 1.0,
+    "p15": 0.54,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
