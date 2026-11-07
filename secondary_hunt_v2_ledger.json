@@ -2354,6 +2354,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "GHXIRT": {
+      "trigger_time": 1794010910259,
+      "trigger_price": 2964.2,
+      "secondary_score": 75.0,
+      "hunt_score": 43.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
