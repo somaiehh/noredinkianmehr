@@ -33803,5 +33803,18 @@
     "max_gain_pct": 0.0,
     "levels": [],
     "expired_time": 1794027427790
+  },
+  {
+    "symbol": "GTCIRT",
+    "anchor_time": 1793529755357,
+    "anchor_price": 68370.0,
+    "status": "FAILED",
+    "created_time": 1793529755357,
+    "last_time": 1794042936839,
+    "last_price": 49999.0,
+    "max_gain_pct": 1.7903,
+    "levels": [],
+    "failed_time": 1793533461696,
+    "failed_price": 66000.0
   }
 ]
