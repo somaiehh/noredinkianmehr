@@ -33842,5 +33842,29 @@
     "confirmed_time": 1794031897264,
     "confirmed_price": 7688.8,
     "expired_time": 1794042166433
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1794006683432,
+    "anchor_price": 491.6,
+    "status": "EXPIRED",
+    "created_time": 1794006683432,
+    "last_time": 1794056395377,
+    "last_price": 505.0,
+    "max_gain_pct": 9.7234,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794007574397,
+    "confirmed_price": 522.1,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794007574397,
+        "price": 522.1,
+        "gain_pct": 6.2042
+      }
+    ],
+    "expired_time": 1794050040410
   }
 ]
