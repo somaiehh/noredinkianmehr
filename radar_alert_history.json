@@ -8016,5 +8016,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1794037311709,
+    "symbol": "ARIAIRT",
+    "price": 45000.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.27,
+    "vr": 4.76,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
