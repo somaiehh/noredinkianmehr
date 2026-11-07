@@ -14626,7 +14626,10 @@
       "max_up": 2.07,
       "max_down": -6.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.07,
+      "max_down": -12.48
+    }
   },
   {
     "symbol": "QIRT",
