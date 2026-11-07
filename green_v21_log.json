@@ -14627,5 +14627,43 @@
       "max_down": -6.0
     },
     "result_4h": null
+  },
+  {
+    "symbol": "QIRT",
+    "time": 1794056230363,
+    "price": 7579.5,
+    "pre30": 1.0,
+    "pre60": 2.99,
+    "pre120": 3.15,
+    "hunt": 75.1,
+    "persistence": 3,
+    "vr": 2.24,
+    "va": 2.48,
+    "buy": 56.666666666666664,
+    "bs": 1.7,
+    "ob": 1.0,
+    "p15": 0.39,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "QIRT",
+    "time": 1794056395377,
+    "price": 7590.0,
+    "pre30": 1.14,
+    "pre60": 3.09,
+    "pre120": 2.87,
+    "hunt": 74.7,
+    "persistence": 4,
+    "vr": 2.25,
+    "va": 2.02,
+    "buy": 69.33333333333334,
+    "bs": 2.08,
+    "ob": 1.0,
+    "p15": 0.52,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
