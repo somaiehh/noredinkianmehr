@@ -34129,5 +34129,18 @@
         "gain_pct": 15.3747
       }
     ]
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "anchor_time": 1794033002441,
+    "anchor_price": 680.0,
+    "status": "FAILED",
+    "created_time": 1794033002441,
+    "last_time": 1794076618576,
+    "last_price": 730.0,
+    "max_gain_pct": 33.5294,
+    "levels": [],
+    "failed_time": 1794035720058,
+    "failed_price": 653.47
   }
 ]

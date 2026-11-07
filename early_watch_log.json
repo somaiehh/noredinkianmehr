@@ -62581,7 +62581,10 @@
       "max_up": 2.67,
       "max_down": -3.33
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.67,
+      "max_down": -6.13
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -63034,7 +63037,10 @@
       "max_up": -0.01,
       "max_down": -0.01
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.35,
+      "max_down": -0.15
+    },
     "result_4h": null,
     "result_12h": null
   }
