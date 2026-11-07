@@ -34142,5 +34142,29 @@
     "levels": [],
     "failed_time": 1794035720058,
     "failed_price": 653.47
+  },
+  {
+    "symbol": "METIRT",
+    "anchor_time": 1791442180885,
+    "anchor_price": 135623.0,
+    "status": "EXPIRED",
+    "created_time": 1791442180885,
+    "last_time": 1794077195893,
+    "last_price": 84681.0,
+    "max_gain_pct": 5.2698,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1791445058027,
+    "confirmed_price": 142770.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791445058027,
+        "price": 142770.0,
+        "gain_pct": 5.2698
+      }
+    ],
+    "expired_time": 1791486717026
   }
 ]
