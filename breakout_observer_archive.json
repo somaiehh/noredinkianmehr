@@ -34073,5 +34073,31 @@
     "levels": [],
     "failed_time": 1793797199061,
     "failed_price": 559.0
+  },
+  {
+    "symbol": "ACTIRT",
+    "anchor_time": 1794030985528,
+    "anchor_price": 3047.0,
+    "status": "FAILED",
+    "created_time": 1794030985528,
+    "last_time": 1794073525084,
+    "last_price": 3000.0,
+    "max_gain_pct": 4.0039,
+    "levels": [],
+    "failed_time": 1794031188388,
+    "failed_price": 2925.0
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1793968943003,
+    "anchor_price": 1096.2,
+    "status": "FAILED",
+    "created_time": 1793968943003,
+    "last_time": 1794073525084,
+    "last_price": 978.2,
+    "max_gain_pct": 1.3319,
+    "levels": [],
+    "failed_time": 1793993718141,
+    "failed_price": 1062.9
   }
 ]
