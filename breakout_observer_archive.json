@@ -34060,5 +34060,18 @@
         "gain_pct": 7.199
       }
     ]
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "anchor_time": 1793786255389,
+    "anchor_price": 592.5,
+    "status": "FAILED",
+    "created_time": 1793786255389,
+    "last_time": 1794072424549,
+    "last_price": 494.0,
+    "max_gain_pct": 4.3544,
+    "levels": [],
+    "failed_time": 1793797199061,
+    "failed_price": 559.0
   }
 ]
