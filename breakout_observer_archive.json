@@ -33994,5 +33994,36 @@
     "levels": [],
     "failed_time": 1793980659066,
     "failed_price": 162.0
+  },
+  {
+    "symbol": "TAIRT",
+    "anchor_time": 1793970939363,
+    "anchor_price": 22748.0,
+    "status": "EXPIRED",
+    "created_time": 1793970939363,
+    "last_time": 1794067041123,
+    "last_price": 26092.0,
+    "max_gain_pct": 16.041,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1793988853739,
+    "confirmed_price": 24266.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793988853739,
+        "price": 24266.0,
+        "gain_pct": 6.6731
+      },
+      {
+        "level": 10,
+        "time": 1793996255920,
+        "price": 25477.0,
+        "gain_pct": 11.9967
+      }
+    ],
+    "expired_time": 1794014268203
   }
 ]
