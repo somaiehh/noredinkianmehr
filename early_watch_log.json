@@ -62085,7 +62085,10 @@
       "max_up": 2.38,
       "max_down": -7.56
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.0,
+      "max_down": -7.56
+    }
   },
   {
     "symbol": "ARBIRT",
