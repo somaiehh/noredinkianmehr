@@ -33664,5 +33664,17 @@
     "levels": [],
     "failed_time": 1793975217871,
     "failed_price": 37639.0
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1793977028918,
+    "anchor_price": 1025000.0,
+    "status": "EXPIRED",
+    "created_time": 1793977028918,
+    "last_time": 1794028473973,
+    "last_price": 1018455.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "expired_time": 1794020368462
   }
 ]
