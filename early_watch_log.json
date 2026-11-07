@@ -62519,7 +62519,10 @@
       "max_up": 0.67,
       "max_down": -0.15
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.68,
+      "max_down": -0.15
+    }
   },
   {
     "symbol": "ONEIRT",
@@ -62823,7 +62826,10 @@
       "max_up": 1.32,
       "max_down": -0.01
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.07,
+      "max_down": -0.89
+    },
     "result_12h": null
   },
   {
@@ -62987,7 +62993,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -2.36,
+      "max_down": -3.12
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
