@@ -62395,7 +62395,10 @@
       "max_up": 4.15,
       "max_down": -1.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 15.65,
+      "max_down": -1.12
+    }
   },
   {
     "symbol": "SIRT",
@@ -62595,7 +62598,10 @@
     "bs": 1.97,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -62614,7 +62620,10 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
