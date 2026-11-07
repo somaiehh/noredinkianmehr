@@ -33816,5 +33816,17 @@
     "levels": [],
     "failed_time": 1793533461696,
     "failed_price": 66000.0
+  },
+  {
+    "symbol": "DEGENIRT",
+    "anchor_time": 1790518673547,
+    "anchor_price": 266.0,
+    "status": "EXPIRED",
+    "created_time": 1790518673547,
+    "last_time": 1794044720184,
+    "last_price": 259.0,
+    "max_gain_pct": 10.1504,
+    "levels": [],
+    "expired_time": 1790577215368
   }
 ]
