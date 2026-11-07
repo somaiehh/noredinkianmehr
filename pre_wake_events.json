@@ -11230,7 +11230,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 5.7536,
+    "max_move": 6.696,
     "min_move": -1.3664,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -11421,6 +11421,27 @@
     "result_move": -6.0606,
     "max_move": 2.4242,
     "min_move": -6.0606,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ALPINEIRT",
+    "event_time": 1794033915049,
+    "event_price": 81138.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 44.0,
+    "p15": -1.04,
+    "vr": null,
+    "va": 8.22,
+    "ta": 5.63,
+    "bs": 5.0,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
