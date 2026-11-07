@@ -62116,7 +62116,10 @@
       "max_up": 0.72,
       "max_down": -0.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.72,
+      "max_down": -2.13
+    }
   },
   {
     "symbol": "ZILIRT",
@@ -62144,7 +62147,10 @@
       "max_up": 0.98,
       "max_down": -6.69
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.98,
+      "max_down": -6.89
+    }
   },
   {
     "symbol": "TAIRT",
