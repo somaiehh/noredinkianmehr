@@ -34025,5 +34025,40 @@
       }
     ],
     "expired_time": 1794014268203
+  },
+  {
+    "symbol": "LTCIRT",
+    "anchor_time": 1793802717216,
+    "anchor_price": 14866853.0,
+    "status": "EXPIRED",
+    "created_time": 1793802717216,
+    "last_time": 1794070780960,
+    "last_price": 13881782.0,
+    "max_gain_pct": 2.691,
+    "levels": [],
+    "expired_time": 1793863238994
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1794027609367,
+    "anchor_price": 41978.0,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1794027609367,
+    "last_time": 1794070780960,
+    "last_price": 43023.0,
+    "max_gain_pct": 8.3306,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794031897264,
+    "confirmed_price": 43800.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794037307197,
+        "price": 45000.0,
+        "gain_pct": 7.199
+      }
+    ]
   }
 ]
