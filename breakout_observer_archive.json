@@ -33676,5 +33676,29 @@
     "max_gain_pct": 0.0,
     "levels": [],
     "expired_time": 1794020368462
+  },
+  {
+    "symbol": "ACTIRT",
+    "anchor_time": 1793945579322,
+    "anchor_price": 2574.0,
+    "status": "EXPIRED",
+    "created_time": 1793945579322,
+    "last_time": 1794029451505,
+    "last_price": 2899.0,
+    "max_gain_pct": 16.3947,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793947386496,
+    "confirmed_price": 2655.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793990593624,
+        "price": 2742.0,
+        "gain_pct": 6.5268
+      }
+    ],
+    "expired_time": 1793990593624
   }
 ]
