@@ -4334,6 +4334,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "PIEVERSEIRT": {
+      "trigger_time": 1794035720058,
+      "trigger_price": 412777.0,
+      "secondary_score": 60.0,
+      "hunt_score": 7.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
