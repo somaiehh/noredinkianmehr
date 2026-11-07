@@ -34166,5 +34166,18 @@
       }
     ],
     "expired_time": 1791486717026
+  },
+  {
+    "symbol": "HOTIRT",
+    "anchor_time": 1793896932984,
+    "anchor_price": 114.7,
+    "status": "FAILED",
+    "created_time": 1793896932984,
+    "last_time": 1794079931536,
+    "last_price": 99.5,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793898705652,
+    "failed_price": 110.8
   }
 ]
