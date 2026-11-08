@@ -63669,5 +63669,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "HOTIRT",
+    "time": 1794139939565,
+    "price": 125.8,
+    "level": "STRONG",
+    "hunt": 57.7,
+    "persistence": 1,
+    "p15": 0.56,
+    "vr": 0.52,
+    "va": 2.06,
+    "buy": 51.0,
+    "bs": 1.53,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]

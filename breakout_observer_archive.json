@@ -34478,5 +34478,18 @@
     "levels": [],
     "failed_time": 1794087272283,
     "failed_price": 1.28066
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1794060812795,
+    "anchor_price": 10347.0,
+    "status": "FAILED",
+    "created_time": 1794060812795,
+    "last_time": 1794139939565,
+    "last_price": 10054.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794103183531,
+    "failed_price": 10024.0
   }
 ]
