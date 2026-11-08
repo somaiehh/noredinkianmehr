@@ -63722,7 +63722,10 @@
       "max_up": 0.73,
       "max_down": -8.69
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.73,
+      "max_down": -13.0
+    }
   },
   {
     "symbol": "HOTIRT",
