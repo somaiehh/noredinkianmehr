@@ -14901,7 +14901,10 @@
       "max_up": 0.46,
       "max_down": -0.14
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.25,
+      "max_down": -0.42
+    }
   },
   {
     "symbol": "ALPINEIRT",
@@ -14923,7 +14926,10 @@
       "max_up": 0.46,
       "max_down": -0.14
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.25,
+      "max_down": -0.42
+    }
   },
   {
     "symbol": "ALPINEIRT",
@@ -15007,7 +15013,10 @@
     "ob": 1.0,
     "p15": 1.07,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.65,
+      "max_down": -3.97
+    },
     "result_4h": null
   }
 ]
