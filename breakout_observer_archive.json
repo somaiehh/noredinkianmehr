@@ -34402,5 +34402,17 @@
       }
     ],
     "expired_time": 1794097667456
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1794058921983,
+    "anchor_price": 9640.0,
+    "status": "EXPIRED",
+    "created_time": 1794058921983,
+    "last_time": 1794126432333,
+    "last_price": 9331.0,
+    "max_gain_pct": 0.529,
+    "levels": [],
+    "expired_time": 1794102129778
   }
 ]
