@@ -34326,5 +34326,81 @@
     "levels": [],
     "failed_time": 1794087272283,
     "failed_price": 41500.0
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1794029286330,
+    "anchor_price": 1019341.0,
+    "status": "FAILED",
+    "created_time": 1794029286330,
+    "last_time": 1794122085419,
+    "last_price": 993341.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794048111323,
+    "failed_price": 986600.0
+  },
+  {
+    "symbol": "TUTIRT",
+    "anchor_time": 1793806020650,
+    "anchor_price": 4901.0,
+    "status": "FAILED",
+    "created_time": 1793806020650,
+    "last_time": 1794122085419,
+    "last_price": 4620.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793812338806,
+    "failed_price": 4733.0
+  },
+  {
+    "symbol": "TAIRT",
+    "anchor_time": 1794067230188,
+    "anchor_price": 26318.0,
+    "status": "FAILED",
+    "created_time": 1794067230188,
+    "last_time": 1794122085419,
+    "last_price": 26444.0,
+    "max_gain_pct": 0.4788,
+    "levels": [],
+    "failed_time": 1794088478920,
+    "failed_price": 25457.0
+  },
+  {
+    "symbol": "BMTIRT",
+    "anchor_time": 1793794337495,
+    "anchor_price": 8419.0,
+    "status": "FAILED",
+    "created_time": 1793794337495,
+    "last_time": 1794122085419,
+    "last_price": 6888.0,
+    "max_gain_pct": 0.974,
+    "levels": [],
+    "failed_time": 1793796321367,
+    "failed_price": 8161.0
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1794054427081,
+    "anchor_price": 7504.4,
+    "status": "EXPIRED",
+    "created_time": 1794054427081,
+    "last_time": 1794122085419,
+    "last_price": 7228.7,
+    "max_gain_pct": 5.1223,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794059845294,
+    "confirmed_price": 7844.9,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794060043614,
+        "price": 7888.8,
+        "gain_pct": 5.1223
+      }
+    ],
+    "expired_time": 1794097667456
   }
 ]
