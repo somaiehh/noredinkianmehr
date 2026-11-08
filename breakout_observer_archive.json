@@ -34439,5 +34439,31 @@
     "levels": [],
     "failed_time": 1792230720223,
     "failed_price": 541.7
+  },
+  {
+    "symbol": "GTCIRT",
+    "anchor_time": 1794043621479,
+    "anchor_price": 52964.0,
+    "status": "FAILED",
+    "created_time": 1794043621479,
+    "last_time": 1794135572407,
+    "last_price": 47543.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794046559604,
+    "failed_price": 50251.0
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1794063597545,
+    "anchor_price": 34250.0,
+    "status": "FAILED",
+    "created_time": 1794063597545,
+    "last_time": 1794135572407,
+    "last_price": 21161.0,
+    "max_gain_pct": 2.4818,
+    "levels": [],
+    "failed_time": 1794075651626,
+    "failed_price": 33128.0
   }
 ]
