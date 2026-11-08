@@ -34231,5 +34231,30 @@
     "levels": [],
     "failed_time": 1794042936839,
     "failed_price": 79537.0
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1794061622873,
+    "anchor_price": 42000.0,
+    "status": "FAILED",
+    "created_time": 1794061622873,
+    "last_time": 1794106801740,
+    "last_price": 37874.0,
+    "max_gain_pct": 1.2976,
+    "levels": [],
+    "failed_time": 1794070780960,
+    "failed_price": 40284.0
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1794041195278,
+    "anchor_price": 12200.0,
+    "status": "EXPIRED",
+    "created_time": 1794041195278,
+    "last_time": 1794107543447,
+    "last_price": 11930.0,
+    "max_gain_pct": 2.4508,
+    "levels": [],
+    "expired_time": 1794084546265
   }
 ]
