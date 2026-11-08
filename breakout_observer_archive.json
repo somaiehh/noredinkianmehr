@@ -34665,5 +34665,62 @@
     "levels": [],
     "failed_time": 1794130211669,
     "failed_price": 42500.0
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1794122809005,
+    "anchor_price": 7334.2,
+    "status": "EXPIRED",
+    "created_time": 1794122809005,
+    "last_time": 1794171623320,
+    "last_price": 7439.6,
+    "max_gain_pct": 14.5319,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794135409623,
+    "confirmed_price": 7565.2,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794138179951,
+        "price": 7782.0,
+        "gain_pct": 6.1056
+      },
+      {
+        "level": 10,
+        "time": 1794139037165,
+        "price": 8351.5,
+        "gain_pct": 13.8706
+      }
+    ],
+    "expired_time": 1794166194303
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1794107543447,
+    "anchor_price": 40200.0,
+    "status": "FAILED",
+    "created_time": 1794107543447,
+    "last_time": 1794171623320,
+    "last_price": 39926.0,
+    "max_gain_pct": 3.3284,
+    "levels": [],
+    "failed_time": 1794108409154,
+    "failed_price": 32514.0
+  },
+  {
+    "symbol": "AIOIRT",
+    "anchor_time": 1793967117237,
+    "anchor_price": 10614.0,
+    "status": "FAILED",
+    "created_time": 1793967117237,
+    "last_time": 1794172389943,
+    "last_price": 13000.0,
+    "max_gain_pct": 22.4797,
+    "levels": [],
+    "failed_time": 1793968313155,
+    "failed_price": 10282.0
   }
 ]
