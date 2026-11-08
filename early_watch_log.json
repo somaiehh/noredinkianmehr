@@ -63570,7 +63570,10 @@
       "max_up": 4.06,
       "max_down": 0.54
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.46,
+      "max_down": -12.87
+    },
     "result_12h": null
   },
   {
@@ -63666,7 +63669,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.73,
+      "max_down": -4.27
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -63682,6 +63688,28 @@
     "va": 2.06,
     "buy": 51.0,
     "bs": 1.53,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 1.91,
+      "max_down": 1.03
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DEGENIRT",
+    "time": 1794140816480,
+    "price": 227.0,
+    "level": "STRONG",
+    "hunt": 50.6,
+    "persistence": 1,
+    "p15": 0.89,
+    "vr": 0.31,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,

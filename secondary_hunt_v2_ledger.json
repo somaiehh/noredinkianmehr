@@ -2398,6 +2398,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "DEGENIRT": {
+      "trigger_time": 1794140816480,
+      "trigger_price": 227.0,
+      "secondary_score": 75.0,
+      "hunt_score": 50.6,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
