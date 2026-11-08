@@ -4378,6 +4378,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "GPSIRT": {
+      "trigger_time": 1794124626742,
+      "trigger_price": 2123.4,
+      "secondary_score": 60.0,
+      "hunt_score": 44.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
