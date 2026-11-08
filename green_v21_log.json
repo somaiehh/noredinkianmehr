@@ -14874,5 +14874,43 @@
       "max_down": -3.34
     },
     "result_4h": null
+  },
+  {
+    "symbol": "ALPINEIRT",
+    "time": 1794147128492,
+    "price": 76436.0,
+    "pre30": -0.52,
+    "pre60": -0.09,
+    "pre120": -1.03,
+    "hunt": 72.4,
+    "persistence": 3,
+    "vr": 2.16,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.68,
+    "ob": 1.0,
+    "p15": 0.08,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ALPINEIRT",
+    "time": 1794147307961,
+    "price": 76436.0,
+    "pre30": -0.09,
+    "pre60": -0.2,
+    "pre120": -0.48,
+    "hunt": 72.4,
+    "persistence": 4,
+    "vr": 2.16,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.68,
+    "ob": 1.0,
+    "p15": 0.08,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
