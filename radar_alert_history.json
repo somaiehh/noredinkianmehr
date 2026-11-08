@@ -8328,5 +8328,18 @@
     "bs": 0.58,
     "breakout": false,
     "persistence": 4
+  },
+  {
+    "time": 1794170810145,
+    "symbol": "APUIRT",
+    "price": 2.82,
+    "hunt_score": 83.9,
+    "status": "EARLY",
+    "p15": 1.08,
+    "vr": 1.57,
+    "va": 3.75,
+    "bs": 4.15,
+    "breakout": false,
+    "persistence": 2
   }
 ]

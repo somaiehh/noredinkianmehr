@@ -63629,7 +63629,10 @@
       "max_up": 5.01,
       "max_down": -22.3
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.14,
+      "max_down": -22.3
+    }
   },
   {
     "symbol": "QIRT",
@@ -64033,6 +64036,44 @@
       "max_up": 4.01,
       "max_down": 0.92
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "APUIRT",
+    "time": 1794170607606,
+    "price": 2.82,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.08,
+    "vr": 1.57,
+    "va": 4.49,
+    "buy": 100,
+    "bs": 4.15,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "AIOIRT",
+    "time": 1794170607606,
+    "price": 12810.0,
+    "level": "WATCH",
+    "hunt": 44.3,
+    "persistence": 1,
+    "p15": 1.21,
+    "vr": 0.22,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
