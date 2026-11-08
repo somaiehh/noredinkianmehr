@@ -63139,7 +63139,10 @@
       "max_up": 1.78,
       "max_down": -3.1
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 12.73,
+      "max_down": -3.1
+    }
   },
   {
     "symbol": "ONEIRT",
@@ -63396,6 +63399,28 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "time": 1794121029406,
+    "price": 38.4,
+    "level": "STRONG",
+    "hunt": 84.0,
+    "persistence": 2,
+    "p15": 1.05,
+    "vr": 3.23,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

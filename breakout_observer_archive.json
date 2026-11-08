@@ -34313,5 +34313,18 @@
     "levels": [],
     "failed_time": 1794071739555,
     "failed_price": 287292.0
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1794071536263,
+    "anchor_price": 43246.0,
+    "status": "FAILED",
+    "created_time": 1794071536263,
+    "last_time": 1794118531099,
+    "last_price": 42126.0,
+    "max_gain_pct": 1.0729,
+    "levels": [],
+    "failed_time": 1794087272283,
+    "failed_price": 41500.0
   }
 ]

@@ -14780,5 +14780,24 @@
       "max_up": 10.08,
       "max_down": -2.24
     }
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "time": 1794121029406,
+    "price": 38.4,
+    "pre30": 1.32,
+    "pre60": 2.4,
+    "pre120": 9.71,
+    "hunt": 84.0,
+    "persistence": 2,
+    "vr": 3.23,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.55,
+    "p15": 1.05,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
