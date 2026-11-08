@@ -34621,5 +34621,36 @@
     "levels": [],
     "failed_time": 1794074279006,
     "failed_price": 158.0
+  },
+  {
+    "symbol": "DEGENIRT",
+    "anchor_time": 1794046559604,
+    "anchor_price": 293.0,
+    "status": "EXPIRED",
+    "created_time": 1794046559604,
+    "last_time": 1794166194303,
+    "last_price": 218.0,
+    "max_gain_pct": 16.7235,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794048111323,
+    "confirmed_price": 312.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794048111323,
+        "price": 312.0,
+        "gain_pct": 6.4846
+      },
+      {
+        "level": 10,
+        "time": 1794048274675,
+        "price": 342.0,
+        "gain_pct": 16.7235
+      }
+    ],
+    "expired_time": 1794090883474
   }
 ]
