@@ -63443,7 +63443,10 @@
       "max_up": 0.0,
       "max_down": -12.89
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -13.28
+    }
   },
   {
     "symbol": "HMSTRIRT",
@@ -63895,7 +63898,10 @@
     "bs": 1.96,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -3.97,
+      "max_down": -3.97
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -63913,6 +63919,28 @@
     "buy": 53.66666666666667,
     "bs": 1.61,
     "breakout": true,
+    "priority": false,
+    "result_15m": {
+      "max_up": -1.25,
+      "max_down": -1.25
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "TACIRT",
+    "time": 1794158961289,
+    "price": 261.0,
+    "level": "STRONG",
+    "hunt": 67.6,
+    "persistence": 4,
+    "p15": 1.16,
+    "vr": 2.38,
+    "va": 1.92,
+    "buy": 47.0,
+    "bs": 1.41,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
