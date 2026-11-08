@@ -63293,5 +63293,24 @@
       "max_down": -14.24
     },
     "result_12h": null
+  },
+  {
+    "symbol": "DGBIRT",
+    "time": 1794111109788,
+    "price": 962.8,
+    "level": "WATCH",
+    "hunt": 47.6,
+    "persistence": 1,
+    "p15": 0.45,
+    "vr": 0.25,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
