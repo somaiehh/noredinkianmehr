@@ -16733,7 +16733,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -1.0892,
+    "min_move": -1.4085,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -16775,7 +16775,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.5887,
-    "min_move": 0.0,
+    "min_move": -1.0302,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -16797,6 +16797,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -0.0538,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "HUMAIRT",
+    "event_time": 1794149872876,
+    "event_price": 3024.0,
+    "anchor_time": 1794148053599,
+    "anchor_price": 3010.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.2,
+    "tm_e15_e1": 0.2,
+    "tm_e1_e4": 0.4545,
+    "tm_g15": 0.25,
+    "tm_g1": 1.25,
+    "tm_g4": 1.1,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
