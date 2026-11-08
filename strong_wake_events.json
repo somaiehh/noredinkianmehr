@@ -16688,7 +16688,7 @@
     "tm_g4": 1.8333,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1794134542900,
+    "result_time": 1794135409623,
     "result_move": -7.3529,
     "max_move": 0.0,
     "min_move": -7.3529,
@@ -16923,6 +16923,27 @@
     "result_move": -5.8061,
     "max_move": 0.0,
     "min_move": -5.8061,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "ANIMEIRT",
+    "event_time": 1794181393956,
+    "event_price": 641.0,
+    "anchor_time": 1794180429656,
+    "anchor_price": 644.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1333,
+    "tm_e15_e1": 0.1333,
+    "tm_e1_e4": 0.6818,
+    "tm_g15": 0.2222,
+    "tm_g1": 1.0714,
+    "tm_g4": 1.1,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
