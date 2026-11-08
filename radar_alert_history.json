@@ -8185,5 +8185,18 @@
     "bs": 3.07,
     "breakout": true,
     "persistence": 5
+  },
+  {
+    "time": 1794131110207,
+    "symbol": "DENTIRT",
+    "price": 10.82,
+    "hunt_score": 91.5,
+    "status": "EARLY",
+    "p15": 3.0,
+    "vr": 1.65,
+    "va": 7.7,
+    "bs": 0.56,
+    "breakout": true,
+    "persistence": 2
   }
 ]

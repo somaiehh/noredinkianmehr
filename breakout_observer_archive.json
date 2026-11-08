@@ -34414,5 +34414,17 @@
     "max_gain_pct": 0.529,
     "levels": [],
     "expired_time": 1794102129778
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1794074279006,
+    "anchor_price": 986.7,
+    "status": "EXPIRED",
+    "created_time": 1794074279006,
+    "last_time": 1794130581113,
+    "last_price": 974.0,
+    "max_gain_pct": 1.3175,
+    "levels": [],
+    "expired_time": 1794117588832
   }
 ]
