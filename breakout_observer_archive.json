@@ -34426,5 +34426,18 @@
     "max_gain_pct": 1.3175,
     "levels": [],
     "expired_time": 1794117588832
+  },
+  {
+    "symbol": "RSRIRT",
+    "anchor_time": 1792229644147,
+    "anchor_price": 559.9,
+    "status": "FAILED",
+    "created_time": 1792229644147,
+    "last_time": 1794135409623,
+    "last_price": 441.2,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1792230720223,
+    "failed_price": 541.7
   }
 ]
