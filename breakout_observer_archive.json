@@ -34218,5 +34218,18 @@
     "max_gain_pct": 0.9793,
     "levels": [],
     "expired_time": 1793434310317
+  },
+  {
+    "symbol": "ALPINEIRT",
+    "anchor_time": 1794031897264,
+    "anchor_price": 82207.0,
+    "status": "FAILED",
+    "created_time": 1794031897264,
+    "last_time": 1794097850555,
+    "last_price": 78237.0,
+    "max_gain_pct": 0.5778,
+    "levels": [],
+    "failed_time": 1794042936839,
+    "failed_price": 79537.0
   }
 ]
