@@ -63598,7 +63598,10 @@
       "max_up": 4.46,
       "max_down": -12.87
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.46,
+      "max_down": -18.61
+    }
   },
   {
     "symbol": "TAIRT",
