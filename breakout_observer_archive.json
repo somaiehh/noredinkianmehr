@@ -34206,5 +34206,17 @@
     "confirmed_time": 1793941401739,
     "confirmed_price": 34.0,
     "expired_time": 1793985122321
+  },
+  {
+    "symbol": "XPLIRT",
+    "anchor_time": 1793391109933,
+    "anchor_price": 22261.0,
+    "status": "EXPIRED",
+    "created_time": 1793391109933,
+    "last_time": 1794095398150,
+    "last_price": 15288.0,
+    "max_gain_pct": 0.9793,
+    "levels": [],
+    "expired_time": 1793434310317
   }
 ]
