@@ -63700,7 +63700,10 @@
       "max_up": 1.91,
       "max_down": 1.03
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 4.05,
+      "max_down": -0.16
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -63722,6 +63725,25 @@
       "max_up": -0.44,
       "max_down": -0.44
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "QIRT",
+    "time": 1794143526831,
+    "price": 8352.0,
+    "level": "WATCH",
+    "hunt": 49.1,
+    "persistence": 1,
+    "p15": 0.64,
+    "vr": 0.43,
+    "va": 2.74,
+    "buy": 59.66666666666667,
+    "bs": 1.79,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
