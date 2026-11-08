@@ -63598,6 +63598,28 @@
       "max_up": -0.37,
       "max_down": -0.37
     },
+    "result_1h": {
+      "max_up": 0.3,
+      "max_down": -1.61
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "time": 1794132724152,
+    "price": 37.7,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 1,
+    "p15": 0.8,
+    "vr": 0.34,
+    "va": 10.0,
+    "buy": 69.33333333333334,
+    "bs": 2.08,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
