@@ -63198,7 +63198,10 @@
       "max_up": 1.8,
       "max_down": -2.35
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.8,
+      "max_down": -3.05
+    }
   },
   {
     "symbol": "HMSTRIRT",
@@ -63226,7 +63229,10 @@
       "max_up": 10.39,
       "max_down": -1.97
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.39,
+      "max_down": -2.81
+    }
   },
   {
     "symbol": "FUNTOKENIRT",
@@ -63445,7 +63451,10 @@
     "bs": 4.83,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.2,
+      "max_down": -0.2
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -63463,6 +63472,25 @@
     "buy": 51.0,
     "bs": 1.53,
     "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "EPICIRT",
+    "time": 1794123698091,
+    "price": 26750.0,
+    "level": "WATCH",
+    "hunt": 43.8,
+    "persistence": 1,
+    "p15": 0.75,
+    "vr": 0.11,
+    "va": 9.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
