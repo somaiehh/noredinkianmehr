@@ -11819,7 +11819,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -1.3228,
+    "min_move": -1.8519,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "NOTIRT",
+    "event_time": 1794125706944,
+    "event_price": 85.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 33.8,
+    "p15": -0.93,
+    "vr": null,
+    "va": 10.0,
+    "ta": 7.38,
+    "bs": 1.58,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
