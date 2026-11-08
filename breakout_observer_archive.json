@@ -34256,5 +34256,49 @@
     "max_gain_pct": 2.4508,
     "levels": [],
     "expired_time": 1794084546265
+  },
+  {
+    "symbol": "DENTIRT",
+    "anchor_time": 1793996068534,
+    "anchor_price": 8.844,
+    "status": "FAILED",
+    "created_time": 1793996068534,
+    "last_time": 1794113124958,
+    "last_price": 9.923,
+    "max_gain_pct": 23.5301,
+    "levels": [],
+    "failed_time": 1793997843601,
+    "failed_price": 8.5
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1794057269834,
+    "anchor_price": 534.1,
+    "status": "EXPIRED",
+    "created_time": 1794057269834,
+    "last_time": 1794113852543,
+    "last_price": 517.8,
+    "max_gain_pct": 21.8873,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794065425847,
+    "confirmed_price": 553.2,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794068797637,
+        "price": 564.0,
+        "gain_pct": 5.5982
+      },
+      {
+        "level": 10,
+        "time": 1794069911044,
+        "price": 645.5,
+        "gain_pct": 20.8575
+      }
+    ],
+    "expired_time": 1794100470620
   }
 ]
