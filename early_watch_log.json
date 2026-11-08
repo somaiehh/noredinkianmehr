@@ -63474,7 +63474,10 @@
       "max_up": 0.0,
       "max_down": -3.91
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -9.64
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -63983,6 +63986,25 @@
       "max_up": 0.34,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "time": 1794164312698,
+    "price": 650.0,
+    "level": "STRONG",
+    "hunt": 77.6,
+    "persistence": 1,
+    "p15": 0.63,
+    "vr": 4.3,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

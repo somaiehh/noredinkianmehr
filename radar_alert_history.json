@@ -8276,5 +8276,31 @@
     "bs": 1.96,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1794164317753,
+    "symbol": "ELIZAOSIRT",
+    "price": 76.3,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.97,
+    "vr": 14.75,
+    "va": 4.14,
+    "bs": 2.92,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1794164604024,
+    "symbol": "FUNTOKENIRT",
+    "price": 656.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.56,
+    "vr": 4.3,
+    "va": 9.96,
+    "bs": 5.0,
+    "breakout": false,
+    "persistence": 2
   }
 ]
