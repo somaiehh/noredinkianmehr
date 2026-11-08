@@ -63508,7 +63508,10 @@
       "max_up": 0.0,
       "max_down": -3.19
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.52,
+      "max_down": -4.13
+    },
     "result_12h": null
   },
   {
@@ -63633,6 +63636,25 @@
       "max_up": 0.0,
       "max_down": -2.12
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BMTIRT",
+    "time": 1794137210954,
+    "price": 7253.0,
+    "level": "WATCH",
+    "hunt": 42.6,
+    "persistence": 2,
+    "p15": 1.34,
+    "vr": 0.04,
+    "va": 2.42,
+    "buy": 100,
+    "bs": 4.61,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
