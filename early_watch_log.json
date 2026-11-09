@@ -63815,7 +63815,10 @@
       "max_up": -0.33,
       "max_down": -10.2
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.33,
+      "max_down": -15.32
+    }
   },
   {
     "symbol": "TAIRT",
@@ -64143,7 +64146,10 @@
       "max_up": -0.16,
       "max_down": -0.16
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.16,
+      "max_down": -0.16
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -64165,7 +64171,10 @@
       "max_up": 1.92,
       "max_down": 1.92
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.92,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -64187,7 +64196,10 @@
       "max_up": -0.83,
       "max_down": -0.83
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.19,
+      "max_down": -0.83
+    },
     "result_4h": null,
     "result_12h": null
   },
