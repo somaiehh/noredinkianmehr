@@ -34772,5 +34772,18 @@
     "levels": [],
     "failed_time": 1794175020989,
     "failed_price": 1.2734
+  },
+  {
+    "symbol": "HOTIRT",
+    "anchor_time": 1794143526831,
+    "anchor_price": 130.9,
+    "status": "FAILED",
+    "created_time": 1794143526831,
+    "last_time": 1794196772709,
+    "last_price": 115.5,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794144475456,
+    "failed_price": 124.6
   }
 ]
