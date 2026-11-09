@@ -8341,5 +8341,18 @@
     "bs": 4.15,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1794185186596,
+    "symbol": "AINIRT",
+    "price": 42860.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.05,
+    "vr": 3.59,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
