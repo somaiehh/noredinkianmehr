@@ -35052,5 +35052,44 @@
     "levels": [],
     "failed_time": 1794175020989,
     "failed_price": 7200.0
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1794122809005,
+    "anchor_price": 995109.0,
+    "status": "FAILED",
+    "created_time": 1794122809005,
+    "last_time": 1794237402327,
+    "last_price": 951704.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794157894676,
+    "failed_price": 959705.0
+  },
+  {
+    "symbol": "METIRT",
+    "anchor_time": 1794077980173,
+    "anchor_price": 87813.0,
+    "status": "FAILED",
+    "created_time": 1794077980173,
+    "last_time": 1794237402327,
+    "last_price": 88933.0,
+    "max_gain_pct": 2.4598,
+    "levels": [],
+    "failed_time": 1794121029406,
+    "failed_price": 83478.0
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1794189439985,
+    "anchor_price": 1.37197,
+    "status": "FAILED",
+    "created_time": 1794189439985,
+    "last_time": 1794238032657,
+    "last_price": 1.375,
+    "max_gain_pct": 0.5838,
+    "levels": [],
+    "failed_time": 1794208319100,
+    "failed_price": 1.32898
   }
 ]
