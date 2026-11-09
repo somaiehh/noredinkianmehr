@@ -35194,5 +35194,42 @@
       }
     ],
     "expired_time": 1793762998909
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1793961608929,
+    "anchor_price": 349594958.0,
+    "status": "EXPIRED",
+    "created_time": 1793961608929,
+    "last_time": 1794257440508,
+    "last_price": 309000000.0,
+    "max_gain_pct": 5.9625,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793976163575,
+    "confirmed_price": 368000000.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793976163575,
+        "price": 368000000.0,
+        "gain_pct": 5.2647
+      }
+    ],
+    "expired_time": 1794005754557
+  },
+  {
+    "symbol": "COQIRT",
+    "anchor_time": 1791313153269,
+    "anchor_price": 0.0426,
+    "status": "FAILED",
+    "created_time": 1791313153269,
+    "last_time": 1794257440508,
+    "last_price": 0.0263,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791320441542,
+    "failed_price": 0.04
   }
 ]
