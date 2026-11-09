@@ -4434,6 +4434,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "COQIRT": {
+      "trigger_time": 1794242221636,
+      "trigger_price": 0.0269,
+      "secondary_score": 70.0,
+      "hunt_score": 20.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
