@@ -64497,7 +64497,10 @@
       "max_up": -0.65,
       "max_down": -6.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.1,
+      "max_down": -6.4
+    }
   },
   {
     "symbol": "QIRT",
@@ -64525,7 +64528,10 @@
       "max_up": -0.12,
       "max_down": -1.95
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.69,
+      "max_down": -5.88
+    }
   },
   {
     "symbol": "PIEVERSEIRT",
@@ -64957,6 +64963,25 @@
       "max_up": 1.14,
       "max_down": -1.37
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "AVAXIRT",
+    "time": 1794266774032,
+    "price": 2297394.0,
+    "level": "STRONG",
+    "hunt": 61.8,
+    "persistence": 2,
+    "p15": 1.21,
+    "vr": 0.14,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }

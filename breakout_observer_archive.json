@@ -35231,5 +35231,50 @@
     "levels": [],
     "failed_time": 1791320441542,
     "failed_price": 0.04
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1794217640108,
+    "anchor_price": 271742.0,
+    "status": "EXPIRED",
+    "created_time": 1794217640108,
+    "last_time": 1794265068308,
+    "last_price": 271916.0,
+    "max_gain_pct": 4.0623,
+    "levels": [],
+    "confirmed_time": 1794230070740,
+    "confirmed_price": 282781.0,
+    "expired_time": 1794261273935
+  },
+  {
+    "symbol": "AVAXIRT",
+    "anchor_time": 1794216980335,
+    "anchor_price": 2129067.0,
+    "status": "EXPIRED",
+    "created_time": 1794216980335,
+    "last_time": 1794266601895,
+    "last_price": 2283625.0,
+    "max_gain_pct": 11.4046,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794228135436,
+    "confirmed_price": 2239188.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794228135436,
+        "price": 2239188.0,
+        "gain_pct": 5.1723
+      },
+      {
+        "level": 10,
+        "time": 1794239063104,
+        "price": 2347656.0,
+        "gain_pct": 10.2669
+      }
+    ],
+    "expired_time": 1794260206023
   }
 ]
