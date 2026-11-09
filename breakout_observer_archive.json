@@ -35039,5 +35039,18 @@
       }
     ],
     "expired_time": 1794215708113
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1794172389943,
+    "anchor_price": 7571.1,
+    "status": "FAILED",
+    "created_time": 1794172389943,
+    "last_time": 1794235568031,
+    "last_price": 6924.2,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794175020989,
+    "failed_price": 7200.0
   }
 ]
