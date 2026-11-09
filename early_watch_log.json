@@ -64602,5 +64602,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "AVAXIRT",
+    "time": 1794235568031,
+    "price": 2330730.0,
+    "level": "STRONG",
+    "hunt": 63.9,
+    "persistence": 2,
+    "p15": 1.01,
+    "vr": 0.02,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
