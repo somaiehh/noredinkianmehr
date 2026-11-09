@@ -64652,7 +64652,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.34,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -64674,7 +64677,10 @@
       "max_up": -0.25,
       "max_down": -0.25
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.03,
+      "max_down": -0.25
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -64692,6 +64698,28 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GTCIRT",
+    "time": 1794241714521,
+    "price": 44703.0,
+    "level": "STRONG",
+    "hunt": 57.5,
+    "persistence": 1,
+    "p15": 1.14,
+    "vr": 1.21,
+    "va": 0.37,
+    "buy": 51.0,
+    "bs": 1.53,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
