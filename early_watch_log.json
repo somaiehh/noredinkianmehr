@@ -64372,7 +64372,10 @@
       "max_up": 0.03,
       "max_down": -0.04
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.32,
+      "max_down": -0.66
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -64394,7 +64397,10 @@
       "max_up": 0.13,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.13,
+      "max_down": -0.77
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -64416,6 +64422,44 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1794222142443,
+    "price": 412.4,
+    "level": "STRONG",
+    "hunt": 70.1,
+    "persistence": 1,
+    "p15": 0.95,
+    "vr": 2.96,
+    "va": 3.21,
+    "buy": 52.33333333333333,
+    "bs": 1.57,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "QIRT",
+    "time": 1794222324107,
+    "price": 7007.7,
+    "level": "WATCH",
+    "hunt": 43.6,
+    "persistence": 2,
+    "p15": 0.18,
+    "vr": 0.06,
+    "va": 6.09,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
