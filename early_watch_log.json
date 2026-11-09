@@ -64125,7 +64125,10 @@
       "max_up": 0.71,
       "max_down": -2.13
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.71,
+      "max_down": -4.96
+    }
   },
   {
     "symbol": "AIOIRT",
@@ -64153,7 +64156,10 @@
       "max_up": 7.52,
       "max_down": -7.58
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.29,
+      "max_down": -16.0
+    }
   },
   {
     "symbol": "EPICIRT",
