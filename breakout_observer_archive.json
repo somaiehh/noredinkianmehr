@@ -34824,5 +34824,17 @@
     "levels": [],
     "failed_time": 1794153473190,
     "failed_price": 67.7
+  },
+  {
+    "symbol": "DOGSIRT",
+    "anchor_time": 1793965536911,
+    "anchor_price": 8.56,
+    "status": "EXPIRED",
+    "created_time": 1793965536911,
+    "last_time": 1794213955577,
+    "last_price": 7.8,
+    "max_gain_pct": 0.4673,
+    "levels": [],
+    "expired_time": 1794024701466
   }
 ]
