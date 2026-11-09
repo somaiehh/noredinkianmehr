@@ -15201,7 +15201,10 @@
       "max_up": 2.03,
       "max_down": -0.25
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.03,
+      "max_down": -1.76
+    }
   },
   {
     "symbol": "METIRT",
@@ -15223,7 +15226,10 @@
       "max_up": -0.84,
       "max_down": -1.4
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.29,
+      "max_down": -2.2
+    }
   },
   {
     "symbol": "ALPINEIRT",
