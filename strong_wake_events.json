@@ -16814,8 +16814,8 @@
     "tm_g4": 1.1,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1794184011748,
-    "result_move": -8.2341,
+    "result_time": 1794188553079,
+    "result_move": -6.2169,
     "max_move": 0.7275,
     "min_move": -8.2341,
     "ledger_version": "wake-ledger-v1"
@@ -17006,7 +17006,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 4.5339,
-    "min_move": -1.4669,
+    "min_move": -2.6642,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "DEXEIRT",
+    "event_time": 1794230810877,
+    "event_price": 340220.0,
+    "anchor_time": 1794230070740,
+    "anchor_price": 340259.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.2308,
+    "tm_e15_e1": 0.2308,
+    "tm_e1_e4": 0.4643,
+    "tm_g15": 0.3333,
+    "tm_g1": 1.0833,
+    "tm_g4": 1.12,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
