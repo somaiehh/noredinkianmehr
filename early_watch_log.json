@@ -63753,7 +63753,10 @@
       "max_up": 4.05,
       "max_down": -5.41
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.05,
+      "max_down": -13.59
+    }
   },
   {
     "symbol": "DEGENIRT",
@@ -63781,7 +63784,10 @@
       "max_up": 0.88,
       "max_down": -2.2
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.32,
+      "max_down": -5.29
+    }
   },
   {
     "symbol": "QIRT",
@@ -64127,7 +64133,10 @@
     "bs": 2.52,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.16,
+      "max_down": -0.16
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -64146,7 +64155,10 @@
     "bs": 2.21,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 1.92,
+      "max_down": 1.92
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -64165,7 +64177,10 @@
     "bs": 3.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.83,
+      "max_down": -0.83
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
