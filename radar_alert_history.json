@@ -8445,5 +8445,31 @@
     "bs": 4.12,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1794239068166,
+    "symbol": "SEIIRT",
+    "price": 11828.0,
+    "hunt_score": 82.1,
+    "status": "EARLY",
+    "p15": 0.65,
+    "vr": 0.29,
+    "va": 10.0,
+    "bs": 0.52,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1794239271086,
+    "symbol": "SEIIRT",
+    "price": 11828.0,
+    "hunt_score": 84.1,
+    "status": "EARLY",
+    "p15": 0.65,
+    "vr": 0.29,
+    "va": 10.0,
+    "bs": 3.0,
+    "breakout": true,
+    "persistence": 3
   }
 ]

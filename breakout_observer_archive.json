@@ -35091,5 +35091,45 @@
     "levels": [],
     "failed_time": 1794208319100,
     "failed_price": 1.32898
+  },
+  {
+    "symbol": "SEIIRT",
+    "anchor_time": 1793806020650,
+    "anchor_price": 13644.0,
+    "status": "FAILED",
+    "created_time": 1793806020650,
+    "last_time": 1794238239771,
+    "last_price": 11752.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793817705293,
+    "failed_price": 13108.0
+  },
+  {
+    "symbol": "WIRT",
+    "anchor_time": 1792580816347,
+    "anchor_price": 3877.0,
+    "status": "FAILED",
+    "created_time": 1792580816347,
+    "last_time": 1794238239771,
+    "last_price": 2885.0,
+    "max_gain_pct": 9.3113,
+    "levels": [],
+    "failed_time": 1792582720722,
+    "failed_price": 3720.0
+  },
+  {
+    "symbol": "MERLIRT",
+    "anchor_time": 1791060094916,
+    "anchor_price": 8516.0,
+    "status": "EXPIRED",
+    "created_time": 1791060094916,
+    "last_time": 1794238239771,
+    "last_price": 9000.0,
+    "max_gain_pct": 5.7186,
+    "levels": [],
+    "confirmed_time": 1791080133621,
+    "confirmed_price": 8800.0,
+    "expired_time": 1791103340910
   }
 ]
