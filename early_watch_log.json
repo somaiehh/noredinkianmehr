@@ -63908,7 +63908,10 @@
       "max_up": 2.35,
       "max_down": -3.94
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.35,
+      "max_down": -9.29
+    }
   },
   {
     "symbol": "GRAMIRT",
