@@ -64466,7 +64466,10 @@
       "max_up": 3.34,
       "max_down": -0.87
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.34,
+      "max_down": -1.73
+    }
   },
   {
     "symbol": "ONEIRT",
