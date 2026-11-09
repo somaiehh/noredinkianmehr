@@ -12154,7 +12154,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.9102,
+    "max_move": 2.093,
     "min_move": -0.1371,
     "ledger_version": "pre-wake-ledger-v1"
   },
