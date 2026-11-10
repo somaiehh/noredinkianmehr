@@ -35406,5 +35406,43 @@
       }
     ],
     "expired_time": 1794274263118
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1794187621302,
+    "anchor_price": 17274.0,
+    "status": "EXPIRED",
+    "created_time": 1794187621302,
+    "last_time": 1794292229944,
+    "last_price": 9797.0,
+    "max_gain_pct": 5.1407,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794187795328,
+    "confirmed_price": 17838.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794188553079,
+        "price": 18162.0,
+        "gain_pct": 5.1407
+      }
+    ],
+    "expired_time": 1794230985227
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1794216980335,
+    "anchor_price": 244.0,
+    "status": "EXPIRED",
+    "created_time": 1794216980335,
+    "last_time": 1794292229944,
+    "last_price": 246.0,
+    "max_gain_pct": 4.0984,
+    "levels": [],
+    "confirmed_time": 1794228991716,
+    "confirmed_price": 252.0,
+    "expired_time": 1794263828045
   }
 ]
