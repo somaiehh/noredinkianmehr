@@ -12241,5 +12241,26 @@
     "max_move": 0.7778,
     "min_move": -0.6,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "AINIRT",
+    "event_time": 1794271057679,
+    "event_price": 28471.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 32.9,
+    "p15": -1.48,
+    "vr": null,
+    "va": 2.0,
+    "ta": 0.22,
+    "bs": 5.0,
+    "book": 0.1,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.4531,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
