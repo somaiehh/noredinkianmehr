@@ -15376,7 +15376,10 @@
       "max_up": 0.47,
       "max_down": -3.55
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.47,
+      "max_down": -16.3
+    }
   },
   {
     "symbol": "LABIRT",
@@ -15398,7 +15401,10 @@
       "max_up": 0.46,
       "max_down": -11.55
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.46,
+      "max_down": -16.31
+    }
   },
   {
     "symbol": "QIRT",
