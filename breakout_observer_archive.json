@@ -35719,5 +35719,30 @@
     "confirmed_time": 1794228135436,
     "confirmed_price": 982.1,
     "expired_time": 1794258836705
+  },
+  {
+    "symbol": "EPICIRT",
+    "anchor_time": 1794205057760,
+    "anchor_price": 22826.0,
+    "status": "FAILED",
+    "created_time": 1794205057760,
+    "last_time": 1794328121234,
+    "last_price": 19036.0,
+    "max_gain_pct": 0.1446,
+    "levels": [],
+    "failed_time": 1794219091852,
+    "failed_price": 21700.0
+  },
+  {
+    "symbol": "SLVONIRT",
+    "anchor_time": 1793525219696,
+    "anchor_price": 12283089.0,
+    "status": "EXPIRED",
+    "created_time": 1793525219696,
+    "last_time": 1794328121234,
+    "last_price": 11636328.0,
+    "max_gain_pct": 4.8318,
+    "levels": [],
+    "expired_time": 1793579343943
   }
 ]
