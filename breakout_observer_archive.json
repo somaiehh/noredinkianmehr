@@ -35571,5 +35571,36 @@
     "levels": [],
     "failed_time": 1794171434439,
     "failed_price": 219.0
+  },
+  {
+    "symbol": "HOTIRT",
+    "anchor_time": 1794197505017,
+    "anchor_price": 119.0,
+    "status": "EXPIRED",
+    "created_time": 1794197505017,
+    "last_time": 1794308235320,
+    "last_price": 116.6,
+    "max_gain_pct": 13.4454,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794205888436,
+    "confirmed_price": 123.3,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794206592598,
+        "price": 125.4,
+        "gain_pct": 5.3782
+      },
+      {
+        "level": 10,
+        "time": 1794209306085,
+        "price": 131.6,
+        "gain_pct": 10.5882
+      }
+    ],
+    "expired_time": 1794241714521
   }
 ]
