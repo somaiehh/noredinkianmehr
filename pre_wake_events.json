@@ -12553,7 +12553,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 3.1079,
+    "max_move": 5.1188,
     "min_move": -1.8227,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -12574,7 +12574,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.916,
+    "max_move": 4.9232,
     "min_move": -2.0054,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -12597,6 +12597,27 @@
     "result_move": null,
     "max_move": 4.4317,
     "min_move": -0.4317,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ARIAIRT",
+    "event_time": 1794351805292,
+    "event_price": 56801.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 55.0,
+    "p15": -1.22,
+    "vr": null,
+    "va": 10.0,
+    "ta": 1.45,
+    "bs": 3.19,
+    "book": 0.4,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
