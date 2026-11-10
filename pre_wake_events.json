@@ -12577,5 +12577,26 @@
     "max_move": 1.8977,
     "min_move": -2.0054,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "UAIIRT",
+    "event_time": 1794342959973,
+    "event_price": 10425.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 36.0,
+    "p15": -1.18,
+    "vr": null,
+    "va": 5.3,
+    "ta": 0.48,
+    "bs": 4.07,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
