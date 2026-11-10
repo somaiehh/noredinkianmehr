@@ -35615,5 +35615,32 @@
     "levels": [],
     "failed_time": 1793884330268,
     "failed_price": 358.0
+  },
+  {
+    "symbol": "ARBIRT",
+    "anchor_time": 1794216774304,
+    "anchor_price": 47000.0,
+    "status": "EXPIRED",
+    "created_time": 1794216774304,
+    "last_time": 1794315576489,
+    "last_price": 42610.0,
+    "max_gain_pct": 4.9617,
+    "levels": [],
+    "confirmed_time": 1794228135436,
+    "confirmed_price": 48693.0,
+    "expired_time": 1794260049211
+  },
+  {
+    "symbol": "BRIRT",
+    "anchor_time": 1794257440508,
+    "anchor_price": 126250.0,
+    "status": "FAILED",
+    "created_time": 1794257440508,
+    "last_time": 1794315576489,
+    "last_price": 127750.0,
+    "max_gain_pct": 9.3069,
+    "levels": [],
+    "failed_time": 1794266601895,
+    "failed_price": 120410.0
   }
 ]
