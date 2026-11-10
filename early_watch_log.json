@@ -64863,7 +64863,10 @@
       "max_up": 14.62,
       "max_down": -4.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 14.62,
+      "max_down": -8.77
+    }
   },
   {
     "symbol": "LABIRT",
@@ -64891,7 +64894,10 @@
       "max_up": -0.02,
       "max_down": -1.05
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.02,
+      "max_down": -4.92
+    }
   },
   {
     "symbol": "ARIAIRT",
