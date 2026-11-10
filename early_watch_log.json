@@ -64832,7 +64832,10 @@
       "max_up": 2.04,
       "max_down": -9.49
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.04,
+      "max_down": -9.98
+    }
   },
   {
     "symbol": "NAKAIRT",
