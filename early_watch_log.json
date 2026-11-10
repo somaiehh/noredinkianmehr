@@ -65800,7 +65800,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.27,
+      "max_down": -1.76
+    },
     "result_4h": null,
     "result_12h": null
   },
