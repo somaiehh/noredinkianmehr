@@ -35668,5 +35668,30 @@
     "levels": [],
     "failed_time": 1794258351674,
     "failed_price": 308000000.0
+  },
+  {
+    "symbol": "CAPIRT",
+    "anchor_time": 1794059845294,
+    "anchor_price": 29742.6,
+    "status": "FAILED",
+    "created_time": 1794059845294,
+    "last_time": 1794319204931,
+    "last_price": 28353.3,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794060812795,
+    "failed_price": 28000.0
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1794238032657,
+    "anchor_price": 953471.0,
+    "status": "EXPIRED",
+    "created_time": 1794238032657,
+    "last_time": 1794320119760,
+    "last_price": 951877.0,
+    "max_gain_pct": 1.5835,
+    "levels": [],
+    "expired_time": 1794281402767
   }
 ]
