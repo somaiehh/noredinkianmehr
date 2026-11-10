@@ -8666,5 +8666,31 @@
     "bs": 1.17,
     "breakout": false,
     "persistence": 4
+  },
+  {
+    "time": 1794347764098,
+    "symbol": "ONEIRT",
+    "price": 467.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.65,
+    "vr": 0.88,
+    "va": 8.77,
+    "bs": 0.35,
+    "breakout": true,
+    "persistence": 5
+  },
+  {
+    "time": 1794347945877,
+    "symbol": "ONEIRT",
+    "price": 470.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.31,
+    "vr": 0.97,
+    "va": 7.36,
+    "bs": 0.23,
+    "breakout": true,
+    "persistence": 6
   }
 ]
