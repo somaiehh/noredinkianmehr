@@ -35488,5 +35488,49 @@
     "levels": [],
     "failed_time": 1794085536589,
     "failed_price": 29.0
+  },
+  {
+    "symbol": "ACTIRT",
+    "anchor_time": 1794074279006,
+    "anchor_price": 3050.0,
+    "status": "EXPIRED",
+    "created_time": 1794074279006,
+    "last_time": 1794298260539,
+    "last_price": 2740.0,
+    "max_gain_pct": 14.3934,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794083712006,
+    "confirmed_price": 3150.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794096434235,
+        "price": 3392.0,
+        "gain_pct": 11.2131
+      },
+      {
+        "level": 10,
+        "time": 1794096434235,
+        "price": 3392.0,
+        "gain_pct": 11.2131
+      }
+    ],
+    "expired_time": 1794117588832
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "anchor_time": 1794216774304,
+    "anchor_price": 581.2,
+    "status": "FAILED",
+    "created_time": 1794216774304,
+    "last_time": 1794299308874,
+    "last_price": 442.01,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794216980335,
+    "failed_price": 488.28
   }
 ]
