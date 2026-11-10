@@ -65139,7 +65139,10 @@
       "max_up": -0.28,
       "max_down": -6.7
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.86,
+      "max_down": -10.62
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -65167,7 +65170,10 @@
       "max_up": -0.19,
       "max_down": -1.43
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.19,
+      "max_down": -17.06
+    }
   },
   {
     "symbol": "TAIRT",
@@ -65680,7 +65686,10 @@
       "max_up": 0.21,
       "max_down": 0.21
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.21,
+      "max_down": -5.08
+    },
     "result_4h": null,
     "result_12h": null
   },
