@@ -17129,10 +17129,10 @@
     "tm_g4": 1.08,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1794260049211,
-    "result_move": -5.3768,
+    "result_time": 1794275908550,
+    "result_move": -5.4175,
     "max_move": 1.1405,
-    "min_move": -5.3768,
+    "min_move": -5.4175,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -17191,11 +17191,11 @@
     "tm_g1": 1.0,
     "tm_g4": 1.069,
     "legacy": false,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1794311467390,
+    "result_move": -5.2035,
     "max_move": 0.2984,
-    "min_move": -3.2701,
+    "min_move": -5.2035,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -17237,7 +17237,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": 0.0,
+    "min_move": -0.8955,
     "ledger_version": "wake-ledger-v1"
   }
 ]
