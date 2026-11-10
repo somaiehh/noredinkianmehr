@@ -64590,7 +64590,10 @@
       "max_up": 0.33,
       "max_down": -3.09
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.33,
+      "max_down": -3.99
+    }
   },
   {
     "symbol": "FUNTOKENIRT",
@@ -64618,7 +64621,10 @@
       "max_up": 6.9,
       "max_down": -1.9
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.9,
+      "max_down": -1.9
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -64643,7 +64649,10 @@
       "max_up": 1.74,
       "max_down": -1.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.74,
+      "max_down": -2.56
+    }
   },
   {
     "symbol": "AVAXIRT",
@@ -64969,7 +64978,10 @@
       "max_up": 1.14,
       "max_down": -1.37
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.14,
+      "max_down": -5.25
+    },
     "result_12h": null
   },
   {
