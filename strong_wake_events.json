@@ -17129,7 +17129,7 @@
     "tm_g4": 1.08,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1794258188522,
+    "result_time": 1794258836705,
     "result_move": -5.3768,
     "max_move": 1.1405,
     "min_move": -5.3768,
@@ -17217,6 +17217,27 @@
     "result_move": null,
     "max_move": 0.0,
     "min_move": -2.2864,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "event_time": 1794309123443,
+    "event_price": 33.5,
+    "anchor_time": 1794302890500,
+    "anchor_price": 33.8,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.4,
+    "tm_e15_e1": 0.4,
+    "tm_e1_e4": 0.1852,
+    "tm_g15": 1.0,
+    "tm_g1": 0.3333,
+    "tm_g4": 1.125,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
