@@ -64953,7 +64953,10 @@
       "max_up": 1.25,
       "max_down": -0.67
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.25,
+      "max_down": -1.82
+    }
   },
   {
     "symbol": "NAKAIRT",
@@ -65086,6 +65089,44 @@
       "max_up": 0.77,
       "max_down": -0.87
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BRIRT",
+    "time": 1794291144568,
+    "price": 131001.0,
+    "level": "STRONG",
+    "hunt": 74.4,
+    "persistence": 1,
+    "p15": 0.45,
+    "vr": 1.49,
+    "va": 2.0,
+    "buy": 82.33333333333334,
+    "bs": 2.47,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1794291144568,
+    "price": 289365.0,
+    "level": "WATCH",
+    "hunt": 45.5,
+    "persistence": 1,
+    "p15": 0.08,
+    "vr": 0.64,
+    "va": 4.77,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
