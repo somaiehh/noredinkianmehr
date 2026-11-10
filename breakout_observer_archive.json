@@ -35775,5 +35775,55 @@
       }
     ],
     "expired_time": 1794330803199
+  },
+  {
+    "symbol": "DOGSIRT",
+    "anchor_time": 1794214604104,
+    "anchor_price": 7.87,
+    "status": "EXPIRED",
+    "created_time": 1794214604104,
+    "last_time": 1794332507723,
+    "last_price": 8.13,
+    "max_gain_pct": 6.2262,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794219255404,
+    "confirmed_price": 8.13,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794230070740,
+        "price": 8.36,
+        "gain_pct": 6.2262
+      }
+    ],
+    "expired_time": 1794258188522
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1794283889722,
+    "anchor_price": 12612.0,
+    "status": "FAILED",
+    "created_time": 1794283889722,
+    "last_time": 1794332507723,
+    "last_price": 10012.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794286632317,
+    "failed_price": 12144.0
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1794289321745,
+    "anchor_price": 29643.0,
+    "status": "FAILED",
+    "created_time": 1794289321745,
+    "last_time": 1794332507723,
+    "last_price": 30000.0,
+    "max_gain_pct": 7.2395,
+    "levels": [],
+    "failed_time": 1794290207671,
+    "failed_price": 26999.0
   }
 ]
