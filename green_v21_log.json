@@ -15280,5 +15280,43 @@
       "max_up": 2.41,
       "max_down": 0.64
     }
+  },
+  {
+    "symbol": "TAIRT",
+    "time": 1794304662688,
+    "price": 27604.0,
+    "pre30": 2.43,
+    "pre60": 2.43,
+    "pre120": -1.55,
+    "hunt": 63.2,
+    "persistence": 2,
+    "vr": 1.24,
+    "va": 2.0,
+    "buy": 61.66666666666667,
+    "bs": 1.85,
+    "ob": 0.39,
+    "p15": 0.55,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "TAIRT",
+    "time": 1794304860858,
+    "price": 27604.0,
+    "pre30": -0.93,
+    "pre60": 2.43,
+    "pre120": -1.55,
+    "hunt": 65.2,
+    "persistence": 3,
+    "vr": 1.24,
+    "va": 2.0,
+    "buy": 61.66666666666667,
+    "bs": 1.85,
+    "ob": 0.47,
+    "p15": 0.55,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
