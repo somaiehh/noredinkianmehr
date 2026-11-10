@@ -35825,5 +35825,18 @@
     "levels": [],
     "failed_time": 1794290207671,
     "failed_price": 26999.0
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1793907764227,
+    "anchor_price": 232863.0,
+    "status": "FAILED",
+    "created_time": 1793907764227,
+    "last_time": 1794342198397,
+    "last_price": 214980.0,
+    "max_gain_pct": 2.6355,
+    "levels": [],
+    "failed_time": 1793921532794,
+    "failed_price": 225690.0
   }
 ]
