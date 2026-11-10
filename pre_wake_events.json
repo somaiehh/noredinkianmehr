@@ -12259,7 +12259,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 3.5721,
+    "max_move": 4.1165,
     "min_move": -4.1094,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -12280,8 +12280,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 3.1049,
+    "max_move": 3.6469,
     "min_move": -4.542,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "LABIRT",
+    "event_time": 1794289508179,
+    "event_price": 10701.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 37.5,
+    "p15": -1.03,
+    "vr": null,
+    "va": 10.0,
+    "ta": 2.78,
+    "bs": 5.0,
+    "book": 0.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
