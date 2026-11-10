@@ -12172,11 +12172,11 @@
     "book": 1.0,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1794281402767,
+    "result_move": -5.758,
     "max_move": 4.9682,
-    "min_move": -4.3312,
+    "min_move": -5.758,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
