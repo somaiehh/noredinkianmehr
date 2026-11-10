@@ -65201,7 +65201,10 @@
       "max_up": 0.0,
       "max_down": -5.57
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -17.67
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -65229,7 +65232,10 @@
       "max_up": 8.3,
       "max_down": -3.63
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 11.68,
+      "max_down": -5.48
+    }
   },
   {
     "symbol": "TAIRT",
@@ -65527,7 +65533,10 @@
       "max_up": -2.81,
       "max_down": -16.88
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -1.39,
+      "max_down": -16.88
+    },
     "result_12h": null
   },
   {
@@ -65552,7 +65561,10 @@
       "max_up": -0.65,
       "max_down": -11.38
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.65,
+      "max_down": -11.38
+    },
     "result_12h": null
   },
   {
@@ -65738,8 +65750,14 @@
     "bs": 1.41,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
-    "result_1h": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -0.2
+    },
     "result_4h": null,
     "result_12h": null
   }
