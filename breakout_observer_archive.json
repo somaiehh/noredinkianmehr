@@ -35693,5 +35693,31 @@
     "max_gain_pct": 1.5835,
     "levels": [],
     "expired_time": 1794281402767
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1794216980335,
+    "anchor_price": 7.843e-05,
+    "status": "EXPIRED",
+    "created_time": 1794216980335,
+    "last_time": 1794322797850,
+    "last_price": 7.707e-05,
+    "max_gain_pct": 1.122,
+    "levels": [],
+    "expired_time": 1794260206023
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1794215530970,
+    "anchor_price": 948.8,
+    "status": "EXPIRED",
+    "created_time": 1794215530970,
+    "last_time": 1794322797850,
+    "last_price": 915.9,
+    "max_gain_pct": 3.9629,
+    "levels": [],
+    "confirmed_time": 1794228135436,
+    "confirmed_price": 982.1,
+    "expired_time": 1794258836705
   }
 ]

@@ -15351,7 +15351,10 @@
       "max_up": 0.17,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.17,
+      "max_down": -3.03
+    }
   },
   {
     "symbol": "LABIRT",
@@ -15388,6 +15391,25 @@
     "ob": 1.0,
     "p15": 0.62,
     "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "QIRT",
+    "time": 1794323730054,
+    "price": 6617.0,
+    "pre30": 2.02,
+    "pre60": 2.93,
+    "pre120": 3.53,
+    "hunt": 100.0,
+    "persistence": 2,
+    "vr": 8.96,
+    "va": 10.0,
+    "buy": 51.66666666666667,
+    "bs": 1.55,
+    "ob": 0.0,
+    "p15": 1.15,
+    "breakout": true,
     "result_1h": null,
     "result_4h": null
   }
