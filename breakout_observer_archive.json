@@ -36383,5 +36383,18 @@
       }
     ],
     "expired_time": 1794391067424
+  },
+  {
+    "symbol": "PTBIRT",
+    "anchor_time": 1794297407129,
+    "anchor_price": 24.0,
+    "status": "FAILED",
+    "created_time": 1794297407129,
+    "last_time": 1794408341551,
+    "last_price": 20.0,
+    "max_gain_pct": 4.1667,
+    "levels": [],
+    "failed_time": 1794298260539,
+    "failed_price": 23.0
   }
 ]
