@@ -36178,5 +36178,18 @@
     "confirmed_time": 1794386665578,
     "confirmed_price": 301832.0,
     "expired_time": 1794387501052
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1794320286611,
+    "anchor_price": 953149.0,
+    "status": "FAILED",
+    "created_time": 1794320286611,
+    "last_time": 1794391067424,
+    "last_price": 946083.0,
+    "max_gain_pct": 1.8911,
+    "levels": [],
+    "failed_time": 1794325325808,
+    "failed_price": 920001.0
   }
 ]
