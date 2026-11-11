@@ -36244,5 +36244,18 @@
     "confirmed_time": 1794356145768,
     "confirmed_price": 8.37,
     "expired_time": 1794376648430
+  },
+  {
+    "symbol": "MPLXIRT",
+    "anchor_time": 1793672994192,
+    "anchor_price": 25000.0,
+    "status": "FAILED",
+    "created_time": 1793672994192,
+    "last_time": 1794394787182,
+    "last_price": 19500.0,
+    "max_gain_pct": 12.0,
+    "levels": [],
+    "failed_time": 1793673155395,
+    "failed_price": 24017.0
   }
 ]
