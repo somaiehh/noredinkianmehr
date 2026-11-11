@@ -36204,5 +36204,31 @@
     "levels": [],
     "failed_time": 1794333598158,
     "failed_price": 29265.0
+  },
+  {
+    "symbol": "EPICIRT",
+    "anchor_time": 1794328946192,
+    "anchor_price": 20299.0,
+    "status": "FAILED",
+    "created_time": 1794328946192,
+    "last_time": 1794392079137,
+    "last_price": 20145.0,
+    "max_gain_pct": 4.9461,
+    "levels": [],
+    "failed_time": 1794329838203,
+    "failed_price": 19000.0
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1794318820661,
+    "anchor_price": 304240570.0,
+    "status": "FAILED",
+    "created_time": 1794318820661,
+    "last_time": 1794392838736,
+    "last_price": 260569860.0,
+    "max_gain_pct": 1.4668,
+    "levels": [],
+    "failed_time": 1794325325808,
+    "failed_price": 285796691.0
   }
 ]
