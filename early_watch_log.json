@@ -66234,7 +66234,10 @@
       "max_up": 2.55,
       "max_down": -2.04
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.7,
+      "max_down": -4.16
+    }
   },
   {
     "symbol": "HOTIRT",
@@ -66262,7 +66265,10 @@
       "max_up": 2.34,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.0,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "SHIBIRT",
@@ -66290,7 +66296,10 @@
       "max_up": 1.04,
       "max_down": -0.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.31,
+      "max_down": -0.86
+    }
   },
   {
     "symbol": "BABYSHARKIRT",
@@ -66318,7 +66327,10 @@
       "max_up": -0.51,
       "max_down": -6.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 34.33,
+      "max_down": -6.91
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -66790,7 +66802,10 @@
       "max_up": 1.35,
       "max_down": -1.32
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.7,
+      "max_down": -2.65
+    },
     "result_12h": null
   },
   {
@@ -66983,6 +66998,28 @@
       "max_up": 0.55,
       "max_down": 0.55
     },
+    "result_1h": {
+      "max_up": 0.86,
+      "max_down": 0.36
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "time": 1794430844444,
+    "price": 475.0,
+    "level": "WATCH",
+    "hunt": 48.1,
+    "persistence": 1,
+    "p15": 0.68,
+    "vr": 0.09,
+    "va": 2.69,
+    "buy": 100,
+    "bs": 4.93,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
