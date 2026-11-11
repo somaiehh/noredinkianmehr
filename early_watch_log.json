@@ -65567,7 +65567,10 @@
       "max_up": -1.39,
       "max_down": -16.88
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.39,
+      "max_down": -16.88
+    }
   },
   {
     "symbol": "BRIRT",
@@ -65887,7 +65890,10 @@
       "max_up": -1.22,
       "max_down": -2.61
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.05,
+      "max_down": -4.7
+    },
     "result_12h": null
   },
   {
@@ -66005,7 +66011,10 @@
       "max_up": -0.87,
       "max_down": -1.91
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.05,
+      "max_down": -4.7
+    },
     "result_4h": null,
     "result_12h": null
   }
