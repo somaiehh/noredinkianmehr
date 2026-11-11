@@ -4462,6 +4462,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "XCNIRT": {
+      "trigger_time": 1794392079137,
+      "trigger_price": 960.0,
+      "secondary_score": 60.0,
+      "hunt_score": 52.3,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
