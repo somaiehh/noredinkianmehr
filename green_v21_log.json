@@ -15651,7 +15651,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.2,
+      "max_down": -0.94
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -15673,7 +15676,10 @@
       "max_up": 0.0,
       "max_down": -0.78
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.45,
+      "max_down": -1.79
+    }
   },
   {
     "symbol": "DOGSIRT",
@@ -15713,6 +15719,25 @@
     "ob": 0.18,
     "p15": 0.15,
     "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ALPINEIRT",
+    "time": 1794421869158,
+    "price": 75490.0,
+    "pre30": 0.65,
+    "pre60": 1.14,
+    "pre120": 2.25,
+    "hunt": 72.0,
+    "persistence": 2,
+    "vr": 1.01,
+    "va": 10.0,
+    "buy": 76.66666666666666,
+    "bs": 2.3,
+    "ob": 1.0,
+    "p15": 0.39,
+    "breakout": false,
     "result_1h": null,
     "result_4h": null
   }
