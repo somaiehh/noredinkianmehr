@@ -65626,7 +65626,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "MANTAIRT",
@@ -65651,7 +65654,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "SOPHIRT",
@@ -65921,7 +65927,10 @@
       "max_up": 0.02,
       "max_down": -0.7
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.72,
+      "max_down": -3.89
+    },
     "result_12h": null
   },
   {
@@ -65946,7 +65955,10 @@
       "max_up": 0.72,
       "max_down": -0.1
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.82,
+      "max_down": -1.38
+    },
     "result_12h": null
   },
   {
