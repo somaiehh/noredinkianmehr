@@ -66358,7 +66358,10 @@
       "max_up": 3.59,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.62,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "AINIRT",
@@ -67017,6 +67020,25 @@
     "va": 2.69,
     "buy": 100,
     "bs": 4.93,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "AINIRT",
+    "time": 1794431700049,
+    "price": 33936.0,
+    "level": "STRONG",
+    "hunt": 59.3,
+    "persistence": 4,
+    "p15": 0.27,
+    "vr": 1.46,
+    "va": 0.49,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
