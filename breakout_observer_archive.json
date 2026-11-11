@@ -36151,5 +36151,32 @@
     "levels": [],
     "failed_time": 1794165103997,
     "failed_price": 9131.0
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "anchor_time": 1793976163575,
+    "anchor_price": 1.5822,
+    "status": "FAILED",
+    "created_time": 1793976163575,
+    "last_time": 1794388545725,
+    "last_price": 1.36,
+    "max_gain_pct": 0.651,
+    "levels": [],
+    "failed_time": 1794011214312,
+    "failed_price": 1.5252
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1794343475637,
+    "anchor_price": 290000.0,
+    "status": "EXPIRED",
+    "created_time": 1794343475637,
+    "last_time": 1794389209604,
+    "last_price": 304999.0,
+    "max_gain_pct": 5.1721,
+    "levels": [],
+    "confirmed_time": 1794386665578,
+    "confirmed_price": 301832.0,
+    "expired_time": 1794387501052
   }
 ]
