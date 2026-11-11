@@ -36308,5 +36308,43 @@
     "levels": [],
     "failed_time": 1794387501052,
     "failed_price": 1.31001
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1794140141225,
+    "anchor_price": 10097.0,
+    "status": "FAILED",
+    "created_time": 1794140141225,
+    "last_time": 1794404668728,
+    "last_price": 9786.0,
+    "max_gain_pct": 0.3962,
+    "levels": [],
+    "failed_time": 1794170607606,
+    "failed_price": 9790.0
+  },
+  {
+    "symbol": "BCHIRT",
+    "anchor_time": 1793961608929,
+    "anchor_price": 72681478.0,
+    "status": "FAILED",
+    "created_time": 1793961608929,
+    "last_time": 1794405439896,
+    "last_price": 60337395.0,
+    "max_gain_pct": 0.338,
+    "levels": [],
+    "failed_time": 1794024701466,
+    "failed_price": 70384496.0
+  },
+  {
+    "symbol": "POLIRT",
+    "anchor_time": 1793720775494,
+    "anchor_price": 24846.0,
+    "status": "EXPIRED",
+    "created_time": 1793720775494,
+    "last_time": 1794405439896,
+    "last_price": 23688.0,
+    "max_gain_pct": 7.0273,
+    "levels": [],
+    "expired_time": 1793764839311
   }
 ]
