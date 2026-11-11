@@ -4475,6 +4475,22 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ORBSIRT": {
+      "trigger_time": 1794401820529,
+      "trigger_price": 1939.0,
+      "secondary_score": 85.0,
+      "hunt_score": 45.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
