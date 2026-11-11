@@ -66078,7 +66078,10 @@
       "max_up": -0.56,
       "max_down": -0.56
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.56,
+      "max_down": -5.01
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -66100,7 +66103,10 @@
       "max_up": -2.49,
       "max_down": -2.49
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.8,
+      "max_down": -2.49
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -66118,6 +66124,44 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1794384755609,
+    "price": 297911.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.54,
+    "vr": 2.09,
+    "va": 10.0,
+    "buy": 47.333333333333336,
+    "bs": 1.42,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1794384955674,
+    "price": 411.1,
+    "level": "STRONG",
+    "hunt": 63.5,
+    "persistence": 1,
+    "p15": 0.44,
+    "vr": 0.55,
+    "va": 10.0,
+    "buy": 88.0,
+    "bs": 2.64,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

@@ -36013,5 +36013,104 @@
     "levels": [],
     "failed_time": 1794333598158,
     "failed_price": 53703.0
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1793832778889,
+    "anchor_price": 1.2899,
+    "status": "EXPIRED",
+    "created_time": 1793832778889,
+    "last_time": 1794384147491,
+    "last_price": 1.1209,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "expired_time": 1793876220010
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1794323531355,
+    "anchor_price": 7.757e-05,
+    "status": "FAILED",
+    "created_time": 1794323531355,
+    "last_time": 1794384147491,
+    "last_price": 7.373e-05,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794326213390,
+    "failed_price": 7.255e-05
+  },
+  {
+    "symbol": "LTCIRT",
+    "anchor_time": 1794071536263,
+    "anchor_price": 13971504.0,
+    "status": "EXPIRED",
+    "created_time": 1794071536263,
+    "last_time": 1794384147491,
+    "last_price": 12739620.0,
+    "max_gain_pct": 0.4319,
+    "levels": [],
+    "expired_time": 1794114798109
+  },
+  {
+    "symbol": "LINKIRT",
+    "anchor_time": 1793805216015,
+    "anchor_price": 3147860.0,
+    "status": "EXPIRED",
+    "created_time": 1793805216015,
+    "last_time": 1794384147491,
+    "last_price": 2600010.0,
+    "max_gain_pct": 0.5378,
+    "levels": [],
+    "expired_time": 1793865582653
+  },
+  {
+    "symbol": "HYPEIRT",
+    "anchor_time": 1793275779143,
+    "anchor_price": 23824062.0,
+    "status": "EXPIRED",
+    "created_time": 1793275779143,
+    "last_time": 1794384147491,
+    "last_price": 18387153.0,
+    "max_gain_pct": 9.3857,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793279326202,
+    "confirmed_price": 24713205.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793286772400,
+        "price": 25500000.0,
+        "gain_pct": 7.0346
+      }
+    ],
+    "expired_time": 1793319167287
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1794323531355,
+    "anchor_price": 930.0,
+    "status": "FAILED",
+    "created_time": 1794323531355,
+    "last_time": 1794384147491,
+    "last_price": 905.9,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794325325808,
+    "failed_price": 875.9
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1794332685556,
+    "anchor_price": 10205.0,
+    "status": "FAILED",
+    "created_time": 1794332685556,
+    "last_time": 1794384147491,
+    "last_price": 8330.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794342198397,
+    "failed_price": 9842.0
   }
 ]
