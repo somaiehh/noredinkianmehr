@@ -66017,7 +66017,10 @@
       "max_up": 1.08,
       "max_down": -12.33
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.08,
+      "max_down": -17.86
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -66237,7 +66240,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.34,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -66262,7 +66268,10 @@
       "max_up": 0.19,
       "max_down": -0.86
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.04,
+      "max_down": -0.86
+    },
     "result_12h": null
   },
   {
@@ -66287,7 +66296,10 @@
       "max_up": -0.51,
       "max_down": -3.5
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.51,
+      "max_down": -6.11
+    },
     "result_12h": null
   },
   {
@@ -66458,7 +66470,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.56,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   }
