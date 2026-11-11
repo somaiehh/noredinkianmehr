@@ -66324,7 +66324,10 @@
       "max_up": 3.59,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.59,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -66349,7 +66352,10 @@
       "max_up": 2.61,
       "max_down": 0.46
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.61,
+      "max_down": 0.46
+    },
     "result_12h": null
   },
   {
@@ -66474,6 +66480,25 @@
       "max_up": 2.56,
       "max_down": 0.0
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "B2IRT",
+    "time": 1794403473430,
+    "price": 143865.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.81,
+    "vr": 6.65,
+    "va": 3.76,
+    "buy": 100,
+    "bs": 3.81,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
