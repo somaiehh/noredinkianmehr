@@ -65598,7 +65598,10 @@
       "max_up": -0.65,
       "max_down": -11.38
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.65,
+      "max_down": -11.38
+    }
   },
   {
     "symbol": "ZRXIRT",
