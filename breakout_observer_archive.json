@@ -36269,5 +36269,18 @@
     "max_gain_pct": 1.9814,
     "levels": [],
     "expired_time": 1794271376451
+  },
+  {
+    "symbol": "ARBIRT",
+    "anchor_time": 1794316305455,
+    "anchor_price": 43000.0,
+    "status": "FAILED",
+    "created_time": 1794316305455,
+    "last_time": 1794396634273,
+    "last_price": 41551.0,
+    "max_gain_pct": 0.314,
+    "levels": [],
+    "failed_time": 1794326213390,
+    "failed_price": 39000.0
   }
 ]
