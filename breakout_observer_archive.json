@@ -36346,5 +36346,18 @@
     "max_gain_pct": 7.0273,
     "levels": [],
     "expired_time": 1793764839311
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "anchor_time": 1794299504650,
+    "anchor_price": 450.57,
+    "status": "FAILED",
+    "created_time": 1794299504650,
+    "last_time": 1794405638019,
+    "last_price": 452.66,
+    "max_gain_pct": 0.6814,
+    "levels": [],
+    "failed_time": 1794325521561,
+    "failed_price": 436.0
   }
 ]
