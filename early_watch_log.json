@@ -66482,7 +66482,10 @@
       "max_up": 0.17,
       "max_down": -2.71
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.68,
+      "max_down": -3.38
+    }
   },
   {
     "symbol": "MPLXIRT",
