@@ -36359,5 +36359,29 @@
     "levels": [],
     "failed_time": 1794325521561,
     "failed_price": 436.0
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1794347761144,
+    "anchor_price": 467.0,
+    "status": "EXPIRED",
+    "created_time": 1794347761144,
+    "last_time": 1794407367202,
+    "last_price": 404.4,
+    "max_gain_pct": 6.06,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794349270858,
+    "confirmed_price": 485.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794363169775,
+        "price": 493.6,
+        "gain_pct": 5.6959
+      }
+    ],
+    "expired_time": 1794391067424
   }
 ]
