@@ -17192,8 +17192,8 @@
     "tm_g4": 1.069,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1794312241864,
-    "result_move": -5.5138,
+    "result_time": 1794312738730,
+    "result_move": -5.2154,
     "max_move": 0.2984,
     "min_move": -5.5138,
     "ledger_version": "wake-ledger-v1"
