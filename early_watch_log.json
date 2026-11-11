@@ -66544,7 +66544,10 @@
       "max_up": 2.56,
       "max_down": -3.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 27.94,
+      "max_down": -3.4
+    }
   },
   {
     "symbol": "B2IRT",
