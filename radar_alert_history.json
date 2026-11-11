@@ -8770,5 +8770,18 @@
     "bs": 2.69,
     "breakout": true,
     "persistence": 1
+  },
+  {
+    "time": 1794396441653,
+    "symbol": "MPLXIRT",
+    "price": 19863.0,
+    "hunt_score": 83.6,
+    "status": "EARLY",
+    "p15": 1.46,
+    "vr": 1.96,
+    "va": 5.64,
+    "bs": 5.0,
+    "breakout": false,
+    "persistence": 2
   }
 ]
