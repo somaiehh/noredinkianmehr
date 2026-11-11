@@ -36125,5 +36125,18 @@
     "levels": [],
     "failed_time": 1794292031245,
     "failed_price": 6420.2
+  },
+  {
+    "symbol": "MYROIRT",
+    "anchor_time": 1793797921952,
+    "anchor_price": 387.0,
+    "status": "FAILED",
+    "created_time": 1793797921952,
+    "last_time": 1794387501052,
+    "last_price": 360.0,
+    "max_gain_pct": 0.5168,
+    "levels": [],
+    "failed_time": 1793804220760,
+    "failed_price": 368.0
   }
 ]
