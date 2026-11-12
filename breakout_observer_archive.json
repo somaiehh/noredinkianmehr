@@ -37130,5 +37130,17 @@
       }
     ],
     "expired_time": 1793009379419
+  },
+  {
+    "symbol": "XLMIRT",
+    "anchor_time": 1794416233946,
+    "anchor_price": 40037.7,
+    "status": "EXPIRED",
+    "created_time": 1794416233946,
+    "last_time": 1794508091013,
+    "last_price": 40076.9,
+    "max_gain_pct": 0.5215,
+    "levels": [],
+    "expired_time": 1794461272250
   }
 ]
