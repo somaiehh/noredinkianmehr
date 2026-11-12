@@ -12974,7 +12974,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.7207,
-    "min_move": -4.5045,
+    "min_move": -4.6847,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -13058,7 +13058,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -2.3941,
+    "min_move": -2.5783,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -13079,7 +13079,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -2.3941,
+    "min_move": -2.5783,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -13121,6 +13121,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.9144,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "event_time": 1794491148558,
+    "event_price": 52.9,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 30.8,
+    "p15": -1.12,
+    "vr": null,
+    "va": 8.12,
+    "ta": 0.9,
+    "bs": 1.59,
+    "book": 0.43,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
