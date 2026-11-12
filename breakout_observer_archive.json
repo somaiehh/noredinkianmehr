@@ -37037,5 +37037,42 @@
     "levels": [],
     "failed_time": 1794083534478,
     "failed_price": 35.9
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1794391240770,
+    "anchor_price": 947285.0,
+    "status": "EXPIRED",
+    "created_time": 1794391240770,
+    "last_time": 1794502233587,
+    "last_price": 925053.0,
+    "max_gain_pct": 6.3622,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794398225439,
+    "confirmed_price": 980689.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794399273522,
+        "price": 996380.0,
+        "gain_pct": 5.1827
+      }
+    ],
+    "expired_time": 1794434523443
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1794455243306,
+    "anchor_price": 7328.0,
+    "status": "FAILED",
+    "created_time": 1794455243306,
+    "last_time": 1794502233587,
+    "last_price": 5831.0,
+    "max_gain_pct": 0.9962,
+    "levels": [],
+    "failed_time": 1794456546985,
+    "failed_price": 7023.0
   }
 ]
