@@ -67353,7 +67353,10 @@
       "max_up": 0.69,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.69,
+      "max_down": -4.41
+    },
     "result_12h": null
   },
   {
@@ -67549,6 +67552,25 @@
       "max_up": 0.3,
       "max_down": -1.02
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1794490020088,
+    "price": 9470.0,
+    "level": "STRONG",
+    "hunt": 57.3,
+    "persistence": 1,
+    "p15": 0.89,
+    "vr": 0.11,
+    "va": 3.7,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
