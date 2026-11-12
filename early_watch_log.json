@@ -67130,7 +67130,10 @@
       "max_up": 9.47,
       "max_down": -10.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 15.22,
+      "max_down": -10.86
+    }
   },
   {
     "symbol": "AINIRT",
@@ -67158,7 +67161,10 @@
       "max_up": 1.39,
       "max_down": -17.16
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.39,
+      "max_down": -19.23
+    }
   },
   {
     "symbol": "KGENIRT",
@@ -67207,7 +67213,10 @@
       "max_up": 1.63,
       "max_down": -0.17
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 7.71,
+      "max_down": -0.17
+    },
     "result_12h": null
   },
   {
@@ -67278,7 +67287,10 @@
       "max_up": -0.64,
       "max_down": -0.64
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.05,
+      "max_down": -0.64
+    },
     "result_4h": null,
     "result_12h": null
   },

@@ -36815,5 +36815,28 @@
     "confirmed_time": 1794165103997,
     "confirmed_price": 167.0,
     "expired_time": 1794207602581
+  },
+  {
+    "symbol": "INITIRT",
+    "anchor_time": 1794431700049,
+    "anchor_price": 45808.0,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1794431700049,
+    "last_time": 1794474767413,
+    "last_price": 39726.0,
+    "max_gain_pct": 8.0575,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794432433644,
+    "confirmed_price": 48350.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794432433644,
+        "price": 48350.0,
+        "gain_pct": 5.5492
+      }
+    ]
   }
 ]
