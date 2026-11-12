@@ -15826,7 +15826,10 @@
       "max_up": -0.42,
       "max_down": -8.69
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.42,
+      "max_down": -13.38
+    }
   },
   {
     "symbol": "DOGSIRT",
@@ -15892,6 +15895,25 @@
       "max_up": 1.77,
       "max_down": -0.85
     },
+    "result_4h": null
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "time": 1794479471997,
+    "price": 462.0,
+    "pre30": 0.61,
+    "pre60": 3.91,
+    "pre120": 0.43,
+    "hunt": 73.7,
+    "persistence": 2,
+    "vr": 1.82,
+    "va": 2.15,
+    "buy": 60.0,
+    "bs": 1.8,
+    "ob": 0.49,
+    "p15": 0.61,
+    "breakout": false,
+    "result_1h": null,
     "result_4h": null
   }
 ]
