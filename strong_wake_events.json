@@ -17743,5 +17743,26 @@
     "max_move": 0.0,
     "min_move": -15.6206,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "AINIRT",
+    "event_time": 1794459838452,
+    "event_price": 27410.0,
+    "anchor_time": 1794459080070,
+    "anchor_price": 27662.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.35,
+    "tm_e15_e1": 0.35,
+    "tm_e1_e4": 0.5882,
+    "tm_g15": 0.6364,
+    "tm_g1": 1.5385,
+    "tm_g4": 1.1333,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 2.1014,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
