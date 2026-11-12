@@ -16119,7 +16119,10 @@
     "ob": 0.38,
     "p15": 1.02,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.19,
+      "max_down": -1.18
+    },
     "result_4h": null
   },
   {
