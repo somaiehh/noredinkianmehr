@@ -16101,7 +16101,10 @@
       "max_up": -1.07,
       "max_down": -2.68
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.8,
+      "max_down": -2.68
+    }
   },
   {
     "symbol": "ONEIRT",
