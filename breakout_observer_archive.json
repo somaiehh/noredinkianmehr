@@ -36736,5 +36736,33 @@
       }
     ],
     "expired_time": 1794443118949
+  },
+  {
+    "symbol": "LTCIRT",
+    "anchor_time": 1794384755609,
+    "anchor_price": 13129608.0,
+    "status": "EXPIRED",
+    "created_time": 1794384755609,
+    "last_time": 1794470421701,
+    "last_price": 13157924.0,
+    "max_gain_pct": 4.7995,
+    "levels": [],
+    "confirmed_time": 1794407367202,
+    "confirmed_price": 13523877.0,
+    "expired_time": 1794428067188
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1794384755609,
+    "anchor_price": 7.621e-05,
+    "status": "EXPIRED",
+    "created_time": 1794384755609,
+    "last_time": 1794471119068,
+    "last_price": 7.631e-05,
+    "max_gain_pct": 3.6872,
+    "levels": [],
+    "confirmed_time": 1794417602785,
+    "confirmed_price": 7.885e-05,
+    "expired_time": 1794428067188
   }
 ]
