@@ -36764,5 +36764,42 @@
     "confirmed_time": 1794417602785,
     "confirmed_price": 7.885e-05,
     "expired_time": 1794428067188
+  },
+  {
+    "symbol": "HANAIRT",
+    "anchor_time": 1794198397922,
+    "anchor_price": 4799.0,
+    "status": "EXPIRED",
+    "created_time": 1794198397922,
+    "last_time": 1794471309107,
+    "last_price": 4463.0,
+    "max_gain_pct": 5.8345,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794201115934,
+    "confirmed_price": 5079.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794201115934,
+        "price": 5079.0,
+        "gain_pct": 5.8345
+      }
+    ],
+    "expired_time": 1794241714521
+  },
+  {
+    "symbol": "DOGSIRT",
+    "anchor_time": 1794393922052,
+    "anchor_price": 8.42,
+    "status": "FAILED",
+    "created_time": 1794393922052,
+    "last_time": 1794472031629,
+    "last_price": 8.12,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794433535377,
+    "failed_price": 8.15
   }
 ]
