@@ -67313,7 +67313,10 @@
       "max_up": 0.49,
       "max_down": -1.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.96,
+      "max_down": -2.39
+    }
   },
   {
     "symbol": "DOGSIRT",
@@ -67341,7 +67344,10 @@
       "max_up": 1.83,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.83,
+      "max_down": -0.98
+    }
   },
   {
     "symbol": "AAVEIRT",
@@ -67754,7 +67760,10 @@
       "max_up": -2.07,
       "max_down": -7.01
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 7.44,
+      "max_down": -7.01
+    },
     "result_12h": null
   },
   {
@@ -67875,7 +67884,10 @@
       "max_up": 0.01,
       "max_down": 0.01
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.94,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   }
