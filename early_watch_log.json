@@ -67415,7 +67415,10 @@
       "max_up": -0.46,
       "max_down": -0.46
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.55,
+      "max_down": -1.89
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -67476,6 +67479,25 @@
     "buy": 100,
     "bs": 5.0,
     "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1794483723326,
+    "price": 336899.0,
+    "level": "STRONG",
+    "hunt": 93.5,
+    "persistence": 2,
+    "p15": 1.53,
+    "vr": 2.88,
+    "va": 9.72,
+    "buy": 49.666666666666664,
+    "bs": 1.49,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
