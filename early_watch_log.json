@@ -67006,7 +67006,10 @@
       "max_up": 0.0,
       "max_down": -3.19
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -3.19
+    }
   },
   {
     "symbol": "AINIRT",
@@ -67195,6 +67198,25 @@
       "max_up": 1.63,
       "max_down": -0.17
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HIRT",
+    "time": 1794464810388,
+    "price": 7401.0,
+    "level": "STRONG",
+    "hunt": 71.4,
+    "persistence": 1,
+    "p15": 0.15,
+    "vr": 3.09,
+    "va": 4.06,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
