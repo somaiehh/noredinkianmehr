@@ -36598,5 +36598,31 @@
       }
     ],
     "expired_time": 1794452662393
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1794391908730,
+    "anchor_price": 29000.0,
+    "status": "FAILED",
+    "created_time": 1794391908730,
+    "last_time": 1794464981039,
+    "last_price": 27712.0,
+    "max_gain_pct": 18.6483,
+    "levels": [],
+    "failed_time": 1794404497452,
+    "failed_price": 28100.0
+  },
+  {
+    "symbol": "KGENIRT",
+    "anchor_time": 1794419317173,
+    "anchor_price": 21882.0,
+    "status": "FAILED",
+    "created_time": 1794419317173,
+    "last_time": 1794465697142,
+    "last_price": 23798.0,
+    "max_gain_pct": 16.8632,
+    "levels": [],
+    "failed_time": 1794421669707,
+    "failed_price": 20986.0
   }
 ]
