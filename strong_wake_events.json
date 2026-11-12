@@ -17738,10 +17738,10 @@
     "tm_g4": 1.0568,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1794461272250,
-    "result_move": -23.059,
+    "result_time": 1794462199645,
+    "result_move": -27.987,
     "max_move": 0.0,
-    "min_move": -23.059,
+    "min_move": -27.987,
     "ledger_version": "wake-ledger-v1"
   },
   {
