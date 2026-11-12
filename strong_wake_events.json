@@ -17825,7 +17825,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -2.2453,
+    "min_move": -2.7766,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -17868,6 +17868,27 @@
     "result_move": null,
     "max_move": 0.4265,
     "min_move": -0.8702,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "AIOIRT",
+    "event_time": 1794488469665,
+    "event_price": 11367.0,
+    "anchor_time": 1794487550336,
+    "anchor_price": 11428.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1765,
+    "tm_e15_e1": 0.1765,
+    "tm_e1_e4": 0.6296,
+    "tm_g15": 0.2727,
+    "tm_g1": 1.2143,
+    "tm_g4": 1.0385,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]

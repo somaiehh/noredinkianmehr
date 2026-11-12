@@ -15876,7 +15876,10 @@
       "max_up": 2.07,
       "max_down": 0.29
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.64,
+      "max_down": -14.42
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -15898,7 +15901,10 @@
       "max_up": 1.77,
       "max_down": -0.85
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.34,
+      "max_down": -14.68
+    }
   },
   {
     "symbol": "BABYSHARKIRT",
