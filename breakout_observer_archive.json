@@ -37024,5 +37024,18 @@
       }
     ],
     "expired_time": 1794492786538
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "anchor_time": 1794082825758,
+    "anchor_price": 39.3,
+    "status": "FAILED",
+    "created_time": 1794082825758,
+    "last_time": 1794500143159,
+    "last_price": 36.8,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794083534478,
+    "failed_price": 35.9
   }
 ]
