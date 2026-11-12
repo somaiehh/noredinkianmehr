@@ -17737,11 +17737,11 @@
     "tm_g1": 1.1111,
     "tm_g4": 1.0568,
     "legacy": false,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1794449556428,
+    "result_move": -15.6206,
     "max_move": 0.0,
-    "min_move": -4.2306,
+    "min_move": -15.6206,
     "ledger_version": "wake-ledger-v1"
   }
 ]

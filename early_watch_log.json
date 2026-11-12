@@ -66730,7 +66730,10 @@
       "max_up": 1.76,
       "max_down": -1.22
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.76,
+      "max_down": -1.87
+    }
   },
   {
     "symbol": "HIRT",
