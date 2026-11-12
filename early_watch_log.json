@@ -67390,7 +67390,10 @@
       "max_up": 0.0,
       "max_down": -2.81
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -3.25
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -67450,6 +67453,28 @@
     "va": 0.97,
     "buy": 63.66666666666666,
     "bs": 1.91,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.54,
+      "max_down": -0.54
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LTCIRT",
+    "time": 1794483160990,
+    "price": 13306764.0,
+    "level": "STRONG",
+    "hunt": 51.2,
+    "persistence": 1,
+    "p15": 0.08,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
