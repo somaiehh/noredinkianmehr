@@ -8939,5 +8939,18 @@
     "bs": 0.04,
     "breakout": false,
     "persistence": 4
+  },
+  {
+    "time": 1794481247658,
+    "symbol": "SIRENIRT",
+    "price": 8670.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.03,
+    "vr": 11.48,
+    "va": 9.66,
+    "bs": 1.47,
+    "breakout": false,
+    "persistence": 2
   }
 ]
