@@ -37086,5 +37086,49 @@
     "max_gain_pct": 3.0843,
     "levels": [],
     "expired_time": 1793763934629
+  },
+  {
+    "symbol": "ARBIRT",
+    "anchor_time": 1794397406262,
+    "anchor_price": 41943.0,
+    "status": "FAILED",
+    "created_time": 1794397406262,
+    "last_time": 1794505521359,
+    "last_price": 39444.0,
+    "max_gain_pct": 2.9993,
+    "levels": [],
+    "failed_time": 1794439263748,
+    "failed_price": 40400.0
+  },
+  {
+    "symbol": "DODOIRT",
+    "anchor_time": 1792965022865,
+    "anchor_price": 7000.0,
+    "status": "EXPIRED",
+    "created_time": 1792965022865,
+    "last_time": 1794505521359,
+    "last_price": 7420.0,
+    "max_gain_pct": 17.3286,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1792967745482,
+    "confirmed_price": 7347.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792967978546,
+        "price": 8213.0,
+        "gain_pct": 17.3286
+      },
+      {
+        "level": 10,
+        "time": 1792967978546,
+        "price": 8213.0,
+        "gain_pct": 17.3286
+      }
+    ],
+    "expired_time": 1793009379419
   }
 ]
