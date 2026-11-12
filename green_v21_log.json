@@ -16026,7 +16026,10 @@
       "max_up": -0.01,
       "max_down": -2.13
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.01,
+      "max_down": -2.44
+    }
   },
   {
     "symbol": "PEPEIRT",
@@ -16048,7 +16051,10 @@
       "max_up": -0.96,
       "max_down": -2.15
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.84,
+      "max_down": -2.43
+    }
   },
   {
     "symbol": "SIRENIRT",
