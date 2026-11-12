@@ -12823,11 +12823,11 @@
     "book": 1.0,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1794443118949,
+    "result_move": -17.3109,
     "max_move": 0.0,
-    "min_move": -3.7916,
+    "min_move": -17.3109,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
