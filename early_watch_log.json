@@ -66575,7 +66575,10 @@
       "max_up": -4.19,
       "max_down": -17.77
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -4.19,
+      "max_down": -17.77
+    }
   },
   {
     "symbol": "BILLIRT",
@@ -67072,7 +67075,10 @@
       "max_up": 0.13,
       "max_down": -10.86
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 9.47,
+      "max_down": -10.86
+    },
     "result_12h": null
   },
   {
@@ -67097,7 +67103,10 @@
       "max_up": 1.39,
       "max_down": 0.16
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.39,
+      "max_down": -17.16
+    },
     "result_12h": null
   }
 ]
