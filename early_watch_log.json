@@ -67844,5 +67844,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1794511607757,
+    "price": 9600.0,
+    "level": "STRONG",
+    "hunt": 77.5,
+    "persistence": 4,
+    "p15": 0.76,
+    "vr": 1.74,
+    "va": 0.98,
+    "buy": 94.33333333333334,
+    "bs": 2.83,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
