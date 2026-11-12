@@ -66792,7 +66792,10 @@
       "max_up": -0.24,
       "max_down": -2.62
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.24,
+      "max_down": -4.64
+    }
   },
   {
     "symbol": "LABIRT",
@@ -66820,7 +66823,10 @@
       "max_up": 3.63,
       "max_down": -0.43
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.63,
+      "max_down": -2.64
+    }
   },
   {
     "symbol": "ZECIRT",
