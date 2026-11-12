@@ -4491,6 +4491,23 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "STRAXIRT": {
+      "trigger_time": 1794505326927,
+      "trigger_price": 2481.0,
+      "secondary_score": 100.0,
+      "hunt_score": 77.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
