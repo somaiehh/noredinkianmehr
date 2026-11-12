@@ -67315,5 +67315,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "AAVEIRT",
+    "time": 1794475615026,
+    "price": 31289206.0,
+    "level": "STRONG",
+    "hunt": 68.9,
+    "persistence": 1,
+    "p15": 0.1,
+    "vr": 10.64,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
