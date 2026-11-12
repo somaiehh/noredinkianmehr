@@ -36655,5 +36655,31 @@
       }
     ],
     "expired_time": 1794430844444
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1794408138390,
+    "anchor_price": 411.2,
+    "status": "FAILED",
+    "created_time": 1794408138390,
+    "last_time": 1794466946582,
+    "last_price": 386.3,
+    "max_gain_pct": 2.6751,
+    "levels": [],
+    "failed_time": 1794423437857,
+    "failed_price": 397.8
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1794419317173,
+    "anchor_price": 59.5,
+    "status": "FAILED",
+    "created_time": 1794419317173,
+    "last_time": 1794466946582,
+    "last_price": 53.2,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794424306909,
+    "failed_price": 57.7
   }
 ]
