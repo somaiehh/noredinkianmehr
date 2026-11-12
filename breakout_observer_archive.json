@@ -36681,5 +36681,60 @@
     "levels": [],
     "failed_time": 1794424306909,
     "failed_price": 57.7
+  },
+  {
+    "symbol": "EPICIRT",
+    "anchor_time": 1794392838736,
+    "anchor_price": 20466.0,
+    "status": "EXPIRED",
+    "created_time": 1794392838736,
+    "last_time": 1794468598732,
+    "last_price": 23101.0,
+    "max_gain_pct": 22.3346,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794401349727,
+    "confirmed_price": 21100.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794401820529,
+        "price": 21534.0,
+        "gain_pct": 5.2184
+      },
+      {
+        "level": 10,
+        "time": 1794403473430,
+        "price": 24408.0,
+        "gain_pct": 19.2612
+      }
+    ],
+    "expired_time": 1794436991733
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1794399273522,
+    "anchor_price": 10354.0,
+    "status": "EXPIRED",
+    "created_time": 1794399273522,
+    "last_time": 1794468598732,
+    "last_price": 10358.0,
+    "max_gain_pct": 6.4033,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794414796024,
+    "confirmed_price": 10781.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794417108292,
+        "price": 10872.0,
+        "gain_pct": 5.0029
+      }
+    ],
+    "expired_time": 1794443118949
   }
 ]

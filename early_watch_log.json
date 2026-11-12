@@ -67099,7 +67099,10 @@
       "max_up": 1.42,
       "max_down": -7.49
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.42,
+      "max_down": -8.91
+    }
   },
   {
     "symbol": "BABYSHARKIRT",
