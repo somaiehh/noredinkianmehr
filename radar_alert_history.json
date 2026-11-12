@@ -8926,5 +8926,18 @@
     "bs": 0.11,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1794477636783,
+    "symbol": "NOTIRT",
+    "price": 87.7,
+    "hunt_score": 80.4,
+    "status": "EARLY",
+    "p15": 0.34,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 0.04,
+    "breakout": false,
+    "persistence": 4
   }
 ]

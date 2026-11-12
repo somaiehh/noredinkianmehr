@@ -36838,5 +36838,42 @@
         "gain_pct": 5.5492
       }
     ]
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1794387954198,
+    "anchor_price": 8363.0,
+    "status": "EXPIRED",
+    "created_time": 1794387954198,
+    "last_time": 1794476663718,
+    "last_price": 8549.0,
+    "max_gain_pct": 5.5841,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794389209604,
+    "confirmed_price": 8660.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794424306909,
+        "price": 8826.0,
+        "gain_pct": 5.5363
+      }
+    ],
+    "expired_time": 1794431532148
+  },
+  {
+    "symbol": "ERAIRT",
+    "anchor_time": 1794380248595,
+    "anchor_price": 23435.0,
+    "status": "FAILED",
+    "created_time": 1794380248595,
+    "last_time": 1794477432902,
+    "last_price": 26732.0,
+    "max_gain_pct": 19.7098,
+    "levels": [],
+    "failed_time": 1794382916436,
+    "failed_price": 22499.0
   }
 ]
