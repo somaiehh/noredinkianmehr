@@ -66606,7 +66606,10 @@
       "max_up": 2.16,
       "max_down": -0.52
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.16,
+      "max_down": -2.41
+    }
   },
   {
     "symbol": "HANAIRT",
@@ -66634,7 +66637,10 @@
       "max_up": 0.0,
       "max_down": -0.95
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.82,
+      "max_down": -0.95
+    }
   },
   {
     "symbol": "AAVEIRT",
@@ -66662,7 +66668,10 @@
       "max_up": 0.98,
       "max_down": -0.64
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.98,
+      "max_down": -0.64
+    }
   },
   {
     "symbol": "AVAXIRT",
@@ -66690,7 +66699,10 @@
       "max_up": 2.2,
       "max_down": -0.94
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.23,
+      "max_down": -0.94
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
