@@ -67365,7 +67365,10 @@
       "max_up": -0.22,
       "max_down": -0.22
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.09,
+      "max_down": -1.45
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -67381,6 +67384,28 @@
     "va": 2.42,
     "buy": 60.0,
     "bs": 1.8,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -2.81
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MBLIRT",
+    "time": 1794480132851,
+    "price": 174.5,
+    "level": "STRONG",
+    "hunt": 71.0,
+    "persistence": 1,
+    "p15": 1.39,
+    "vr": 2.45,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,

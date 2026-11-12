@@ -36875,5 +36875,18 @@
     "levels": [],
     "failed_time": 1794382916436,
     "failed_price": 22499.0
+  },
+  {
+    "symbol": "COQIRT",
+    "anchor_time": 1794258188522,
+    "anchor_price": 0.0272,
+    "status": "FAILED",
+    "created_time": 1794258188522,
+    "last_time": 1794479471997,
+    "last_price": 0.0288,
+    "max_gain_pct": 5.8824,
+    "levels": [],
+    "failed_time": 1794260049211,
+    "failed_price": 0.0258
   }
 ]
