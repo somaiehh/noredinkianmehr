@@ -36919,5 +36919,18 @@
       }
     ],
     "expired_time": 1794289508179
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1794433357203,
+    "anchor_price": 9962.0,
+    "status": "FAILED",
+    "created_time": 1794433357203,
+    "last_time": 1794491148558,
+    "last_price": 9600.0,
+    "max_gain_pct": 1.0741,
+    "levels": [],
+    "failed_time": 1794461469635,
+    "failed_price": 9610.0
   }
 ]
