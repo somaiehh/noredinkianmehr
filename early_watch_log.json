@@ -66761,7 +66761,10 @@
       "max_up": -1.1,
       "max_down": -6.09
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.1,
+      "max_down": -15.62
+    }
   },
   {
     "symbol": "DOGSIRT",
