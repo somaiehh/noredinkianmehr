@@ -66975,7 +66975,10 @@
       "max_up": 0.18,
       "max_down": -3.83
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.18,
+      "max_down": -5.51
+    }
   },
   {
     "symbol": "ALPINEIRT",
