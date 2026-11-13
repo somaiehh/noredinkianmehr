@@ -2456,6 +2456,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BARDIRT": {
+      "trigger_time": 1794555459108,
+      "trigger_price": 36999.0,
+      "secondary_score": 70.0,
+      "hunt_score": 42.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
