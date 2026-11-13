@@ -9199,5 +9199,18 @@
     "bs": 0.56,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1794588304021,
+    "symbol": "UAIIRT",
+    "price": 10384.0,
+    "hunt_score": 88.4,
+    "status": "EARLY",
+    "p15": 1.2,
+    "vr": 0.56,
+    "va": 3.8,
+    "bs": 1.25,
+    "breakout": true,
+    "persistence": 2
   }
 ]
