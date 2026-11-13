@@ -37752,5 +37752,18 @@
       }
     ],
     "expired_time": 1794595469379
+  },
+  {
+    "symbol": "INJIRT",
+    "anchor_time": 1793869067453,
+    "anchor_price": 2240000.0,
+    "status": "FAILED",
+    "created_time": 1793869067453,
+    "last_time": 1794599034497,
+    "last_price": 2241000.0,
+    "max_gain_pct": 2.3159,
+    "levels": [],
+    "failed_time": 1793891508843,
+    "failed_price": 2143191.0
   }
 ]
