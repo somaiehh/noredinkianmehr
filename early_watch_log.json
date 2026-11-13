@@ -68239,6 +68239,28 @@
     "bs": 2.41,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 2.61,
+      "max_down": 2.61
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "KGENIRT",
+    "time": 1794557532322,
+    "price": 22795.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.95,
+    "vr": 1.02,
+    "va": 10.0,
+    "buy": 61.33333333333334,
+    "bs": 1.84,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
