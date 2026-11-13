@@ -67837,7 +67837,10 @@
       "max_up": 0.0,
       "max_down": -2.68
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.27,
+      "max_down": -2.68
+    }
   },
   {
     "symbol": "MAJORIRT",
@@ -67865,7 +67868,10 @@
       "max_up": 0.0,
       "max_down": -5.51
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -5.73
+    }
   },
   {
     "symbol": "QIRT",
@@ -68085,7 +68091,10 @@
       "max_up": 1.16,
       "max_down": 1.16
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 6.61,
+      "max_down": -1.27
+    },
     "result_12h": null
   },
   {
@@ -68110,6 +68119,25 @@
       "max_up": 1.44,
       "max_down": -2.25
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1794545833827,
+    "price": 9645.0,
+    "level": "STRONG",
+    "hunt": 54.9,
+    "persistence": 2,
+    "p15": 0.83,
+    "vr": 0.22,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
