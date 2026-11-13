@@ -67806,7 +67806,10 @@
       "max_up": 7.44,
       "max_down": -7.01
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.42,
+      "max_down": -7.01
+    }
   },
   {
     "symbol": "HMSTRIRT",
