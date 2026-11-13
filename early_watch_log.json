@@ -67685,7 +67685,10 @@
       "max_up": 1.6,
       "max_down": -0.93
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.2,
+      "max_down": -0.93
+    }
   },
   {
     "symbol": "PEPEIRT",
