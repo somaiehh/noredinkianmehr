@@ -2470,6 +2470,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "FLOWIRT": {
+      "trigger_time": 1794574928913,
+      "trigger_price": 5376.0,
+      "secondary_score": 60.0,
+      "hunt_score": 50.2,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
