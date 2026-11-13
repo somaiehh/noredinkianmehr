@@ -37601,5 +37601,18 @@
     "levels": [],
     "failed_time": 1794304860858,
     "failed_price": 246.0
+  },
+  {
+    "symbol": "ERAIRT",
+    "anchor_time": 1794477633216,
+    "anchor_price": 27186.0,
+    "status": "FAILED",
+    "created_time": 1794477633216,
+    "last_time": 1794575531566,
+    "last_price": 21081.0,
+    "max_gain_pct": 0.4745,
+    "levels": [],
+    "failed_time": 1794479301685,
+    "failed_price": 25884.0
   }
 ]
