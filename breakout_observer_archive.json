@@ -37531,5 +37531,49 @@
       }
     ],
     "expired_time": 1794456739916
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1794519138560,
+    "anchor_price": 432.0,
+    "status": "FAILED",
+    "created_time": 1794519138560,
+    "last_time": 1794566701464,
+    "last_price": 401.6,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794524836021,
+    "failed_price": 414.0
+  },
+  {
+    "symbol": "KGENIRT",
+    "anchor_time": 1794465866670,
+    "anchor_price": 24500.0,
+    "status": "EXPIRED",
+    "created_time": 1794465866670,
+    "last_time": 1794566701464,
+    "last_price": 23245.0,
+    "max_gain_pct": 10.2082,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794466755408,
+    "confirmed_price": 26482.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794466755408,
+        "price": 26482.0,
+        "gain_pct": 8.0898
+      },
+      {
+        "level": 10,
+        "time": 1794466946582,
+        "price": 27001.0,
+        "gain_pct": 10.2082
+      }
+    ],
+    "expired_time": 1794509125711
   }
 ]
