@@ -37459,5 +37459,32 @@
       }
     ],
     "expired_time": 1794553924388
+  },
+  {
+    "symbol": "DODOIRT",
+    "anchor_time": 1794506690178,
+    "anchor_price": 7681.0,
+    "status": "FAILED",
+    "created_time": 1794506690178,
+    "last_time": 1794561302558,
+    "last_price": 7504.0,
+    "max_gain_pct": 5.7024,
+    "levels": [],
+    "failed_time": 1794508091013,
+    "failed_price": 7437.0
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1794517530408,
+    "anchor_price": 7604.5,
+    "status": "EXPIRED",
+    "created_time": 1794517530408,
+    "last_time": 1794561302558,
+    "last_price": 7715.0,
+    "max_gain_pct": 4.0187,
+    "levels": [],
+    "confirmed_time": 1794526495701,
+    "confirmed_price": 7850.0,
+    "expired_time": 1794561124741
   }
 ]
