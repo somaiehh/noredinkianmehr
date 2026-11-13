@@ -9264,5 +9264,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 6
+  },
+  {
+    "time": 1794600122460,
+    "symbol": "SHELLIRT",
+    "price": 10729.0,
+    "hunt_score": 81.6,
+    "status": "EARLY",
+    "p15": 0.93,
+    "vr": 0.32,
+    "va": 4.16,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
