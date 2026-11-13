@@ -37664,5 +37664,18 @@
       }
     ],
     "expired_time": 1794568395481
+  },
+  {
+    "symbol": "EPICIRT",
+    "anchor_time": 1794469343433,
+    "anchor_price": 23965.0,
+    "status": "FAILED",
+    "created_time": 1794469343433,
+    "last_time": 1794592018788,
+    "last_price": 22600.0,
+    "max_gain_pct": 2.6038,
+    "levels": [],
+    "failed_time": 1794470421701,
+    "failed_price": 23029.0
   }
 ]
