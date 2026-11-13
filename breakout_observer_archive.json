@@ -37422,5 +37422,18 @@
     "levels": [],
     "failed_time": 1794470220709,
     "failed_price": 54.1
+  },
+  {
+    "symbol": "BARDIRT",
+    "anchor_time": 1794508926971,
+    "anchor_price": 37966.0,
+    "status": "FAILED",
+    "created_time": 1794508926971,
+    "last_time": 1794557735939,
+    "last_price": 37899.0,
+    "max_gain_pct": 6.0422,
+    "levels": [],
+    "failed_time": 1794509125711,
+    "failed_price": 36741.0
   }
 ]
