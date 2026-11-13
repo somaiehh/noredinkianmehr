@@ -13457,7 +13457,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.8724,
-    "min_move": -1.3905,
+    "min_move": -2.9924,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "TACIRT",
+    "event_time": 1794581970118,
+    "event_price": 285.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 77.2,
+    "p15": -1.04,
+    "vr": null,
+    "va": 3.32,
+    "ta": 0.47,
+    "bs": 2.21,
+    "book": 0.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -2.1053,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
