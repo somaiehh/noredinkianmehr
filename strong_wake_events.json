@@ -17971,7 +17971,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 4.1734,
+    "max_move": 4.6874,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   },
@@ -18078,6 +18078,27 @@
     "result_move": null,
     "max_move": 1.0295,
     "min_move": -0.6699,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "RSS3IRT",
+    "event_time": 1794580045570,
+    "event_price": 147.0,
+    "anchor_time": 1794578519516,
+    "anchor_price": 148.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.4375,
+    "tm_e15_e1": 0.4375,
+    "tm_e1_e4": 0.4848,
+    "tm_g15": 0.7778,
+    "tm_g1": 1.3333,
+    "tm_g4": 1.2692,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
