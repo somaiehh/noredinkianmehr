@@ -13415,7 +13415,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 2.8346,
-    "min_move": -3.7795,
+    "min_move": -4.252,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "SOPHIRT",
+    "event_time": 1794573045914,
+    "event_price": 461.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 39.6,
+    "p15": -1.71,
+    "vr": null,
+    "va": 3.73,
+    "ta": 0.81,
+    "bs": 2.0,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
