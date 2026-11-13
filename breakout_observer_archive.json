@@ -37372,5 +37372,42 @@
       }
     ],
     "expired_time": 1794436991733
+  },
+  {
+    "symbol": "SOPHIRT",
+    "anchor_time": 1794311653087,
+    "anchor_price": 370.0,
+    "status": "EXPIRED",
+    "created_time": 1794311653087,
+    "last_time": 1794551454258,
+    "last_price": 402.0,
+    "max_gain_pct": 8.6486,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794316305455,
+    "confirmed_price": 388.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794319030418,
+        "price": 395.0,
+        "gain_pct": 6.7568
+      }
+    ],
+    "expired_time": 1794356308798
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1794469343433,
+    "anchor_price": 10450.0,
+    "status": "FAILED",
+    "created_time": 1794469343433,
+    "last_time": 1794551454258,
+    "last_price": 9726.0,
+    "max_gain_pct": 2.3923,
+    "levels": [],
+    "failed_time": 1794489120496,
+    "failed_price": 10096.0
   }
 ]
