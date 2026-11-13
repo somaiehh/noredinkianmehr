@@ -37486,5 +37486,19 @@
     "confirmed_time": 1794526495701,
     "confirmed_price": 7850.0,
     "expired_time": 1794561124741
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1794494535229,
+    "anchor_price": 922.2,
+    "status": "EXPIRED",
+    "created_time": 1794494535229,
+    "last_time": 1794564926793,
+    "last_price": 916.9,
+    "max_gain_pct": 3.3941,
+    "levels": [],
+    "confirmed_time": 1794529553548,
+    "confirmed_price": 953.5,
+    "expired_time": 1794538063234
   }
 ]
