@@ -37677,5 +37677,56 @@
     "levels": [],
     "failed_time": 1794470421701,
     "failed_price": 23029.0
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1794551253322,
+    "anchor_price": 6708.0,
+    "status": "EXPIRED",
+    "created_time": 1794551253322,
+    "last_time": 1794594647810,
+    "last_price": 6355.0,
+    "max_gain_pct": 4.353,
+    "levels": [],
+    "confirmed_time": 1794553924388,
+    "confirmed_price": 7000.0,
+    "expired_time": 1794594464170
+  },
+  {
+    "symbol": "SHELLIRT",
+    "anchor_time": 1793192934430,
+    "anchor_price": 7045.0,
+    "status": "EXPIRED",
+    "created_time": 1793192934430,
+    "last_time": 1794594647810,
+    "last_price": 8348.0,
+    "max_gain_pct": 21.6466,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1793195445092,
+    "confirmed_price": 7350.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1793233673385,
+        "price": 7694.0,
+        "gain_pct": 9.2122
+      }
+    ],
+    "expired_time": 1793254464536
+  },
+  {
+    "symbol": "PTBIRT",
+    "anchor_time": 1794459838452,
+    "anchor_price": 25.0,
+    "status": "FAILED",
+    "created_time": 1794459838452,
+    "last_time": 1794595304857,
+    "last_price": 20.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794460313758,
+    "failed_price": 24.0
   }
 ]
