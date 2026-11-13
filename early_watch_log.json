@@ -68358,7 +68358,10 @@
       "max_up": 0.95,
       "max_down": -2.42
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.74,
+      "max_down": -2.42
+    }
   },
   {
     "symbol": "QIRT",
@@ -68771,7 +68774,10 @@
       "max_up": 0.13,
       "max_down": -0.53
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.65,
+      "max_down": -0.53
+    },
     "result_12h": null
   },
   {
@@ -68796,7 +68802,10 @@
       "max_up": -0.01,
       "max_down": -1.48
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.04,
+      "max_down": -2.03
+    },
     "result_12h": null
   },
   {
@@ -69013,7 +69022,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.95,
+      "max_down": -0.59
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -69032,6 +69044,28 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 1.76,
+      "max_down": 0.54
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "time": 1794602213481,
+    "price": 38.9,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.3,
+    "vr": 4.03,
+    "va": 2.25,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

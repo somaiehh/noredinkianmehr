@@ -16487,5 +16487,24 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "time": 1794602387267,
+    "price": 38.9,
+    "pre30": 1.3,
+    "pre60": 1.3,
+    "pre120": 2.91,
+    "hunt": 96.8,
+    "persistence": 2,
+    "vr": 4.03,
+    "va": 2.25,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.4,
+    "p15": 1.3,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
