@@ -16468,5 +16468,24 @@
       "max_down": -0.56
     },
     "result_4h": null
+  },
+  {
+    "symbol": "SHELLIRT",
+    "time": 1794600916233,
+    "price": 10666.0,
+    "pre30": 13.89,
+    "pre60": 14.43,
+    "pre120": 26.96,
+    "hunt": 79.1,
+    "persistence": 2,
+    "vr": 2.51,
+    "va": 3.22,
+    "buy": 58.666666666666664,
+    "bs": 1.76,
+    "ob": 1.0,
+    "p15": 0.34,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
