@@ -37261,5 +37261,18 @@
     "levels": [],
     "failed_time": 1794501416052,
     "failed_price": 43285.0
+  },
+  {
+    "symbol": "HUMAIRT",
+    "anchor_time": 1793956792273,
+    "anchor_price": 3729.0,
+    "status": "FAILED",
+    "created_time": 1793956792273,
+    "last_time": 1794548740319,
+    "last_price": 2241.0,
+    "max_gain_pct": 0.1877,
+    "levels": [],
+    "failed_time": 1793964467222,
+    "failed_price": 3615.0
   }
 ]
