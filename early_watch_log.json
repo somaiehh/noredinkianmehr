@@ -68302,7 +68302,10 @@
       "max_up": 0.46,
       "max_down": -0.16
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 9.67,
+      "max_down": -1.48
+    },
     "result_12h": null
   },
   {
@@ -68473,6 +68476,28 @@
       "max_up": -2.19,
       "max_down": -2.82
     },
+    "result_1h": {
+      "max_up": -1.95,
+      "max_down": -5.19
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1794572371939,
+    "price": 8769.0,
+    "level": "STRONG",
+    "hunt": 78.9,
+    "persistence": 2,
+    "p15": 0.47,
+    "vr": 2.82,
+    "va": 10.0,
+    "buy": 35.66666666666667,
+    "bs": 1.07,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
