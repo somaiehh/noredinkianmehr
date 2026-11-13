@@ -17950,7 +17950,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 6.3792,
+    "max_move": 7.1388,
     "min_move": -1.2357,
     "ledger_version": "wake-ledger-v1"
   },
@@ -18056,7 +18056,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.3252,
-    "min_move": -1.7422,
+    "min_move": -2.0906,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -18077,7 +18077,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.3801,
-    "min_move": 0.0,
+    "min_move": -0.0848,
     "ledger_version": "wake-ledger-v1"
   }
 ]
