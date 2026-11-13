@@ -37235,5 +37235,18 @@
       }
     ],
     "expired_time": 1794518208973
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1794499939230,
+    "anchor_price": 345775.0,
+    "status": "FAILED",
+    "created_time": 1794499939230,
+    "last_time": 1794546790225,
+    "last_price": 313123.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794504818716,
+    "failed_price": 335209.0
   }
 ]
