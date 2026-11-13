@@ -16251,7 +16251,10 @@
       "max_up": 7.69,
       "max_down": 1.14
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 7.69,
+      "max_down": -0.03
+    }
   },
   {
     "symbol": "LABIRT",
@@ -16313,7 +16316,10 @@
     "ob": 1.0,
     "p15": 0.47,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.23,
+      "max_down": -1.29
+    },
     "result_4h": null
   },
   {
@@ -16332,7 +16338,10 @@
     "ob": 1.0,
     "p15": 0.7,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.36,
+      "max_down": -1.51
+    },
     "result_4h": null
   }
 ]
