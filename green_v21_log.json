@@ -16401,7 +16401,10 @@
       "max_up": 0.0,
       "max_down": -0.76
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -3.76
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -16423,7 +16426,10 @@
       "max_up": 0.23,
       "max_down": -0.56
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 36.97,
+      "max_down": -0.56
+    }
   },
   {
     "symbol": "ERAIRT",
@@ -16445,7 +16451,10 @@
       "max_up": -0.21,
       "max_down": -0.76
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.21,
+      "max_down": -3.76
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -16467,7 +16476,10 @@
       "max_up": 0.23,
       "max_down": -0.56
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 36.97,
+      "max_down": -0.56
+    }
   },
   {
     "symbol": "SHELLIRT",
