@@ -38002,5 +38002,36 @@
     "levels": [],
     "failed_time": 1794584560226,
     "failed_price": 1.2
+  },
+  {
+    "symbol": "SHELLIRT",
+    "anchor_time": 1794595304857,
+    "anchor_price": 9021.0,
+    "status": "EXPIRED",
+    "created_time": 1794595304857,
+    "last_time": 1794644274502,
+    "last_price": 9188.0,
+    "max_gain_pct": 27.7353,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794596188929,
+    "confirmed_price": 9522.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794596188929,
+        "price": 9522.0,
+        "gain_pct": 5.5537
+      },
+      {
+        "level": 10,
+        "time": 1794600117590,
+        "price": 10729.0,
+        "gain_pct": 18.9336
+      }
+    ],
+    "expired_time": 1794638638446
   }
 ]
