@@ -38155,5 +38155,18 @@
     "levels": [],
     "failed_time": 1794569231161,
     "failed_price": 399.0
+  },
+  {
+    "symbol": "NIGHTIRT",
+    "anchor_time": 1791619352805,
+    "anchor_price": 13765.1,
+    "status": "FAILED",
+    "created_time": 1791619352805,
+    "last_time": 1794663928691,
+    "last_price": 13500.0,
+    "max_gain_pct": 1.012,
+    "levels": [],
+    "failed_time": 1791622987029,
+    "failed_price": 13192.5
   }
 ]
