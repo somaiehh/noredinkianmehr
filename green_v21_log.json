@@ -16576,7 +16576,10 @@
       "max_up": 6.58,
       "max_down": -1.82
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 7.05,
+      "max_down": -4.27
+    }
   },
   {
     "symbol": "DODOIRT",
@@ -16598,6 +16601,9 @@
       "max_up": 6.58,
       "max_down": -1.82
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 7.05,
+      "max_down": -4.27
+    }
   }
 ]
