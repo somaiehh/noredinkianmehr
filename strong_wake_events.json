@@ -18161,7 +18161,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.7954,
-    "min_move": -3.209,
+    "min_move": -4.8821,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -18182,7 +18182,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 2.9257,
-    "min_move": -0.5305,
+    "min_move": -0.8707,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -18220,11 +18220,11 @@
     "tm_g1": 1.7273,
     "tm_g4": 1.381,
     "legacy": false,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1794670042381,
+    "result_move": -6.1538,
     "max_move": 0.0,
-    "min_move": -4.2923,
+    "min_move": -6.1538,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -18245,7 +18245,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -1.0984,
+    "min_move": -2.2088,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "TAIRT",
+    "event_time": 1794670042381,
+    "event_price": 31794.0,
+    "anchor_time": 1794669130758,
+    "anchor_price": 32243.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.6286,
+    "tm_e15_e1": 0.6286,
+    "tm_e1_e4": 0.8333,
+    "tm_g15": 1.6923,
+    "tm_g1": 2.6923,
+    "tm_g4": 2.1,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
