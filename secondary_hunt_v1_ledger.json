@@ -4551,6 +4551,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "KAVAIRT": {
+      "trigger_time": 1794669130758,
+      "trigger_price": 11475.0,
+      "secondary_score": 80.0,
+      "hunt_score": 76.3,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
