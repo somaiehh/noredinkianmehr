@@ -4538,6 +4538,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "BANANAS31IRT": {
+      "trigger_time": 1794629740686,
+      "trigger_price": 1099.9,
+      "secondary_score": 60.0,
+      "hunt_score": 16.7,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
