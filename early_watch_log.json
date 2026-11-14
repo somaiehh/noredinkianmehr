@@ -68634,7 +68634,10 @@
       "max_up": 0.47,
       "max_down": -2.91
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.47,
+      "max_down": -3.42
+    }
   },
   {
     "symbol": "INJIRT",
@@ -69134,7 +69137,10 @@
       "max_up": 0.0,
       "max_down": -0.51
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.26,
+      "max_down": -0.77
+    },
     "result_12h": null
   },
   {
