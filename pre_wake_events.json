@@ -13688,7 +13688,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 2.1708,
-    "min_move": -2.8849,
+    "min_move": -3.4562,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -13772,7 +13772,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": 0.0,
+    "min_move": -1.669,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -13786,6 +13786,27 @@
     "va": 3.88,
     "ta": 0.54,
     "bs": 5.0,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "SANDIRT",
+    "event_time": 1794690400351,
+    "event_price": 9389.1453,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 32.8,
+    "p15": -1.83,
+    "vr": null,
+    "va": 3.62,
+    "ta": 0.5,
+    "bs": 4.24,
     "book": 1.0,
     "breakout": false,
     "fast_v13": null,
