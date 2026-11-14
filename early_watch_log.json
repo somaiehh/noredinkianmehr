@@ -68727,7 +68727,10 @@
       "max_up": 5.06,
       "max_down": -11.16
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.06,
+      "max_down": -18.28
+    }
   },
   {
     "symbol": "KGENIRT",
@@ -68755,7 +68758,10 @@
       "max_up": 3.19,
       "max_down": -14.23
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.19,
+      "max_down": -16.25
+    }
   },
   {
     "symbol": "SIRT",
@@ -69199,7 +69205,10 @@
       "max_up": 0.0,
       "max_down": -0.32
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -0.68
+    },
     "result_12h": null
   }
 ]
