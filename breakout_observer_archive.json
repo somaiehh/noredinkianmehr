@@ -37928,5 +37928,42 @@
     "confirmed_time": 1794576843254,
     "confirmed_price": 265000000.0,
     "expired_time": 1794595304857
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1794547873337,
+    "anchor_price": 62655.0,
+    "status": "FAILED",
+    "created_time": 1794547873337,
+    "last_time": 1794640554716,
+    "last_price": 52602.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794548549928,
+    "failed_price": 59900.0
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1794559318366,
+    "anchor_price": 29648.0,
+    "status": "EXPIRED",
+    "created_time": 1794559318366,
+    "last_time": 1794641227312,
+    "last_price": 31176.0,
+    "max_gain_pct": 7.2585,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794566518725,
+    "confirmed_price": 30700.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794568395481,
+        "price": 31300.0,
+        "gain_pct": 5.572
+      }
+    ],
+    "expired_time": 1794603424656
   }
 ]
