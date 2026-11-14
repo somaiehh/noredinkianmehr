@@ -37965,5 +37965,29 @@
       }
     ],
     "expired_time": 1794603424656
+  },
+  {
+    "symbol": "DODOIRT",
+    "anchor_time": 1794562170876,
+    "anchor_price": 7792.0,
+    "status": "EXPIRED",
+    "created_time": 1794562170876,
+    "last_time": 1794642175739,
+    "last_price": 8805.0,
+    "max_gain_pct": 13.8989,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794562904047,
+    "confirmed_price": 8082.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794623245537,
+        "price": 8348.0,
+        "gain_pct": 7.1355
+      }
+    ],
+    "expired_time": 1794623245537
   }
 ]
