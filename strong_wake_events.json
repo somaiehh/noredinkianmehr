@@ -18245,7 +18245,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -3.956,
+    "min_move": -3.9967,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -18287,7 +18287,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -1.6449,
+    "min_move": -1.8462,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -18324,6 +18324,27 @@
     "tm_g15": 11.0,
     "tm_g1": 1.375,
     "tm_g4": 1.2727,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.5958,
+    "min_move": -1.0513,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "ONDOIRT",
+    "event_time": 1794681746486,
+    "event_price": 83878.0,
+    "anchor_time": 1794679744185,
+    "anchor_price": 83657.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1053,
+    "tm_e15_e1": 0.1053,
+    "tm_e1_e4": 0.5278,
+    "tm_g15": 1.0,
+    "tm_g1": 1.0556,
+    "tm_g4": 1.0909,
     "legacy": false,
     "result": "PENDING",
     "result_time": null,

@@ -69643,6 +69643,28 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": -0.79,
+      "max_down": -1.4
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1794681746486,
+    "price": 53867.0,
+    "level": "WATCH",
+    "hunt": 40.3,
+    "persistence": 1,
+    "p15": 0.62,
+    "vr": 0.21,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.51,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
