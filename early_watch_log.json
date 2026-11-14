@@ -69223,7 +69223,10 @@
       "max_up": 3.0,
       "max_down": -16.37
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.0,
+      "max_down": -19.01
+    }
   },
   {
     "symbol": "FILIRT",
@@ -69405,6 +69408,25 @@
       "max_up": -0.51,
       "max_down": -0.51
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ORBSIRT",
+    "time": 1794647575982,
+    "price": 1922.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.53,
+    "vr": 1.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
