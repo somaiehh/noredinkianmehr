@@ -38168,5 +38168,18 @@
     "levels": [],
     "failed_time": 1791622987029,
     "failed_price": 13192.5
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1794618414285,
+    "anchor_price": 10300.0,
+    "status": "FAILED",
+    "created_time": 1794618414285,
+    "last_time": 1794667471859,
+    "last_price": 9994.0,
+    "max_gain_pct": 5.534,
+    "levels": [],
+    "failed_time": 1794620547124,
+    "failed_price": 9602.0
   }
 ]
