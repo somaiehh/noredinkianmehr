@@ -69502,7 +69502,10 @@
       "max_up": 22.64,
       "max_down": -13.41
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 22.64,
+      "max_down": -13.41
+    }
   },
   {
     "symbol": "BARDIRT",
@@ -69530,7 +69533,10 @@
       "max_up": -1.88,
       "max_down": -6.4
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.78,
+      "max_down": -9.27
+    }
   },
   {
     "symbol": "HIRT",
@@ -69666,7 +69672,10 @@
       "max_up": -0.27,
       "max_down": -2.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.99,
+      "max_down": -3.9
+    },
     "result_12h": null
   },
   {
