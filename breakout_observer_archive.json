@@ -38142,5 +38142,18 @@
     "levels": [],
     "failed_time": 1794322797850,
     "failed_price": 28196.6
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "anchor_time": 1794566518725,
+    "anchor_price": 412.8,
+    "status": "FAILED",
+    "created_time": 1794566518725,
+    "last_time": 1794663737537,
+    "last_price": 382.4,
+    "max_gain_pct": 0.9448,
+    "levels": [],
+    "failed_time": 1794569231161,
+    "failed_price": 399.0
   }
 ]
