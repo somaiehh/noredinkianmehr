@@ -37808,5 +37808,36 @@
       }
     ],
     "expired_time": 1794613577072
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1794570991388,
+    "anchor_price": 252.0,
+    "status": "EXPIRED",
+    "created_time": 1794570991388,
+    "last_time": 1794619775491,
+    "last_price": 329.0,
+    "max_gain_pct": 30.5556,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794572197470,
+    "confirmed_price": 260.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794576644821,
+        "price": 269.0,
+        "gain_pct": 6.746
+      },
+      {
+        "level": 10,
+        "time": 1794580963231,
+        "price": 286.0,
+        "gain_pct": 13.4921
+      }
+    ],
+    "expired_time": 1794614697559
   }
 ]
