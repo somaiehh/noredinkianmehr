@@ -9290,5 +9290,31 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1794643027332,
+    "symbol": "DODOIRT",
+    "price": 8951.0,
+    "hunt_score": 91.3,
+    "status": "EARLY",
+    "p15": 0.61,
+    "vr": 5.26,
+    "va": 10.0,
+    "bs": 3.95,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1794643210345,
+    "symbol": "DODOIRT",
+    "price": 8951.0,
+    "hunt_score": 89.7,
+    "status": "EARLY",
+    "p15": 0.61,
+    "vr": 5.26,
+    "va": 10.0,
+    "bs": 3.87,
+    "breakout": true,
+    "persistence": 3
   }
 ]
