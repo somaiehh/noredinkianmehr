@@ -38304,5 +38304,36 @@
     "levels": [],
     "failed_time": 1794640368483,
     "failed_price": 248000000.0
+  },
+  {
+    "symbol": "SOPHIRT",
+    "anchor_time": 1794649455140,
+    "anchor_price": 475.0,
+    "status": "EXPIRED",
+    "created_time": 1794649455140,
+    "last_time": 1794695489506,
+    "last_price": 598.0,
+    "max_gain_pct": 42.5263,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794650303580,
+    "confirmed_price": 535.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794650303580,
+        "price": 535.0,
+        "gain_pct": 12.6316
+      },
+      {
+        "level": 10,
+        "time": 1794650303580,
+        "price": 535.0,
+        "gain_pct": 12.6316
+      }
+    ],
+    "expired_time": 1794695319263
   }
 ]
