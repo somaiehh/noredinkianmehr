@@ -38220,5 +38220,36 @@
     "levels": [],
     "failed_time": 1794593045927,
     "failed_price": 28924.0
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1794625887450,
+    "anchor_price": 10950.0,
+    "status": "EXPIRED",
+    "created_time": 1794625887450,
+    "last_time": 1794678369624,
+    "last_price": 8648.0,
+    "max_gain_pct": 17.7169,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794626813569,
+    "confirmed_price": 12001.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794626813569,
+        "price": 12001.0,
+        "gain_pct": 9.5982
+      },
+      {
+        "level": 10,
+        "time": 1794637037007,
+        "price": 12397.0,
+        "gain_pct": 13.2146
+      }
+    ],
+    "expired_time": 1794669130758
   }
 ]
