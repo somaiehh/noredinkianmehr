@@ -4566,6 +4566,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ZENIRT": {
+      "trigger_time": 1794670962477,
+      "trigger_price": 1132729.0,
+      "secondary_score": 80.0,
+      "hunt_score": 68.2,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
