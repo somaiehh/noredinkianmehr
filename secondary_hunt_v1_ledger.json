@@ -4581,6 +4581,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "JELLYJELLYIRT": {
+      "trigger_time": 1794691752604,
+      "trigger_price": 9900.0,
+      "secondary_score": 65.0,
+      "hunt_score": 16.8,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
