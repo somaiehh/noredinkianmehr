@@ -69378,7 +69378,10 @@
       "max_up": 11.46,
       "max_down": -1.69
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 11.46,
+      "max_down": -7.63
+    }
   },
   {
     "symbol": "DODOIRT",
@@ -69406,7 +69409,10 @@
       "max_up": 7.05,
       "max_down": -4.27
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.05,
+      "max_down": -7.08
+    }
   },
   {
     "symbol": "BANANAS31IRT",
@@ -69697,6 +69703,28 @@
       "max_up": -0.64,
       "max_down": -1.29
     },
+    "result_1h": {
+      "max_up": 1.61,
+      "max_down": -2.57
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SHELLIRT",
+    "time": 1794686217377,
+    "price": 7402.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.06,
+    "vr": 4.29,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.94,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
