@@ -18182,7 +18182,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 2.9257,
-    "min_move": -2.8051,
+    "min_move": -3.5499,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -18245,7 +18245,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -3.9,
+    "min_move": -3.956,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -18308,7 +18308,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -1.0806,
+    "min_move": -1.1206,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "REQIRT",
+    "event_time": 1794681119186,
+    "event_price": 11414.0,
+    "anchor_time": 1794678160766,
+    "anchor_price": 11360.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 1.0,
+    "tm_e15_e1": 1.0,
+    "tm_e1_e4": 0.3929,
+    "tm_g15": 11.0,
+    "tm_g1": 1.375,
+    "tm_g4": 1.2727,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
