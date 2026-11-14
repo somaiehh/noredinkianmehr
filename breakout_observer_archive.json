@@ -38064,5 +38064,31 @@
       }
     ],
     "expired_time": 1794595469379
+  },
+  {
+    "symbol": "PTBIRT",
+    "anchor_time": 1794595469379,
+    "anchor_price": 21.0,
+    "status": "FAILED",
+    "created_time": 1794595469379,
+    "last_time": 1794651304852,
+    "last_price": 21.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794596188929,
+    "failed_price": 20.0
+  },
+  {
+    "symbol": "MYROIRT",
+    "anchor_time": 1794387680337,
+    "anchor_price": 364.0,
+    "status": "FAILED",
+    "created_time": 1794387680337,
+    "last_time": 1794652024332,
+    "last_price": 333.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794389209604,
+    "failed_price": 346.0
   }
 ]
