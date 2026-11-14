@@ -68820,7 +68820,10 @@
       "max_up": 1.65,
       "max_down": -0.53
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.65,
+      "max_down": -3.93
+    }
   },
   {
     "symbol": "LABIRT",
@@ -68848,7 +68851,10 @@
       "max_up": 3.04,
       "max_down": -2.03
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.04,
+      "max_down": -4.48
+    }
   },
   {
     "symbol": "UAIIRT",
