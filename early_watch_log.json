@@ -68665,7 +68665,10 @@
       "max_up": 3.6,
       "max_down": -0.34
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.88,
+      "max_down": -0.43
+    }
   },
   {
     "symbol": "LABIRT",
@@ -68693,7 +68696,10 @@
       "max_up": 0.48,
       "max_down": -4.85
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.93,
+      "max_down": -4.85
+    }
   },
   {
     "symbol": "BARDIRT",
