@@ -38265,5 +38265,18 @@
     "confirmed_time": 1794653002349,
     "confirmed_price": 301261.0,
     "expired_time": 1794679744185
+  },
+  {
+    "symbol": "SHELLIRT",
+    "anchor_time": 1794644821134,
+    "anchor_price": 9625.0,
+    "status": "FAILED",
+    "created_time": 1794644821134,
+    "last_time": 1794687361170,
+    "last_price": 7669.0,
+    "max_gain_pct": 0.7584,
+    "levels": [],
+    "failed_time": 1794646805576,
+    "failed_price": 8973.0
   }
 ]
