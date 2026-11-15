@@ -4595,6 +4595,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "UBIRT": {
+      "trigger_time": 1794701102766,
+      "trigger_price": 27426.2,
+      "secondary_score": 80.0,
+      "hunt_score": 56.1,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

@@ -69759,6 +69759,28 @@
       "max_up": 3.61,
       "max_down": -0.35
     },
+    "result_4h": {
+      "max_up": 3.86,
+      "max_down": -0.51
+    },
+    "result_12h": null
+  },
+  {
+    "symbol": "UBIRT",
+    "time": 1794701102766,
+    "price": 27426.2,
+    "level": "STRONG",
+    "hunt": 56.1,
+    "persistence": 1,
+    "p15": 0.14,
+    "vr": 2.43,
+    "va": 2.98,
+    "buy": 100,
+    "bs": 3.37,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
