@@ -70122,7 +70122,10 @@
       "max_up": 1.14,
       "max_down": -2.62
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.16,
+      "max_down": -2.62
+    }
   },
   {
     "symbol": "LABIRT",
@@ -70150,7 +70153,10 @@
       "max_up": -0.22,
       "max_down": -2.94
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.22,
+      "max_down": -4.51
+    }
   },
   {
     "symbol": "EPICIRT",
