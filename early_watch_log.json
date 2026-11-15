@@ -69781,7 +69781,10 @@
       "max_up": 3.86,
       "max_down": -0.51
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 20.01,
+      "max_down": -5.01
+    }
   },
   {
     "symbol": "UBIRT",
