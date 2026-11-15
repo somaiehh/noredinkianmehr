@@ -33,12 +33,19 @@ candidate = {
     ],
 }
 
-with tempfile.TemporaryDirectory(prefix="kian_v3_smoke_") as temp:
+safe_parent = Path.home() / "kian_v3_upgrade_lab"
+if not safe_parent.is_dir():
+    raise RuntimeError("V3_LAB_ROOT_MISSING")
+
+with tempfile.TemporaryDirectory(
+    prefix="kian_v3_smoke_",
+    dir=safe_parent,
+) as temp:
     state_dir = Path(temp)
 
     args = dict(
         scan_time=now,
-        allowed_irt_symbols=frozenset(),
+        allowed_irt_symbols=frozenset({"TESTIRT"}),
         lab_state_dir=state_dir,
         max_persistent_symbols=0,
         fetch_persistent_trades=False,
