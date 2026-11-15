@@ -70029,7 +70029,10 @@
       "max_up": 1.28,
       "max_down": -5.41
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 21.2,
+      "max_down": -5.41
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -70391,7 +70394,10 @@
     "bs": 1.81,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.07,
+      "max_down": 0.07
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -70410,7 +70416,10 @@
     "bs": 2.24,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.53,
+      "max_down": -0.53
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
