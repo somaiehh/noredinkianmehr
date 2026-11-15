@@ -16701,7 +16701,10 @@
       "max_up": 0.0,
       "max_down": -1.83
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.66,
+      "max_down": -2.09
+    }
   },
   {
     "symbol": "UAIIRT",
@@ -16723,7 +16726,10 @@
       "max_up": 0.0,
       "max_down": -1.83
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.66,
+      "max_down": -2.09
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
