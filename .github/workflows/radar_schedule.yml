@@ -76,6 +76,12 @@ jobs:
             echo "No radar changes to save."
           else
             git commit -m "Auto update radar data"
-            git pull --rebase origin main
-            git push origin main
+            # V3_STATE_NON_REBASE_GUARD_V2
+            # Reject remote changes since this workflow checkout.
+            git fetch origin main
+            if [ "$(git rev-parse origin/main)" != "$GITHUB_SHA" ]; then
+              echo "V3_STATE_REMOTE_CHANGED_ABORT"
+              exit 1
+            fi
+            git push origin HEAD:main
           fi
