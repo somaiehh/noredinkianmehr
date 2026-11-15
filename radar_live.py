@@ -2701,10 +2701,21 @@ def run_once(max_markets=0, alerts_enabled=True, entry_v1_shadow=False, move_ear
                 _v3_timezone.utc
             ).isoformat(),
         }
-        _v3_health_file.write_text(
-            _v3_json.dumps(_v3_health_record, sort_keys=True),
-            encoding="utf-8",
+        import tempfile as _v3_tempfile
+        _v3_fd, _v3_tmp = _v3_tempfile.mkstemp(
+            prefix=".health_latest.",
+            suffix=".tmp",
+            dir=_v3_health_dir,
         )
+        try:
+            with _v3_os.fdopen(_v3_fd, "w", encoding="utf-8") as _v3_handle:
+                _v3_json.dump(_v3_health_record, _v3_handle, sort_keys=True)
+                _v3_handle.flush()
+                _v3_os.fsync(_v3_handle.fileno())
+            _v3_os.replace(_v3_tmp, _v3_health_file)
+        finally:
+            if _v3_os.path.exists(_v3_tmp):
+                _v3_os.unlink(_v3_tmp)
         print("V3_HEALTH_RECORD:", _v3_health_file.name)
     except Exception as _v3_health_error:
         print(
