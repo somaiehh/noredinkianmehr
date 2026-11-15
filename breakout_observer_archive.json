@@ -38850,5 +38850,48 @@
       }
     ],
     "expired_time": 1794757485714
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1794733925978,
+    "anchor_price": 858756.0,
+    "status": "EXPIRED",
+    "created_time": 1794733925978,
+    "last_time": 1794780129801,
+    "last_price": 855000.0,
+    "max_gain_pct": 0.1399,
+    "levels": [],
+    "expired_time": 1794777897459
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1794733076188,
+    "anchor_price": 301.0,
+    "status": "EXPIRED",
+    "created_time": 1794733076188,
+    "last_time": 1794781091587,
+    "last_price": 361.0,
+    "max_gain_pct": 20.598,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794733250136,
+    "confirmed_price": 314.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794734120804,
+        "price": 318.0,
+        "gain_pct": 5.6478
+      },
+      {
+        "level": 10,
+        "time": 1794738602281,
+        "price": 335.0,
+        "gain_pct": 11.2957
+      }
+    ],
+    "expired_time": 1794777897459
   }
 ]
