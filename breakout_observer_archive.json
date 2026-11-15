@@ -38455,5 +38455,19 @@
     "levels": [],
     "failed_time": 1794670042381,
     "failed_price": 10213.0
+  },
+  {
+    "symbol": "THQIRT",
+    "anchor_time": 1793518022858,
+    "anchor_price": 2667.0,
+    "status": "EXPIRED",
+    "created_time": 1793518022858,
+    "last_time": 1794718936404,
+    "last_price": 2366.0,
+    "max_gain_pct": 11.5861,
+    "levels": [],
+    "confirmed_time": 1793522735122,
+    "confirmed_price": 2750.0,
+    "expired_time": 1793566415459
   }
 ]
