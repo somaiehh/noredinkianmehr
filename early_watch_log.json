@@ -70254,6 +70254,28 @@
     "bs": 2.55,
     "breakout": true,
     "priority": false,
+    "result_15m": {
+      "max_up": -6.5,
+      "max_down": -6.5
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "UNIIRT",
+    "time": 1794758209261,
+    "price": 1380992.0,
+    "level": "STRONG",
+    "hunt": 76.2,
+    "persistence": 1,
+    "p15": 0.45,
+    "vr": 1.73,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
