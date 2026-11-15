@@ -38546,5 +38546,19 @@
     "confirmed_time": 1794680945922,
     "confirmed_price": 26600.0,
     "expired_time": 1794721461179
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1794670962477,
+    "anchor_price": 291.0,
+    "status": "EXPIRED",
+    "created_time": 1794670962477,
+    "last_time": 1794732388599,
+    "last_price": 287.0,
+    "max_gain_pct": 4.1237,
+    "levels": [],
+    "confirmed_time": 1794678160766,
+    "confirmed_price": 303.0,
+    "expired_time": 1794714184339
   }
 ]
