@@ -70103,5 +70103,43 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "EPICIRT",
+    "time": 1794741216521,
+    "price": 20806.0,
+    "level": "STRONG",
+    "hunt": 74.8,
+    "persistence": 2,
+    "p15": 1.84,
+    "vr": 7.95,
+    "va": 3.93,
+    "buy": 83.0,
+    "bs": 2.49,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "THQIRT",
+    "time": 1794741216521,
+    "price": 2252.0,
+    "level": "STRONG",
+    "hunt": 61.3,
+    "persistence": 3,
+    "p15": 0.22,
+    "vr": 0.59,
+    "va": 7.38,
+    "buy": 34.333333333333336,
+    "bs": 1.03,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
