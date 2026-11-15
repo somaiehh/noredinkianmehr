@@ -70060,7 +70060,10 @@
       "max_up": 3.41,
       "max_down": -3.06
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.41,
+      "max_down": -4.15
+    }
   },
   {
     "symbol": "UAIIRT",
@@ -70088,7 +70091,10 @@
       "max_up": 2.66,
       "max_down": -2.09
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.37,
+      "max_down": -2.09
+    }
   },
   {
     "symbol": "QIRT",
@@ -70336,7 +70342,10 @@
       "max_up": 1.78,
       "max_down": -1.21
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.33,
+      "max_down": -1.21
+    },
     "result_12h": null
   },
   {
@@ -70361,7 +70370,10 @@
       "max_up": 2.31,
       "max_down": -2.1
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.31,
+      "max_down": -2.1
+    },
     "result_12h": null
   },
   {
