@@ -38639,5 +38639,36 @@
     "levels": [],
     "failed_time": 1794678160766,
     "failed_price": 73.6
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "anchor_time": 1794663928691,
+    "anchor_price": 418.0,
+    "status": "EXPIRED",
+    "created_time": 1794663928691,
+    "last_time": 1794741418310,
+    "last_price": 386.6,
+    "max_gain_pct": 43.5407,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794664598646,
+    "confirmed_price": 483.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794664598646,
+        "price": 483.0,
+        "gain_pct": 15.5502
+      },
+      {
+        "level": 10,
+        "time": 1794664598646,
+        "price": 483.0,
+        "gain_pct": 15.5502
+      }
+    ],
+    "expired_time": 1794715023929
   }
 ]
