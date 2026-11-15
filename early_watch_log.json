@@ -69750,7 +69750,10 @@
       "max_up": 1.61,
       "max_down": -8.2
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.07,
+      "max_down": -19.61
+    }
   },
   {
     "symbol": "SHELLIRT",
