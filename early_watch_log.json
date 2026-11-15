@@ -69920,7 +69920,10 @@
       "max_up": 4.15,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.55,
+      "max_down": -0.62
+    },
     "result_12h": null
   },
   {
