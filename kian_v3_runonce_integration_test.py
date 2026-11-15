@@ -93,9 +93,18 @@ def main():
 
             for value in paths:
                 if isinstance(value, int):
-                    raise AssertionError(
-                        "FD_MUTATION_NOT_ALLOWED"
-                    )
+                    fd_path = Path(f"/proc/self/fd/{value}")
+                    try:
+                        target = fd_path.resolve(strict=True)
+                    except (OSError, RuntimeError):
+                        raise AssertionError(
+                            "UNKNOWN_FILE_DESCRIPTOR"
+                        )
+                    if target != root and root not in target.parents:
+                        raise AssertionError(
+                            "FD_OUTSIDE_TEST_ROOT: " + str(target)
+                        )
+                    continue
                 if not isinstance(value, (str, bytes, os.PathLike)):
                     raise AssertionError(
                         "UNKNOWN_MUTATION_PATH"
