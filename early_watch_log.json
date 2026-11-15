@@ -69936,7 +69936,10 @@
       "max_up": 4.55,
       "max_down": -0.62
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 24.86,
+      "max_down": -2.35
+    }
   },
   {
     "symbol": "AVAXIRT",
@@ -70280,6 +70283,44 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1794760002981,
+    "price": 8990.0,
+    "level": "STRONG",
+    "hunt": 64.3,
+    "persistence": 1,
+    "p15": 0.33,
+    "vr": 1.29,
+    "va": 2.4,
+    "buy": 45.0,
+    "bs": 1.35,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1794760166948,
+    "price": 69251.0,
+    "level": "STRONG",
+    "hunt": 55.7,
+    "persistence": 3,
+    "p15": 0.37,
+    "vr": 2.72,
+    "va": 2.04,
+    "buy": 44.333333333333336,
+    "bs": 1.33,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
