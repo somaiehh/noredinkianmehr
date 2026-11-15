@@ -34,6 +34,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Prepare V3 state directory
+        run: |
+          mkdir -p v3_state
+          test -d v3_state
+          echo "V3_STATE_DIRECTORY_READY"
+
       - name: Run Tabdeal radar
         run: |
           for i in 1 2; do
@@ -59,7 +65,12 @@ jobs:
           [ -f move_tracker_archive.json ] || printf '[]\n' > move_tracker_archive.json
           [ -f breakout_observer_state.json ] || printf "%s\n" "{}" > breakout_observer_state.json
           [ -f breakout_observer_archive.json ] || printf "%s\n" "[]" > breakout_observer_archive.json
+          if [ -d v3_state ] && find v3_state -type f | grep -q .; then
+            git add v3_state/
+            echo "V3_STATE_STAGED"
+          fi
           git add tabdeal_radar_v21_data.json tabdeal_radar_live.json persistence_state.json green_v21_log.json early_watch_log.json radar_alert_history.json strong_wake_events.json pre_wake_events.json move_tracker_state.json move_tracker_archive.json breakout_observer_state.json breakout_observer_archive.json secondary_hunt_v1_ledger.json secondary_hunt_v2_ledger.json
+
 
           if git diff --cached --quiet; then
             echo "No radar changes to save."

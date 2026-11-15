@@ -1,3 +1,36 @@
+from kian_v3_state_config import get_v3_state_dir, V3_PRODUCTION_APPROVED
+
+# V3_MONITOR_ONLY_ACTIVATION_V1
+# This flag enables observation only, never V3 trade approval.
+from kian_v3_state_config import V3_MODE
+
+V3_LAB_HOOK_ENABLED = (
+    V3_MODE == "MONITOR_ONLY"
+    and V3_PRODUCTION_APPROVED is False
+)
+
+
+# V3_THREAD_LOCAL_FAST_BRIDGE_V1
+# Lab-only. No network requests and no production alerts.
+import threading as _v3_threading
+
+_v3_trade_context = _v3_threading.local()
+
+def _v3_capture_trades(symbol, trades):
+    _v3_trade_context.symbol = symbol
+    _v3_trade_context.trades = trades
+
+def _v3_take_trades(symbol):
+    if getattr(_v3_trade_context, "symbol", None) != symbol:
+        return None
+
+    trades = getattr(_v3_trade_context, "trades", None)
+    _v3_trade_context.symbol = None
+    _v3_trade_context.trades = None
+    return trades
+
+# V3_MATCHED_TRADE_PAIR_V1
+# V3_LAST_TRADE_TIME_V1
 # Tabdeal Pre-Pump Radar v2
 # Public market data only; NO order placement.
 
@@ -404,6 +437,8 @@ def score(m):
     symbol=m["symbol"]
     ts=get_trades(symbol,1000)
     ts=sorted(ts, key=lambda t: int(t["time"]))
+    if globals().get("V3_LAB_HOOK_ENABLED", False):
+        _v3_capture_trades(symbol, ts)
     if len(ts)<10:
         return {
             "symbol": symbol,
@@ -419,7 +454,7 @@ def score(m):
     # ارز را برای رصد نگه می‌داریم.
     if len(t15)<4 or len(t1)<15:
         if len(t1)>=5 or len(t4)>=20:
-            return {
+            return {"last_trade_price": float(ts[-1]["price"]), "last_trade_time": int(ts[-1]["time"]), 
                 "symbol": symbol,
                 "status": "WATCH",
                 "price": float(ts[-1]["price"]),
@@ -486,7 +521,7 @@ def score(m):
     # Weak accumulation remains WATCH only.
     # Strong accumulation is allowed to continue into PRE_EARLY logic.
     if p15 <= 0 and activity_signal and not strong_accumulation:
-        return {
+        return {"last_trade_price": float(ts[-1]["price"]), "last_trade_time": int(ts[-1]["time"]), 
             "symbol": symbol,
             "status": "WATCH_ACCUMULATION",
             "reason": "WAITING_FOR_PRICE_CONFIRMATION",
@@ -623,7 +658,7 @@ def score(m):
     # ضد تعقیب: اگر همین 15m بیش از 10% جهش کرده، جریمه
     penalty=max(0,p15-10)*1.5
     final=max(0,min(100,raw-penalty))
-    return dict(
+    return dict(last_trade_price=float(ts[-1]["price"]), last_trade_time=int(ts[-1]["time"]), 
         symbol=symbol,
         status=signal_status,
         score=round(final, 1),
@@ -2258,9 +2293,22 @@ def save_dashboard_data(out, alerts_enabled=True):
 
 
 def safe_score(m):
+    # V3_FAST_RESULT_TRANSPORT_V1
+    # Lab-only transport. Preserve the original three-item contract.
     try:
-        return True, score(m), None
+        result = score(m)
+        if globals().get("V3_LAB_HOOK_ENABLED", False):
+            symbol = m.get("symbol")
+            trades = _v3_take_trades(symbol)
+            if isinstance(result, dict) and isinstance(trades, list):
+                result = dict(result)
+                result["_v3_fast_raw_trades"] = [
+                    dict(t) for t in trades
+                    if isinstance(t, dict)
+                ]
+        return True, result, None
     except Exception as e:
+        _v3_take_trades(m.get("symbol"))
         return False, None, e
 
 
@@ -2271,6 +2319,10 @@ def run_once(max_markets=0, alerts_enabled=True, entry_v1_shadow=False, move_ear
     persistence = load_persistence()
 
     out=[]
+
+    # V3_FAST_VOLATILE_ISOLATION_V1
+    # Temporary per-scan storage; never persist raw trades.
+    v3_fast_volatile = {}
 
     scan_ok = 0
     scan_errors = 0
@@ -2285,6 +2337,18 @@ def run_once(max_markets=0, alerts_enabled=True, entry_v1_shadow=False, move_ear
             ok, s, score_error = result
             if not ok:
                 raise score_error
+
+            if isinstance(s, dict):
+                raw = s.pop("_v3_fast_raw_trades", None)
+                symbol = s.get("symbol")
+                expected_symbol = m.get("symbol")
+                if (
+                    globals().get("V3_LAB_HOOK_ENABLED", False)
+                    and symbol == expected_symbol
+                    and isinstance(symbol, str)
+                    and isinstance(raw, list)
+                ):
+                    v3_fast_volatile[symbol] = raw
 
             # score() completed without a network/API exception.
             # INSFFICIENT/WATCH are still valid completed scans.
@@ -2427,6 +2491,228 @@ def run_once(max_markets=0, alerts_enabled=True, entry_v1_shadow=False, move_ear
         )
         return
 
+
+
+    # V3_LAB_INTEGRATION_HOOK_V2
+    # Monitor-only health reporting.
+    v3_health = "SKIPPED"
+    if globals().get("V3_LAB_HOOK_ENABLED", False):
+        v3_health = "FAILED"
+        try:
+            import sys
+            from pathlib import Path
+
+            # V3_PORTABLE_MODULE_PATH_V1
+            stage = Path(__file__).resolve().parent
+            if str(stage) not in sys.path:
+                sys.path.insert(0, str(stage))
+
+            from kian_v3_migration_guard import load_guarded_migration
+            from kian_v3_integrated_lab_v1 import run_comprehensive_v3_scan
+
+            historical_waves, _ = load_guarded_migration()
+
+            from kian_v3_guarded_resume import select_unambiguous_waves
+
+            # V3_PREPARE_ONLY_CONNECTION_V1
+            from kian_v3_guarded_resume import prepare_fresh_observations
+
+            v3_scan_time = int(time.time() * 1000)
+            prepared = prepare_fresh_observations(
+                out, v3_scan_time
+            )
+
+            print(
+                "V3_FRESH_PREPARE:",
+                "ready=", len(prepared["observations"]),
+                "skipped=", len(prepared["skipped"]),
+                "mode=PREPARE_ONLY",
+            )
+
+            # V3 persistent tracking is handled by run_comprehensive_v3_scan.
+
+            selection = select_unambiguous_waves(out)
+
+            print(
+                "V3_WAVE_SELECTION:",
+                "selected=", len(selection["selected"]),
+                "skipped=", len(selection["skipped"]),
+                "mode=MONITOR_ONLY",
+            )
+
+            v3_candidates = build_v3_lab_candidates(
+                out, historical_waves
+            )
+
+            selected_wave_ids = {
+                item["wave_id"]
+                for item in selection["selected"]
+            }
+
+            v3_candidates = [
+                item for item in v3_candidates
+                if (
+                    f'{item["symbol"]}:{item["anchor_time"]}'
+                    in selected_wave_ids
+                )
+            ]
+
+            allowed_irt = frozenset(
+                m["symbol"] for m in markets
+                if isinstance(m, dict)
+                and isinstance(m.get("symbol"), str)
+            )
+
+            v3_candidates = [
+                row for row in v3_candidates
+                if row["symbol"] in allowed_irt
+            ]
+
+            # V3_COLLECTOR_FAST_BRIDGE_CONNECTION_V1
+            # Observation only. Coverage remains unverified.
+            from kian_v3_collector_fast_bridge_v1 import (
+                build_fast_observation,
+            )
+
+            for candidate in v3_candidates:
+                symbol = candidate["symbol"]
+                anchor = candidate["anchor_time"]
+                trades = v3_fast_volatile.get(symbol)
+
+                if not isinstance(trades, list):
+                    continue
+
+                observed = build_fast_observation(
+                    symbol=symbol,
+                    anchor_time=anchor,
+                    scan_time=int(time.time() * 1000),
+                    trades=trades,
+                )
+
+                if (
+                    observed.get("coverage_verified") is not False
+                    or observed.get("status") != "MONITOR_ONLY"
+                    or observed.get("real_alert_sent") is not False
+                ):
+                    raise RuntimeError("UNSAFE_FAST_OBSERVATION")
+
+                if (
+                    type(observed.get("time")) is not int
+                    or type(observed.get("price")) not in (int, float)
+                    or observed["time"] < anchor
+                ):
+                    continue
+
+                candidate["fast_observed"] = [observed]
+
+            v3_fast_volatile.clear()
+
+            # V3_PERSISTENT_MARKET_BRIDGE_V1
+            # Reuse real trade timestamps from this scan only.
+            v3_market_rows = []
+            v3_seen_market = {}
+
+            for row in out:
+                if not isinstance(row, dict):
+                    continue
+
+                symbol = row.get("symbol")
+                stamp = row.get("last_trade_time")
+                price = row.get("last_trade_price")
+
+                if symbol not in allowed_irt:
+                    continue
+                if type(stamp) is not int:
+                    continue
+                if type(price) not in (int, float):
+                    continue
+
+                import math
+                if (
+                    stamp <= 0
+                    or stamp > v3_scan_time
+                    or not math.isfinite(price)
+                    or price <= 0
+                ):
+                    continue
+
+                key = (symbol, stamp)
+                if key in v3_seen_market:
+                    if v3_seen_market[key] != float(price):
+                        raise RuntimeError("V3_MARKET_PRICE_CONFLICT")
+                    continue
+
+                v3_seen_market[key] = float(price)
+                v3_market_rows.append({
+                    "symbol": symbol,
+                    "time": stamp,
+                    "price": float(price),
+                })
+
+            v3_result = run_comprehensive_v3_scan(
+                scan_time=int(time.time() * 1000),
+                candidates=v3_candidates,
+                allowed_irt_symbols=allowed_irt,
+                lab_state_dir=get_v3_state_dir("production" if V3_PRODUCTION_APPROVED else "staging"),
+                max_persistent_symbols=0,
+                fetch_persistent_trades=False,
+                verified_market_rows=None,
+                persistent_market_rows=v3_market_rows,
+            )
+
+            if (
+                v3_result.get("status") != "MONITOR_ONLY"
+                or v3_result.get("real_alert_sent") is not False
+            ):
+                raise RuntimeError("UNSAFE_V3_RESULT")
+
+            print(
+                "V3_MAIN_SCAN_CONNECTED:",
+                "candidates=", len(v3_candidates),
+                "status=MONITOR_ONLY",
+                "real_alert=False",
+            )
+            v3_health = "SUCCESS"
+
+        except Exception as v3_error:
+            print(
+                "V3_LAB_HOOK_ERROR:",
+                type(v3_error).__name__,
+                str(v3_error),
+            )
+    print("V3_MONITOR_HEALTH:", v3_health)
+
+    # V3_MONITOR_HEALTH_RECORD_V1
+    # Observability only; no V3 alerts or trading.
+    try:
+        import json as _v3_json
+        import os as _v3_os
+        from datetime import datetime as _v3_datetime, timezone as _v3_timezone
+
+        _v3_health_dir = get_v3_state_dir("staging")
+        _v3_health_dir.mkdir(parents=True, exist_ok=True)
+        _v3_health_file = _v3_health_dir / "health_latest.json"
+        _v3_health_record = {
+            "status": v3_health,
+            "mode": "MONITOR_ONLY",
+            "production_approved": False,
+            "real_alert_sent": False,
+            "recorded_at": _v3_datetime.now(
+                _v3_timezone.utc
+            ).isoformat(),
+        }
+        _v3_health_file.write_text(
+            _v3_json.dumps(_v3_health_record, sort_keys=True),
+            encoding="utf-8",
+        )
+        print("V3_HEALTH_RECORD:", _v3_health_file.name)
+    except Exception as _v3_health_error:
+        print(
+            "V3_HEALTH_RECORD_ERROR:",
+            type(_v3_health_error).__name__,
+            str(_v3_health_error),
+        )
+
     save_persistence(persistence)
 
     # Only healthy scans are allowed into dashboard/history.
@@ -2535,5 +2821,67 @@ def main():
         except Exception as e: print("RADAR ERROR:",e)
         time.sleep(max(15,a.interval))
 
-if __name__=="__main__":
+
+
+
+# V3_LAB_SCAN_BRIDGE_V1
+def build_v3_lab_candidates(scan_rows, historical_waves):
+    if not isinstance(scan_rows, list):
+        raise ValueError("INVALID_SCAN_ROWS")
+
+    if not isinstance(historical_waves, dict):
+        raise ValueError("INVALID_HISTORICAL_WAVES")
+
+    current_by_symbol = {}
+
+    for row in scan_rows:
+        if not isinstance(row, dict):
+            continue
+
+        symbol = row.get("symbol")
+
+        if isinstance(symbol, str):
+            current_by_symbol[symbol] = row
+
+    candidates = []
+
+    for wave_id, wave in historical_waves.items():
+        symbol = wave.get("symbol")
+        anchor_time = wave.get("anchor_time")
+
+        if (
+            symbol not in current_by_symbol
+            or type(anchor_time) is not int
+            or anchor_time <= 0
+        ):
+            continue
+
+        radar_row = current_by_symbol[symbol]
+        fast_rows = radar_row.get("_v3_fast_monitor", [])
+
+        if not isinstance(fast_rows, list):
+            fast_rows = []
+
+        fast_rows = [
+            row for row in fast_rows
+            if isinstance(row, dict)
+            and row.get("symbol") == symbol
+            and row.get("anchor_time") == anchor_time
+            and row.get("evidence_status") == "FAST_SOURCE_PENDING"
+            and row.get("coverage_verified") is False
+        ]
+
+        candidates.append({
+            "symbol": symbol,
+            "anchor_time": anchor_time,
+            "radar": {
+                symbol: [radar_row]
+            },
+            "fast": fast_rows,
+            "fast_observed": [],
+        })
+
+    return candidates
+
+if __name__ == "__main__":
     main()
