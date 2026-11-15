@@ -38430,5 +38430,30 @@
     "levels": [],
     "failed_time": 1794659271889,
     "failed_price": 5404.0
+  },
+  {
+    "symbol": "AVAXIRT",
+    "anchor_time": 1794413537088,
+    "anchor_price": 2264836.0,
+    "status": "EXPIRED",
+    "created_time": 1794413537088,
+    "last_time": 1794717004152,
+    "last_price": 1946159.0,
+    "max_gain_pct": 3.117,
+    "levels": [],
+    "expired_time": 1794463227508
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1794668220524,
+    "anchor_price": 10533.0,
+    "status": "FAILED",
+    "created_time": 1794668220524,
+    "last_time": 1794717004152,
+    "last_price": 9452.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794670042381,
+    "failed_price": 10213.0
   }
 ]

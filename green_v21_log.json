@@ -16649,5 +16649,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "AVAXIRT",
+    "time": 1794718029462,
+    "price": 1962413.0,
+    "pre30": 0.84,
+    "pre60": 0.49,
+    "pre120": 1.69,
+    "hunt": 93.2,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.59,
+    "ob": 0.27,
+    "p15": 0.84,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
