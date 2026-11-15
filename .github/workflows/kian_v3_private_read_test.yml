@@ -1,0 +1,209 @@
+name: Kian V3 Private Read Test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify-private-history:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout test branch
+        uses: actions/checkout@v4
+
+      - name: Load private migration
+        env:
+          V3_READ_KEY: ${{ secrets.KIAN_V3_PRIVATE_STATE_READ_KEY }}
+        run: |
+          set -euo pipefail
+          test -n "$V3_READ_KEY"
+          mkdir -p "$RUNNER_TEMP/v3ssh"
+          chmod 700 "$RUNNER_TEMP/v3ssh"
+          printf '%s\n' "$V3_READ_KEY" > "$RUNNER_TEMP/v3ssh/key"
+          chmod 600 "$RUNNER_TEMP/v3ssh/key"
+          printf '%s\n' '[ssh.github.com]:443 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl' > "$RUNNER_TEMP/v3ssh/known_hosts"
+          export GIT_SSH_COMMAND="ssh -i $RUNNER_TEMP/v3ssh/key -o IdentitiesOnly=yes -o BatchMode=yes -o StrictHostKeyChecking=yes -o UserKnownHostsFile=$RUNNER_TEMP/v3ssh/known_hosts -p 443"
+          git clone --depth 1 git@ssh.github.com:somaiehh/kian-v3-private-state.git "$RUNNER_TEMP/v3_private"
+          echo "PRIVATE_HISTORY_FETCHED"
+
+      - name: Validate migration
+        run: |
+          python - <<'CHECK'
+          import json
+          import os
+          from pathlib import Path
+
+          p = Path(os.environ["RUNNER_TEMP"]) / "v3_private" / "v3_wave_migration_safe_v2.json"
+          d = json.loads(p.read_text())
+          assert d.get("mode") == "V3_SAFE_MIGRATION_V2"
+          assert d.get("production_enabled") is False
+          assert d.get("real_alerts_enabled") is False
+          assert isinstance(d.get("waves"), dict)
+          print("PRIVATE_MIGRATION_VALID")
+          print("WAVE_COUNT:", len(d["waves"]))
+          print("NO_REAL_ALERTS")
+          CHECK
+
+      - name: Restore V3 private state
+        run: |
+          set -euo pipefail
+          python - <<'CHECK'
+          import hashlib
+          import json
+          import os
+          import shutil
+          from pathlib import Path
+
+          root = Path(os.environ["RUNNER_TEMP"])
+          source = root / "v3_private"
+          target = root / "v3_monitor_state"
+          names = (
+              "v3_wave_migration_safe_v2.json",
+              "tracker.json",
+              "early_watch.json",
+          )
+
+          manifest = json.loads((source / "manifest.json").read_text())
+
+          for name in names:
+              p = source / name
+              assert p.is_file(), f"REQUIRED_PRIVATE_FILE_MISSING:{name}"
+              digest = hashlib.sha256(p.read_bytes()).hexdigest()
+              assert digest == manifest[name]["sha256"], f"HASH_MISMATCH:{name}"
+              json.loads(p.read_text())
+
+          migration = json.loads(
+              (source / "v3_wave_migration_safe_v2.json").read_text()
+          )
+          assert migration.get("mode") == "V3_SAFE_MIGRATION_V2"
+          assert migration.get("production_enabled") is False
+          assert migration.get("real_alerts_enabled") is False
+
+          assert not target.exists(), "RESTORE_TARGET_ALREADY_EXISTS"
+          target.mkdir(mode=0o700)
+
+          for name in names:
+              shutil.copy2(source / name, target / name)
+              assert hashlib.sha256(
+                  (target / name).read_bytes()
+              ).hexdigest() == manifest[name]["sha256"]
+
+          print("PRIVATE_STATE_RESTORE_VERIFIED")
+          print("RESTORED_FILES:", len(names))
+          print("NO_REAL_ALERTS")
+          CHECK
+
+      - name: Prepare isolated V3 engine state
+        run: |
+          set -euo pipefail
+          python - <<'CHECK'
+          import hashlib
+          import json
+          import os
+          import shutil
+          from pathlib import Path
+
+          root = Path(os.environ["RUNNER_TEMP"])
+          source = root / "v3_monitor_state"
+          target = root / "v3_engine_state"
+
+          names = (
+              "v3_wave_migration_safe_v2.json",
+              "tracker.json",
+              "early_watch.json",
+          )
+
+          assert source.is_dir(), "PRIVATE_RESTORE_MISSING"
+          assert not target.exists(), "ENGINE_STATE_ALREADY_EXISTS"
+
+          target.mkdir(mode=0o700)
+
+          for name in names:
+              src = source / name
+              assert src.is_file(), f"MISSING:{name}"
+              json.loads(src.read_text())
+              shutil.copy2(src, target / name)
+              assert hashlib.sha256(src.read_bytes()).digest() == (
+                  hashlib.sha256((target / name).read_bytes()).digest()
+              ), f"COPY_MISMATCH:{name}"
+
+          print("V3_ENGINE_STATE_ISOLATED")
+          print("SOURCE_HISTORY_PRESERVED")
+          print("NO_REAL_ALERTS")
+          CHECK
+
+      - name: Run isolated V3 monitor engine
+        env:
+          V3_MONITOR_ONLY: "true"
+        run: |
+          set -euo pipefail
+          python - <<'CHECK'
+          import hashlib
+          import json
+          import os
+          import time
+          from pathlib import Path
+
+          from kian_v3_integrated_lab_v1 import run_comprehensive_v3_scan
+
+          root = Path(os.environ["RUNNER_TEMP"])
+          source = root / "v3_monitor_state"
+          target = root / "v3_engine_state"
+
+          names = (
+              "v3_wave_migration_safe_v2.json",
+              "tracker.json",
+              "early_watch.json",
+          )
+
+          def sha(p):
+              return hashlib.sha256(p.read_bytes()).hexdigest()
+
+          before = {name: sha(source / name) for name in names}
+          engine_before = {name: sha(target / name) for name in names}
+
+          assert before == engine_before, "ENGINE_COPY_MISMATCH"
+
+          tracker = json.loads((target / "tracker.json").read_text())
+          assert tracker.get("version") == 4
+          assert isinstance(tracker.get("waves"), dict)
+
+          symbols = {
+              wave_id.rpartition(":")[0]
+              for wave_id in tracker["waves"]
+              if ":" in wave_id
+          }
+
+          result = run_comprehensive_v3_scan(
+              scan_time=int(time.time() * 1000),
+              candidates=[],
+              allowed_irt_symbols=frozenset(symbols),
+              lab_state_dir=target,
+              max_persistent_symbols=0,
+              fetch_persistent_trades=False,
+          )
+
+          assert result["status"] == "MONITOR_ONLY"
+          assert result["real_alert_sent"] is False
+          assert result["candidate_count"] == 0
+          assert result["scan_summary"]["network_fetch_skipped"] is True
+
+          assert all(
+              sha(target / name) == engine_before[name]
+              for name in names
+          ), "ENGINE_HISTORY_CHANGED"
+
+          assert all(
+              sha(source / name) == before[name]
+              for name in names
+          ), "RESTORED_HISTORY_CHANGED"
+
+          print("V3_CLOUD_MONITOR_ENGINE_PASS")
+          print("PERSISTENT_WAVES:",
+                result["scan_summary"]["persistent_waves"])
+          print("HISTORY_PRESERVED")
+          print("NO_REAL_ALERTS")
+          CHECK
