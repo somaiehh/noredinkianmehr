@@ -18200,8 +18200,8 @@
     "tm_g4": 1.1364,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1794684398497,
-    "result_move": -7.5948,
+    "result_time": 1794685342997,
+    "result_move": -6.6885,
     "max_move": 0.0,
     "min_move": -7.5948,
     "ledger_version": "wake-ledger-v1"
@@ -18221,10 +18221,10 @@
     "tm_g4": 1.381,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1794684398497,
-    "result_move": -13.2308,
+    "result_time": 1794685342997,
+    "result_move": -13.6923,
     "max_move": 0.0,
-    "min_move": -13.2308,
+    "min_move": -13.6923,
     "ledger_version": "wake-ledger-v1"
   },
   {
@@ -18242,10 +18242,10 @@
     "tm_g4": 1.5217,
     "legacy": false,
     "result": "STOP_FIRST",
-    "result_time": 1794684398497,
-    "result_move": -5.0253,
+    "result_time": 1794687361170,
+    "result_move": -5.1462,
     "max_move": 0.0,
-    "min_move": -5.0253,
+    "min_move": -5.1462,
     "ledger_version": "wake-ledger-v1"
   },
   {

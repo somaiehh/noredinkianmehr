@@ -38560,5 +38560,58 @@
     "confirmed_time": 1794678160766,
     "confirmed_price": 303.0,
     "expired_time": 1794714184339
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1794502426581,
+    "anchor_price": 931869.0,
+    "status": "FAILED",
+    "created_time": 1794502426581,
+    "last_time": 1794733250136,
+    "last_price": 842353.0,
+    "max_gain_pct": 4.3172,
+    "levels": [],
+    "failed_time": 1794542243152,
+    "failed_price": 900009.0
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1794679744185,
+    "anchor_price": 8703.0,
+    "status": "FAILED",
+    "created_time": 1794679744185,
+    "last_time": 1794733250136,
+    "last_price": 8398.0,
+    "max_gain_pct": 0.8733,
+    "levels": [],
+    "failed_time": 1794690400351,
+    "failed_price": 8401.0
+  },
+  {
+    "symbol": "PIEVERSEIRT",
+    "anchor_time": 1794280437248,
+    "anchor_price": 557322.0,
+    "status": "FAILED",
+    "created_time": 1794280437248,
+    "last_time": 1794733250136,
+    "last_price": 530000.0,
+    "max_gain_pct": 0.563,
+    "levels": [],
+    "failed_time": 1794281402767,
+    "failed_price": 535274.0
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1794653233845,
+    "anchor_price": 368.5,
+    "status": "EXPIRED",
+    "created_time": 1794653233845,
+    "last_time": 1794733925978,
+    "last_price": 358.9,
+    "max_gain_pct": 3.0393,
+    "levels": [],
+    "confirmed_time": 1794659271889,
+    "confirmed_price": 379.7,
+    "expired_time": 1794696587110
   }
 ]
