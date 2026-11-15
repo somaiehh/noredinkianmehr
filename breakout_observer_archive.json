@@ -38670,5 +38670,17 @@
       }
     ],
     "expired_time": 1794715023929
+  },
+  {
+    "symbol": "UNIIRT",
+    "anchor_time": 1793805216015,
+    "anchor_price": 2056721.0,
+    "status": "EXPIRED",
+    "created_time": 1793805216015,
+    "last_time": 1794742900879,
+    "last_price": 1383958.0,
+    "max_gain_pct": 1.2729,
+    "levels": [],
+    "expired_time": 1793863238994
   }
 ]
