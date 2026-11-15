@@ -1,0 +1,35 @@
+name: Kian V3 Isolated Smoke Test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  isolated-smoke:
+    if: github.ref == 'refs/heads/kian-v3-monitor-integration'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout V3 test branch
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run isolated V3 smoke test
+        env:
+          GITHUB_TOKEN: ""
+          GH_TOKEN: ""
+          NTFY_TOPIC: ""
+          NTFY_URL: ""
+        run: python -B kian_v3_github_smoke.py
