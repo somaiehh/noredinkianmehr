@@ -69719,7 +69719,10 @@
       "max_up": 2.09,
       "max_down": -2.02
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.9,
+      "max_down": -2.02
+    }
   },
   {
     "symbol": "SOPHIRT",
@@ -69855,7 +69858,10 @@
       "max_up": 2.12,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.08,
+      "max_down": -3.56
+    },
     "result_12h": null
   },
   {
@@ -69951,7 +69957,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.61
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -69969,7 +69978,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 1.28,
+      "max_down": -1.04
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

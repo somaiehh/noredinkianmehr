@@ -38493,5 +38493,18 @@
       }
     ],
     "expired_time": 1794605539733
+  },
+  {
+    "symbol": "NIGHTIRT",
+    "anchor_time": 1794664598646,
+    "anchor_price": 13630.6,
+    "status": "FAILED",
+    "created_time": 1794664598646,
+    "last_time": 1794724310082,
+    "last_price": 13680.6,
+    "max_gain_pct": 2.0982,
+    "levels": [],
+    "failed_time": 1794673659844,
+    "failed_price": 13033.3
   }
 ]
