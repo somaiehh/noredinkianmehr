@@ -38519,5 +38519,18 @@
     "levels": [],
     "failed_time": 1794698066727,
     "failed_price": 278026.0
+  },
+  {
+    "symbol": "KAVAIRT",
+    "anchor_time": 1794666445031,
+    "anchor_price": 11963.0,
+    "status": "FAILED",
+    "created_time": 1794666445031,
+    "last_time": 1794727834632,
+    "last_price": 10583.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794668220524,
+    "failed_price": 11526.0
   }
 ]
