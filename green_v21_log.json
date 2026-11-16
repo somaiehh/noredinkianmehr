@@ -16826,7 +16826,10 @@
       "max_up": 1.86,
       "max_down": -1.65
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.54,
+      "max_down": -1.65
+    }
   },
   {
     "symbol": "WENSOLIRT",
@@ -16866,7 +16869,10 @@
     "ob": 0.0,
     "p15": 0.91,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.85,
+      "max_down": -2.67
+    },
     "result_4h": null
   },
   {
