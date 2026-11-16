@@ -38984,5 +38984,18 @@
     "levels": [],
     "failed_time": 1794730372674,
     "failed_price": 6535.9
+  },
+  {
+    "symbol": "RSS3IRT",
+    "anchor_time": 1794473822983,
+    "anchor_price": 154.0,
+    "status": "FAILED",
+    "created_time": 1794473822983,
+    "last_time": 1794822319703,
+    "last_price": 135.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794478321183,
+    "failed_price": 148.0
   }
 ]
