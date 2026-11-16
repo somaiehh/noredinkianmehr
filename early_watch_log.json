@@ -70651,5 +70651,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "RADIRT",
+    "time": 1794821754217,
+    "price": 59347.0,
+    "level": "WATCH",
+    "hunt": 43.4,
+    "persistence": 1,
+    "p15": 1.43,
+    "vr": 0.11,
+    "va": 2.57,
+    "buy": 100,
+    "bs": 3.2,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
