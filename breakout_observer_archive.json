@@ -39272,5 +39272,36 @@
     "max_gain_pct": 1.8851,
     "levels": [],
     "expired_time": 1794814932364
+  },
+  {
+    "symbol": "RESOLVIRT",
+    "anchor_time": 1791305358283,
+    "anchor_price": 5711.0,
+    "status": "EXPIRED",
+    "created_time": 1791305358283,
+    "last_time": 1794860326321,
+    "last_price": 3960.0,
+    "max_gain_pct": 10.6987,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1791314086142,
+    "confirmed_price": 5943.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1791323557893,
+        "price": 6016.0,
+        "gain_pct": 5.3406
+      },
+      {
+        "level": 10,
+        "time": 1791343249484,
+        "price": 6322.0,
+        "gain_pct": 10.6987
+      }
+    ],
+    "expired_time": 1791349376143
   }
 ]
