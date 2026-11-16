@@ -70494,7 +70494,10 @@
       "max_up": 4.8,
       "max_down": -15.66
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.8,
+      "max_down": -15.66
+    }
   },
   {
     "symbol": "UAIIRT",
