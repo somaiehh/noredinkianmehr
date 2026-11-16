@@ -9407,5 +9407,18 @@
     "bs": 0.8,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1794810997946,
+    "symbol": "RAREIRT",
+    "price": 3637.0,
+    "hunt_score": 80.8,
+    "status": "EARLY",
+    "p15": 1.37,
+    "vr": 1.63,
+    "va": 3.71,
+    "bs": 0.08,
+    "breakout": false,
+    "persistence": 3
   }
 ]
