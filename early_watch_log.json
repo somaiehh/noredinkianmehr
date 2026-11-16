@@ -70584,7 +70584,10 @@
       "max_up": 3.54,
       "max_down": -1.65
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.69,
+      "max_down": -1.65
+    }
   },
   {
     "symbol": "WINIRT",
