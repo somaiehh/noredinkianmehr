@@ -70370,7 +70370,10 @@
       "max_up": 5.33,
       "max_down": -1.21
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.33,
+      "max_down": -3.04
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -70398,7 +70401,10 @@
       "max_up": 2.31,
       "max_down": -2.1
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.31,
+      "max_down": -10.33
+    }
   },
   {
     "symbol": "SIRT",
