@@ -9511,5 +9511,31 @@
     "bs": 0.8,
     "breakout": false,
     "persistence": 3
+  },
+  {
+    "time": 1794859046843,
+    "symbol": "UAIIRT",
+    "price": 9500.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.03,
+    "vr": 9.04,
+    "va": 10.0,
+    "bs": 0.22,
+    "breakout": false,
+    "persistence": 3
+  },
+  {
+    "time": 1794859225097,
+    "symbol": "TACIRT",
+    "price": 330.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.23,
+    "vr": 18.81,
+    "va": 10.0,
+    "bs": 0.31,
+    "breakout": false,
+    "persistence": 2
   }
 ]
