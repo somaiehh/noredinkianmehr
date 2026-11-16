@@ -4639,6 +4639,22 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "CROSSIRT": {
+      "trigger_time": 1794853596486,
+      "trigger_price": 37121.0,
+      "secondary_score": 90.0,
+      "hunt_score": 78.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
