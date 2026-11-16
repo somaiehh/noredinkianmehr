@@ -39165,5 +39165,18 @@
     "max_gain_pct": 0.4329,
     "levels": [],
     "expired_time": 1794827688190
+  },
+  {
+    "symbol": "SOPHIRT",
+    "anchor_time": 1794789423367,
+    "anchor_price": 339.0,
+    "status": "FAILED",
+    "created_time": 1794789423367,
+    "last_time": 1794844760899,
+    "last_price": 250.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794789663063,
+    "failed_price": 319.0
   }
 ]
