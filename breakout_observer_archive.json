@@ -39178,5 +39178,18 @@
     "levels": [],
     "failed_time": 1794789663063,
     "failed_price": 319.0
+  },
+  {
+    "symbol": "PIEVERSEIRT",
+    "anchor_time": 1794733925978,
+    "anchor_price": 540000.0,
+    "status": "FAILED",
+    "created_time": 1794733925978,
+    "last_time": 1794846457159,
+    "last_price": 548053.0,
+    "max_gain_pct": 1.4913,
+    "levels": [],
+    "failed_time": 1794737546189,
+    "failed_price": 515440.0
   }
 ]
