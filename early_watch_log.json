@@ -70937,5 +70937,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "PUMPIRT",
+    "time": 1794854565801,
+    "price": 772.9,
+    "level": "WATCH",
+    "hunt": 42.1,
+    "persistence": 1,
+    "p15": 0.12,
+    "vr": 0.54,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.64,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
