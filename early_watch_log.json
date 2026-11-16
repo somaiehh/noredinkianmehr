@@ -70525,7 +70525,10 @@
       "max_up": -1.56,
       "max_down": -8.06
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.12,
+      "max_down": -8.2
+    }
   },
   {
     "symbol": "TACIRT",
@@ -70550,7 +70553,10 @@
       "max_up": 10.0,
       "max_down": -8.46
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.0,
+      "max_down": -11.54
+    }
   },
   {
     "symbol": "HIRT",
@@ -70742,7 +70748,10 @@
       "max_up": 1.65,
       "max_down": -0.28
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.65,
+      "max_down": -0.28
+    },
     "result_12h": null
   },
   {
@@ -70767,7 +70776,10 @@
       "max_up": 0.91,
       "max_down": -2.48
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.91,
+      "max_down": -4.31
+    },
     "result_12h": null
   },
   {
@@ -70792,7 +70804,10 @@
       "max_up": 1.3,
       "max_down": -1.82
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.68,
+      "max_down": -1.82
+    },
     "result_12h": null
   },
   {
@@ -70835,7 +70850,10 @@
       "max_up": -0.76,
       "max_down": -0.76
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.34,
+      "max_down": -0.76
+    },
     "result_4h": null,
     "result_12h": null
   }
