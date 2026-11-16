@@ -70857,7 +70857,10 @@
       "max_up": 0.34,
       "max_down": -0.76
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.34,
+      "max_down": -0.99
+    },
     "result_12h": null
   },
   {
@@ -70900,6 +70903,25 @@
       "max_up": 2.26,
       "max_down": 2.26
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DOGSIRT",
+    "time": 1794849306802,
+    "price": 6.99,
+    "level": "STRONG",
+    "hunt": 73.4,
+    "persistence": 1,
+    "p15": 0.43,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 90.0,
+    "bs": 2.7,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
