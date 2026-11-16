@@ -39303,5 +39303,18 @@
       }
     ],
     "expired_time": 1791349376143
+  },
+  {
+    "symbol": "RAREIRT",
+    "anchor_time": 1794816883248,
+    "anchor_price": 3843.0,
+    "status": "FAILED",
+    "created_time": 1794816883248,
+    "last_time": 1794864848524,
+    "last_price": 3768.0,
+    "max_gain_pct": 22.3263,
+    "levels": [],
+    "failed_time": 1794817617774,
+    "failed_price": 3687.0
   }
 ]
