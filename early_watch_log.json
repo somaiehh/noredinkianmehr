@@ -70308,7 +70308,10 @@
       "max_up": -6.5,
       "max_down": -9.81
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -6.5,
+      "max_down": -10.53
+    }
   },
   {
     "symbol": "UNIIRT",
