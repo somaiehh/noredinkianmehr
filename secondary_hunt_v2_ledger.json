@@ -2539,6 +2539,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ZILIRT": {
+      "trigger_time": 1794808686320,
+      "trigger_price": 288.0,
+      "secondary_score": 70.0,
+      "hunt_score": 8.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

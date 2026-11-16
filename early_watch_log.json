@@ -70463,7 +70463,10 @@
       "max_up": 1.09,
       "max_down": -0.08
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.62,
+      "max_down": -0.73
+    }
   },
   {
     "symbol": "SHELLIRT",
