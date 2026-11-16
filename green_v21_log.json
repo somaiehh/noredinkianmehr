@@ -16827,5 +16827,24 @@
       "max_down": -1.65
     },
     "result_4h": null
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "time": 1794822319703,
+    "price": 1.3,
+    "pre30": -2.6,
+    "pre60": -2.6,
+    "pre120": -2.6,
+    "hunt": 69.8,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 67.66666666666666,
+    "bs": 2.03,
+    "ob": 0.42,
+    "p15": 0.93,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
