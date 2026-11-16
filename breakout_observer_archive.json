@@ -39141,5 +39141,29 @@
     "levels": [],
     "failed_time": 1794773805947,
     "failed_price": 9038.0
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "anchor_time": 1794406334006,
+    "anchor_price": 453.19,
+    "status": "EXPIRED",
+    "created_time": 1794406334006,
+    "last_time": 1794834931357,
+    "last_price": 478.86,
+    "max_gain_pct": 5.6643,
+    "levels": [],
+    "expired_time": 1794455243306
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1794784480423,
+    "anchor_price": 288749.0,
+    "status": "EXPIRED",
+    "created_time": 1794784480423,
+    "last_time": 1794837607159,
+    "last_price": 282961.0,
+    "max_gain_pct": 0.4329,
+    "levels": [],
+    "expired_time": 1794827688190
   }
 ]
