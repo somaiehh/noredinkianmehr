@@ -16901,7 +16901,10 @@
       "max_up": 0.0,
       "max_down": -0.62
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.02,
+      "max_down": -1.88
+    }
   },
   {
     "symbol": "CAPIRT",
