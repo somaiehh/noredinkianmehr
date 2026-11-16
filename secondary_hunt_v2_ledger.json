@@ -2553,6 +2553,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "RAREIRT": {
+      "trigger_time": 1794846844177,
+      "trigger_price": 3962.0,
+      "secondary_score": 65.0,
+      "hunt_score": 18.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
