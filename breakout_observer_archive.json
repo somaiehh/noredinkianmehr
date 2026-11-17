@@ -39632,5 +39632,31 @@
       }
     ],
     "expired_time": 1794867650221
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1794689390986,
+    "anchor_price": 199020.0,
+    "status": "FAILED",
+    "created_time": 1794689390986,
+    "last_time": 1794920405823,
+    "last_price": 198109.0,
+    "max_gain_pct": 3.8921,
+    "levels": [],
+    "failed_time": 1794689867955,
+    "failed_price": 190000.0
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "anchor_time": 1794602213481,
+    "anchor_price": 38.9,
+    "status": "FAILED",
+    "created_time": 1794602213481,
+    "last_time": 1794920405823,
+    "last_price": 39.8,
+    "max_gain_pct": 2.3136,
+    "levels": [],
+    "failed_time": 1794629543035,
+    "failed_price": 37.7
   }
 ]
