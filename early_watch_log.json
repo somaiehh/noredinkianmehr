@@ -71105,7 +71105,10 @@
       "max_up": 0.31,
       "max_down": -7.2
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.01,
+      "max_down": -7.2
+    }
   },
   {
     "symbol": "SOPHIRT",
@@ -71421,7 +71424,10 @@
       "max_up": -0.65,
       "max_down": -0.65
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.21,
+      "max_down": -1.47
+    },
     "result_4h": null,
     "result_12h": null
   },
