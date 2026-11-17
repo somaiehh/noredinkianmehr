@@ -39498,5 +39498,19 @@
     "confirmed_time": 1794821554177,
     "confirmed_price": 6821.0,
     "expired_time": 1794862082930
+  },
+  {
+    "symbol": "WMTXIRT",
+    "anchor_time": 1792481921281,
+    "anchor_price": 5557.0,
+    "status": "EXPIRED",
+    "created_time": 1792481921281,
+    "last_time": 1794907139974,
+    "last_price": 4046.0,
+    "max_gain_pct": 4.4808,
+    "levels": [],
+    "confirmed_time": 1792483620333,
+    "confirmed_price": 5743.0,
+    "expired_time": 1792525334582
   }
 ]
