@@ -17001,7 +17001,10 @@
       "max_up": 1.86,
       "max_down": 0.01
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.85,
+      "max_down": -0.29
+    }
   },
   {
     "symbol": "SOPHIRT",
