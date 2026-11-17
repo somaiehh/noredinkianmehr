@@ -70953,7 +70953,10 @@
       "max_up": 2.26,
       "max_down": -9.06
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.26,
+      "max_down": -12.89
+    }
   },
   {
     "symbol": "DOGSIRT",
@@ -71111,6 +71114,25 @@
       "max_up": 5.3,
       "max_down": 0.76
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HUMAIRT",
+    "time": 1794892297952,
+    "price": 2444.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.99,
+    "vr": 1.2,
+    "va": 10.0,
+    "buy": 74.33333333333333,
+    "bs": 2.23,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
