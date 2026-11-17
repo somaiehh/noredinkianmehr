@@ -9602,5 +9602,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1794915924392,
+    "symbol": "HUMAIRT",
+    "price": 2400.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.26,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 4.82,
+    "breakout": true,
+    "persistence": 4
   }
 ]

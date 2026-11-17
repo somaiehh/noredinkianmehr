@@ -39512,5 +39512,50 @@
     "confirmed_time": 1792483620333,
     "confirmed_price": 5743.0,
     "expired_time": 1792525334582
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1794824104319,
+    "anchor_price": 1.02111,
+    "status": "EXPIRED",
+    "created_time": 1794824104319,
+    "last_time": 1794914964632,
+    "last_price": 1.03453,
+    "max_gain_pct": 5.2227,
+    "levels": [],
+    "confirmed_time": 1794841126950,
+    "confirmed_price": 1.05639,
+    "expired_time": 1794867650221
+  },
+  {
+    "symbol": "HUMAIRT",
+    "anchor_time": 1794857277261,
+    "anchor_price": 2472.0,
+    "status": "EXPIRED",
+    "created_time": 1794857277261,
+    "last_time": 1794914964632,
+    "last_price": 2302.0,
+    "max_gain_pct": 16.1812,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794860908144,
+    "confirmed_price": 2649.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794860908144,
+        "price": 2649.0,
+        "gain_pct": 7.1602
+      },
+      {
+        "level": 10,
+        "time": 1794862809441,
+        "price": 2750.0,
+        "gain_pct": 11.246
+      }
+    ],
+    "expired_time": 1794900629111
   }
 ]
