@@ -71136,7 +71136,10 @@
       "max_up": 10.61,
       "max_down": -1.14
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.61,
+      "max_down": -9.47
+    }
   },
   {
     "symbol": "HUMAIRT",
@@ -71505,7 +71508,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.15,
+      "max_down": -2.61
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -71523,7 +71529,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.1,
+      "max_down": 0.1
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
