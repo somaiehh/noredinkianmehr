@@ -70860,7 +70860,10 @@
       "max_up": -0.4,
       "max_down": -2.76
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.4,
+      "max_down": -5.59
+    }
   },
   {
     "symbol": "UAIIRT",
