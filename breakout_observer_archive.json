@@ -39658,5 +39658,76 @@
     "levels": [],
     "failed_time": 1794629543035,
     "failed_price": 37.7
+  },
+  {
+    "symbol": "CROSSIRT",
+    "anchor_time": 1794853596486,
+    "anchor_price": 37121.0,
+    "status": "EXPIRED",
+    "created_time": 1794853596486,
+    "last_time": 1794926729738,
+    "last_price": 40318.0,
+    "max_gain_pct": 13.3132,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794854790255,
+    "confirmed_price": 38523.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794863801859,
+        "price": 39328.0,
+        "gain_pct": 5.9454
+      },
+      {
+        "level": 10,
+        "time": 1794875021894,
+        "price": 40951.0,
+        "gain_pct": 10.3176
+      }
+    ],
+    "expired_time": 1794896820684
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1794747434491,
+    "anchor_price": 31228.0,
+    "status": "EXPIRED",
+    "created_time": 1794747434491,
+    "last_time": 1794926729738,
+    "last_price": 27316.0,
+    "max_gain_pct": 3.7915,
+    "levels": [],
+    "confirmed_time": 1794756429271,
+    "confirmed_price": 32412.0,
+    "expired_time": 1794793556527
+  },
+  {
+    "symbol": "BREVIRT",
+    "anchor_time": 1793121872996,
+    "anchor_price": 26568.0,
+    "status": "FAILED",
+    "created_time": 1793121872996,
+    "last_time": 1794926729738,
+    "last_price": 29515.0,
+    "max_gain_pct": 11.0923,
+    "levels": [],
+    "failed_time": 1793125825057,
+    "failed_price": 23053.0
+  },
+  {
+    "symbol": "PTBIRT",
+    "anchor_time": 1794752836745,
+    "anchor_price": 21.0,
+    "status": "FAILED",
+    "created_time": 1794752836745,
+    "last_time": 1794927424321,
+    "last_price": 19.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794753037201,
+    "failed_price": 20.0
   }
 ]
