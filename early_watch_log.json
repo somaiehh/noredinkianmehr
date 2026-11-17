@@ -71167,7 +71167,10 @@
       "max_up": 5.93,
       "max_down": -8.02
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.93,
+      "max_down": -17.47
+    }
   },
   {
     "symbol": "HIRT",
@@ -71195,7 +71198,10 @@
       "max_up": 0.54,
       "max_down": -3.17
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.54,
+      "max_down": -6.32
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -71440,7 +71446,10 @@
       "max_up": 1.21,
       "max_down": -1.47
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.21,
+      "max_down": -4.29
+    },
     "result_12h": null
   },
   {
@@ -71465,7 +71474,10 @@
       "max_up": 0.0,
       "max_down": -1.09
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.37,
+      "max_down": -3.71
+    },
     "result_12h": null
   },
   {
@@ -71490,7 +71502,10 @@
       "max_up": 0.0,
       "max_down": -2.5
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -2.5
+    },
     "result_12h": null
   },
   {
@@ -71557,6 +71572,25 @@
     "bs": 3.26,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "KAVAIRT",
+    "time": 1794937778949,
+    "price": 8281.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.44,
+    "vr": 0.86,
+    "va": 10.0,
+    "buy": 74.00000000000001,
+    "bs": 2.22,
+    "breakout": true,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,

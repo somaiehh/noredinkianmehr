@@ -39766,5 +39766,18 @@
       }
     ],
     "expired_time": 1794922956164
+  },
+  {
+    "symbol": "KAVAIRT",
+    "anchor_time": 1794728807275,
+    "anchor_price": 11250.0,
+    "status": "FAILED",
+    "created_time": 1794728807275,
+    "last_time": 1794933905542,
+    "last_price": 7355.0,
+    "max_gain_pct": 5.6356,
+    "levels": [],
+    "failed_time": 1794729414411,
+    "failed_price": 10572.0
   }
 ]
