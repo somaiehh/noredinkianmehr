@@ -17040,5 +17040,43 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "HIRT",
+    "time": 1794895000502,
+    "price": 4312.0,
+    "pre30": 4.31,
+    "pre60": -0.14,
+    "pre120": 0.28,
+    "hunt": 74.1,
+    "persistence": 3,
+    "vr": 5.81,
+    "va": 10.0,
+    "buy": 15.333333333333336,
+    "bs": 0.46,
+    "ob": 0.76,
+    "p15": 0.54,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "HIRT",
+    "time": 1794895165808,
+    "price": 4312.0,
+    "pre30": 4.05,
+    "pre60": -0.14,
+    "pre120": -0.14,
+    "hunt": 73.1,
+    "persistence": 4,
+    "vr": 5.81,
+    "va": 10.0,
+    "buy": 14.333333333333334,
+    "bs": 0.43,
+    "ob": 0.95,
+    "p15": 0.54,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
