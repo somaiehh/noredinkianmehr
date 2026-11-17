@@ -39472,5 +39472,17 @@
       }
     ],
     "expired_time": 1794888900235
+  },
+  {
+    "symbol": "POLIRT",
+    "anchor_time": 1794769995558,
+    "anchor_price": 21718.0,
+    "status": "EXPIRED",
+    "created_time": 1794769995558,
+    "last_time": 1794893420046,
+    "last_price": 22104.0,
+    "max_gain_pct": 1.7773,
+    "levels": [],
+    "expired_time": 1794813251347
   }
 ]

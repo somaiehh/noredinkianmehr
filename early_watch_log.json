@@ -71141,5 +71141,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "HIRT",
+    "time": 1794894329475,
+    "price": 4289.0,
+    "level": "STRONG",
+    "hunt": 65.4,
+    "persistence": 2,
+    "p15": 1.76,
+    "vr": 0.52,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
