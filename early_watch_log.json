@@ -71592,7 +71592,10 @@
     "priority": true,
     "result_15m": null,
     "result_1h": null,
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 10.1,
+      "max_down": 2.8
+    },
     "result_12h": null
   },
   {
@@ -71657,6 +71660,25 @@
     "va": 2.94,
     "buy": 100,
     "bs": 3.39,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LUNCIRT",
+    "time": 1794948203543,
+    "price": 11.121,
+    "level": "WATCH",
+    "hunt": 41.9,
+    "persistence": 1,
+    "p15": 0.09,
+    "vr": 0.7,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
