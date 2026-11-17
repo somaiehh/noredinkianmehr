@@ -9641,5 +9641,31 @@
     "bs": 1.56,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1794938234423,
+    "symbol": "KAVAIRT",
+    "price": 8436.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.32,
+    "vr": 7.13,
+    "va": 10.0,
+    "bs": 0.26,
+    "breakout": true,
+    "persistence": 3
+  },
+  {
+    "time": 1794938428807,
+    "symbol": "KAVAIRT",
+    "price": 8436.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.32,
+    "vr": 7.13,
+    "va": 10.0,
+    "bs": 0.26,
+    "breakout": true,
+    "persistence": 4
   }
 ]
