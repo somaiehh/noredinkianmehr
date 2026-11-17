@@ -4655,6 +4655,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "MMTIRT": {
+      "trigger_time": 1794933905542,
+      "trigger_price": 35895.0,
+      "secondary_score": 70.0,
+      "hunt_score": 78.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "bs2",
+        "book1"
+      ]
     }
   }
 }
