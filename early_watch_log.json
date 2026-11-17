@@ -71312,5 +71312,43 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "HUMAIRT",
+    "time": 1794910908756,
+    "price": 2284.0,
+    "level": "STRONG",
+    "hunt": 59.5,
+    "persistence": 1,
+    "p15": 1.29,
+    "vr": 0.78,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LUNCIRT",
+    "time": 1794911098764,
+    "price": 10.165,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.12,
+    "vr": 0.86,
+    "va": 3.22,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
