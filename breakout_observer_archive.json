@@ -39435,5 +39435,42 @@
     "max_gain_pct": 1.0614,
     "levels": [],
     "expired_time": 1794881535612
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1794695319263,
+    "anchor_price": 235270357.0,
+    "status": "FAILED",
+    "created_time": 1794695319263,
+    "last_time": 1794892488074,
+    "last_price": 249369963.0,
+    "max_gain_pct": 8.3859,
+    "levels": [],
+    "failed_time": 1794698066727,
+    "failed_price": 227362423.0
+  },
+  {
+    "symbol": "SOPHIRT",
+    "anchor_time": 1794845518885,
+    "anchor_price": 264.0,
+    "status": "EXPIRED",
+    "created_time": 1794845518885,
+    "last_time": 1794892488074,
+    "last_price": 270.0,
+    "max_gain_pct": 6.0606,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794849306802,
+    "confirmed_price": 275.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794850086057,
+        "price": 280.0,
+        "gain_pct": 6.0606
+      }
+    ],
+    "expired_time": 1794888900235
   }
 ]
