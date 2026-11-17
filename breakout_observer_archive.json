@@ -39804,5 +39804,19 @@
     "levels": [],
     "failed_time": 1794892297952,
     "failed_price": 63.3
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "anchor_time": 1794871928885,
+    "anchor_price": 1.28,
+    "status": "EXPIRED",
+    "created_time": 1794871928885,
+    "last_time": 1794943907066,
+    "last_price": 1.0641,
+    "max_gain_pct": 3.125,
+    "levels": [],
+    "confirmed_time": 1794875340371,
+    "confirmed_price": 1.32,
+    "expired_time": 1794915732918
   }
 ]
