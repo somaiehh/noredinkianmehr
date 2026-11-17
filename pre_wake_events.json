@@ -14212,8 +14212,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.1405,
+    "max_move": 4.8049,
     "min_move": -0.0111,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "HUMAIRT",
+    "event_time": 1794899702070,
+    "event_price": 2351.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 37.9,
+    "p15": -0.84,
+    "vr": null,
+    "va": 2.52,
+    "ta": 1.44,
+    "bs": 3.16,
+    "book": 0.83,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
