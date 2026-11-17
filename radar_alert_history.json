@@ -9589,5 +9589,18 @@
     "bs": 3.12,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1794914804528,
+    "symbol": "LUNCIRT",
+    "price": 10.895,
+    "hunt_score": 90.8,
+    "status": "EARLY",
+    "p15": 2.83,
+    "vr": 0.29,
+    "va": 3.38,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 3
   }
 ]
