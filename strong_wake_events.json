@@ -18728,6 +18728,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 1.4925,
+    "min_move": -1.4925,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "SHIBIRT",
+    "event_time": 1794902218483,
+    "event_price": 1.0403,
+    "anchor_time": 1794901310846,
+    "anchor_price": 1.0374,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1538,
+    "tm_e15_e1": 0.1538,
+    "tm_e1_e4": 0.4815,
+    "tm_g15": 0.2222,
+    "tm_g1": 1.1818,
+    "tm_g4": 1.08,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
