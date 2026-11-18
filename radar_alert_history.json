@@ -9732,5 +9732,18 @@
     "bs": 0.13,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1794992397569,
+    "symbol": "BREVIRT",
+    "price": 27558.0,
+    "hunt_score": 80.3,
+    "status": "EARLY",
+    "p15": 0.68,
+    "vr": 1.81,
+    "va": 10.0,
+    "bs": 0.8,
+    "breakout": false,
+    "persistence": 2
   }
 ]

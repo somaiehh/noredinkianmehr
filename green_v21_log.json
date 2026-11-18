@@ -17180,5 +17180,24 @@
       "max_up": -1.02,
       "max_down": -6.69
     }
+  },
+  {
+    "symbol": "BREVIRT",
+    "time": 1794992394056,
+    "price": 27558.0,
+    "pre30": 4.0,
+    "pre60": -3.27,
+    "pre120": -0.83,
+    "hunt": 80.3,
+    "persistence": 2,
+    "vr": 1.81,
+    "va": 10.0,
+    "buy": 26.666666666666668,
+    "bs": 0.8,
+    "ob": 1.0,
+    "p15": 0.68,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
