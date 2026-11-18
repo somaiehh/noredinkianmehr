@@ -71883,7 +71883,10 @@
       "max_up": 7.72,
       "max_down": 5.02
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 11.58,
+      "max_down": 2.7
+    },
     "result_12h": null
   },
   {
@@ -72029,6 +72032,44 @@
       "max_up": 0.55,
       "max_down": 0.55
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DEXEIRT",
+    "time": 1795001274660,
+    "price": 318221.0,
+    "level": "WATCH",
+    "hunt": 42.5,
+    "persistence": 1,
+    "p15": 1.07,
+    "vr": 0.08,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "time": 1795001274660,
+    "price": 560.51,
+    "level": "STRONG",
+    "hunt": 67.8,
+    "persistence": 1,
+    "p15": 0.11,
+    "vr": 0.57,
+    "va": 10.0,
+    "buy": 42.0,
+    "bs": 1.26,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
