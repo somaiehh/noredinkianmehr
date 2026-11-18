@@ -39882,5 +39882,42 @@
     "levels": [],
     "failed_time": 1794895000502,
     "failed_price": 275.0
+  },
+  {
+    "symbol": "MMTIRT",
+    "anchor_time": 1794933719426,
+    "anchor_price": 37500.0,
+    "status": "FAILED",
+    "created_time": 1794933719426,
+    "last_time": 1794979145014,
+    "last_price": 41950.0,
+    "max_gain_pct": 19.4267,
+    "levels": [],
+    "failed_time": 1794933905542,
+    "failed_price": 35895.0
+  },
+  {
+    "symbol": "BREVIRT",
+    "anchor_time": 1794927424321,
+    "anchor_price": 30326.0,
+    "status": "EXPIRED",
+    "created_time": 1794927424321,
+    "last_time": 1794979145014,
+    "last_price": 30313.0,
+    "max_gain_pct": 9.7606,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794928318416,
+    "confirmed_price": 33286.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794928318416,
+        "price": 33286.0,
+        "gain_pct": 9.7606
+      }
+    ],
+    "expired_time": 1794970716773
   }
 ]
