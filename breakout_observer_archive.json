@@ -40246,5 +40246,18 @@
     "levels": [],
     "failed_time": 1794584560226,
     "failed_price": 10017.0
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1794977103303,
+    "anchor_price": 6802.4,
+    "status": "FAILED",
+    "created_time": 1794977103303,
+    "last_time": 1795023110645,
+    "last_price": 6770.3,
+    "max_gain_pct": 1.0658,
+    "levels": [],
+    "failed_time": 1795021003865,
+    "failed_price": 6568.1
   }
 ]
