@@ -17366,6 +17366,28 @@
     "ob": 1.0,
     "p15": 0.07,
     "breakout": true,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.91
+    },
+    "result_4h": null
+  },
+  {
+    "symbol": "ZKCIRT",
+    "time": 1795027525654,
+    "price": 8521.0,
+    "pre30": -0.04,
+    "pre60": -1.71,
+    "pre120": 2.22,
+    "hunt": 61.5,
+    "persistence": 2,
+    "vr": 2.76,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.17,
+    "ob": 0.68,
+    "p15": 0.53,
+    "breakout": false,
     "result_1h": null,
     "result_4h": null
   }
