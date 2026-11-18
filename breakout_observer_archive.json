@@ -40037,5 +40037,19 @@
     "confirmed_time": 1794847325121,
     "confirmed_price": 142.0,
     "expired_time": 1794866278456
+  },
+  {
+    "symbol": "PIEVERSEIRT",
+    "anchor_time": 1794846642698,
+    "anchor_price": 548701.0,
+    "status": "EXPIRED",
+    "created_time": 1794846642698,
+    "last_time": 1794992394056,
+    "last_price": 591786.0,
+    "max_gain_pct": 8.0071,
+    "levels": [],
+    "confirmed_time": 1794851061851,
+    "confirmed_price": 568518.0,
+    "expired_time": 1794890500751
   }
 ]
