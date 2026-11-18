@@ -17390,5 +17390,43 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "PUMPIRT",
+    "time": 1795028441594,
+    "price": 703.1,
+    "pre30": 0.73,
+    "pre60": -1.11,
+    "pre120": 1.52,
+    "hunt": 75.2,
+    "persistence": 2,
+    "vr": 3.71,
+    "va": 9.82,
+    "buy": 95.66666666666667,
+    "bs": 2.87,
+    "ob": 1.0,
+    "p15": 0.3,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "HIRT",
+    "time": 1795028441594,
+    "price": 4184.0,
+    "pre30": 1.19,
+    "pre60": 1.87,
+    "pre120": 2.52,
+    "hunt": 91.0,
+    "persistence": 2,
+    "vr": 4.4,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.01,
+    "p15": 0.38,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

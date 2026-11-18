@@ -72489,7 +72489,10 @@
     "bs": 3.2,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.48,
+      "max_down": -0.3
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -72503,6 +72506,28 @@
     "persistence": 2,
     "p15": 0.52,
     "vr": 0.42,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": {
+      "max_up": 0.11,
+      "max_down": 0.11
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HIRT",
+    "time": 1795028231893,
+    "price": 4184.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.38,
+    "vr": 4.4,
     "va": 10.0,
     "buy": 100,
     "bs": 5.0,
