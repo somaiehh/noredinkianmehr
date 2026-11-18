@@ -71685,7 +71685,10 @@
       "max_up": 0.01,
       "max_down": -2.39
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.95,
+      "max_down": -2.39
+    }
   },
   {
     "symbol": "BREVIRT",
@@ -71778,6 +71781,28 @@
     "p15": 0.78,
     "vr": 14.96,
     "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.46,
+      "max_down": 0.46
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1794984175132,
+    "price": 64517.0,
+    "level": "STRONG",
+    "hunt": 77.1,
+    "persistence": 3,
+    "p15": 1.53,
+    "vr": 1.04,
+    "va": 10.0,
     "buy": 100,
     "bs": 5.0,
     "breakout": false,
