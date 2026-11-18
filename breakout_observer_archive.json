@@ -40155,5 +40155,30 @@
     "levels": [],
     "failed_time": 1794738408622,
     "failed_price": 7067.0
+  },
+  {
+    "symbol": "POLIRT",
+    "anchor_time": 1794894148306,
+    "anchor_price": 22118.0,
+    "status": "FAILED",
+    "created_time": 1794894148306,
+    "last_time": 1795007010782,
+    "last_price": 21999.0,
+    "max_gain_pct": 1.2252,
+    "levels": [],
+    "failed_time": 1794907795594,
+    "failed_price": 21438.0
+  },
+  {
+    "symbol": "LTCIRT",
+    "anchor_time": 1794940202242,
+    "anchor_price": 12030630.0,
+    "status": "EXPIRED",
+    "created_time": 1794940202242,
+    "last_time": 1795007648905,
+    "last_price": 11870762.0,
+    "max_gain_pct": 0.4961,
+    "levels": [],
+    "expired_time": 1794985945203
   }
 ]

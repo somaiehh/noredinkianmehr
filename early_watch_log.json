@@ -71939,7 +71939,10 @@
       "max_up": 5.2,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 31.48,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -72132,6 +72135,47 @@
       "max_up": -2.86,
       "max_down": -3.46
     },
+    "result_1h": {
+      "max_up": -2.86,
+      "max_down": -5.25
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "INJIRT",
+    "time": 1795007837449,
+    "price": 1977460.0,
+    "level": "WATCH",
+    "hunt": 47.5,
+    "persistence": 1,
+    "p15": 1.38,
+    "vr": 0.08,
+    "va": 6.9,
+    "buy": 56.666666666666664,
+    "bs": 1.7,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1795007837449,
+    "price": 9395.0,
+    "level": "WATCH",
+    "hunt": 44.7,
+    "persistence": 1,
+    "p15": 0.21,
+    "vr": 0.0,
+    "va": 6.01,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
