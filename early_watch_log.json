@@ -71598,7 +71598,10 @@
       "max_up": 0.77,
       "max_down": -1.86
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.77,
+      "max_down": -1.86
+    }
   },
   {
     "symbol": "MMTIRT",
