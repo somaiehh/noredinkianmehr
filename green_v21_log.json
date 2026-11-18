@@ -17130,5 +17130,43 @@
       "max_up": 2.37,
       "max_down": -2.7
     }
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1794970716773,
+    "price": 65654.0,
+    "pre30": 5.94,
+    "pre60": 5.94,
+    "pre120": 5.94,
+    "hunt": 90.5,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 14.666666666666666,
+    "bs": 0.44,
+    "ob": 1.0,
+    "p15": 1.01,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1794970927648,
+    "price": 65512.0,
+    "pre30": 0.79,
+    "pre60": 5.72,
+    "pre120": 5.72,
+    "hunt": 88.2,
+    "persistence": 3,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 13.0,
+    "bs": 0.39,
+    "ob": 0.97,
+    "p15": 0.79,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
