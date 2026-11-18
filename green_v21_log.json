@@ -17241,7 +17241,10 @@
     "ob": 1.0,
     "p15": 0.49,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.06,
+      "max_down": -1.09
+    },
     "result_4h": null
   },
   {
@@ -17260,7 +17263,10 @@
     "ob": 1.0,
     "p15": 0.55,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.15,
+      "max_down": -1.16
+    },
     "result_4h": null
   }
 ]
