@@ -40142,5 +40142,18 @@
     "levels": [],
     "failed_time": 1794939178411,
     "failed_price": 9680.0
+  },
+  {
+    "symbol": "SHELLIRT",
+    "anchor_time": 1794734872383,
+    "anchor_price": 7353.0,
+    "status": "FAILED",
+    "created_time": 1794734872383,
+    "last_time": 1795005017002,
+    "last_price": 7808.0,
+    "max_gain_pct": 22.5758,
+    "levels": [],
+    "failed_time": 1794738408622,
+    "failed_price": 7067.0
   }
 ]
