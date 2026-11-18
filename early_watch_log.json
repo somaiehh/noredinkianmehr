@@ -71474,7 +71474,10 @@
       "max_up": 1.21,
       "max_down": -4.29
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.21,
+      "max_down": -4.81
+    }
   },
   {
     "symbol": "SUIIRT",
@@ -71502,7 +71505,10 @@
       "max_up": 0.37,
       "max_down": -3.71
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.37,
+      "max_down": -3.71
+    }
   },
   {
     "symbol": "HMSTRIRT",
@@ -71530,7 +71536,10 @@
       "max_up": 0.0,
       "max_down": -2.5
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -4.0
+    }
   },
   {
     "symbol": "QIRT",
