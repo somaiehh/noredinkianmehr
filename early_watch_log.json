@@ -71830,7 +71830,10 @@
       "max_up": 3.85,
       "max_down": -0.76
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 6.75,
+      "max_down": -0.76
+    },
     "result_12h": null
   },
   {
@@ -71998,6 +72001,25 @@
       "max_up": 2.72,
       "max_down": -0.08
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LIGHTIRT",
+    "time": 1794998811303,
+    "price": 68894.0,
+    "level": "STRONG",
+    "hunt": 53.5,
+    "persistence": 1,
+    "p15": 0.07,
+    "vr": 2.16,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
