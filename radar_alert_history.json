@@ -9784,5 +9784,18 @@
     "bs": 3.48,
     "breakout": true,
     "persistence": 6
+  },
+  {
+    "time": 1794996709120,
+    "symbol": "PIEVERSEIRT",
+    "price": 624895.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.66,
+    "vr": 8.83,
+    "va": 10.0,
+    "bs": 1.57,
+    "breakout": true,
+    "persistence": 2
   }
 ]
