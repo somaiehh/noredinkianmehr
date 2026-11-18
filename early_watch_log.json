@@ -71778,7 +71778,10 @@
       "max_up": 62.18,
       "max_down": -1.44
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 77.15,
+      "max_down": -1.44
+    }
   },
   {
     "symbol": "HUMAIRT",
@@ -72132,7 +72135,10 @@
       "max_up": 3.66,
       "max_down": -1.1
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.66,
+      "max_down": -3.3
+    },
     "result_12h": null
   },
   {
@@ -72250,6 +72256,25 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1795017419734,
+    "price": 9393.0,
+    "level": "STRONG",
+    "hunt": 70.8,
+    "persistence": 1,
+    "p15": 1.8,
+    "vr": 0.66,
+    "va": 4.5,
+    "buy": 100,
+    "bs": 4.59,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
