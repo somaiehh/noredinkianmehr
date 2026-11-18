@@ -40064,5 +40064,18 @@
     "levels": [],
     "failed_time": 1794928318416,
     "failed_price": 746.8
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1794918574882,
+    "anchor_price": 9108.0,
+    "status": "FAILED",
+    "created_time": 1794918574882,
+    "last_time": 1794995138427,
+    "last_price": 8992.0,
+    "max_gain_pct": 0.0439,
+    "levels": [],
+    "failed_time": 1794923172572,
+    "failed_price": 8729.0
   }
 ]
