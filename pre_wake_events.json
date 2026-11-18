@@ -14339,7 +14339,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 4.3235,
-    "min_move": -2.8582,
+    "min_move": -2.9649,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -14466,6 +14466,27 @@
     "result_move": -11.1,
     "max_move": 4.2735,
     "min_move": -11.1,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "BREVIRT",
+    "event_time": 1795013167385,
+    "event_price": 23909.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 31.4,
+    "p15": -1.79,
+    "vr": null,
+    "va": 10.0,
+    "ta": 4.33,
+    "bs": 2.19,
+    "book": 0.83,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
