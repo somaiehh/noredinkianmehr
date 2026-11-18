@@ -9797,5 +9797,18 @@
     "bs": 1.57,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1795015658347,
+    "symbol": "FUNTOKENIRT",
+    "price": 633.9,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 2.68,
+    "vr": 14.77,
+    "va": 5.79,
+    "bs": 0.67,
+    "breakout": false,
+    "persistence": 3
   }
 ]
