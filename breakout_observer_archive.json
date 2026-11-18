@@ -40206,5 +40206,18 @@
     "levels": [],
     "failed_time": 1794916664794,
     "failed_price": 2279.0
+  },
+  {
+    "symbol": "SOONIRT",
+    "anchor_time": 1790954252172,
+    "anchor_price": 101503.0,
+    "status": "FAILED",
+    "created_time": 1790954252172,
+    "last_time": 1795017587390,
+    "last_price": 71615.0,
+    "max_gain_pct": 1.2591,
+    "levels": [],
+    "failed_time": 1790966816252,
+    "failed_price": 96209.0
   }
 ]

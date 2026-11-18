@@ -72234,7 +72234,10 @@
       "max_up": -0.98,
       "max_down": -0.98
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.27,
+      "max_down": -2.13
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -72272,6 +72275,28 @@
     "va": 4.5,
     "buy": 100,
     "bs": 4.59,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.07,
+      "max_down": 0.07
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "INJIRT",
+    "time": 1795018322385,
+    "price": 1889188.0,
+    "level": "STRONG",
+    "hunt": 53.7,
+    "persistence": 1,
+    "p15": 0.74,
+    "vr": 0.0,
+    "va": 7.4,
+    "buy": 100,
+    "bs": 3.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
