@@ -72981,7 +72981,10 @@
       "max_up": 0.69,
       "max_down": -1.91
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.69,
+      "max_down": -1.91
+    }
   },
   {
     "symbol": "HUMAIRT",
@@ -73009,7 +73012,10 @@
       "max_up": 12.91,
       "max_down": -0.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 12.91,
+      "max_down": -0.82
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -73574,7 +73580,10 @@
       "max_up": 1.33,
       "max_down": -0.67
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.33,
+      "max_down": -3.33
+    },
     "result_4h": null,
     "result_12h": null
   }
