@@ -19063,7 +19063,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 0.2809,
+    "max_move": 0.3344,
     "min_move": -0.1059,
     "ledger_version": "wake-ledger-v1"
   },
@@ -19086,6 +19086,27 @@
     "result_move": null,
     "max_move": 0.7105,
     "min_move": -0.5105,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "GALAIRT",
+    "event_time": 1795109293898,
+    "event_price": 360.9,
+    "anchor_time": 1795108665318,
+    "anchor_price": 360.4,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1818,
+    "tm_e15_e1": 0.1818,
+    "tm_e1_e4": 0.4783,
+    "tm_g15": 1.0,
+    "tm_g1": 1.2222,
+    "tm_g4": 1.0952,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.665,
+    "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }
 ]
