@@ -73370,7 +73370,10 @@
       "max_up": 0.0,
       "max_down": -3.11
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.12,
+      "max_down": -3.11
+    },
     "result_12h": null
   },
   {
@@ -73441,6 +73444,25 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SKYIRT",
+    "time": 1795118495145,
+    "price": 12559.0,
+    "level": "STRONG",
+    "hunt": 51.9,
+    "persistence": 1,
+    "p15": 0.47,
+    "vr": 0.08,
+    "va": 4.39,
+    "buy": 100,
+    "bs": 4.25,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
