@@ -4710,6 +4710,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "SKYIRT": {
+      "trigger_time": 1795110424280,
+      "trigger_price": 10900.0,
+      "secondary_score": 75.0,
+      "hunt_score": 60.4,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
