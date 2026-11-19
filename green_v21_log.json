@@ -17649,5 +17649,24 @@
       "max_down": -1.28
     },
     "result_4h": null
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "time": 1795106676554,
+    "price": 577.6,
+    "pre30": 1.18,
+    "pre60": 2.46,
+    "pre120": 4.58,
+    "hunt": 100.0,
+    "persistence": 3,
+    "vr": 6.56,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.71,
+    "ob": 0.25,
+    "p15": 0.92,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
