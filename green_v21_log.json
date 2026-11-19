@@ -17676,6 +17676,28 @@
       "max_up": 0.18,
       "max_down": -1.43
     },
+    "result_4h": {
+      "max_up": 0.18,
+      "max_down": -1.95
+    }
+  },
+  {
+    "symbol": "BILLIRT",
+    "time": 1795121210891,
+    "price": 1258.0,
+    "pre30": -0.47,
+    "pre60": -1.41,
+    "pre120": 1.86,
+    "hunt": 74.3,
+    "persistence": 2,
+    "vr": 2.26,
+    "va": 3.65,
+    "buy": 22.0,
+    "bs": 0.66,
+    "ob": 1.0,
+    "p15": 1.04,
+    "breakout": false,
+    "result_1h": null,
     "result_4h": null
   }
 ]
