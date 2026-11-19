@@ -14590,8 +14590,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.0138,
+    "max_move": 2.1652,
     "min_move": -1.763,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "HIRT",
+    "event_time": 1795084028595,
+    "event_price": 4472.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 49.2,
+    "p15": -1.71,
+    "vr": null,
+    "va": 9.73,
+    "ta": 1.64,
+    "bs": 3.94,
+    "book": 0.68,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -2.7504,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
