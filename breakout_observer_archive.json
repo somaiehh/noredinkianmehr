@@ -40958,5 +40958,18 @@
     "confirmed_time": 1795095300441,
     "confirmed_price": 9500.0,
     "expired_time": 1795119139515
+  },
+  {
+    "symbol": "SOPHIRT",
+    "anchor_time": 1795077166371,
+    "anchor_price": 285.0,
+    "status": "FAILED",
+    "created_time": 1795077166371,
+    "last_time": 1795121210891,
+    "last_price": 271.0,
+    "max_gain_pct": 3.1579,
+    "levels": [],
+    "failed_time": 1795080399496,
+    "failed_price": 276.0
   }
 ]
