@@ -40913,5 +40913,50 @@
       }
     ],
     "expired_time": 1790975199190
+  },
+  {
+    "symbol": "RAREIRT",
+    "anchor_time": 1794865017549,
+    "anchor_price": 3862.0,
+    "status": "EXPIRED",
+    "created_time": 1794865017549,
+    "last_time": 1795119353619,
+    "last_price": 3559.0,
+    "max_gain_pct": 13.6717,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1794866278456,
+    "confirmed_price": 3998.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794889626849,
+        "price": 4091.0,
+        "gain_pct": 5.9296
+      },
+      {
+        "level": 10,
+        "time": 1794898590189,
+        "price": 4390.0,
+        "gain_pct": 13.6717
+      }
+    ],
+    "expired_time": 1794908531355
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1795075361202,
+    "anchor_price": 9155.0,
+    "status": "EXPIRED",
+    "created_time": 1795075361202,
+    "last_time": 1795119353619,
+    "last_price": 9200.0,
+    "max_gain_pct": 3.7684,
+    "levels": [],
+    "confirmed_time": 1795095300441,
+    "confirmed_price": 9500.0,
+    "expired_time": 1795119139515
   }
 ]
