@@ -40428,5 +40428,31 @@
     "levels": [],
     "failed_time": 1795005717951,
     "failed_price": 8743.0
+  },
+  {
+    "symbol": "EPICIRT",
+    "anchor_time": 1794853596486,
+    "anchor_price": 19856.0,
+    "status": "FAILED",
+    "created_time": 1794853596486,
+    "last_time": 1795075604664,
+    "last_price": 19565.0,
+    "max_gain_pct": 0.554,
+    "levels": [],
+    "failed_time": 1794888716092,
+    "failed_price": 18687.0
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1794986814215,
+    "anchor_price": 322.0,
+    "status": "FAILED",
+    "created_time": 1794986814215,
+    "last_time": 1795075604664,
+    "last_price": 332.0,
+    "max_gain_pct": 3.1056,
+    "levels": [],
+    "failed_time": 1794998586973,
+    "failed_price": 312.0
   }
 ]

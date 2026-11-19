@@ -72744,5 +72744,43 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "NAKAIRT",
+    "time": 1795075908273,
+    "price": 23750.0,
+    "level": "STRONG",
+    "hunt": 71.8,
+    "persistence": 3,
+    "p15": 1.06,
+    "vr": 0.76,
+    "va": 2.38,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1795076093288,
+    "price": 9324.0,
+    "level": "STRONG",
+    "hunt": 84.0,
+    "persistence": 2,
+    "p15": 1.4,
+    "vr": 8.73,
+    "va": 9.58,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
