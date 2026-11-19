@@ -40682,5 +40682,50 @@
     "max_gain_pct": 1.275,
     "levels": [],
     "expired_time": 1794515606749
+  },
+  {
+    "symbol": "HUMAIRT",
+    "anchor_time": 1795015652367,
+    "anchor_price": 2065.0,
+    "status": "EXPIRED",
+    "created_time": 1795015652367,
+    "last_time": 1795093314875,
+    "last_price": 2240.0,
+    "max_gain_pct": 19.1768,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1795018322385,
+    "confirmed_price": 2321.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795018322385,
+        "price": 2321.0,
+        "gain_pct": 12.3971
+      },
+      {
+        "level": 10,
+        "time": 1795018322385,
+        "price": 2321.0,
+        "gain_pct": 12.3971
+      }
+    ],
+    "expired_time": 1795062887009
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1795045080218,
+    "anchor_price": 9399.0,
+    "status": "EXPIRED",
+    "created_time": 1795045080218,
+    "last_time": 1795093969549,
+    "last_price": 9824.0,
+    "max_gain_pct": 4.5218,
+    "levels": [],
+    "confirmed_time": 1795087843809,
+    "confirmed_price": 9807.0,
+    "expired_time": 1795089092058
   }
 ]

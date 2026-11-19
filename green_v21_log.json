@@ -17551,7 +17551,10 @@
       "max_up": -0.05,
       "max_down": -0.41
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.66,
+      "max_down": -0.89
+    }
   },
   {
     "symbol": "KGENIRT",

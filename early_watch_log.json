@@ -72897,7 +72897,10 @@
       "max_up": -0.05,
       "max_down": -0.41
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.66,
+      "max_down": -0.89
+    },
     "result_12h": null
   },
   {
@@ -73033,7 +73036,10 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -2.51
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -73052,7 +73058,10 @@
     "bs": 1.86,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 2.47,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -73070,6 +73079,28 @@
     "buy": 89.0,
     "bs": 2.67,
     "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1795094560586,
+    "price": 9905.0,
+    "level": "STRONG",
+    "hunt": 100.0,
+    "persistence": 2,
+    "p15": 1.12,
+    "vr": 0.99,
+    "va": 5.6,
+    "buy": 51.66666666666667,
+    "bs": 1.55,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
