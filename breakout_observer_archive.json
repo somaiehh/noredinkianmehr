@@ -40494,5 +40494,31 @@
     "levels": [],
     "failed_time": 1794490951279,
     "failed_price": 22996.0
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1794963007139,
+    "anchor_price": 264009848.0,
+    "status": "FAILED",
+    "created_time": 1794963007139,
+    "last_time": 1795078633167,
+    "last_price": 255009665.0,
+    "max_gain_pct": 1.2496,
+    "levels": [],
+    "failed_time": 1794994268188,
+    "failed_price": 254879610.0
+  },
+  {
+    "symbol": "VELVETIRT",
+    "anchor_time": 1794997634732,
+    "anchor_price": 15900.0,
+    "status": "FAILED",
+    "created_time": 1794997634732,
+    "last_time": 1795078633167,
+    "last_price": 20136.0,
+    "max_gain_pct": 27.044,
+    "levels": [],
+    "failed_time": 1795003636849,
+    "failed_price": 15338.0
   }
 ]
