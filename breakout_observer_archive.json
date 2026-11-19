@@ -40645,5 +40645,30 @@
       }
     ],
     "expired_time": 1794720468534
+  },
+  {
+    "symbol": "DOGSIRT",
+    "anchor_time": 1794916664794,
+    "anchor_price": 7.1,
+    "status": "EXPIRED",
+    "created_time": 1794916664794,
+    "last_time": 1795089300359,
+    "last_price": 7.3,
+    "max_gain_pct": 3.3803,
+    "levels": [],
+    "expired_time": 1794963007139
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1794991491794,
+    "anchor_price": 65.7,
+    "status": "FAILED",
+    "created_time": 1794991491794,
+    "last_time": 1795089300359,
+    "last_price": 63.0,
+    "max_gain_pct": 0.761,
+    "levels": [],
+    "failed_time": 1794997634732,
+    "failed_price": 63.7
   }
 ]
