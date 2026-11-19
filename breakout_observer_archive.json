@@ -40971,5 +40971,29 @@
     "levels": [],
     "failed_time": 1795080399496,
     "failed_price": 276.0
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1795076965447,
+    "anchor_price": 73000.0,
+    "status": "EXPIRED",
+    "created_time": 1795076965447,
+    "last_time": 1795124039811,
+    "last_price": 69492.0,
+    "max_gain_pct": 6.0507,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795082522160,
+    "confirmed_price": 77417.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795082522160,
+        "price": 77417.0,
+        "gain_pct": 6.0507
+      }
+    ],
+    "expired_time": 1795120185580
   }
 ]
