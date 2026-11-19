@@ -17562,5 +17562,24 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "HUMAIRT",
+    "time": 1795086028300,
+    "price": 2210.0,
+    "pre30": -1.12,
+    "pre60": -0.05,
+    "pre120": -0.41,
+    "hunt": 75.3,
+    "persistence": 2,
+    "vr": 1.54,
+    "va": 7.1,
+    "buy": 58.666666666666664,
+    "bs": 1.76,
+    "ob": 0.67,
+    "p15": 0.32,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
