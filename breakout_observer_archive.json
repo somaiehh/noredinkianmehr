@@ -40809,5 +40809,29 @@
     "levels": [],
     "failed_time": 1794930343873,
     "failed_price": 19.0
+  },
+  {
+    "symbol": "DEXEIRT",
+    "anchor_time": 1794504818716,
+    "anchor_price": 330000.0,
+    "status": "EXPIRED",
+    "created_time": 1794504818716,
+    "last_time": 1795101345992,
+    "last_price": 330000.0,
+    "max_gain_pct": 5.4545,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794522364468,
+    "confirmed_price": 340001.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794533512615,
+        "price": 348000.0,
+        "gain_pct": 5.4545
+      }
+    ],
+    "expired_time": 1794555269461
   }
 ]
