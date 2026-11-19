@@ -17651,7 +17651,10 @@
       "max_up": 1.53,
       "max_down": -1.28
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.27,
+      "max_down": -5.45
+    }
   },
   {
     "symbol": "FUNTOKENIRT",
