@@ -10018,5 +10018,18 @@
     "bs": 0.43,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1795098658760,
+    "symbol": "PUFFERIRT",
+    "price": 7136.0,
+    "hunt_score": 89.0,
+    "status": "EARLY",
+    "p15": 1.94,
+    "vr": 2.97,
+    "va": 2.0,
+    "bs": 1.83,
+    "breakout": true,
+    "persistence": 2
   }
 ]
