@@ -17526,7 +17526,10 @@
       "max_up": 4.89,
       "max_down": 1.46
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 4.89,
+      "max_down": -1.72
+    }
   },
   {
     "symbol": "ZECIRT",
@@ -17592,6 +17595,25 @@
       "max_up": 0.41,
       "max_down": -0.9
     },
+    "result_4h": null
+  },
+  {
+    "symbol": "CAPIRT",
+    "time": 1795093075964,
+    "price": 26107.7,
+    "pre30": 4.77,
+    "pre60": 4.31,
+    "pre120": 8.06,
+    "hunt": 100.0,
+    "persistence": 2,
+    "vr": 3.3,
+    "va": 10.0,
+    "buy": 62.0,
+    "bs": 1.86,
+    "ob": 0.11,
+    "p15": 1.37,
+    "breakout": true,
+    "result_1h": null,
     "result_4h": null
   }
 ]
