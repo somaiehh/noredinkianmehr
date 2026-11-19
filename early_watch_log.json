@@ -72733,7 +72733,10 @@
       "max_up": 8.61,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.11,
+      "max_down": -0.37
+    }
   },
   {
     "symbol": "INITIRT",
@@ -72761,7 +72764,10 @@
       "max_up": 3.8,
       "max_down": -10.08
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.8,
+      "max_down": -17.9
+    }
   },
   {
     "symbol": "NAKAIRT",
@@ -72789,7 +72795,10 @@
       "max_up": 7.91,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.91,
+      "max_down": -5.99
+    }
   },
   {
     "symbol": "LABIRT",
@@ -72817,7 +72826,10 @@
       "max_up": 5.18,
       "max_down": 0.9
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.23,
+      "max_down": 0.04
+    }
   },
   {
     "symbol": "UAIIRT",
