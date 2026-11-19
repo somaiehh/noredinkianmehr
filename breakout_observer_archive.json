@@ -40454,5 +40454,32 @@
     "levels": [],
     "failed_time": 1794998586973,
     "failed_price": 312.0
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1795029411023,
+    "anchor_price": 66400.0,
+    "status": "FAILED",
+    "created_time": 1795029411023,
+    "last_time": 1795076093288,
+    "last_price": 72300.0,
+    "max_gain_pct": 8.8855,
+    "levels": [],
+    "failed_time": 1795044864461,
+    "failed_price": 63555.0
+  },
+  {
+    "symbol": "SOPHIRT",
+    "anchor_time": 1795030146373,
+    "anchor_price": 280.0,
+    "status": "EXPIRED",
+    "created_time": 1795030146373,
+    "last_time": 1795076965447,
+    "last_price": 270.0,
+    "max_gain_pct": 3.2143,
+    "levels": [],
+    "confirmed_time": 1795031183542,
+    "confirmed_price": 289.0,
+    "expired_time": 1795073392508
   }
 ]
