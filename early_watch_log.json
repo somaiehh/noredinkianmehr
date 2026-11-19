@@ -72454,7 +72454,10 @@
       "max_up": 0.49,
       "max_down": -3.03
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.49,
+      "max_down": -3.03
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -72482,7 +72485,10 @@
       "max_up": 1.7,
       "max_down": -2.07
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.86,
+      "max_down": -2.07
+    }
   },
   {
     "symbol": "SIRT",
@@ -72510,7 +72516,10 @@
       "max_up": 0.0,
       "max_down": -1.91
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -2.54
+    }
   },
   {
     "symbol": "TACIRT",
