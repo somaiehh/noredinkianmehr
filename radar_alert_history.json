@@ -9927,5 +9927,18 @@
     "bs": 0.01,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1795083382601,
+    "symbol": "KGENIRT",
+    "price": 23171.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.02,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 3
   }
 ]

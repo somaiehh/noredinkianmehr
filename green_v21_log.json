@@ -17538,6 +17538,28 @@
     "ob": 0.06,
     "p15": 0.35,
     "breakout": true,
+    "result_1h": {
+      "max_up": -0.05,
+      "max_down": -0.41
+    },
+    "result_4h": null
+  },
+  {
+    "symbol": "KGENIRT",
+    "time": 1795083377538,
+    "price": 23171.0,
+    "pre30": 0.74,
+    "pre60": 2.79,
+    "pre120": 7.11,
+    "hunt": 100.0,
+    "persistence": 3,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.0,
+    "p15": 1.02,
+    "breakout": true,
     "result_1h": null,
     "result_4h": null
   }
