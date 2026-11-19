@@ -40520,5 +40520,18 @@
     "levels": [],
     "failed_time": 1795003636849,
     "failed_price": 15338.0
+  },
+  {
+    "symbol": "MMTIRT",
+    "anchor_time": 1794979627885,
+    "anchor_price": 48519.0,
+    "status": "FAILED",
+    "created_time": 1794979627885,
+    "last_time": 1795078836728,
+    "last_price": 53391.0,
+    "max_gain_pct": 53.7872,
+    "levels": [],
+    "failed_time": 1794980545646,
+    "failed_price": 43944.0
   }
 ]
