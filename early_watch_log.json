@@ -72640,7 +72640,10 @@
       "max_up": 0.63,
       "max_down": -0.42
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.82,
+      "max_down": -2.18
+    }
   },
   {
     "symbol": "HIRT",
@@ -72668,7 +72671,10 @@
       "max_up": 0.0,
       "max_down": -2.39
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -2.39
+    }
   },
   {
     "symbol": "SOPHIRT",

@@ -9836,5 +9836,31 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1795071478023,
+    "symbol": "PUMPIRT",
+    "price": 728.5,
+    "hunt_score": 81.4,
+    "status": "EARLY",
+    "p15": 0.5,
+    "vr": 10.93,
+    "va": 10.0,
+    "bs": 0.01,
+    "breakout": false,
+    "persistence": 3
+  },
+  {
+    "time": 1795071664412,
+    "symbol": "PUMPIRT",
+    "price": 728.5,
+    "hunt_score": 81.3,
+    "status": "EARLY",
+    "p15": 0.5,
+    "vr": 10.93,
+    "va": 10.0,
+    "bs": 0.01,
+    "breakout": false,
+    "persistence": 4
   }
 ]
