@@ -72706,5 +72706,43 @@
       "max_up": 3.21,
       "max_down": -5.0
     }
+  },
+  {
+    "symbol": "SOPHIRT",
+    "time": 1795075361202,
+    "price": 267.0,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 1,
+    "p15": 1.14,
+    "vr": 0.06,
+    "va": 3.39,
+    "buy": 85.66666666666666,
+    "bs": 2.57,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "INITIRT",
+    "time": 1795075604664,
+    "price": 30184.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 0.61,
+    "vr": 4.79,
+    "va": 4.64,
+    "buy": 100,
+    "bs": 3.36,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
