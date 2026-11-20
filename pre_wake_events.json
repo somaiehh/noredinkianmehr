@@ -14738,7 +14738,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 2.3597,
-    "min_move": -2.9034,
+    "min_move": -3.2188,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -14844,6 +14844,27 @@
     "result_move": -5.2104,
     "max_move": 0.0,
     "min_move": -5.2104,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "RAREIRT",
+    "event_time": 1795203754341,
+    "event_price": 4328.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 50.3,
+    "p15": -1.64,
+    "vr": null,
+    "va": 3.22,
+    "ta": 0.99,
+    "bs": 5.0,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -4.3438,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]

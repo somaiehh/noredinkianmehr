@@ -41508,5 +41508,30 @@
       }
     ],
     "expired_time": 1795163515834
+  },
+  {
+    "symbol": "FTTIRT",
+    "anchor_time": 1791911852044,
+    "anchor_price": 68881.0,
+    "status": "EXPIRED",
+    "created_time": 1791911852044,
+    "last_time": 1795203754341,
+    "last_price": 45476.0,
+    "max_gain_pct": 3.1126,
+    "levels": [],
+    "expired_time": 1791958123173
+  },
+  {
+    "symbol": "BARDIRT",
+    "anchor_time": 1794558400081,
+    "anchor_price": 40166.0,
+    "status": "FAILED",
+    "created_time": 1794558400081,
+    "last_time": 1795203754341,
+    "last_price": 24158.0,
+    "max_gain_pct": 19.753,
+    "levels": [],
+    "failed_time": 1794559318366,
+    "failed_price": 38149.0
   }
 ]

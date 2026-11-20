@@ -73747,7 +73747,10 @@
       "max_up": 1.1,
       "max_down": -2.24
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.1,
+      "max_down": -10.95
+    }
   },
   {
     "symbol": "HMSTRIRT",
@@ -74307,6 +74310,63 @@
       "max_up": 1.05,
       "max_down": -0.42
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LINKIRT",
+    "time": 1795203754341,
+    "price": 2300690.0,
+    "level": "STRONG",
+    "hunt": 52.1,
+    "persistence": 1,
+    "p15": 0.65,
+    "vr": 0.01,
+    "va": 4.33,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FLOKIIRT",
+    "time": 1795203961458,
+    "price": 4.40033,
+    "level": "STRONG",
+    "hunt": 60.2,
+    "persistence": 1,
+    "p15": 0.55,
+    "vr": 7.81,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PUMPIRT",
+    "time": 1795203961458,
+    "price": 664.7,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 2,
+    "p15": 1.2,
+    "vr": 0.22,
+    "va": 2.95,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
