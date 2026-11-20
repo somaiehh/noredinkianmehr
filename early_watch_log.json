@@ -73598,7 +73598,10 @@
       "max_up": 1.58,
       "max_down": -2.26
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.58,
+      "max_down": -5.75
+    }
   },
   {
     "symbol": "RAREIRT",
@@ -73721,6 +73724,25 @@
       "max_up": 0.0,
       "max_down": -0.52
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "time": 1795163710893,
+    "price": 39.8,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.02,
+    "vr": 7.7,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
