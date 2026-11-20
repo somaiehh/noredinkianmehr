@@ -73846,7 +73846,10 @@
       "max_up": 1.09,
       "max_down": -0.36
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.36,
+      "max_down": -0.73
+    },
     "result_12h": null
   },
   {
@@ -73967,7 +73970,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -3.2
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -73989,7 +73995,10 @@
       "max_up": -0.28,
       "max_down": -1.11
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.67,
+      "max_down": -1.11
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -74011,6 +74020,25 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FOGOIRT",
+    "time": 1795186842256,
+    "price": 448.0,
+    "level": "STRONG",
+    "hunt": 63.8,
+    "persistence": 1,
+    "p15": 0.9,
+    "vr": 1.0,
+    "va": 0.02,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
