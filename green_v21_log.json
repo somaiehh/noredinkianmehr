@@ -17801,7 +17801,10 @@
       "max_up": 1.22,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.8,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "HMSTRIRT",
@@ -17823,7 +17826,10 @@
       "max_up": 6.22,
       "max_down": -5.74
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 6.22,
+      "max_down": -5.74
+    }
   },
   {
     "symbol": "INITIRT",

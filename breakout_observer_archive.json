@@ -41324,5 +41324,18 @@
     "max_gain_pct": 1.8182,
     "levels": [],
     "expired_time": 1795166903187
+  },
+  {
+    "symbol": "KERNELIRT",
+    "anchor_time": 1790775107101,
+    "anchor_price": 14330.0,
+    "status": "FAILED",
+    "created_time": 1790775107101,
+    "last_time": 1795180738868,
+    "last_price": 16800.0,
+    "max_gain_pct": 17.2366,
+    "levels": [],
+    "failed_time": 1790796834623,
+    "failed_price": 13865.0
   }
 ]
