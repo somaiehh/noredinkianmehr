@@ -73040,7 +73040,10 @@
       "max_up": 2.47,
       "max_down": -4.81
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.47,
+      "max_down": -8.24
+    }
   },
   {
     "symbol": "VELVETIRT",
@@ -73512,7 +73515,10 @@
       "max_up": 2.71,
       "max_down": -0.88
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.73,
+      "max_down": -0.88
+    },
     "result_12h": null
   },
   {
