@@ -17768,5 +17768,43 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "time": 1795166903187,
+    "price": 1.045,
+    "pre30": 0.11,
+    "pre60": 0.02,
+    "pre120": 1.99,
+    "hunt": 60.1,
+    "persistence": 7,
+    "vr": 1.52,
+    "va": 2.39,
+    "buy": 96.33333333333334,
+    "bs": 2.89,
+    "ob": 0.75,
+    "p15": 0.11,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "time": 1795167133645,
+    "price": 41.8,
+    "pre30": 6.63,
+    "pre60": 4.5,
+    "pre120": 11.47,
+    "hunt": 79.2,
+    "persistence": 3,
+    "vr": 6.74,
+    "va": 3.97,
+    "buy": 52.0,
+    "bs": 1.56,
+    "ob": 1.0,
+    "p15": 1.21,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
