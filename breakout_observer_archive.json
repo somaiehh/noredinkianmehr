@@ -41408,5 +41408,18 @@
     "confirmed_time": 1795096644828,
     "confirmed_price": 9650.0,
     "expired_time": 1795129085828
+  },
+  {
+    "symbol": "BLURIRT",
+    "anchor_time": 1793355117890,
+    "anchor_price": 2420.0,
+    "status": "FAILED",
+    "created_time": 1793355117890,
+    "last_time": 1795191198409,
+    "last_price": 1999.0,
+    "max_gain_pct": 13.7603,
+    "levels": [],
+    "failed_time": 1793358572416,
+    "failed_price": 2303.0
   }
 ]
