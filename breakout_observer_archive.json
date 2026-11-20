@@ -41471,5 +41471,18 @@
     "max_gain_pct": 2.6938,
     "levels": [],
     "expired_time": 1795112986747
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1794927424321,
+    "anchor_price": 29500.0,
+    "status": "FAILED",
+    "created_time": 1794927424321,
+    "last_time": 1795201201471,
+    "last_price": 31441.0,
+    "max_gain_pct": 6.5797,
+    "levels": [],
+    "failed_time": 1794932801932,
+    "failed_price": 28352.0
   }
 ]
