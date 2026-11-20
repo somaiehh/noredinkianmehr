@@ -17976,7 +17976,10 @@
       "max_up": 3.34,
       "max_down": -0.56
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.34,
+      "max_down": -3.62
+    }
   },
   {
     "symbol": "RAREIRT",
