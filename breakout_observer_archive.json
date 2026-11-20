@@ -41045,5 +41045,43 @@
       }
     ],
     "expired_time": 1795122796746
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1795023271764,
+    "anchor_price": 6815.6,
+    "status": "FAILED",
+    "created_time": 1795023271764,
+    "last_time": 1795154463981,
+    "last_price": 6634.6,
+    "max_gain_pct": 4.8154,
+    "levels": [],
+    "failed_time": 1795044864461,
+    "failed_price": 6575.5
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1795075908273,
+    "anchor_price": 333.0,
+    "status": "FAILED",
+    "created_time": 1795075908273,
+    "last_time": 1795154463981,
+    "last_price": 355.0,
+    "max_gain_pct": 6.6066,
+    "levels": [],
+    "failed_time": 1795092139750,
+    "failed_price": 323.0
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1795109293898,
+    "anchor_price": 278998.0,
+    "status": "EXPIRED",
+    "created_time": 1795109293898,
+    "last_time": 1795154463981,
+    "last_price": 277902.0,
+    "max_gain_pct": 1.0878,
+    "levels": [],
+    "expired_time": 1795152582413
   }
 ]
