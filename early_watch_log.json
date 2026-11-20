@@ -73071,7 +73071,10 @@
       "max_up": 8.91,
       "max_down": 1.2
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.91,
+      "max_down": -8.41
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -73543,7 +73546,10 @@
       "max_up": -1.39,
       "max_down": -2.26
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.58,
+      "max_down": -2.26
+    },
     "result_12h": null
   },
   {
