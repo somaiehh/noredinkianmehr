@@ -10122,5 +10122,18 @@
     "bs": 0.17,
     "breakout": true,
     "persistence": 4
+  },
+  {
+    "time": 1795168694627,
+    "symbol": "HMSTRIRT",
+    "price": 43.9,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.57,
+    "vr": 3.18,
+    "va": 1.8,
+    "bs": 0.79,
+    "breakout": true,
+    "persistence": 6
   }
 ]
