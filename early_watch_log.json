@@ -73660,7 +73660,10 @@
       "max_up": 20.0,
       "max_down": -3.33
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 20.0,
+      "max_down": -6.0
+    }
   },
   {
     "symbol": "DYMIRT",
@@ -73752,7 +73755,10 @@
       "max_up": -0.75,
       "max_down": -1.51
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 5.53,
+      "max_down": -1.51
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -73770,7 +73776,10 @@
     "bs": 2.89,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
