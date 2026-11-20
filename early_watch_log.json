@@ -73257,7 +73257,10 @@
       "max_up": 2.27,
       "max_down": -5.45
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.27,
+      "max_down": -5.45
+    }
   },
   {
     "symbol": "LUNCIRT",
@@ -73285,7 +73288,10 @@
       "max_up": 1.02,
       "max_down": -2.52
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.69,
+      "max_down": -2.52
+    }
   },
   {
     "symbol": "PUFFERIRT",
@@ -73313,7 +73319,10 @@
       "max_up": 8.89,
       "max_down": -9.43
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.89,
+      "max_down": -9.43
+    }
   },
   {
     "symbol": "APUIRT",
