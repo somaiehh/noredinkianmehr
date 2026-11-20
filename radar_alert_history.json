@@ -10135,5 +10135,18 @@
     "bs": 0.79,
     "breakout": true,
     "persistence": 6
+  },
+  {
+    "time": 1795170656179,
+    "symbol": "INITIRT",
+    "price": 25920.0,
+    "hunt_score": 85.6,
+    "status": "EARLY",
+    "p15": 0.31,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 0.52,
+    "breakout": true,
+    "persistence": 2
   }
 ]
