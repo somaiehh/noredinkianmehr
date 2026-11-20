@@ -41114,5 +41114,30 @@
       }
     ],
     "expired_time": 1795119139515
+  },
+  {
+    "symbol": "XAUTIRT",
+    "anchor_time": 1792481921281,
+    "anchor_price": 1058500000.0,
+    "status": "EXPIRED",
+    "created_time": 1792481921281,
+    "last_time": 1795161591376,
+    "last_price": 970620585.0,
+    "max_gain_pct": 5.2314,
+    "levels": [],
+    "expired_time": 1792560327933
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1795093075964,
+    "anchor_price": 7.209e-05,
+    "status": "FAILED",
+    "created_time": 1795093075964,
+    "last_time": 1795162377039,
+    "last_price": 6.943e-05,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1795096644828,
+    "failed_price": 6.973e-05
   }
 ]
