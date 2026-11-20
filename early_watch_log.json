@@ -73102,7 +73102,10 @@
       "max_up": 0.0,
       "max_down": -4.06
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -5.06
+    }
   },
   {
     "symbol": "CAPIRT",
@@ -73130,7 +73133,10 @@
       "max_up": 6.01,
       "max_down": -2.03
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.01,
+      "max_down": -2.03
+    }
   },
   {
     "symbol": "QIRT",
@@ -73158,7 +73164,10 @@
       "max_up": 2.31,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.31,
+      "max_down": -1.05
+    }
   },
   {
     "symbol": "LABIRT",
@@ -73186,7 +73195,10 @@
       "max_up": -0.45,
       "max_down": -5.83
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.45,
+      "max_down": -5.83
+    }
   },
   {
     "symbol": "HUMAIRT",
@@ -73214,7 +73226,10 @@
       "max_up": -1.08,
       "max_down": -10.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.3,
+      "max_down": -10.11
+    }
   },
   {
     "symbol": "HIRT",
