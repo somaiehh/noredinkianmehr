@@ -73381,7 +73381,10 @@
       "max_up": 0.88,
       "max_down": -1.76
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.47,
+      "max_down": -1.76
+    }
   },
   {
     "symbol": "FUNTOKENIRT",
@@ -73409,7 +73412,10 @@
       "max_up": 2.65,
       "max_down": 0.61
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.24,
+      "max_down": -0.02
+    }
   },
   {
     "symbol": "HUMAIRT",
@@ -73437,7 +73443,10 @@
       "max_up": 2.12,
       "max_down": -3.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 19.15,
+      "max_down": -3.11
+    }
   },
   {
     "symbol": "IRIRT",
