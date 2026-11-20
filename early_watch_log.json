@@ -73350,7 +73350,10 @@
       "max_up": -0.94,
       "max_down": -5.19
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.94,
+      "max_down": -5.66
+    }
   },
   {
     "symbol": "TACIRT",
@@ -73630,6 +73633,25 @@
       "max_up": 20.0,
       "max_down": -3.33
     },
+    "result_12h": null
+  },
+  {
+    "symbol": "DYMIRT",
+    "time": 1795145268524,
+    "price": 5000.0,
+    "level": "STRONG",
+    "hunt": 77.9,
+    "persistence": 1,
+    "p15": 0.83,
+    "vr": 1.0,
+    "va": 2.58,
+    "buy": 100,
+    "bs": 4.73,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
     "result_12h": null
   }
 ]
