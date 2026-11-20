@@ -17965,5 +17965,24 @@
       "max_down": -0.56
     },
     "result_4h": null
+  },
+  {
+    "symbol": "RAREIRT",
+    "time": 1795190872877,
+    "price": 3750.0,
+    "pre30": 5.9,
+    "pre60": 4.43,
+    "pre120": 12.58,
+    "hunt": 80.2,
+    "persistence": 2,
+    "vr": 1.3,
+    "va": 5.31,
+    "buy": 92.0,
+    "bs": 2.76,
+    "ob": 0.6,
+    "p15": 1.35,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
