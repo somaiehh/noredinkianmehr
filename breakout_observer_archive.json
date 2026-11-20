@@ -41337,5 +41337,62 @@
     "levels": [],
     "failed_time": 1790796834623,
     "failed_price": 13865.0
+  },
+  {
+    "symbol": "CYBERIRT",
+    "anchor_time": 1793978005915,
+    "anchor_price": 109391.0,
+    "status": "FAILED",
+    "created_time": 1793978005915,
+    "last_time": 1795183218776,
+    "last_price": 69845.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1793978193870,
+    "failed_price": 105012.0
+  },
+  {
+    "symbol": "HUMAIRT",
+    "anchor_time": 1795093969549,
+    "anchor_price": 2366.0,
+    "status": "EXPIRED",
+    "created_time": 1795093969549,
+    "last_time": 1795183218776,
+    "last_price": 2650.0,
+    "max_gain_pct": 16.4835,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1795095300441,
+    "confirmed_price": 2493.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795095300441,
+        "price": 2493.0,
+        "gain_pct": 5.3677
+      },
+      {
+        "level": 10,
+        "time": 1795134917573,
+        "price": 2622.0,
+        "gain_pct": 10.8199
+      }
+    ],
+    "expired_time": 1795138615158
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1795120185580,
+    "anchor_price": 9275.0,
+    "status": "FAILED",
+    "created_time": 1795120185580,
+    "last_time": 1795183218776,
+    "last_price": 8525.0,
+    "max_gain_pct": 1.3369,
+    "levels": [],
+    "failed_time": 1795142287639,
+    "failed_price": 8991.0
   }
 ]
