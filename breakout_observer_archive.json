@@ -41484,5 +41484,29 @@
     "levels": [],
     "failed_time": 1794932801932,
     "failed_price": 28352.0
+  },
+  {
+    "symbol": "RAREIRT",
+    "anchor_time": 1795120185580,
+    "anchor_price": 3800.0,
+    "status": "EXPIRED",
+    "created_time": 1795120185580,
+    "last_time": 1795202148287,
+    "last_price": 3414.0,
+    "max_gain_pct": 9.1842,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795120403989,
+    "confirmed_price": 4000.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795120403989,
+        "price": 4000.0,
+        "gain_pct": 5.2632
+      }
+    ],
+    "expired_time": 1795163515834
   }
 ]
