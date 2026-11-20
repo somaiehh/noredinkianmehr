@@ -18040,5 +18040,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "BLURIRT",
+    "time": 1795199502732,
+    "price": 2110.0,
+    "pre30": 1.78,
+    "pre60": 4.25,
+    "pre120": 6.03,
+    "hunt": 100.0,
+    "persistence": 2,
+    "vr": 9.37,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 1.3,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
