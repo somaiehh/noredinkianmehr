@@ -17876,7 +17876,10 @@
       "max_up": 0.0,
       "max_down": -3.2
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -8.74
+    }
   },
   {
     "symbol": "WENSOLIRT",
@@ -17898,7 +17901,10 @@
       "max_up": 0.0,
       "max_down": -3.2
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -8.74
+    }
   },
   {
     "symbol": "TACIRT",
@@ -17920,7 +17926,10 @@
       "max_up": 2.81,
       "max_down": 0.56
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 4.21,
+      "max_down": -2.81
+    }
   },
   {
     "symbol": "WENSOLIRT",
@@ -17942,7 +17951,10 @@
       "max_up": 0.0,
       "max_down": -3.2
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -8.74
+    }
   },
   {
     "symbol": "TACIRT",
@@ -18003,6 +18015,25 @@
     "bs": 5.0,
     "ob": 0.99,
     "p15": 0.69,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "time": 1795197633871,
+    "price": 40.6,
+    "pre30": 0.25,
+    "pre60": 2.01,
+    "pre120": -0.73,
+    "hunt": 68.9,
+    "persistence": 2,
+    "vr": 1.66,
+    "va": 10.0,
+    "buy": 48.666666666666664,
+    "bs": 1.46,
+    "ob": 1.0,
+    "p15": 0.5,
     "breakout": false,
     "result_1h": null,
     "result_4h": null
