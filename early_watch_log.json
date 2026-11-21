@@ -74673,7 +74673,10 @@
       "max_up": 2.93,
       "max_down": 2.93
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 5.09,
+      "max_down": 2.93
+    },
     "result_4h": null,
     "result_12h": null
   }

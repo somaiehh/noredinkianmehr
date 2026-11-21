@@ -19339,5 +19339,26 @@
     "max_move": 2.3077,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "KAIOIRT",
+    "event_time": 1795254130322,
+    "event_price": 4364.0,
+    "anchor_time": 1795253200852,
+    "anchor_price": 4388.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.5263,
+    "tm_e15_e1": 0.5263,
+    "tm_e1_e4": 0.5938,
+    "tm_g15": 1.25,
+    "tm_g1": 2.1111,
+    "tm_g4": 1.4545,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
