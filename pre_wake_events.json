@@ -15034,5 +15034,26 @@
     "max_move": 6.8519,
     "min_move": -5.9046,
     "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "DODOIRT",
+    "event_time": 1795255042330,
+    "event_price": 10774.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 52.2,
+    "p15": -0.85,
+    "vr": null,
+    "va": 4.04,
+    "ta": 0.91,
+    "bs": 5.0,
+    "book": 0.2,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -2.1533,
+    "ledger_version": "pre-wake-ledger-v1"
   }
 ]
