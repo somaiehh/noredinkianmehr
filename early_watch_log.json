@@ -74302,7 +74302,10 @@
       "max_up": 0.0,
       "max_down": -4.43
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -5.42
+    }
   },
   {
     "symbol": "SIRT",
@@ -74330,7 +74333,10 @@
       "max_up": 0.28,
       "max_down": -2.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.28,
+      "max_down": -7.75
+    }
   },
   {
     "symbol": "BLURIRT",
