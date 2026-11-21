@@ -41978,5 +41978,49 @@
     "levels": [],
     "failed_time": 1795193798860,
     "failed_price": 8975.0
+  },
+  {
+    "symbol": "KERNELIRT",
+    "anchor_time": 1795181700505,
+    "anchor_price": 17091.0,
+    "status": "FAILED",
+    "created_time": 1795181700505,
+    "last_time": 1795266044773,
+    "last_price": 11811.0,
+    "max_gain_pct": 0.2516,
+    "levels": [],
+    "failed_time": 1795184040386,
+    "failed_price": 16139.0
+  },
+  {
+    "symbol": "PIEVERSEIRT",
+    "anchor_time": 1795087843809,
+    "anchor_price": 763169.0,
+    "status": "EXPIRED",
+    "created_time": 1795087843809,
+    "last_time": 1795266044773,
+    "last_price": 786789.0,
+    "max_gain_pct": 12.497,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1795089092058,
+    "confirmed_price": 792469.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795091252879,
+        "price": 811856.0,
+        "gain_pct": 6.3796
+      },
+      {
+        "level": 10,
+        "time": 1795097137069,
+        "price": 840179.0,
+        "gain_pct": 10.0908
+      }
+    ],
+    "expired_time": 1795131170121
   }
 ]
