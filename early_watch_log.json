@@ -74643,7 +74643,10 @@
       "max_up": 9.11,
       "max_down": -1.75
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.11,
+      "max_down": -3.43
+    }
   },
   {
     "symbol": "ENSOIRT",
@@ -74671,7 +74674,10 @@
       "max_up": -2.24,
       "max_down": -7.94
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.39,
+      "max_down": -7.94
+    }
   },
   {
     "symbol": "LABIRT",
@@ -74962,7 +74968,10 @@
       "max_up": 0.0,
       "max_down": -0.15
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.36
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -74980,7 +74989,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
