@@ -18105,5 +18105,24 @@
       "max_up": 0.0,
       "max_down": -0.27
     }
+  },
+  {
+    "symbol": "KERNELIRT",
+    "time": 1795236289869,
+    "price": 11718.0,
+    "pre30": -0.61,
+    "pre60": -1.82,
+    "pre120": -5.19,
+    "hunt": 62.7,
+    "persistence": 2,
+    "vr": 1.37,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 4.08,
+    "ob": 1.0,
+    "p15": 0.69,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
