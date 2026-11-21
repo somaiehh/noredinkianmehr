@@ -41900,5 +41900,18 @@
     "max_gain_pct": 0.1121,
     "levels": [],
     "expired_time": 1795198526944
+  },
+  {
+    "symbol": "ENSOIRT",
+    "anchor_time": 1795181700505,
+    "anchor_price": 127353.0,
+    "status": "FAILED",
+    "created_time": 1795181700505,
+    "last_time": 1795259582119,
+    "last_price": 124034.0,
+    "max_gain_pct": 20.3309,
+    "levels": [],
+    "failed_time": 1795181894144,
+    "failed_price": 123478.0
   }
 ]
