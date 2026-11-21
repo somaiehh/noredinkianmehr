@@ -74023,7 +74023,10 @@
       "max_up": 0.0,
       "max_down": -8.74
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -9.48
+    }
   },
   {
     "symbol": "TACIRT",
@@ -74051,7 +74054,10 @@
       "max_up": 3.06,
       "max_down": -3.89
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.06,
+      "max_down": -7.22
+    }
   },
   {
     "symbol": "ENSOIRT",
@@ -74079,7 +74085,10 @@
       "max_up": 0.48,
       "max_down": -4.29
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.48,
+      "max_down": -6.18
+    }
   },
   {
     "symbol": "FOGOIRT",
