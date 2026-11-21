@@ -42100,5 +42100,29 @@
     "levels": [],
     "failed_time": 1795188543416,
     "failed_price": 183.0
+  },
+  {
+    "symbol": "MAJORIRT",
+    "anchor_time": 1795098460168,
+    "anchor_price": 5635.0,
+    "status": "EXPIRED",
+    "created_time": 1795098460168,
+    "last_time": 1795281369208,
+    "last_price": 5143.0,
+    "max_gain_pct": 9.1216,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795138615158,
+    "confirmed_price": 5864.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795141947627,
+        "price": 6149.0,
+        "gain_pct": 9.1216
+      }
+    ],
+    "expired_time": 1795141947627
   }
 ]
