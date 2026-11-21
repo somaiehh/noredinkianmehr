@@ -41735,5 +41735,56 @@
     "max_gain_pct": 3.8017,
     "levels": [],
     "expired_time": 1793774516628
+  },
+  {
+    "symbol": "INJIRT",
+    "anchor_time": 1794918411824,
+    "anchor_price": 2057928.0,
+    "status": "FAILED",
+    "created_time": 1794918411824,
+    "last_time": 1795244552578,
+    "last_price": 1678383.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794927615773,
+    "failed_price": 1980566.0
+  },
+  {
+    "symbol": "APTIRT",
+    "anchor_time": 1791875170748,
+    "anchor_price": 222441.0,
+    "status": "FAILED",
+    "created_time": 1791875170748,
+    "last_time": 1795244552578,
+    "last_price": 96693.0,
+    "max_gain_pct": 3.8689,
+    "levels": [],
+    "failed_time": 1791884977751,
+    "failed_price": 214685.0
+  },
+  {
+    "symbol": "BCHIRT",
+    "anchor_time": 1794405638019,
+    "anchor_price": 60688975.0,
+    "status": "EXPIRED",
+    "created_time": 1794405638019,
+    "last_time": 1795244552578,
+    "last_price": 50829840.0,
+    "max_gain_pct": 2.0577,
+    "levels": [],
+    "expired_time": 1794448944359
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1795192963991,
+    "anchor_price": 64415.0,
+    "status": "FAILED",
+    "created_time": 1795192963991,
+    "last_time": 1795245110313,
+    "last_price": 63000.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1795199311387,
+    "failed_price": 62200.0
   }
 ]
