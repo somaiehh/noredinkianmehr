@@ -41533,5 +41533,29 @@
     "levels": [],
     "failed_time": 1794559318366,
     "failed_price": 38149.0
+  },
+  {
+    "symbol": "DODOIRT",
+    "anchor_time": 1794642345998,
+    "anchor_price": 8897.0,
+    "status": "EXPIRED",
+    "created_time": 1794642345998,
+    "last_time": 1795232839198,
+    "last_price": 9580.0,
+    "max_gain_pct": 7.6992,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794644072327,
+    "confirmed_price": 9469.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794644072327,
+        "price": 9469.0,
+        "gain_pct": 6.4291
+      }
+    ],
+    "expired_time": 1794686217377
   }
 ]
