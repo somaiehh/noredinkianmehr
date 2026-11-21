@@ -41557,5 +41557,43 @@
       }
     ],
     "expired_time": 1794686217377
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1795169861492,
+    "anchor_price": 3646.0,
+    "status": "FAILED",
+    "created_time": 1795169861492,
+    "last_time": 1795242686153,
+    "last_price": 2840.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1795173338284,
+    "failed_price": 3502.0
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1795198350242,
+    "anchor_price": 8467.0,
+    "status": "FAILED",
+    "created_time": 1795198350242,
+    "last_time": 1795242686153,
+    "last_price": 8415.0,
+    "max_gain_pct": 6.295,
+    "levels": [],
+    "failed_time": 1795203226061,
+    "failed_price": 8195.0
+  },
+  {
+    "symbol": "AVAXIRT",
+    "anchor_time": 1794717785381,
+    "anchor_price": 1962413.0,
+    "status": "EXPIRED",
+    "created_time": 1794717785381,
+    "last_time": 1795243447709,
+    "last_price": 1690016.0,
+    "max_gain_pct": 0.7173,
+    "levels": [],
+    "expired_time": 1794770813670
   }
 ]
