@@ -42074,5 +42074,31 @@
     "levels": [],
     "failed_time": 1795100261870,
     "failed_price": 655.0
+  },
+  {
+    "symbol": "DODOIRT",
+    "anchor_time": 1795233464824,
+    "anchor_price": 9691.0,
+    "status": "FAILED",
+    "created_time": 1795233464824,
+    "last_time": 1795279553462,
+    "last_price": 10361.0,
+    "max_gain_pct": 22.8047,
+    "levels": [],
+    "failed_time": 1795234532413,
+    "failed_price": 9377.0
+  },
+  {
+    "symbol": "DEGENIRT",
+    "anchor_time": 1795174349550,
+    "anchor_price": 190.0,
+    "status": "FAILED",
+    "created_time": 1795174349550,
+    "last_time": 1795279553462,
+    "last_price": 200.0,
+    "max_gain_pct": 10.5263,
+    "levels": [],
+    "failed_time": 1795188543416,
+    "failed_price": 183.0
   }
 ]
