@@ -74550,7 +74550,10 @@
       "max_up": 3.67,
       "max_down": -2.55
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.91,
+      "max_down": -2.55
+    }
   },
   {
     "symbol": "KERNELIRT",
@@ -74742,7 +74745,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 6.07,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -74767,7 +74773,10 @@
       "max_up": 0.38,
       "max_down": -0.68
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.38,
+      "max_down": -2.83
+    },
     "result_12h": null
   },
   {
@@ -74838,7 +74847,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.07,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   }

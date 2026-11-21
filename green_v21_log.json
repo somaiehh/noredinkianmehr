@@ -18176,7 +18176,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 6.07,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -18198,7 +18201,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 6.07,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "ENSOIRT",
@@ -18220,6 +18226,9 @@
       "max_up": 0.59,
       "max_down": -1.34
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.59,
+      "max_down": -1.47
+    }
   }
 ]
