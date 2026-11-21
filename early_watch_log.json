@@ -74909,7 +74909,10 @@
       "max_up": 4.27,
       "max_down": 4.27
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 4.27,
+      "max_down": -1.31
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -74931,6 +74934,25 @@
       "max_up": -0.38,
       "max_down": -0.46
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "THQIRT",
+    "time": 1795285679243,
+    "price": 2055.0,
+    "level": "STRONG",
+    "hunt": 67.3,
+    "persistence": 1,
+    "p15": 1.73,
+    "vr": 1.62,
+    "va": 0.51,
+    "buy": 79.66666666666667,
+    "bs": 2.39,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
