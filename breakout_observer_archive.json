@@ -42124,5 +42124,19 @@
       }
     ],
     "expired_time": 1795141947627
+  },
+  {
+    "symbol": "DOODIRT",
+    "anchor_time": 1793793561330,
+    "anchor_price": 467.1,
+    "status": "EXPIRED",
+    "created_time": 1793793561330,
+    "last_time": 1795283220846,
+    "last_price": 400.1,
+    "max_gain_pct": 11.3252,
+    "levels": [],
+    "confirmed_time": 1793812338806,
+    "confirmed_price": 484.8,
+    "expired_time": 1793864521387
   }
 ]
