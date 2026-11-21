@@ -42022,5 +42022,18 @@
       }
     ],
     "expired_time": 1795131170121
+  },
+  {
+    "symbol": "SLVONIRT",
+    "anchor_time": 1794328946192,
+    "anchor_price": 12380000.0,
+    "status": "FAILED",
+    "created_time": 1794328946192,
+    "last_time": 1795270316064,
+    "last_price": 10176970.0,
+    "max_gain_pct": 1.6712,
+    "levels": [],
+    "failed_time": 1794330011641,
+    "failed_price": 11700000.0
   }
 ]
