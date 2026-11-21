@@ -74530,6 +74530,28 @@
     "bs": 4.08,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "DODOIRT",
+    "time": 1795237600321,
+    "price": 9703.0,
+    "level": "STRONG",
+    "hunt": 71.4,
+    "persistence": 2,
+    "p15": 0.61,
+    "vr": 0.71,
+    "va": 2.0,
+    "buy": 81.33333333333333,
+    "bs": 2.44,
+    "breakout": true,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
