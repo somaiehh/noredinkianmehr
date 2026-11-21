@@ -74209,7 +74209,10 @@
       "max_up": 0.56,
       "max_down": -0.98
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.37,
+      "max_down": -4.85
+    }
   },
   {
     "symbol": "HUMAIRT",
@@ -74237,7 +74240,10 @@
       "max_up": -0.18,
       "max_down": -14.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.18,
+      "max_down": -19.12
+    }
   },
   {
     "symbol": "SOPHIRT",

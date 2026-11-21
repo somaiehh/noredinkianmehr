@@ -19274,7 +19274,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -3.8463,
+    "min_move": -3.91,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "ONEIRT",
+    "event_time": 1795235201963,
+    "event_price": 279.0,
+    "anchor_time": 1795232593858,
+    "anchor_price": 280.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.1176,
+    "tm_e15_e1": 0.1176,
+    "tm_e1_e4": 0.5,
+    "tm_g15": 0.1538,
+    "tm_g1": 1.3077,
+    "tm_g4": 1.0303,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -2.8315,
     "ledger_version": "wake-ledger-v1"
   }
 ]
