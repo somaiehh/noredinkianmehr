@@ -41951,5 +41951,32 @@
     "max_gain_pct": 6.8966,
     "levels": [],
     "expired_time": 1794439874509
+  },
+  {
+    "symbol": "HUMAIRT",
+    "anchor_time": 1795184040386,
+    "anchor_price": 2800.0,
+    "status": "EXPIRED",
+    "created_time": 1795184040386,
+    "last_time": 1795254333033,
+    "last_price": 2296.0,
+    "max_gain_pct": 3.5714,
+    "levels": [],
+    "confirmed_time": 1795186842256,
+    "confirmed_price": 2900.0,
+    "expired_time": 1795230740706
+  },
+  {
+    "symbol": "SIRENIRT",
+    "anchor_time": 1795190666194,
+    "anchor_price": 9299.0,
+    "status": "FAILED",
+    "created_time": 1795190666194,
+    "last_time": 1795264206983,
+    "last_price": 8728.0,
+    "max_gain_pct": 1.2259,
+    "levels": [],
+    "failed_time": 1795193798860,
+    "failed_price": 8975.0
   }
 ]
