@@ -18190,5 +18190,24 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "ENSOIRT",
+    "time": 1795262410175,
+    "price": 127181.0,
+    "pre30": -0.09,
+    "pre60": 1.32,
+    "pre120": 2.59,
+    "hunt": 82.3,
+    "persistence": 2,
+    "vr": 2.15,
+    "va": 10.0,
+    "buy": 23.666666666666668,
+    "bs": 0.71,
+    "ob": 1.0,
+    "p15": 1.21,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
