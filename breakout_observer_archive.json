@@ -42490,5 +42490,43 @@
       }
     ],
     "expired_time": 1795312871352
+  },
+  {
+    "symbol": "NOTIRT",
+    "anchor_time": 1795264038509,
+    "anchor_price": 77.1,
+    "status": "EXPIRED",
+    "created_time": 1795264038509,
+    "last_time": 1795342290788,
+    "last_price": 78.5,
+    "max_gain_pct": 2.2049,
+    "levels": [],
+    "expired_time": 1795314909772
+  },
+  {
+    "symbol": "VELVETIRT",
+    "anchor_time": 1795154463981,
+    "anchor_price": 18998.0,
+    "status": "FAILED",
+    "created_time": 1795154463981,
+    "last_time": 1795342290788,
+    "last_price": 19200.0,
+    "max_gain_pct": 4.032,
+    "levels": [],
+    "failed_time": 1795164161475,
+    "failed_price": 18418.0
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "anchor_time": 1795278493802,
+    "anchor_price": 60.0,
+    "status": "FAILED",
+    "created_time": 1795278493802,
+    "last_time": 1795342586609,
+    "last_price": 56.0,
+    "max_gain_pct": 5.6667,
+    "levels": [],
+    "failed_time": 1795278698030,
+    "failed_price": 57.1
   }
 ]
