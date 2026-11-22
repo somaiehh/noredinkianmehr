@@ -10538,5 +10538,18 @@
     "bs": 1.91,
     "breakout": true,
     "persistence": 4
+  },
+  {
+    "time": 1795368706980,
+    "symbol": "TACIRT",
+    "price": 333.0,
+    "hunt_score": 90.9,
+    "status": "EARLY",
+    "p15": 0.3,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 2.35,
+    "breakout": true,
+    "persistence": 2
   }
 ]

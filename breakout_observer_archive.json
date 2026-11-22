@@ -42739,5 +42739,18 @@
     "max_gain_pct": 0.4087,
     "levels": [],
     "expired_time": 1795134736409
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1795155186992,
+    "anchor_price": 365.0,
+    "status": "FAILED",
+    "created_time": 1795155186992,
+    "last_time": 1795367888672,
+    "last_price": 332.0,
+    "max_gain_pct": 1.6438,
+    "levels": [],
+    "failed_time": 1795158732345,
+    "failed_price": 342.0
   }
 ]
