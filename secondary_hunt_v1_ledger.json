@@ -4764,6 +4764,23 @@
         "premove_pos",
         "da1_pos"
       ]
+    },
+    "LISTAIRT": {
+      "trigger_time": 1795373407250,
+      "trigger_price": 23101.0,
+      "secondary_score": 100.0,
+      "hunt_score": 59.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
