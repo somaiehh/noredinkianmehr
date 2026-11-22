@@ -42688,5 +42688,18 @@
     "confirmed_time": 1795168690404,
     "confirmed_price": 43.9,
     "expired_time": 1795225357751
+  },
+  {
+    "symbol": "PROMIRT",
+    "anchor_time": 1793523402408,
+    "anchor_price": 1645523.0,
+    "status": "FAILED",
+    "created_time": 1793523402408,
+    "last_time": 1795359610074,
+    "last_price": 1405000.0,
+    "max_gain_pct": 1.574,
+    "levels": [],
+    "failed_time": 1793524384753,
+    "failed_price": 1551948.0
   }
 ]

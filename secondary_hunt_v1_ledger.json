@@ -4750,6 +4750,20 @@
         "bs2",
         "premove_pos"
       ]
+    },
+    "XVGIRT": {
+      "trigger_time": 1795360339183,
+      "trigger_price": 448.89,
+      "secondary_score": 75.0,
+      "hunt_score": 62.2,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "book1",
+        "premove_pos",
+        "da1_pos"
+      ]
     }
   }
 }
