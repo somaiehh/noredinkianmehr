@@ -18349,5 +18349,24 @@
       "max_down": -1.17
     },
     "result_4h": null
+  },
+  {
+    "symbol": "PUMPIRT",
+    "time": 1795350093645,
+    "price": 683.2,
+    "pre30": 1.5,
+    "pre60": 1.33,
+    "pre120": 1.97,
+    "hunt": 78.5,
+    "persistence": 2,
+    "vr": 1.06,
+    "va": 2.0,
+    "buy": 10.0,
+    "bs": 0.3,
+    "ob": 1.0,
+    "p15": 0.57,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

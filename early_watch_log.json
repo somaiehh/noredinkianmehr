@@ -75312,5 +75312,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "SIRT",
+    "time": 1795350093645,
+    "price": 7716.0,
+    "level": "STRONG",
+    "hunt": 65.8,
+    "persistence": 2,
+    "p15": 0.92,
+    "vr": 0.0,
+    "va": 3.01,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]

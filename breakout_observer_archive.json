@@ -42578,5 +42578,63 @@
     "levels": [],
     "failed_time": 1793882642934,
     "failed_price": 3.46
+  },
+  {
+    "symbol": "KAIOIRT",
+    "anchor_time": 1793903213815,
+    "anchor_price": 6351.0,
+    "status": "FAILED",
+    "created_time": 1793903213815,
+    "last_time": 1795348840613,
+    "last_price": 4019.0,
+    "max_gain_pct": 15.4149,
+    "levels": [],
+    "failed_time": 1793904132128,
+    "failed_price": 6066.0
+  },
+  {
+    "symbol": "CAPIRT",
+    "anchor_time": 1795089092058,
+    "anchor_price": 25140.5,
+    "status": "EXPIRED",
+    "created_time": 1795089092058,
+    "last_time": 1795348840613,
+    "last_price": 24917.5,
+    "max_gain_pct": 10.0861,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1795093075964,
+    "confirmed_price": 26107.7,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795093969549,
+        "price": 26751.7,
+        "gain_pct": 6.4088
+      },
+      {
+        "level": 10,
+        "time": 1795098460168,
+        "price": 27676.2,
+        "gain_pct": 10.0861
+      }
+    ],
+    "expired_time": 1795150697799
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1795244345907,
+    "anchor_price": 7195.0,
+    "status": "EXPIRED",
+    "created_time": 1795244345907,
+    "last_time": 1795349838856,
+    "last_price": 7646.0,
+    "max_gain_pct": 6.2682,
+    "levels": [],
+    "confirmed_time": 1795272997884,
+    "confirmed_price": 7414.0,
+    "expired_time": 1795289232604
   }
 ]
