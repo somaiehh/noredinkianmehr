@@ -75108,7 +75108,10 @@
       "max_up": 0.96,
       "max_down": -3.93
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.16,
+      "max_down": -3.93
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -75502,6 +75505,47 @@
       "max_up": -0.79,
       "max_down": -0.79
     },
+    "result_1h": {
+      "max_up": -0.79,
+      "max_down": -0.79
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "time": 1795363936287,
+    "price": 325.4,
+    "level": "STRONG",
+    "hunt": 69.5,
+    "persistence": 1,
+    "p15": 1.47,
+    "vr": 2.4,
+    "va": 2.0,
+    "buy": 54.333333333333336,
+    "bs": 1.63,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "GRAMIRT",
+    "time": 1795363936287,
+    "price": 267751.0,
+    "level": "WATCH",
+    "hunt": 43.9,
+    "persistence": 1,
+    "p15": 0.05,
+    "vr": 2.52,
+    "va": 1.8,
+    "buy": 69.0,
+    "bs": 2.07,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
