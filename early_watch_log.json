@@ -75387,7 +75387,10 @@
       "max_up": 0.0,
       "max_down": -0.39
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.79,
+      "max_down": -1.97
+    },
     "result_12h": null
   },
   {
@@ -75412,7 +75415,10 @@
       "max_up": 2.94,
       "max_down": -0.65
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 6.03,
+      "max_down": -2.93
+    },
     "result_12h": null
   },
   {
@@ -75555,6 +75561,44 @@
       "max_up": 0.39,
       "max_down": 0.39
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ZBCNIRT",
+    "time": 1795366193994,
+    "price": 517.2,
+    "level": "WATCH",
+    "hunt": 41.1,
+    "persistence": 1,
+    "p15": 0.1,
+    "vr": 0.79,
+    "va": 2.0,
+    "buy": 37.99999999999999,
+    "bs": 1.14,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1795366193994,
+    "price": 68161.0,
+    "level": "STRONG",
+    "hunt": 59.0,
+    "persistence": 1,
+    "p15": 0.81,
+    "vr": 0.29,
+    "va": 10.0,
+    "buy": 87.0,
+    "bs": 2.61,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
