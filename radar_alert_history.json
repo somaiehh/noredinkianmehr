@@ -10395,5 +10395,18 @@
     "bs": 0.02,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1795336200056,
+    "symbol": "ORCAIRT",
+    "price": 336646.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.83,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 0.59,
+    "breakout": false,
+    "persistence": 2
   }
 ]
