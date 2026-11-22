@@ -42365,5 +42365,19 @@
       }
     ],
     "expired_time": 1795286932846
+  },
+  {
+    "symbol": "ZBCNIRT",
+    "anchor_time": 1790740881771,
+    "anchor_price": 696.7,
+    "status": "EXPIRED",
+    "created_time": 1790740881771,
+    "last_time": 1795338055211,
+    "last_price": 513.6,
+    "max_gain_pct": 5.5978,
+    "levels": [],
+    "confirmed_time": 1790748126127,
+    "confirmed_price": 726.5,
+    "expired_time": 1790784092353
   }
 ]
