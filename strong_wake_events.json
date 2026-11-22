@@ -19591,5 +19591,26 @@
     "max_move": 0.4425,
     "min_move": -3.0973,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "ETHFIIRT",
+    "event_time": 1795347750311,
+    "event_price": 132522.0,
+    "anchor_time": 1795345190335,
+    "anchor_price": 135011.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.3684,
+    "tm_e15_e1": 0.3684,
+    "tm_e1_e4": 0.6786,
+    "tm_g15": 0.5833,
+    "tm_g1": 1.5833,
+    "tm_g4": 1.3333,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
