@@ -42674,5 +42674,19 @@
     "max_gain_pct": 0.6086,
     "levels": [],
     "expired_time": 1795327940114
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "anchor_time": 1795167854342,
+    "anchor_price": 42.6,
+    "status": "EXPIRED",
+    "created_time": 1795167854342,
+    "last_time": 1795356946636,
+    "last_price": 39.6,
+    "max_gain_pct": 4.2254,
+    "levels": [],
+    "confirmed_time": 1795168690404,
+    "confirmed_price": 43.9,
+    "expired_time": 1795225357751
   }
 ]
