@@ -42223,5 +42223,41 @@
     "confirmed_time": 1795268422325,
     "confirmed_price": 261433.0,
     "expired_time": 1795312871352
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1795244345907,
+    "anchor_price": 0.9674,
+    "status": "EXPIRED",
+    "created_time": 1795244345907,
+    "last_time": 1795328997859,
+    "last_price": 0.9705,
+    "max_gain_pct": 2.3051,
+    "levels": [],
+    "expired_time": 1795289232604
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1795243447709,
+    "anchor_price": 8754.0,
+    "status": "EXPIRED",
+    "created_time": 1795243447709,
+    "last_time": 1795329795563,
+    "last_price": 8953.0,
+    "max_gain_pct": 6.26,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795252564440,
+    "confirmed_price": 9025.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795254333033,
+        "price": 9302.0,
+        "gain_pct": 6.26
+      }
+    ],
+    "expired_time": 1795286932846
   }
 ]
