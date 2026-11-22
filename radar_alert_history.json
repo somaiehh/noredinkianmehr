@@ -10382,5 +10382,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1795322697489,
+    "symbol": "ENSOIRT",
+    "price": 138000.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.66,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 0.02,
+    "breakout": false,
+    "persistence": 2
   }
 ]
