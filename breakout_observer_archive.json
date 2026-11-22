@@ -42165,5 +42165,18 @@
     "confirmed_time": 1795180418621,
     "confirmed_price": 26793.0,
     "expired_time": 1795236289869
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1795245291921,
+    "anchor_price": 64692.0,
+    "status": "FAILED",
+    "created_time": 1795245291921,
+    "last_time": 1795319136764,
+    "last_price": 64682.0,
+    "max_gain_pct": 0.8842,
+    "levels": [],
+    "failed_time": 1795253200852,
+    "failed_price": 62500.0
   }
 ]
