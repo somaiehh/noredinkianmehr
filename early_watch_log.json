@@ -76897,7 +76897,10 @@
       "max_up": -1.1,
       "max_down": -1.1
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -1.1,
+      "max_down": -2.03
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -76919,7 +76922,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -2.83
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -76941,7 +76947,10 @@
       "max_up": -0.36,
       "max_down": -0.36
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -1.96
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -76985,6 +76994,25 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "time": 1795448517496,
+    "price": 41.6,
+    "level": "STRONG",
+    "hunt": 52.4,
+    "persistence": 1,
+    "p15": 0.97,
+    "vr": 0.34,
+    "va": 2.0,
+    "buy": 33.33333333333333,
+    "bs": 1.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
