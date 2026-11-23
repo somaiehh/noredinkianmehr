@@ -43631,5 +43631,60 @@
     "confirmed_time": 1794742265387,
     "confirmed_price": 411.7,
     "expired_time": 1794787204506
+  },
+  {
+    "symbol": "INXIRT",
+    "anchor_time": 1790524816534,
+    "anchor_price": 1703.4,
+    "status": "EXPIRED",
+    "created_time": 1790524816534,
+    "last_time": 1795456862492,
+    "last_price": 1070.0,
+    "max_gain_pct": 8.9644,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1790534239210,
+    "confirmed_price": 1761.2,
+    "events": [
+      {
+        "level": 5,
+        "time": 1790543232477,
+        "price": 1826.7,
+        "gain_pct": 7.2385
+      }
+    ],
+    "expired_time": 1790568255208
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1795403759043,
+    "anchor_price": 3330.0,
+    "status": "EXPIRED",
+    "created_time": 1795403759043,
+    "last_time": 1795457581239,
+    "last_price": 3739.0,
+    "max_gain_pct": 14.3844,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1795405444858,
+    "confirmed_price": 3444.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795407119137,
+        "price": 3600.0,
+        "gain_pct": 8.1081
+      },
+      {
+        "level": 10,
+        "time": 1795420632094,
+        "price": 3665.0,
+        "gain_pct": 10.0601
+      }
+    ],
+    "expired_time": 1795447008498
   }
 ]

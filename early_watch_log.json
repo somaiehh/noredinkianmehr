@@ -76790,7 +76790,10 @@
       "max_up": 1.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.0,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -76815,7 +76818,10 @@
       "max_up": 5.6,
       "max_down": 1.77
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.6,
+      "max_down": -2.63
+    },
     "result_12h": null
   },
   {
@@ -76840,7 +76846,10 @@
       "max_up": 1.83,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.83,
+      "max_down": -1.0
+    },
     "result_12h": null
   },
   {
@@ -77203,6 +77212,28 @@
     "buy": 62.66666666666666,
     "bs": 1.88,
     "breakout": true,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.52,
+      "max_down": 0.52
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "time": 1795457581239,
+    "price": 1.1869,
+    "level": "STRONG",
+    "hunt": 64.4,
+    "persistence": 1,
+    "p15": 0.82,
+    "vr": 1.98,
+    "va": 1.84,
+    "buy": 48.666666666666664,
+    "bs": 1.46,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
