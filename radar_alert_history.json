@@ -10681,5 +10681,31 @@
     "bs": 0.71,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1795427807519,
+    "symbol": "VELVETIRT",
+    "price": 20947.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.45,
+    "vr": 1.42,
+    "va": 10.0,
+    "bs": 2.59,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1795427975118,
+    "symbol": "VELVETIRT",
+    "price": 20947.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.45,
+    "vr": 1.42,
+    "va": 9.05,
+    "bs": 2.59,
+    "breakout": true,
+    "persistence": 3
   }
 ]
