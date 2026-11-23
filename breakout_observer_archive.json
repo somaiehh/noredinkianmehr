@@ -42849,5 +42849,72 @@
     "max_gain_pct": 5.5118,
     "levels": [],
     "expired_time": 1795401739730
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1795336017533,
+    "anchor_price": 648.7,
+    "status": "EXPIRED",
+    "created_time": 1795336017533,
+    "last_time": 1795410103533,
+    "last_price": 694.4,
+    "max_gain_pct": 8.6326,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795342044427,
+    "confirmed_price": 668.5,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795346853691,
+        "price": 681.5,
+        "gain_pct": 5.0563
+      }
+    ],
+    "expired_time": 1795387486601
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1795364894967,
+    "anchor_price": 8153.0,
+    "status": "EXPIRED",
+    "created_time": 1795364894967,
+    "last_time": 1795410103533,
+    "last_price": 8146.0,
+    "max_gain_pct": 1.018,
+    "levels": [],
+    "expired_time": 1795408162673
+  },
+  {
+    "symbol": "PIEVERSEIRT",
+    "anchor_time": 1795326311988,
+    "anchor_price": 944870.0,
+    "status": "EXPIRED",
+    "created_time": 1795326311988,
+    "last_time": 1795410103533,
+    "last_price": 977484.0,
+    "max_gain_pct": 50.6459,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1795331577903,
+    "confirmed_price": 1037940.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795331577903,
+        "price": 1037940.0,
+        "gain_pct": 9.85
+      },
+      {
+        "level": 10,
+        "time": 1795334926285,
+        "price": 1063861.0,
+        "gain_pct": 12.5934
+      }
+    ],
+    "expired_time": 1795369537497
   }
 ]
