@@ -76529,7 +76529,10 @@
     "bs": 2.22,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 3.3,
+      "max_down": 3.3
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -76548,7 +76551,10 @@
     "bs": 3.25,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.29,
+      "max_down": 0.29
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
