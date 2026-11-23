@@ -10629,5 +10629,18 @@
     "bs": 2.4,
     "breakout": true,
     "persistence": 5
+  },
+  {
+    "time": 1795417924468,
+    "symbol": "GRAMIRT",
+    "price": 272000.0,
+    "hunt_score": 85.3,
+    "status": "EARLY",
+    "p15": 1.27,
+    "vr": 1.96,
+    "va": 2.16,
+    "bs": 2.64,
+    "breakout": true,
+    "persistence": 4
   }
 ]
