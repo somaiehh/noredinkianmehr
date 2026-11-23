@@ -18566,7 +18566,10 @@
     "ob": 0.48,
     "p15": 1.3,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.15,
+      "max_down": -0.51
+    },
     "result_4h": null
   },
   {
@@ -18604,6 +18607,44 @@
     "ob": 0.61,
     "p15": 1.3,
     "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "SOPHIRT",
+    "time": 1795414394234,
+    "price": 246.0,
+    "pre30": 0.41,
+    "pre60": 0.41,
+    "pre120": 0.82,
+    "hunt": 70.0,
+    "persistence": 2,
+    "vr": 5.12,
+    "va": 3.63,
+    "buy": 21.666666666666668,
+    "bs": 0.65,
+    "ob": 1.0,
+    "p15": 0.41,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "SOPHIRT",
+    "time": 1795414582080,
+    "price": 246.0,
+    "pre30": 0.41,
+    "pre60": 0.41,
+    "pre120": 1.23,
+    "hunt": 69.7,
+    "persistence": 3,
+    "vr": 5.12,
+    "va": 3.07,
+    "buy": 26.666666666666668,
+    "bs": 0.8,
+    "ob": 1.0,
+    "p15": 0.41,
+    "breakout": false,
     "result_1h": null,
     "result_4h": null
   }

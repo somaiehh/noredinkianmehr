@@ -15325,7 +15325,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.0661,
+    "max_move": 3.3058,
     "min_move": -0.6198,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -15347,6 +15347,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 3.0237,
+    "min_move": 0.0,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "BLURIRT",
+    "event_time": 1795414582080,
+    "event_price": 2159.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 46.6,
+    "p15": -1.82,
+    "vr": null,
+    "va": 10.0,
+    "ta": 1.3,
+    "bs": 5.0,
+    "book": 0.09,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
