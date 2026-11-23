@@ -10772,5 +10772,18 @@
     "bs": 3.25,
     "breakout": false,
     "persistence": 4
+  },
+  {
+    "time": 1795439699507,
+    "symbol": "ZBCNIRT",
+    "price": 510.2,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.17,
+    "vr": 10.38,
+    "va": 7.38,
+    "bs": 1.07,
+    "breakout": false,
+    "persistence": 2
   }
 ]

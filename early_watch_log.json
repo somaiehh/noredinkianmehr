@@ -76583,5 +76583,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "ZBCNIRT",
+    "time": 1795439530990,
+    "price": 510.4,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.21,
+    "vr": 8.85,
+    "va": 7.78,
+    "buy": 41.66666666666667,
+    "bs": 1.25,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
