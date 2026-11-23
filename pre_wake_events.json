@@ -15409,8 +15409,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 4.206,
+    "max_move": 4.4873,
     "min_move": -0.4478,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "CYSIRT",
+    "event_time": 1795427136095,
+    "event_price": 13249.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 46.5,
+    "p15": -1.44,
+    "vr": null,
+    "va": 10.0,
+    "ta": 1.2,
+    "bs": 2.33,
+    "book": 0.05,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
