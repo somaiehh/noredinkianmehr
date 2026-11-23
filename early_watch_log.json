@@ -75666,7 +75666,10 @@
       "max_up": 1.14,
       "max_down": -3.33
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.14,
+      "max_down": -3.33
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -75694,7 +75697,10 @@
       "max_up": 2.6,
       "max_down": -0.97
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 15.72,
+      "max_down": -0.97
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -75926,7 +75932,10 @@
       "max_up": 1.2,
       "max_down": 0.93
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 6.39,
+      "max_down": 0.93
+    },
     "result_4h": null,
     "result_12h": null
   },

@@ -18524,5 +18524,43 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1795409918905,
+    "price": 79900.0,
+    "pre30": 5.37,
+    "pre60": 8.05,
+    "pre120": 10.46,
+    "hunt": 100.0,
+    "persistence": 4,
+    "vr": 8.34,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 0.38,
+    "p15": 1.3,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1795410103533,
+    "price": 79900.0,
+    "pre30": 4.61,
+    "pre60": 6.39,
+    "pre120": 10.46,
+    "hunt": 100.0,
+    "persistence": 5,
+    "vr": 8.34,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.62,
+    "ob": 0.48,
+    "p15": 1.3,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
