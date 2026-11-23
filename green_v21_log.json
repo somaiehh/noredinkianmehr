@@ -18826,7 +18826,10 @@
       "max_up": 3.52,
       "max_down": 1.66
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 7.25,
+      "max_down": -1.56
+    }
   },
   {
     "symbol": "SKYIRT",
@@ -18951,6 +18954,25 @@
     "ob": 1.0,
     "p15": 1.28,
     "breakout": true,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "MAJORIRT",
+    "time": 1795445995112,
+    "price": 5618.0,
+    "pre30": 2.46,
+    "pre60": 2.46,
+    "pre120": 2.46,
+    "hunt": 70.3,
+    "persistence": 2,
+    "vr": 2.31,
+    "va": 10.0,
+    "buy": 35.333333333333336,
+    "bs": 1.06,
+    "ob": 1.0,
+    "p15": 0.32,
+    "breakout": false,
     "result_1h": null,
     "result_4h": null
   }

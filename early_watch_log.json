@@ -76380,7 +76380,10 @@
       "max_up": 0.81,
       "max_down": -0.83
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 11.53,
+      "max_down": -0.85
+    },
     "result_12h": null
   },
   {
@@ -76405,7 +76408,10 @@
       "max_up": 1.91,
       "max_down": -2.21
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 6.31,
+      "max_down": -2.21
+    },
     "result_12h": null
   },
   {
@@ -76782,7 +76788,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 1.02,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -76801,7 +76810,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -0.87,
+      "max_down": -1.34
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -76820,7 +76832,10 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -0.4
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -76839,7 +76854,10 @@
     "bs": 2.27,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -1.1,
+      "max_down": -1.1
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -76858,7 +76876,10 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -76876,6 +76897,28 @@
     "buy": 38.33333333333333,
     "bs": 1.15,
     "breakout": true,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.36,
+      "max_down": -0.36
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MAJORIRT",
+    "time": 1795445995112,
+    "price": 5618.0,
+    "level": "STRONG",
+    "hunt": 70.3,
+    "persistence": 2,
+    "p15": 0.32,
+    "vr": 2.31,
+    "va": 10.0,
+    "buy": 35.333333333333336,
+    "bs": 1.06,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
