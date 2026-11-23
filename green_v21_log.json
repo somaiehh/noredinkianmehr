@@ -18751,7 +18751,10 @@
       "max_up": 0.18,
       "max_down": -0.18
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.59,
+      "max_down": -1.62
+    }
   },
   {
     "symbol": "VELVETIRT",
@@ -18853,6 +18856,25 @@
     "bs": 2.22,
     "ob": 1.0,
     "p15": 1.34,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1795436973339,
+    "price": 8974.0,
+    "pre30": 0.48,
+    "pre60": 1.44,
+    "pre120": 0.83,
+    "hunt": 80.4,
+    "persistence": 4,
+    "vr": 11.09,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.25,
+    "ob": 1.0,
+    "p15": 0.63,
     "breakout": false,
     "result_1h": null,
     "result_4h": null
