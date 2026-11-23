@@ -18901,7 +18901,10 @@
       "max_up": 0.29,
       "max_down": -1.37
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.29,
+      "max_down": -1.37
+    }
   },
   {
     "symbol": "ZBCNIRT",
@@ -19029,7 +19032,10 @@
     "ob": 1.0,
     "p15": 0.74,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -1.22,
+      "max_down": -2.41
+    },
     "result_4h": null
   },
   {
@@ -19048,7 +19054,10 @@
     "ob": 1.0,
     "p15": 0.84,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.05,
+      "max_down": -0.72
+    },
     "result_4h": null
   },
   {
@@ -19066,6 +19075,25 @@
     "bs": 2.12,
     "ob": 0.41,
     "p15": 0.3,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "SOPHIRT",
+    "time": 1795451593438,
+    "price": 252.0,
+    "pre30": -0.4,
+    "pre60": 0.0,
+    "pre120": 1.2,
+    "hunt": 73.2,
+    "persistence": 2,
+    "vr": 1.88,
+    "va": 2.77,
+    "buy": 18.999999999999996,
+    "bs": 0.57,
+    "ob": 1.0,
+    "p15": 0.4,
     "breakout": false,
     "result_1h": null,
     "result_4h": null
