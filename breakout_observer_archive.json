@@ -42990,5 +42990,18 @@
     "confirmed_time": 1795315666819,
     "confirmed_price": 177624.0,
     "expired_time": 1795315666819
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1795342044427,
+    "anchor_price": 6896.1,
+    "status": "FAILED",
+    "created_time": 1795342044427,
+    "last_time": 1795416453193,
+    "last_price": 7294.5,
+    "max_gain_pct": 5.8569,
+    "levels": [],
+    "failed_time": 1795351327942,
+    "failed_price": 6673.9
   }
 ]

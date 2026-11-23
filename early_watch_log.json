@@ -75852,7 +75852,10 @@
       "max_up": -2.75,
       "max_down": -15.59
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.59,
+      "max_down": -15.59
+    }
   },
   {
     "symbol": "IRIRT",
@@ -76019,7 +76022,10 @@
       "max_up": -0.79,
       "max_down": -0.79
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.47,
+      "max_down": -0.79
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -76041,6 +76047,25 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1795417159608,
+    "price": 8315.0,
+    "level": "WATCH",
+    "hunt": 41.4,
+    "persistence": 1,
+    "p15": 0.18,
+    "vr": 0.38,
+    "va": 10.0,
+    "buy": 64.33333333333333,
+    "bs": 1.93,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
