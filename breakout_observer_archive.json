@@ -42928,5 +42928,53 @@
     "max_gain_pct": 2.329,
     "levels": [],
     "expired_time": 1795373231325
+  },
+  {
+    "symbol": "BLURIRT",
+    "anchor_time": 1795191404653,
+    "anchor_price": 2015.0,
+    "status": "EXPIRED",
+    "created_time": 1795191404653,
+    "last_time": 1795412731429,
+    "last_price": 2200.0,
+    "max_gain_pct": 9.1811,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795198350242,
+    "confirmed_price": 2086.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795200155988,
+        "price": 2119.0,
+        "gain_pct": 5.1613
+      }
+    ],
+    "expired_time": 1795235201963
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1795336945586,
+    "anchor_price": 0.92631,
+    "status": "EXPIRED",
+    "created_time": 1795336945586,
+    "last_time": 1795412731429,
+    "last_price": 0.9389,
+    "max_gain_pct": 1.3592,
+    "levels": [],
+    "expired_time": 1795387486601
+  },
+  {
+    "symbol": "DOGSIRT",
+    "anchor_time": 1795366193994,
+    "anchor_price": 6.82,
+    "status": "EXPIRED",
+    "created_time": 1795366193994,
+    "last_time": 1795412731429,
+    "last_price": 6.84,
+    "max_gain_pct": 0.2933,
+    "levels": [],
+    "expired_time": 1795409918905
   }
 ]
