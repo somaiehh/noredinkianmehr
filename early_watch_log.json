@@ -75821,7 +75821,10 @@
       "max_up": 1.85,
       "max_down": -1.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 11.11,
+      "max_down": -1.82
+    }
   },
   {
     "symbol": "LISTAIRT",
@@ -75991,7 +75994,10 @@
       "max_up": 0.58,
       "max_down": 0.58
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.73,
+      "max_down": 0.29
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -76031,7 +76037,10 @@
     "bs": 3.95,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
