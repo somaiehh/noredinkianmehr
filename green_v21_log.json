@@ -19076,7 +19076,10 @@
       "max_up": 1.05,
       "max_down": -0.72
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 11.08,
+      "max_down": -1.7
+    }
   },
   {
     "symbol": "POLIRT",
@@ -19204,7 +19207,10 @@
     "ob": 0.42,
     "p15": 0.43,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.41,
+      "max_down": -1.54
+    },
     "result_4h": null
   },
   {
