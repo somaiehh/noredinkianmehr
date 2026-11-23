@@ -76001,7 +76001,10 @@
       "max_up": 1.15,
       "max_down": -0.97
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.27,
+      "max_down": -0.97
+    }
   },
   {
     "symbol": "DOGSIRT",
@@ -76585,7 +76588,10 @@
       "max_up": 3.3,
       "max_down": 0.43
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.11,
+      "max_down": -0.57
+    },
     "result_12h": null
   },
   {
@@ -77045,6 +77051,28 @@
     "buy": 92.0,
     "bs": 2.76,
     "breakout": true,
+    "priority": false,
+    "result_15m": {
+      "max_up": -0.24,
+      "max_down": -0.58
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "POLIRT",
+    "time": 1795450372738,
+    "price": 21731.0,
+    "level": "STRONG",
+    "hunt": 63.8,
+    "persistence": 1,
+    "p15": 0.25,
+    "vr": 2.17,
+    "va": 4.67,
+    "buy": 68.66666666666667,
+    "bs": 2.06,
+    "breakout": false,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
