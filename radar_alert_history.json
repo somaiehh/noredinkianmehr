@@ -10876,5 +10876,31 @@
     "bs": 3.43,
     "breakout": false,
     "persistence": 2
+  },
+  {
+    "time": 1795455727744,
+    "symbol": "ELIZAOSIRT",
+    "price": 55.8,
+    "hunt_score": 82.2,
+    "status": "EARLY",
+    "p15": 0.54,
+    "vr": 1.35,
+    "va": 10.0,
+    "bs": 1.07,
+    "breakout": false,
+    "persistence": 3
+  },
+  {
+    "time": 1795455919591,
+    "symbol": "UAIIRT",
+    "price": 9150.0,
+    "hunt_score": 93.5,
+    "status": "EARLY",
+    "p15": 0.52,
+    "vr": 1.53,
+    "va": 10.0,
+    "bs": 0.95,
+    "breakout": true,
+    "persistence": 2
   }
 ]
