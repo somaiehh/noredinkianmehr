@@ -19738,5 +19738,26 @@
     "max_move": 0.731,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "JUPIRT",
+    "event_time": 1795415210693,
+    "event_price": 65435.0,
+    "anchor_time": 1795412731429,
+    "anchor_price": 65000.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.6,
+    "tm_e15_e1": 0.6,
+    "tm_e1_e4": 0.6579,
+    "tm_g15": 1.6667,
+    "tm_g1": 2.0833,
+    "tm_g4": 1.7273,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
