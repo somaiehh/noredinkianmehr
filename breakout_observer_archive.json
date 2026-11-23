@@ -43072,5 +43072,29 @@
       }
     ],
     "expired_time": 1795312871352
+  },
+  {
+    "symbol": "WODIRT",
+    "anchor_time": 1792665508953,
+    "anchor_price": 2835.0,
+    "status": "EXPIRED",
+    "created_time": 1792665508953,
+    "last_time": 1795424371223,
+    "last_price": 3462.0,
+    "max_gain_pct": 26.8078,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1792669261993,
+    "confirmed_price": 2929.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1792675121352,
+        "price": 2977.0,
+        "gain_pct": 5.0088
+      }
+    ],
+    "expired_time": 1792709996048
   }
 ]
