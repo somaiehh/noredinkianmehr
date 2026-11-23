@@ -76327,7 +76327,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.08,
+      "max_down": -1.94
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -76388,6 +76391,47 @@
     "buy": 46.33333333333333,
     "bs": 1.39,
     "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.06,
+      "max_down": -0.31
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1795433219925,
+    "price": 96519.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.39,
+    "vr": 0.89,
+    "va": 3.0,
+    "buy": 100,
+    "bs": 4.64,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "IRIRT",
+    "time": 1795433219925,
+    "price": 495.0,
+    "level": "WATCH",
+    "hunt": 41.9,
+    "persistence": 1,
+    "p15": 0.2,
+    "vr": 0.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
