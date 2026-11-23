@@ -43448,5 +43448,54 @@
     "max_gain_pct": 6.9713,
     "levels": [],
     "expired_time": 1795298229457
+  },
+  {
+    "symbol": "SOPHIRT",
+    "anchor_time": 1795333305528,
+    "anchor_price": 258.0,
+    "status": "FAILED",
+    "created_time": 1795333305528,
+    "last_time": 1795443344739,
+    "last_price": 245.0,
+    "max_gain_pct": 0.7752,
+    "levels": [],
+    "failed_time": 1795359435081,
+    "failed_price": 249.0
+  },
+  {
+    "symbol": "TACIRT",
+    "anchor_time": 1795368476158,
+    "anchor_price": 333.0,
+    "status": "EXPIRED",
+    "created_time": 1795368476158,
+    "last_time": 1795443344739,
+    "last_price": 322.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "expired_time": 1795411843074
+  },
+  {
+    "symbol": "HYPEIRT",
+    "anchor_time": 1794384755609,
+    "anchor_price": 18629690.0,
+    "status": "EXPIRED",
+    "created_time": 1794384755609,
+    "last_time": 1795444224865,
+    "last_price": 18802950.0,
+    "max_gain_pct": 8.0894,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794405638019,
+    "confirmed_price": 19306378.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794415325238,
+        "price": 19575000.0,
+        "gain_pct": 5.0742
+      }
+    ],
+    "expired_time": 1794428067188
   }
 ]
