@@ -75573,7 +75573,10 @@
       "max_up": 0.79,
       "max_down": -2.78
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.79,
+      "max_down": -4.76
+    }
   },
   {
     "symbol": "BABYSHARKIRT",
@@ -75847,6 +75850,25 @@
       "max_up": -2.15,
       "max_down": -2.15
     },
+    "result_12h": null
+  },
+  {
+    "symbol": "HIRT",
+    "time": 1795403576196,
+    "price": 3300.0,
+    "level": "WATCH",
+    "hunt": 47.4,
+    "persistence": 1,
+    "p15": 0.36,
+    "vr": 0.19,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
     "result_12h": null
   }
 ]
