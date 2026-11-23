@@ -42810,5 +42810,32 @@
       }
     ],
     "expired_time": 1795387486601
+  },
+  {
+    "symbol": "DENTIRT",
+    "anchor_time": 1794424477433,
+    "anchor_price": 10.522,
+    "status": "EXPIRED",
+    "created_time": 1794424477433,
+    "last_time": 1795406581958,
+    "last_price": 8.902,
+    "max_gain_pct": 4.5429,
+    "levels": [],
+    "confirmed_time": 1794426119094,
+    "confirmed_price": 11.0,
+    "expired_time": 1794467702189
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1795363936287,
+    "anchor_price": 72100.0,
+    "status": "FAILED",
+    "created_time": 1795363936287,
+    "last_time": 1795407119137,
+    "last_price": 75800.0,
+    "max_gain_pct": 5.4092,
+    "levels": [],
+    "failed_time": 1795364132730,
+    "failed_price": 68738.0
   }
 ]
