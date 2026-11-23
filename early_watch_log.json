@@ -75325,7 +75325,10 @@
       "max_up": 6.68,
       "max_down": -1.57
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.68,
+      "max_down": -1.57
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -75353,7 +75356,10 @@
       "max_up": 0.01,
       "max_down": -2.28
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.21,
+      "max_down": -2.28
+    }
   },
   {
     "symbol": "SIRT",
@@ -75381,7 +75387,10 @@
       "max_up": 0.0,
       "max_down": -2.64
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -3.58
+    }
   },
   {
     "symbol": "SOPHIRT",
@@ -75409,7 +75418,10 @@
       "max_up": 0.79,
       "max_down": -1.97
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.79,
+      "max_down": -4.33
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -75437,7 +75449,10 @@
       "max_up": 6.03,
       "max_down": -2.93
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.52,
+      "max_down": -2.93
+    }
   },
   {
     "symbol": "VELVETIRT",
@@ -75465,7 +75480,10 @@
       "max_up": 0.0,
       "max_down": -5.46
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -5.46
+    }
   },
   {
     "symbol": "FUNTOKENIRT",
@@ -75493,7 +75511,10 @@
       "max_up": 1.22,
       "max_down": -0.08
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.49,
+      "max_down": -0.08
+    }
   },
   {
     "symbol": "BABYDOGEIRT",
@@ -75797,7 +75818,10 @@
       "max_up": -2.75,
       "max_down": -10.39
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -2.75,
+      "max_down": -15.59
+    },
     "result_12h": null
   },
   {
@@ -75816,7 +75840,10 @@
     "priority": false,
     "result_15m": null,
     "result_1h": null,
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -2.15,
+      "max_down": -2.15
+    },
     "result_12h": null
   }
 ]
