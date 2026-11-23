@@ -75759,7 +75759,10 @@
       "max_up": 0.0,
       "max_down": -1.5
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -1.5
+    }
   },
   {
     "symbol": "PIEVERSEIRT",
