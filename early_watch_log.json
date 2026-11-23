@@ -75908,7 +75908,10 @@
       "max_up": 9.09,
       "max_down": 0.55
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 15.42,
+      "max_down": 0.55
+    }
   },
   {
     "symbol": "IRIRT",
@@ -76436,7 +76439,10 @@
       "max_up": 0.52,
       "max_down": -0.31
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 9.79,
+      "max_down": -1.71
+    },
     "result_12h": null
   },
   {
@@ -76682,7 +76688,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.44,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -76704,7 +76713,10 @@
       "max_up": 1.62,
       "max_down": 1.62
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.29,
+      "max_down": 1.3
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -76726,7 +76738,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.0,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -76748,7 +76763,10 @@
       "max_up": 5.6,
       "max_down": 5.6
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 5.6,
+      "max_down": 1.77
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -76770,7 +76788,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.83,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -76918,6 +76939,28 @@
     "va": 10.0,
     "buy": 35.333333333333336,
     "bs": 1.06,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.61,
+      "max_down": 0.61
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "NAKAIRT",
+    "time": 1795447008498,
+    "price": 19000.0,
+    "level": "STRONG",
+    "hunt": 71.8,
+    "persistence": 1,
+    "p15": 1.05,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.43,
     "breakout": false,
     "priority": false,
     "result_15m": null,

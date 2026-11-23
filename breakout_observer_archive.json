@@ -43497,5 +43497,30 @@
       }
     ],
     "expired_time": 1794428067188
+  },
+  {
+    "symbol": "HMSTRIRT",
+    "anchor_time": 1795357702540,
+    "anchor_price": 39.9,
+    "status": "EXPIRED",
+    "created_time": 1795357702540,
+    "last_time": 1795445995112,
+    "last_price": 41.2,
+    "max_gain_pct": 3.5088,
+    "levels": [],
+    "expired_time": 1795407119137
+  },
+  {
+    "symbol": "DEGENIRT",
+    "anchor_time": 1795280241521,
+    "anchor_price": 210.0,
+    "status": "FAILED",
+    "created_time": 1795280241521,
+    "last_time": 1795446770647,
+    "last_price": 197.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1795280457936,
+    "failed_price": 198.0
   }
 ]
