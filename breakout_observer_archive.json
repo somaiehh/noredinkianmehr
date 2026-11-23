@@ -43096,5 +43096,54 @@
       }
     ],
     "expired_time": 1792709996048
+  },
+  {
+    "symbol": "LINKIRT",
+    "anchor_time": 1794384755609,
+    "anchor_price": 2664536.0,
+    "status": "EXPIRED",
+    "created_time": 1794384755609,
+    "last_time": 1795425313297,
+    "last_price": 2439506.0,
+    "max_gain_pct": 5.0312,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1794412664910,
+    "confirmed_price": 2756035.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1794422566033,
+        "price": 2798595.0,
+        "gain_pct": 5.0312
+      }
+    ],
+    "expired_time": 1794428067188
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1795342290788,
+    "anchor_price": 218948566.0,
+    "status": "EXPIRED",
+    "created_time": 1795342290788,
+    "last_time": 1795425313297,
+    "last_price": 218320000.0,
+    "max_gain_pct": 0.2894,
+    "levels": [],
+    "expired_time": 1795387486601
+  },
+  {
+    "symbol": "VELVETIRT",
+    "anchor_time": 1795342586609,
+    "anchor_price": 19701.0,
+    "status": "FAILED",
+    "created_time": 1795342586609,
+    "last_time": 1795426005404,
+    "last_price": 20400.0,
+    "max_gain_pct": 3.548,
+    "levels": [],
+    "failed_time": 1795353218430,
+    "failed_price": 19066.0
   }
 ]
