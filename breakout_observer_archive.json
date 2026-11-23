@@ -43145,5 +43145,45 @@
     "levels": [],
     "failed_time": 1795353218430,
     "failed_price": 19066.0
+  },
+  {
+    "symbol": "PROMIRT",
+    "anchor_time": 1795360339183,
+    "anchor_price": 1405453.0,
+    "status": "EXPIRED",
+    "created_time": 1795360339183,
+    "last_time": 1795427970780,
+    "last_price": 1210887.0,
+    "max_gain_pct": 3.253,
+    "levels": [],
+    "confirmed_time": 1795360529621,
+    "confirmed_price": 1451172.0,
+    "expired_time": 1795403576196
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1795201942668,
+    "anchor_price": 31500.0,
+    "status": "FAILED",
+    "created_time": 1795201942668,
+    "last_time": 1795427970780,
+    "last_price": 28507.0,
+    "max_gain_pct": 1.5873,
+    "levels": [],
+    "failed_time": 1795206558398,
+    "failed_price": 30207.0
+  },
+  {
+    "symbol": "TAIRT",
+    "anchor_time": 1794296547866,
+    "anchor_price": 28038.0,
+    "status": "FAILED",
+    "created_time": 1794296547866,
+    "last_time": 1795428697016,
+    "last_price": 30024.0,
+    "max_gain_pct": 14.9975,
+    "levels": [],
+    "failed_time": 1794298260539,
+    "failed_price": 26759.0
   }
 ]
