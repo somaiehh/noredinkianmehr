@@ -18776,7 +18776,10 @@
       "max_up": 2.38,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 9.8,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "VELVETIRT",
@@ -18798,7 +18801,10 @@
       "max_up": 4.07,
       "max_down": 0.0
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 9.8,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "VELVETIRT",
