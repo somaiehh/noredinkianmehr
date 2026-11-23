@@ -43686,5 +43686,18 @@
       }
     ],
     "expired_time": 1795447008498
+  },
+  {
+    "symbol": "CAPIRT",
+    "anchor_time": 1795349838856,
+    "anchor_price": 25167.8,
+    "status": "FAILED",
+    "created_time": 1795349838856,
+    "last_time": 1795461303542,
+    "last_price": 29200.0,
+    "max_gain_pct": 16.0213,
+    "levels": [],
+    "failed_time": 1795367715424,
+    "failed_price": 24325.4
   }
 ]

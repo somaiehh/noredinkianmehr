@@ -77079,7 +77079,10 @@
       "max_up": 6.58,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 7.04,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -77300,7 +77303,10 @@
       "max_up": 0.34,
       "max_down": 0.34
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.34,
+      "max_down": -1.2
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -77322,6 +77328,25 @@
       "max_up": 0.21,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PIEVERSEIRT",
+    "time": 1795462176919,
+    "price": 1008915.0,
+    "level": "STRONG",
+    "hunt": 51.1,
+    "persistence": 1,
+    "p15": 1.11,
+    "vr": 0.17,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
