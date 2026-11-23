@@ -43549,5 +43549,18 @@
     "confirmed_time": 1795079584650,
     "confirmed_price": 25628.0,
     "expired_time": 1795129604581
+  },
+  {
+    "symbol": "DEXEIRT",
+    "anchor_time": 1795102200145,
+    "anchor_price": 334708.0,
+    "status": "FAILED",
+    "created_time": 1795102200145,
+    "last_time": 1795453392119,
+    "last_price": 342827.0,
+    "max_gain_pct": 2.4257,
+    "levels": [],
+    "failed_time": 1795108665318,
+    "failed_price": 322491.0
   }
 ]
