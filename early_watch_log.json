@@ -75970,7 +75970,10 @@
       "max_up": 15.83,
       "max_down": 0.93
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 32.76,
+      "max_down": 0.93
+    }
   },
   {
     "symbol": "LABIRT",
@@ -76526,7 +76529,10 @@
       "max_up": 2.38,
       "max_down": -0.61
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.76,
+      "max_down": -1.41
+    },
     "result_12h": null
   },
   {
@@ -76551,7 +76557,10 @@
       "max_up": 1.2,
       "max_down": -3.95
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 6.45,
+      "max_down": -8.07
+    },
     "result_12h": null
   },
   {
@@ -76972,7 +76981,10 @@
       "max_up": 0.61,
       "max_down": 0.61
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.28,
+      "max_down": 0.61
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -77011,6 +77023,28 @@
     "buy": 33.33333333333333,
     "bs": 1.0,
     "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LIGHTIRT",
+    "time": 1795449545866,
+    "price": 64500.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.59,
+    "vr": 9.88,
+    "va": 8.46,
+    "buy": 92.0,
+    "bs": 2.76,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
