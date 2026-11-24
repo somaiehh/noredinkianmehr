@@ -76714,7 +76714,10 @@
       "max_up": 16.28,
       "max_down": -3.8
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 16.28,
+      "max_down": -17.3
+    }
   },
   {
     "symbol": "ZBCNIRT",
@@ -76742,7 +76745,10 @@
       "max_up": 4.98,
       "max_down": -1.47
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.98,
+      "max_down": -2.98
+    }
   },
   {
     "symbol": "TAIRT",
@@ -76770,7 +76776,10 @@
       "max_up": 5.4,
       "max_down": -5.04
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.4,
+      "max_down": -5.04
+    }
   },
   {
     "symbol": "NOTIRT",
@@ -76798,7 +76807,10 @@
       "max_up": 2.44,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.44,
+      "max_down": -0.61
+    }
   },
   {
     "symbol": "POLIRT",
@@ -76826,7 +76838,10 @@
       "max_up": 3.29,
       "max_down": 1.12
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.29,
+      "max_down": 0.56
+    }
   },
   {
     "symbol": "SATSIRT",
@@ -76854,7 +76869,10 @@
       "max_up": 1.0,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.99,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "ZECIRT",
@@ -76882,7 +76900,10 @@
       "max_up": 5.6,
       "max_down": -2.63
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.6,
+      "max_down": -7.33
+    }
   },
   {
     "symbol": "AKTIRT",
@@ -76910,7 +76931,10 @@
       "max_up": 1.83,
       "max_down": -1.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.83,
+      "max_down": -1.0
+    }
   },
   {
     "symbol": "LTCIRT",
