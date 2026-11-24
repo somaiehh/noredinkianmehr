@@ -4809,6 +4809,21 @@
         "bs2",
         "da1_pos"
       ]
+    },
+    "CLEARIRT": {
+      "trigger_time": 1795508834267,
+      "trigger_price": 6131.0,
+      "secondary_score": 80.0,
+      "hunt_score": 78.0,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
