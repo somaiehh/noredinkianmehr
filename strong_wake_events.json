@@ -20221,5 +20221,26 @@
     "max_move": 0.0,
     "min_move": -0.1163,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "ZKCIRT",
+    "event_time": 1795537644869,
+    "event_price": 6393.0,
+    "anchor_time": 1795537053848,
+    "anchor_price": 6393.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.9667,
+    "tm_e15_e1": 0.9667,
+    "tm_e1_e4": 0.6,
+    "tm_g15": 3.2222,
+    "tm_g1": 2.7273,
+    "tm_g4": 1.6667,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
