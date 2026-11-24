@@ -19276,7 +19276,10 @@
       "max_up": 0.0,
       "max_down": -0.99
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.21,
+      "max_down": -0.99
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -19316,7 +19319,10 @@
     "ob": 0.39,
     "p15": 0.63,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.93,
+      "max_down": -0.21
+    },
     "result_4h": null
   }
 ]
