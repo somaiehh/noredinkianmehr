@@ -4881,6 +4881,23 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "SAHARAIRT": {
+      "trigger_time": 1795543990012,
+      "trigger_price": 1645.0,
+      "secondary_score": 100.0,
+      "hunt_score": 73.8,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
