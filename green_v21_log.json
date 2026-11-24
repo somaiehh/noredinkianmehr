@@ -19326,7 +19326,10 @@
       "max_up": 0.93,
       "max_down": -0.21
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.45,
+      "max_down": -1.39
+    }
   },
   {
     "symbol": "TACIRT",
@@ -19388,7 +19391,10 @@
     "ob": 1.0,
     "p15": 1.17,
     "breakout": true,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.69,
+      "max_down": 0.38
+    },
     "result_4h": null
   },
   {
