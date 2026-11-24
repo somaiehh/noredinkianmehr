@@ -15557,7 +15557,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.7859,
-    "min_move": -3.0773,
+    "min_move": -3.7525,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -15600,6 +15600,27 @@
     "result_move": null,
     "max_move": 2.1239,
     "min_move": -0.885,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "GRAMIRT",
+    "event_time": 1795489213523,
+    "event_price": 272184.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 31.3,
+    "p15": -1.12,
+    "vr": null,
+    "va": 10.0,
+    "ta": 3.4,
+    "bs": 5.0,
+    "book": 0.23,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
