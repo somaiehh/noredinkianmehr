@@ -78352,7 +78352,10 @@
       "max_up": 2.34,
       "max_down": 0.84
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 2.34,
+      "max_down": -1.51
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -78392,7 +78395,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": -3.09,
+      "max_down": -3.09
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -78409,6 +78415,47 @@
     "va": 10.0,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ATIRT",
+    "time": 1795540416361,
+    "price": 16656.0,
+    "level": "WATCH",
+    "hunt": 43.0,
+    "persistence": 1,
+    "p15": 1.9,
+    "vr": 0.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "POLIRT",
+    "time": 1795540644206,
+    "price": 22062.0,
+    "level": "WATCH",
+    "hunt": 45.6,
+    "persistence": 4,
+    "p15": 0.21,
+    "vr": 0.28,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.68,
     "breakout": false,
     "priority": false,
     "result_15m": null,

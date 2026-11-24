@@ -44278,5 +44278,18 @@
     "levels": [],
     "failed_time": 1795494648650,
     "failed_price": 502.0
+  },
+  {
+    "symbol": "ATMIRT",
+    "anchor_time": 1791379404517,
+    "anchor_price": 317009.0,
+    "status": "FAILED",
+    "created_time": 1791379404517,
+    "last_time": 1795539614712,
+    "last_price": 285713.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1791380111900,
+    "failed_price": 303319.0
   }
 ]
