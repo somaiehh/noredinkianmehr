@@ -77855,7 +77855,10 @@
       "max_up": 2.74,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.74,
+      "max_down": -0.71
+    },
     "result_12h": null
   },
   {
@@ -78101,7 +78104,10 @@
       "max_up": 0.0,
       "max_down": -1.21
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 6.32,
+      "max_down": -1.21
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -78123,6 +78129,28 @@
       "max_up": -0.43,
       "max_down": -1.65
     },
+    "result_1h": {
+      "max_up": 2.18,
+      "max_down": -1.65
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1795526835154,
+    "price": 9396.0,
+    "level": "STRONG",
+    "hunt": 53.7,
+    "persistence": 1,
+    "p15": 0.15,
+    "vr": 1.88,
+    "va": 2.89,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
