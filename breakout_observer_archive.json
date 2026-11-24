@@ -44137,5 +44137,89 @@
     "max_gain_pct": 2.3546,
     "levels": [],
     "expired_time": 1795487031777
+  },
+  {
+    "symbol": "WIFIRT",
+    "anchor_time": 1791486717026,
+    "anchor_price": 55450.0,
+    "status": "EXPIRED",
+    "created_time": 1791486717026,
+    "last_time": 1795520792240,
+    "last_price": 35403.0,
+    "max_gain_pct": 7.5239,
+    "levels": [],
+    "confirmed_time": 1791530195259,
+    "confirmed_price": 57168.0,
+    "expired_time": 1791530195259
+  },
+  {
+    "symbol": "NOTIRT",
+    "anchor_time": 1795442430963,
+    "anchor_price": 82.0,
+    "status": "EXPIRED",
+    "created_time": 1795442430963,
+    "last_time": 1795520792240,
+    "last_price": 84.4,
+    "max_gain_pct": 3.2927,
+    "levels": [],
+    "expired_time": 1795500418725
+  },
+  {
+    "symbol": "SIRT",
+    "anchor_time": 1795443153324,
+    "anchor_price": 8090.0,
+    "status": "EXPIRED",
+    "created_time": 1795443153324,
+    "last_time": 1795520792240,
+    "last_price": 8093.0,
+    "max_gain_pct": 4.1286,
+    "levels": [],
+    "confirmed_time": 1795444224865,
+    "confirmed_price": 8369.0,
+    "expired_time": 1795487031777
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1795410772951,
+    "anchor_price": 699.0,
+    "status": "EXPIRED",
+    "created_time": 1795410772951,
+    "last_time": 1795520792240,
+    "last_price": 704.2,
+    "max_gain_pct": 11.0014,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1795442430963,
+    "confirmed_price": 727.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795443344739,
+        "price": 750.0,
+        "gain_pct": 7.2961
+      },
+      {
+        "level": 10,
+        "time": 1795444224865,
+        "price": 775.9,
+        "gain_pct": 11.0014
+      }
+    ],
+    "expired_time": 1795454124421
+  },
+  {
+    "symbol": "NIGHTIRT",
+    "anchor_time": 1794724930366,
+    "anchor_price": 14080.4,
+    "status": "FAILED",
+    "created_time": 1794724930366,
+    "last_time": 1795519796945,
+    "last_price": 14000.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1794727654597,
+    "failed_price": 13596.1
   }
 ]
