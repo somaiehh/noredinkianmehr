@@ -77706,7 +77706,10 @@
       "max_up": 4.71,
       "max_down": -0.78
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.71,
+      "max_down": -2.75
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -77734,7 +77737,10 @@
       "max_up": 4.86,
       "max_down": -3.19
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.86,
+      "max_down": -9.38
+    }
   },
   {
     "symbol": "HIRT",
@@ -78290,7 +78296,10 @@
       "max_up": 1.01,
       "max_down": -0.52
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 3.44,
+      "max_down": -0.52
+    },
     "result_12h": null
   },
   {
@@ -78315,7 +78324,10 @@
       "max_up": 4.93,
       "max_down": 0.05
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 7.61,
+      "max_down": -0.77
+    },
     "result_12h": null
   },
   {
@@ -78340,7 +78352,10 @@
       "max_up": 1.59,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.59,
+      "max_down": -0.5
+    },
     "result_12h": null
   },
   {
