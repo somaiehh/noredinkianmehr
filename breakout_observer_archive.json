@@ -44252,5 +44252,18 @@
       }
     ],
     "expired_time": 1795481802799
+  },
+  {
+    "symbol": "CYSIRT",
+    "anchor_time": 1795488113141,
+    "anchor_price": 17125.0,
+    "status": "FAILED",
+    "created_time": 1795488113141,
+    "last_time": 1795533306221,
+    "last_price": 15196.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1795489028319,
+    "failed_price": 15626.0
   }
 ]
