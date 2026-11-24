@@ -11045,5 +11045,31 @@
     "bs": 0.28,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1795530859616,
+    "symbol": "CYSIRT",
+    "price": 15399.0,
+    "hunt_score": 84.0,
+    "status": "EARLY",
+    "p15": 1.56,
+    "vr": 9.16,
+    "va": 7.9,
+    "bs": 2.2,
+    "breakout": false,
+    "persistence": 3
+  },
+  {
+    "time": 1795531092887,
+    "symbol": "BIGTIMEIRT",
+    "price": 1220.0,
+    "hunt_score": 82.0,
+    "status": "EARLY",
+    "p15": 1.08,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 0.8,
+    "breakout": false,
+    "persistence": 3
   }
 ]
