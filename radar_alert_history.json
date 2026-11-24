@@ -10967,5 +10967,31 @@
     "bs": 3.92,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1795512422424,
+    "symbol": "SOPHIRT",
+    "price": 267.0,
+    "hunt_score": 95.8,
+    "status": "EARLY",
+    "p15": 1.14,
+    "vr": 2.73,
+    "va": 3.47,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 4
+  },
+  {
+    "time": 1795512603598,
+    "symbol": "IRIRT",
+    "price": 519.0,
+    "hunt_score": 99.2,
+    "status": "EARLY",
+    "p15": 1.37,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 0.19,
+    "breakout": true,
+    "persistence": 2
   }
 ]
