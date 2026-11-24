@@ -77799,7 +77799,10 @@
       "max_up": 6.26,
       "max_down": -0.39
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.63,
+      "max_down": -0.39
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -77827,7 +77830,10 @@
       "max_up": 3.07,
       "max_down": -0.84
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.07,
+      "max_down": -0.84
+    }
   },
   {
     "symbol": "LABIRT",
@@ -77855,7 +77861,10 @@
       "max_up": -0.18,
       "max_down": -2.73
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -0.18,
+      "max_down": -4.98
+    }
   },
   {
     "symbol": "LUNCIRT",
@@ -78439,7 +78448,10 @@
       "max_up": -1.45,
       "max_down": -3.09
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -1.27,
+      "max_down": -3.82
+    },
     "result_12h": null
   },
   {
@@ -78464,7 +78476,10 @@
       "max_up": 0.0,
       "max_down": -1.26
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": -3.48
+    },
     "result_12h": null
   },
   {
@@ -78606,7 +78621,10 @@
     "bs": 3.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 2.83,
+      "max_down": 2.36
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
