@@ -44051,5 +44051,55 @@
     "levels": [],
     "failed_time": 1795488296065,
     "failed_price": 8800.0
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1795417159608,
+    "anchor_price": 7399.9,
+    "status": "EXPIRED",
+    "created_time": 1795417159608,
+    "last_time": 1795518895309,
+    "last_price": 7466.9,
+    "max_gain_pct": 6.9028,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795417920049,
+    "confirmed_price": 7704.1,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795426005404,
+        "price": 7784.4,
+        "gain_pct": 5.196
+      }
+    ],
+    "expired_time": 1795460410378
+  },
+  {
+    "symbol": "PIEVERSEIRT",
+    "anchor_time": 1795454900117,
+    "anchor_price": 1012634.0,
+    "status": "FAILED",
+    "created_time": 1795454900117,
+    "last_time": 1795518895309,
+    "last_price": 922676.0,
+    "max_gain_pct": 0.4047,
+    "levels": [],
+    "failed_time": 1795458430622,
+    "failed_price": 980001.0
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1795457815045,
+    "anchor_price": 3782.0,
+    "status": "FAILED",
+    "created_time": 1795457815045,
+    "last_time": 1795519609136,
+    "last_price": 3617.0,
+    "max_gain_pct": 0.4759,
+    "levels": [],
+    "failed_time": 1795463836098,
+    "failed_price": 3644.0
   }
 ]
