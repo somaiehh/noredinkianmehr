@@ -77303,7 +77303,10 @@
       "max_up": 9.03,
       "max_down": -0.1
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 9.03,
+      "max_down": -0.1
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -77565,7 +77568,10 @@
     "bs": 5.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.58,
+      "max_down": 0.36
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -77582,6 +77588,28 @@
     "va": 6.73,
     "buy": 100,
     "bs": 3.14,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1795495337972,
+    "price": 9170.0,
+    "level": "STRONG",
+    "hunt": 74.0,
+    "persistence": 1,
+    "p15": 1.21,
+    "vr": 10.74,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
