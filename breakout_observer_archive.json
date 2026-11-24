@@ -43846,5 +43846,17 @@
     "levels": [],
     "failed_time": 1795361291250,
     "failed_price": 60141.0
+  },
+  {
+    "symbol": "ARBIRT",
+    "anchor_time": 1794551253322,
+    "anchor_price": 39706.0,
+    "status": "EXPIRED",
+    "created_time": 1794551253322,
+    "last_time": 1795499125098,
+    "last_price": 32500.0,
+    "max_gain_pct": 2.0904,
+    "levels": [],
+    "expired_time": 1794594464170
   }
 ]
