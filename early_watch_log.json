@@ -77743,7 +77743,10 @@
       "max_up": 0.11,
       "max_down": -2.47
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.11,
+      "max_down": -3.72
+    },
     "result_12h": null
   },
   {
@@ -77914,7 +77917,10 @@
       "max_up": -0.73,
       "max_down": -0.73
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.73,
+      "max_down": -2.65
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -77954,7 +77960,10 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.57,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -77973,7 +77982,10 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -77992,7 +78004,10 @@
     "bs": 4.53,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -0.69
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -78011,6 +78026,25 @@
     "bs": 2.07,
     "breakout": false,
     "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "time": 1795522314608,
+    "price": 353.1,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.47,
+    "vr": 1.04,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.05,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
