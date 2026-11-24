@@ -77675,7 +77675,10 @@
       "max_up": 0.16,
       "max_down": -2.64
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.24,
+      "max_down": -2.64
+    }
   },
   {
     "symbol": "SOPHIRT",
@@ -78175,7 +78178,10 @@
       "max_up": 2.18,
       "max_down": -1.65
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.18,
+      "max_down": -3.35
+    },
     "result_12h": null
   },
   {
@@ -78271,7 +78277,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.01,
+      "max_down": -0.52
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -78293,7 +78302,10 @@
       "max_up": 1.47,
       "max_down": 1.47
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 4.93,
+      "max_down": 0.05
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -78315,7 +78327,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.59,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -78355,6 +78370,28 @@
     "bs": 2.05,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": -0.04,
+      "max_down": -0.04
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "IRIRT",
+    "time": 1795538834153,
+    "price": 550.0,
+    "level": "STRONG",
+    "hunt": 57.4,
+    "persistence": 1,
+    "p15": 0.18,
+    "vr": 0.26,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
