@@ -15619,8 +15619,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 1.1621,
+    "max_move": 1.4589,
     "min_move": -0.37,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "ARIAIRT",
+    "event_time": 1795494648650,
+    "event_price": 88000.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 44.2,
+    "p15": -1.12,
+    "vr": null,
+    "va": 10.0,
+    "ta": 0.6,
+    "bs": 5.0,
+    "book": 0.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
