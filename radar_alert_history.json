@@ -11071,5 +11071,31 @@
     "bs": 0.8,
     "breakout": false,
     "persistence": 3
+  },
+  {
+    "time": 1795531328947,
+    "symbol": "BIGTIMEIRT",
+    "price": 1220.0,
+    "hunt_score": 80.9,
+    "status": "EARLY",
+    "p15": 1.08,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 0.6,
+    "breakout": false,
+    "persistence": 4
+  },
+  {
+    "time": 1795531519421,
+    "symbol": "BIGTIMEIRT",
+    "price": 1220.0,
+    "hunt_score": 80.6,
+    "status": "EARLY",
+    "p15": 1.08,
+    "vr": 20.0,
+    "va": 10.0,
+    "bs": 0.47,
+    "breakout": false,
+    "persistence": 5
   }
 ]
