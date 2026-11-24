@@ -77272,7 +77272,10 @@
       "max_up": 0.06,
       "max_down": -1.37
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.06,
+      "max_down": -2.39
+    }
   },
   {
     "symbol": "AINIRT",
@@ -77545,6 +77548,25 @@
       "max_up": 0.0,
       "max_down": -1.87
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1795493820801,
+    "price": 8729.0,
+    "level": "WATCH",
+    "hunt": 41.0,
+    "persistence": 2,
+    "p15": 0.06,
+    "vr": 0.01,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
