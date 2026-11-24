@@ -15725,7 +15725,28 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.0,
-    "min_move": -1.1558,
+    "min_move": -1.4306,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "PROMIRT",
+    "event_time": 1795524105018,
+    "event_price": 1363494.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 38.3,
+    "p15": -1.65,
+    "vr": null,
+    "va": 10.0,
+    "ta": 0.69,
+    "bs": 4.29,
+    "book": 1.0,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 1.2401,
+    "min_move": 0.0,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
