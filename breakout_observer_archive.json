@@ -44101,5 +44101,41 @@
     "levels": [],
     "failed_time": 1795463836098,
     "failed_price": 3644.0
+  },
+  {
+    "symbol": "RSS3IRT",
+    "anchor_time": 1795409114250,
+    "anchor_price": 135.0,
+    "status": "EXPIRED",
+    "created_time": 1795409114250,
+    "last_time": 1795519796945,
+    "last_price": 132.0,
+    "max_gain_pct": 6.6667,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795410772951,
+    "confirmed_price": 144.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795410772951,
+        "price": 144.0,
+        "gain_pct": 6.6667
+      }
+    ],
+    "expired_time": 1795452315542
+  },
+  {
+    "symbol": "POLIRT",
+    "anchor_time": 1795443153324,
+    "anchor_price": 21660.0,
+    "status": "EXPIRED",
+    "created_time": 1795443153324,
+    "last_time": 1795519796945,
+    "last_price": 21952.0,
+    "max_gain_pct": 2.3546,
+    "levels": [],
+    "expired_time": 1795487031777
   }
 ]
