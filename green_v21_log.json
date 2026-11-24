@@ -19426,7 +19426,10 @@
       "max_up": 1.01,
       "max_down": -1.43
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.01,
+      "max_down": -4.5
+    }
   },
   {
     "symbol": "SIRENIRT",
@@ -19448,7 +19451,10 @@
       "max_up": 2.07,
       "max_down": -0.84
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.07,
+      "max_down": -0.84
+    }
   },
   {
     "symbol": "SOPHIRT",
