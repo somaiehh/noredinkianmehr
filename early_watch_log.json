@@ -77945,7 +77945,10 @@
       "max_up": -0.73,
       "max_down": -2.65
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.37,
+      "max_down": -5.11
+    },
     "result_12h": null
   },
   {
@@ -78191,6 +78194,25 @@
       "max_up": 0.0,
       "max_down": -1.25
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ATMIRT",
+    "time": 1795533306221,
+    "price": 288595.0,
+    "level": "STRONG",
+    "hunt": 64.9,
+    "persistence": 2,
+    "p15": 0.52,
+    "vr": 0.8,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.17,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
