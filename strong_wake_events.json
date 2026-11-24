@@ -19691,8 +19691,8 @@
     "tm_g4": 1.0476,
     "legacy": false,
     "result": "HIT_FIRST",
-    "result_time": 1795439530990,
-    "result_move": 26.1777,
+    "result_time": 1795440437272,
+    "result_move": 26.9931,
     "max_move": 29.8886,
     "min_move": -5.9812,
     "ledger_version": "wake-ledger-v1"
@@ -20093,6 +20093,27 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.5493,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "TUTIRT",
+    "event_time": 1795505288645,
+    "event_price": 3583.0,
+    "anchor_time": 1795504737160,
+    "anchor_price": 3583.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.65,
+    "tm_e15_e1": 0.65,
+    "tm_e1_e4": 0.7692,
+    "tm_g15": 1.3,
+    "tm_g1": 1.4286,
+    "tm_g4": 1.3,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
   }

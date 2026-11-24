@@ -77520,7 +77520,10 @@
       "max_up": 0.77,
       "max_down": -0.15
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.77,
+      "max_down": -11.58
+    }
   },
   {
     "symbol": "AINIRT",
@@ -77650,6 +77653,25 @@
       "max_up": -0.11,
       "max_down": -2.05
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SOPHIRT",
+    "time": 1795505494975,
+    "price": 255.0,
+    "level": "STRONG",
+    "hunt": 60.6,
+    "persistence": 1,
+    "p15": 2.0,
+    "vr": 0.73,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 4.28,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
