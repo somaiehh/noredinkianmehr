@@ -19381,5 +19381,43 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1795509906492,
+    "price": 286.4,
+    "pre30": 0.6,
+    "pre60": -5.91,
+    "pre120": 0.39,
+    "hunt": 64.6,
+    "persistence": 2,
+    "vr": 5.22,
+    "va": 2.0,
+    "buy": 22.0,
+    "bs": 0.66,
+    "ob": 0.83,
+    "p15": 0.6,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "SIRENIRT",
+    "time": 1795509906492,
+    "price": 9185.0,
+    "pre30": 1.02,
+    "pre60": 0.39,
+    "pre120": 2.88,
+    "hunt": 68.1,
+    "persistence": 2,
+    "vr": 5.67,
+    "va": 10.0,
+    "buy": 48.0,
+    "bs": 1.44,
+    "ob": 1.0,
+    "p15": 0.05,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

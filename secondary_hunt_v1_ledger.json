@@ -4824,6 +4824,20 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "TOWNSIRT": {
+      "trigger_time": 1795509721403,
+      "trigger_price": 264.5,
+      "secondary_score": 60.0,
+      "hunt_score": null,
+      "flags": [
+        "p15_wake",
+        "va3",
+        "bs2",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }

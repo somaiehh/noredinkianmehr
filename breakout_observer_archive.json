@@ -43987,5 +43987,30 @@
     "confirmed_time": 1795106676554,
     "confirmed_price": 577.6,
     "expired_time": 1795149023878
+  },
+  {
+    "symbol": "XAUTIRT",
+    "anchor_time": 1795442430963,
+    "anchor_price": 995951884.0,
+    "status": "EXPIRED",
+    "created_time": 1795442430963,
+    "last_time": 1795509029163,
+    "last_price": 1025000000.0,
+    "max_gain_pct": 2.9166,
+    "levels": [],
+    "expired_time": 1795491730094
+  },
+  {
+    "symbol": "BABYSHARKIRT",
+    "anchor_time": 1795454900117,
+    "anchor_price": 343.1,
+    "status": "FAILED",
+    "created_time": 1795454900117,
+    "last_time": 1795509029163,
+    "last_price": 345.0,
+    "max_gain_pct": 2.5357,
+    "levels": [],
+    "failed_time": 1795496353761,
+    "failed_price": 331.4
   }
 ]
