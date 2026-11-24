@@ -43833,5 +43833,18 @@
       }
     ],
     "expired_time": 1795455146483
+  },
+  {
+    "symbol": "MMTIRT",
+    "anchor_time": 1795355858670,
+    "anchor_price": 63171.0,
+    "status": "FAILED",
+    "created_time": 1795355858670,
+    "last_time": 1795498927626,
+    "last_price": 71040.0,
+    "max_gain_pct": 12.4567,
+    "levels": [],
+    "failed_time": 1795361291250,
+    "failed_price": 60141.0
   }
 ]
