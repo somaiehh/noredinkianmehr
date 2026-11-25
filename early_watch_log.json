@@ -78924,7 +78924,10 @@
       "max_up": 7.31,
       "max_down": -1.43
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 7.31,
+      "max_down": -6.36
+    },
     "result_12h": null
   },
   {
@@ -79145,6 +79148,25 @@
       "max_up": 1.89,
       "max_down": 0.27
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1795608856777,
+    "price": 90845.0,
+    "level": "STRONG",
+    "hunt": 69.3,
+    "persistence": 3,
+    "p15": 0.94,
+    "vr": 0.33,
+    "va": 2.26,
+    "buy": 35.333333333333336,
+    "bs": 1.06,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
