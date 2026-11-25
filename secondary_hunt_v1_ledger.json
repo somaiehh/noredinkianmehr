@@ -4898,6 +4898,22 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "MONIRT": {
+      "trigger_time": 1795585308875,
+      "trigger_price": 2959.0,
+      "secondary_score": 90.0,
+      "hunt_score": 74.7,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "va3",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
