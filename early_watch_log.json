@@ -78357,7 +78357,10 @@
       "max_up": 3.44,
       "max_down": -0.52
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.44,
+      "max_down": -0.52
+    }
   },
   {
     "symbol": "LISTAIRT",
