@@ -11253,5 +11253,18 @@
     "bs": 0.15,
     "breakout": true,
     "persistence": 4
+  },
+  {
+    "time": 1795624206201,
+    "symbol": "PROMIRT",
+    "price": 1528156.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 1.95,
+    "vr": 5.11,
+    "va": 10.0,
+    "bs": 2.64,
+    "breakout": true,
+    "persistence": 2
   }
 ]
