@@ -19975,5 +19975,24 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1795634801688,
+    "price": 8450.0,
+    "pre30": 2.31,
+    "pre60": 3.04,
+    "pre120": 3.57,
+    "hunt": 99.1,
+    "persistence": 7,
+    "vr": 10.35,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 5.0,
+    "ob": 1.0,
+    "p15": 1.44,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
