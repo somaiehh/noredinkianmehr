@@ -78729,7 +78729,10 @@
       "max_up": 2.83,
       "max_down": -7.27
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.83,
+      "max_down": -7.27
+    }
   },
   {
     "symbol": "PROMIRT",
@@ -78905,6 +78908,25 @@
       "max_up": 4.13,
       "max_down": 4.13
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "POLIRT",
+    "time": 1795595408220,
+    "price": 22108.0,
+    "level": "STRONG",
+    "hunt": 61.4,
+    "persistence": 1,
+    "p15": 0.59,
+    "vr": 0.29,
+    "va": 2.0,
+    "buy": 43.0,
+    "bs": 1.29,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
