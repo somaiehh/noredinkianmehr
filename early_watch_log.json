@@ -79008,7 +79008,10 @@
       "max_up": 1.07,
       "max_down": -0.63
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.07,
+      "max_down": -2.25
+    },
     "result_12h": null
   },
   {
@@ -79033,7 +79036,10 @@
       "max_up": 0.62,
       "max_down": 0.41
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.67,
+      "max_down": -1.86
+    },
     "result_12h": null
   },
   {
@@ -79179,6 +79185,25 @@
       "max_up": 1.07,
       "max_down": 1.07
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MOODENGIRT",
+    "time": 1795611706804,
+    "price": 7848.0,
+    "level": "STRONG",
+    "hunt": 56.0,
+    "persistence": 1,
+    "p15": 0.65,
+    "vr": 1.31,
+    "va": 1.68,
+    "buy": 40.33333333333333,
+    "bs": 1.21,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
