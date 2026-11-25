@@ -78512,7 +78512,10 @@
       "max_up": -1.27,
       "max_down": -3.82
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.18,
+      "max_down": -3.82
+    }
   },
   {
     "symbol": "QIRT",
@@ -78540,7 +78543,10 @@
       "max_up": 0.0,
       "max_down": -3.48
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -4.58
+    }
   },
   {
     "symbol": "ATIRT",
@@ -78766,6 +78772,28 @@
     "va": 7.18,
     "buy": 100,
     "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 1.49,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MANTRAIRT",
+    "time": 1795582599198,
+    "price": 539.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.89,
+    "vr": 6.81,
+    "va": 7.84,
+    "buy": 100,
+    "bs": 3.0,
     "breakout": false,
     "priority": false,
     "result_15m": null,
