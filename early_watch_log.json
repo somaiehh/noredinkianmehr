@@ -78574,7 +78574,10 @@
       "max_up": -1.46,
       "max_down": -9.64
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": -1.46,
+      "max_down": -10.17
+    }
   },
   {
     "symbol": "POLIRT",
@@ -78734,7 +78737,10 @@
       "max_up": 0.0,
       "max_down": -1.88
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.27,
+      "max_down": -1.88
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -78756,7 +78762,10 @@
       "max_up": 0.0,
       "max_down": -5.34
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.88,
+      "max_down": -5.34
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -78796,7 +78805,10 @@
     "bs": 3.0,
     "breakout": false,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 3.71,
+      "max_down": 3.71
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

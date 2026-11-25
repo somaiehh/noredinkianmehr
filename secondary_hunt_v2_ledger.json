@@ -2736,6 +2736,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ATIRT": {
+      "trigger_time": 1795583492598,
+      "trigger_price": 15224.0,
+      "secondary_score": 75.0,
+      "hunt_score": 36.4,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
