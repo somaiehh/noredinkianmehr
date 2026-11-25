@@ -19726,7 +19726,10 @@
       "max_up": 3.02,
       "max_down": 0.91
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 3.02,
+      "max_down": -6.21
+    }
   },
   {
     "symbol": "LUNCIRT",
@@ -19770,6 +19773,25 @@
       "max_up": 0.62,
       "max_down": 0.41
     },
+    "result_4h": null
+  },
+  {
+    "symbol": "ARIAIRT",
+    "time": 1795610826184,
+    "price": 94195.0,
+    "pre30": 3.69,
+    "pre60": 5.26,
+    "pre120": 9.94,
+    "hunt": 90.2,
+    "persistence": 6,
+    "vr": 17.58,
+    "va": 5.65,
+    "buy": 39.666666666666664,
+    "bs": 1.19,
+    "ob": 1.0,
+    "p15": 0.54,
+    "breakout": true,
+    "result_1h": null,
     "result_4h": null
   }
 ]
