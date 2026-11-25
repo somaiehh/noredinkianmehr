@@ -44698,5 +44698,30 @@
     "confirmed_time": 1795434200709,
     "confirmed_price": 30352.0,
     "expired_time": 1795481802799
+  },
+  {
+    "symbol": "PIEVERSEIRT",
+    "anchor_time": 1795519609136,
+    "anchor_price": 928000.0,
+    "status": "FAILED",
+    "created_time": 1795519609136,
+    "last_time": 1795605303034,
+    "last_price": 877466.0,
+    "max_gain_pct": 0.008,
+    "levels": [],
+    "failed_time": 1795522511545,
+    "failed_price": 899563.0
+  },
+  {
+    "symbol": "VELVETIRT",
+    "anchor_time": 1795546833232,
+    "anchor_price": 23683.0,
+    "status": "EXPIRED",
+    "created_time": 1795546833232,
+    "last_time": 1795605303034,
+    "last_price": 24000.0,
+    "max_gain_pct": 1.3385,
+    "levels": [],
+    "expired_time": 1795590746932
   }
 ]

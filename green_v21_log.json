@@ -19701,7 +19701,10 @@
       "max_up": 1.32,
       "max_down": -3.26
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.32,
+      "max_down": -6.06
+    }
   },
   {
     "symbol": "MONIRT",
