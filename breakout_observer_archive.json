@@ -44809,5 +44809,29 @@
     "levels": [],
     "failed_time": 1795578265488,
     "failed_price": 81.4
+  },
+  {
+    "symbol": "INITIRT",
+    "anchor_time": 1795550438578,
+    "anchor_price": 24600.0,
+    "status": "EXPIRED",
+    "created_time": 1795550438578,
+    "last_time": 1795620593279,
+    "last_price": 24600.0,
+    "max_gain_pct": 9.4837,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795574562052,
+    "confirmed_price": 25881.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795574562052,
+        "price": 25881.0,
+        "gain_pct": 5.2073
+      }
+    ],
+    "expired_time": 1795593758139
   }
 ]

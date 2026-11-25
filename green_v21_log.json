@@ -19824,5 +19824,24 @@
       "max_down": -0.53
     },
     "result_4h": null
+  },
+  {
+    "symbol": "VFYIRT",
+    "time": 1795621682968,
+    "price": 981.0,
+    "pre30": -10.08,
+    "pre60": -10.08,
+    "pre120": -32.39,
+    "hunt": 73.3,
+    "persistence": 2,
+    "vr": 1.74,
+    "va": 10.0,
+    "buy": 13.0,
+    "bs": 0.39,
+    "ob": 1.0,
+    "p15": 1.45,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
