@@ -44893,5 +44893,36 @@
     "levels": [],
     "failed_time": 1790833915584,
     "failed_price": 2509.0
+  },
+  {
+    "symbol": "BIGTIMEIRT",
+    "anchor_time": 1795579914900,
+    "anchor_price": 1617.0,
+    "status": "EXPIRED",
+    "created_time": 1795579914900,
+    "last_time": 1795625497433,
+    "last_price": 1996.0,
+    "max_gain_pct": 76.2523,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1795580107429,
+    "confirmed_price": 1800.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795580107429,
+        "price": 1800.0,
+        "gain_pct": 11.3173
+      },
+      {
+        "level": 10,
+        "time": 1795580107429,
+        "price": 1800.0,
+        "gain_pct": 11.3173
+      }
+    ],
+    "expired_time": 1795624018122
   }
 ]

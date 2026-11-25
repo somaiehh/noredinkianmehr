@@ -19801,7 +19801,10 @@
       "max_up": 0.34,
       "max_down": -2.5
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 2.13,
+      "max_down": -9.37
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -19841,7 +19844,10 @@
     "ob": 1.0,
     "p15": 1.45,
     "breakout": false,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 12.13,
+      "max_down": 12.03
+    },
     "result_4h": null
   },
   {

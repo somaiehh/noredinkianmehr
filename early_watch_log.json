@@ -78822,7 +78822,10 @@
       "max_up": 1.49,
       "max_down": -4.21
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.49,
+      "max_down": -4.39
+    }
   },
   {
     "symbol": "MANTRAIRT",
@@ -79352,7 +79355,10 @@
     "bs": 1.53,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.68,
+      "max_down": 0.68
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
