@@ -44645,5 +44645,31 @@
     "max_gain_pct": 2.5697,
     "levels": [],
     "expired_time": 1795571897044
+  },
+  {
+    "symbol": "BLURIRT",
+    "anchor_time": 1795412924542,
+    "anchor_price": 2259.0,
+    "status": "FAILED",
+    "created_time": 1795412924542,
+    "last_time": 1795602490498,
+    "last_price": 2744.0,
+    "max_gain_pct": 21.4697,
+    "levels": [],
+    "failed_time": 1795414582080,
+    "failed_price": 2159.0
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1795519796945,
+    "anchor_price": 3636.0,
+    "status": "FAILED",
+    "created_time": 1795519796945,
+    "last_time": 1795602490498,
+    "last_price": 3305.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1795523225020,
+    "failed_price": 3470.0
   }
 ]
