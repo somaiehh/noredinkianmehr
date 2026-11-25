@@ -4914,6 +4914,19 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "VOOIIRT": {
+      "trigger_time": 1795597059054,
+      "trigger_price": 1801.0,
+      "secondary_score": 60.0,
+      "hunt_score": 44.5,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
