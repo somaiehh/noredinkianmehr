@@ -78698,7 +78698,10 @@
       "max_up": 0.0,
       "max_down": -3.08
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.89,
+      "max_down": -3.08
+    }
   },
   {
     "symbol": "EPICIRT",
@@ -78825,6 +78828,25 @@
       "max_up": 11.32,
       "max_down": 3.71
     },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ATMIRT",
+    "time": 1795588143399,
+    "price": 258824.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.5,
+    "vr": 1.2,
+    "va": 3.71,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
     "result_4h": null,
     "result_12h": null
   }
