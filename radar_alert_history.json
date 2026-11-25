@@ -11383,5 +11383,18 @@
     "bs": 1.05,
     "breakout": true,
     "persistence": 8
+  },
+  {
+    "time": 1795635909621,
+    "symbol": "PEPEIRT",
+    "price": 1.0227,
+    "hunt_score": 80.1,
+    "status": "PRE_EARLY",
+    "p15": 0.03,
+    "vr": 4.06,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
