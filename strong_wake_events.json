@@ -20341,10 +20341,10 @@
     "tm_g1": 0.9286,
     "tm_g4": 1.04,
     "legacy": false,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
-    "max_move": 9.2177,
+    "result": "HIT_FIRST",
+    "result_time": 1795605110737,
+    "result_move": 10.0697,
+    "max_move": 10.0697,
     "min_move": -0.0775,
     "ledger_version": "wake-ledger-v1"
   }

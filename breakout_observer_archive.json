@@ -44671,5 +44671,32 @@
     "levels": [],
     "failed_time": 1795523225020,
     "failed_price": 3470.0
+  },
+  {
+    "symbol": "MMTIRT",
+    "anchor_time": 1795499125098,
+    "anchor_price": 70762.0,
+    "status": "FAILED",
+    "created_time": 1795499125098,
+    "last_time": 1795604411046,
+    "last_price": 70999.0,
+    "max_gain_pct": 8.058,
+    "levels": [],
+    "failed_time": 1795500418725,
+    "failed_price": 66753.0
+  },
+  {
+    "symbol": "AINIRT",
+    "anchor_time": 1795428697016,
+    "anchor_price": 29150.0,
+    "status": "EXPIRED",
+    "created_time": 1795428697016,
+    "last_time": 1795604411046,
+    "last_price": 25897.0,
+    "max_gain_pct": 4.1235,
+    "levels": [],
+    "confirmed_time": 1795434200709,
+    "confirmed_price": 30352.0,
+    "expired_time": 1795481802799
   }
 ]
