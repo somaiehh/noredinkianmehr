@@ -20299,11 +20299,11 @@
     "tm_g1": 1.3333,
     "tm_g4": 1.1,
     "legacy": false,
-    "result": "PENDING",
-    "result_time": null,
-    "result_move": null,
+    "result": "STOP_FIRST",
+    "result_time": 1795615193945,
+    "result_move": -5.3774,
     "max_move": 1.272,
-    "min_move": -4.0878,
+    "min_move": -5.3774,
     "ledger_version": "wake-ledger-v1"
   },
   {
