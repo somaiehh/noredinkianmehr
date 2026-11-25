@@ -19799,5 +19799,24 @@
     "breakout": true,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "ELIZAOSIRT",
+    "time": 1795612494403,
+    "price": 56.6,
+    "pre30": 1.8,
+    "pre60": 1.25,
+    "pre120": 3.85,
+    "hunt": 100.0,
+    "persistence": 2,
+    "vr": 9.85,
+    "va": 7.61,
+    "buy": 90.66666666666667,
+    "bs": 2.72,
+    "ob": 1.0,
+    "p15": 1.25,
+    "breakout": true,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
