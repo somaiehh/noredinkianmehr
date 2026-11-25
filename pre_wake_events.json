@@ -15616,11 +15616,11 @@
     "book": 0.23,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 3.9595,
-    "min_move": -0.9986,
+    "min_move": -1.0802,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
@@ -15725,7 +15725,7 @@
     "result_time": null,
     "result_move": null,
     "max_move": 0.217,
-    "min_move": -3.8449,
+    "min_move": -3.9241,
     "ledger_version": "pre-wake-ledger-v1"
   },
   {
