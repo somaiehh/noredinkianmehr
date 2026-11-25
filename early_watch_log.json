@@ -78388,7 +78388,10 @@
       "max_up": 7.61,
       "max_down": -0.77
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 7.61,
+      "max_down": -11.59
+    }
   },
   {
     "symbol": "BABYIRT",
@@ -78416,7 +78419,10 @@
       "max_up": 1.59,
       "max_down": -0.5
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.59,
+      "max_down": -0.5
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
