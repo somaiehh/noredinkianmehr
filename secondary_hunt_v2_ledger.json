@@ -2751,6 +2751,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "ATMIRT": {
+      "trigger_time": 1795586424982,
+      "trigger_price": 269101.0,
+      "secondary_score": 75.0,
+      "hunt_score": 42.0,
+      "flags": [
+        "candidate",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
