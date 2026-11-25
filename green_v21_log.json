@@ -19699,5 +19699,24 @@
       "max_down": -3.26
     },
     "result_4h": null
+  },
+  {
+    "symbol": "MONIRT",
+    "time": 1795596299223,
+    "price": 3077.0,
+    "pre30": -2.47,
+    "pre60": 3.29,
+    "pre120": -0.74,
+    "hunt": 72.2,
+    "persistence": 2,
+    "vr": 1.08,
+    "va": 2.0,
+    "buy": 50.33333333333333,
+    "bs": 1.51,
+    "ob": 1.0,
+    "p15": 1.18,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
