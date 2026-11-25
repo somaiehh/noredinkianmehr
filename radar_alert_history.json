@@ -11162,5 +11162,31 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1795601496374,
+    "symbol": "MOODENGIRT",
+    "price": 8345.0,
+    "hunt_score": 93.0,
+    "status": "EARLY",
+    "p15": 2.75,
+    "vr": 4.82,
+    "va": 3.5,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 3
+  },
+  {
+    "time": 1795601666506,
+    "symbol": "MOODENGIRT",
+    "price": 8306.0,
+    "hunt_score": 92.7,
+    "status": "EARLY",
+    "p15": 2.27,
+    "vr": 4.82,
+    "va": 2.78,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 4
   }
 ]
