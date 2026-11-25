@@ -11266,5 +11266,18 @@
     "bs": 2.64,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1795627438091,
+    "symbol": "ATIRT",
+    "price": 17100.0,
+    "hunt_score": 95.2,
+    "status": "EARLY",
+    "p15": 1.79,
+    "vr": 5.49,
+    "va": 3.92,
+    "bs": 1.27,
+    "breakout": true,
+    "persistence": 2
   }
 ]

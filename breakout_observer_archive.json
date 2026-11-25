@@ -44960,5 +44960,77 @@
         "gain_pct": 6.6239
       }
     ]
+  },
+  {
+    "symbol": "DOGSIRT",
+    "anchor_time": 1795412924542,
+    "anchor_price": 6.88,
+    "status": "EXPIRED",
+    "created_time": 1795412924542,
+    "last_time": 1795626162817,
+    "last_price": 7.06,
+    "max_gain_pct": 6.5407,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795443153324,
+    "confirmed_price": 7.14,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795444224865,
+        "price": 7.33,
+        "gain_pct": 6.5407
+      }
+    ],
+    "expired_time": 1795456660367
+  },
+  {
+    "symbol": "SOPHIRT",
+    "anchor_time": 1795504340977,
+    "anchor_price": 250.0,
+    "status": "EXPIRED",
+    "created_time": 1795504340977,
+    "last_time": 1795626162817,
+    "last_price": 241.0,
+    "max_gain_pct": 6.8,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795508834267,
+    "confirmed_price": 259.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795509721403,
+        "price": 265.0,
+        "gain_pct": 6.0
+      }
+    ],
+    "expired_time": 1795547679747
+  },
+  {
+    "symbol": "SHIBIRT",
+    "anchor_time": 1795431471709,
+    "anchor_price": 0.9999,
+    "status": "EXPIRED",
+    "created_time": 1795431471709,
+    "last_time": 1795627255211,
+    "last_price": 1.0392,
+    "max_gain_pct": 5.4905,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795443344739,
+    "confirmed_price": 1.0368,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795444480403,
+        "price": 1.0548,
+        "gain_pct": 5.4905
+      }
+    ],
+    "expired_time": 1795481802799
   }
 ]
