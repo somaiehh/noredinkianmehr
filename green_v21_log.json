@@ -19874,5 +19874,24 @@
       "max_down": -0.08
     },
     "result_4h": null
+  },
+  {
+    "symbol": "REZIRT",
+    "time": 1795628706454,
+    "price": 641.0,
+    "pre30": null,
+    "pre60": null,
+    "pre120": null,
+    "hunt": 76.0,
+    "persistence": 2,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
+    "ob": 0.37,
+    "p15": 0.94,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]

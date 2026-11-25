@@ -79392,7 +79392,10 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": -0.28
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -79411,7 +79414,10 @@
     "bs": 1.4,
     "breakout": true,
     "priority": false,
-    "result_15m": null,
+    "result_15m": {
+      "max_up": 2.28,
+      "max_down": 0.0
+    },
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
@@ -79430,6 +79436,47 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 0.02,
+      "max_down": -0.73
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ONEIRT",
+    "time": 1795628527934,
+    "price": 280.9,
+    "level": "STRONG",
+    "hunt": 60.8,
+    "persistence": 1,
+    "p15": 1.74,
+    "vr": 0.01,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "REZIRT",
+    "time": 1795628706454,
+    "price": 641.0,
+    "level": "STRONG",
+    "hunt": 76.0,
+    "persistence": 2,
+    "p15": 0.94,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": false,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
