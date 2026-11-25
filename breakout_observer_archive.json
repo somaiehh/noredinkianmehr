@@ -44572,5 +44572,78 @@
     "max_gain_pct": 1.1667,
     "levels": [],
     "expired_time": 1795571897044
+  },
+  {
+    "symbol": "LUNCIRT",
+    "anchor_time": 1795508834267,
+    "anchor_price": 12.712,
+    "status": "EXPIRED",
+    "created_time": 1795508834267,
+    "last_time": 1795597247110,
+    "last_price": 13.549,
+    "max_gain_pct": 6.5843,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795513302022,
+    "confirmed_price": 13.114,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795516018046,
+        "price": 13.399,
+        "gain_pct": 5.4043
+      }
+    ],
+    "expired_time": 1795552215353
+  },
+  {
+    "symbol": "AVAXIRT",
+    "anchor_time": 1795243689450,
+    "anchor_price": 1717278.0,
+    "status": "EXPIRED",
+    "created_time": 1795243689450,
+    "last_time": 1795597247110,
+    "last_price": 1906224.0,
+    "max_gain_pct": 14.4543,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795265094920,
+    "confirmed_price": 1773786.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795269453247,
+        "price": 1811126.0,
+        "gain_pct": 5.4649
+      }
+    ],
+    "expired_time": 1795286932846
+  },
+  {
+    "symbol": "EPICIRT",
+    "anchor_time": 1795514279934,
+    "anchor_price": 19746.0,
+    "status": "FAILED",
+    "created_time": 1795514279934,
+    "last_time": 1795597247110,
+    "last_price": 19221.0,
+    "max_gain_pct": 3.0588,
+    "levels": [],
+    "failed_time": 1795545730899,
+    "failed_price": 19070.0
+  },
+  {
+    "symbol": "XAUTIRT",
+    "anchor_time": 1795509721403,
+    "anchor_price": 1031880508.0,
+    "status": "EXPIRED",
+    "created_time": 1795509721403,
+    "last_time": 1795597936439,
+    "last_price": 1040186754.0,
+    "max_gain_pct": 2.5697,
+    "levels": [],
+    "expired_time": 1795571897044
   }
 ]

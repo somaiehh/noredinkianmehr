@@ -11149,5 +11149,18 @@
     "bs": 1.82,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1795598140853,
+    "symbol": "AVAXIRT",
+    "price": 1911099.0,
+    "hunt_score": 81.4,
+    "status": "EARLY",
+    "p15": 0.26,
+    "vr": 0.56,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
