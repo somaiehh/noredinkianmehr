@@ -78295,7 +78295,10 @@
       "max_up": 10.88,
       "max_down": -1.73
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 10.88,
+      "max_down": -11.18
+    }
   },
   {
     "symbol": "ATMIRT",
