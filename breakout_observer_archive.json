@@ -45045,5 +45045,67 @@
     "levels": [],
     "failed_time": 1795447676429,
     "failed_price": 320.0
+  },
+  {
+    "symbol": "NEARIRT",
+    "anchor_time": 1795430574368,
+    "anchor_price": 829513.0,
+    "status": "EXPIRED",
+    "created_time": 1795430574368,
+    "last_time": 1795629593486,
+    "last_price": 840989.0,
+    "max_gain_pct": 7.5389,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795442430963,
+    "confirmed_price": 854637.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795443344739,
+        "price": 872690.0,
+        "gain_pct": 5.2051
+      }
+    ],
+    "expired_time": 1795487031777
+  },
+  {
+    "symbol": "RSS3IRT",
+    "anchor_time": 1795520566727,
+    "anchor_price": 133.0,
+    "status": "FAILED",
+    "created_time": 1795520566727,
+    "last_time": 1795629593486,
+    "last_price": 130.0,
+    "max_gain_pct": 2.2556,
+    "levels": [],
+    "failed_time": 1795537053848,
+    "failed_price": 129.0
+  },
+  {
+    "symbol": "SLVONIRT",
+    "anchor_time": 1795443153324,
+    "anchor_price": 10768504.0,
+    "status": "EXPIRED",
+    "created_time": 1795443153324,
+    "last_time": 1795629593486,
+    "last_price": 10637327.0,
+    "max_gain_pct": 3.4701,
+    "levels": [],
+    "expired_time": 1795492689195
+  },
+  {
+    "symbol": "WENSOLIRT",
+    "anchor_time": 1795172411075,
+    "anchor_price": 1.0847,
+    "status": "FAILED",
+    "created_time": 1795172411075,
+    "last_time": 1795629593486,
+    "last_price": 1.11,
+    "max_gain_pct": 14.2436,
+    "levels": [],
+    "failed_time": 1795192016352,
+    "failed_price": 1.0399
   }
 ]
