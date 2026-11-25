@@ -78636,7 +78636,10 @@
       "max_up": 5.35,
       "max_down": 0.55
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.35,
+      "max_down": -11.43
+    }
   },
   {
     "symbol": "VELVETIRT",
@@ -78664,7 +78667,10 @@
       "max_up": 2.61,
       "max_down": -0.42
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.61,
+      "max_down": -1.46
+    }
   },
   {
     "symbol": "PIEVERSEIRT",
