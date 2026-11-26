@@ -45243,5 +45243,36 @@
     "levels": [],
     "failed_time": 1795415210693,
     "failed_price": 177815.0
+  },
+  {
+    "symbol": "PIEVERSEIRT",
+    "anchor_time": 1795606131585,
+    "anchor_price": 900000.0,
+    "status": "EXPIRED",
+    "created_time": 1795606131585,
+    "last_time": 1795672811031,
+    "last_price": 1129920.0,
+    "max_gain_pct": 25.5467,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1795610653580,
+    "confirmed_price": 932131.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795617072808,
+        "price": 946551.0,
+        "gain_pct": 5.1723
+      },
+      {
+        "level": 10,
+        "time": 1795617509712,
+        "price": 1008000.0,
+        "gain_pct": 12.0
+      }
+    ],
+    "expired_time": 1795668842524
   }
 ]
