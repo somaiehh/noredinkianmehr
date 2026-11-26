@@ -45493,5 +45493,43 @@
     "confirmed_time": 1795649202095,
     "confirmed_price": 283104.0,
     "expired_time": 1795668842524
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1795634801688,
+    "anchor_price": 1.02237,
+    "status": "EXPIRED",
+    "created_time": 1795634801688,
+    "last_time": 1795680955031,
+    "last_price": 1.03229,
+    "max_gain_pct": 2.7025,
+    "levels": [],
+    "expired_time": 1795678027168
+  },
+  {
+    "symbol": "POLIRT",
+    "anchor_time": 1795595408220,
+    "anchor_price": 22108.0,
+    "status": "EXPIRED",
+    "created_time": 1795595408220,
+    "last_time": 1795680955031,
+    "last_price": 22388.0,
+    "max_gain_pct": 4.9394,
+    "levels": [],
+    "confirmed_time": 1795634975713,
+    "confirmed_price": 23200.0,
+    "expired_time": 1795649005335
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1795634801688,
+    "anchor_price": 8906.0,
+    "status": "EXPIRED",
+    "created_time": 1795634801688,
+    "last_time": 1795680955031,
+    "last_price": 8947.0,
+    "max_gain_pct": 0.494,
+    "levels": [],
+    "expired_time": 1795678027168
   }
 ]
