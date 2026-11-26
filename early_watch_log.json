@@ -79997,7 +79997,10 @@
       "max_up": 2.58,
       "max_down": -0.43
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.58,
+      "max_down": -2.27
+    }
   },
   {
     "symbol": "SEIIRT",
@@ -80805,7 +80808,10 @@
       "max_up": 0.45,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.45,
+      "max_down": -0.99
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -80867,6 +80873,85 @@
     "bs": 2.93,
     "breakout": false,
     "priority": false,
+    "result_15m": {
+      "max_up": 0.04,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "BIGTIMEIRT",
+    "time": 1795721192516,
+    "price": 1696.0,
+    "level": "STRONG",
+    "hunt": 69.3,
+    "persistence": 1,
+    "p15": 0.95,
+    "vr": 0.34,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 4.66,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SOPHIRT",
+    "time": 1795721192516,
+    "price": 269.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.51,
+    "vr": 18.58,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.92,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "UAIIRT",
+    "time": 1795721192516,
+    "price": 8619.0,
+    "level": "STRONG",
+    "hunt": 58.5,
+    "persistence": 1,
+    "p15": 0.1,
+    "vr": 0.0,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
+    "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "CYSIRT",
+    "time": 1795721192516,
+    "price": 15469.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.63,
+    "vr": 1.14,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.62,
+    "breakout": true,
+    "priority": true,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
