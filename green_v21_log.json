@@ -20051,7 +20051,10 @@
       "max_up": 0.22,
       "max_down": -0.23
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 1.1,
+      "max_down": -0.23
+    }
   },
   {
     "symbol": "PUMPIRT",
@@ -20073,7 +20076,10 @@
       "max_up": -0.35,
       "max_down": -1.18
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": -0.05,
+      "max_down": -1.81
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -20095,7 +20101,10 @@
       "max_up": 0.35,
       "max_down": -0.1
     },
-    "result_4h": null
+    "result_4h": {
+      "max_up": 0.35,
+      "max_down": -1.59
+    }
   },
   {
     "symbol": "SLVONIRT",
