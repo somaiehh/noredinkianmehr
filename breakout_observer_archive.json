@@ -46030,5 +46030,31 @@
         "gain_pct": 5.1383
       }
     ]
+  },
+  {
+    "symbol": "MANTRAIRT",
+    "anchor_time": 1795676525821,
+    "anchor_price": 820.0,
+    "status": "EXPIRED",
+    "created_time": 1795676525821,
+    "last_time": 1795727766130,
+    "last_price": 742.0,
+    "max_gain_pct": 4.6341,
+    "levels": [],
+    "confirmed_time": 1795677313321,
+    "confirmed_price": 858.0,
+    "expired_time": 1795720409492
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1795680955031,
+    "anchor_price": 287237.0,
+    "status": "EXPIRED",
+    "created_time": 1795680955031,
+    "last_time": 1795728404819,
+    "last_price": 287999.0,
+    "max_gain_pct": 0.6831,
+    "levels": [],
+    "expired_time": 1795724822266
   }
 ]

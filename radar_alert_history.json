@@ -11656,5 +11656,18 @@
     "bs": 0.0,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1795728587750,
+    "symbol": "MANTRAIRT",
+    "price": 746.0,
+    "hunt_score": 87.6,
+    "status": "EARLY",
+    "p15": 2.47,
+    "vr": 8.35,
+    "va": 2.0,
+    "bs": 4.48,
+    "breakout": true,
+    "persistence": 2
   }
 ]

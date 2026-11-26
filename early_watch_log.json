@@ -80810,7 +80810,10 @@
       "max_up": 0.87,
       "max_down": 0.04
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.82,
+      "max_down": -8.72
+    },
     "result_12h": null
   },
   {
