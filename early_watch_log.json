@@ -79225,7 +79225,10 @@
       "max_up": 2.22,
       "max_down": -3.94
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.22,
+      "max_down": -3.94
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -79253,7 +79256,10 @@
       "max_up": 5.67,
       "max_down": -6.03
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.78,
+      "max_down": -6.03
+    }
   },
   {
     "symbol": "MOODENGIRT",
@@ -79281,7 +79287,10 @@
       "max_up": 6.54,
       "max_down": -2.34
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 13.28,
+      "max_down": -2.34
+    }
   },
   {
     "symbol": "ELIZAOSIRT",
@@ -79309,7 +79318,10 @@
       "max_up": 5.69,
       "max_down": -0.71
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 5.69,
+      "max_down": -2.14
+    }
   },
   {
     "symbol": "ARIAIRT",
@@ -79337,7 +79349,10 @@
       "max_up": 3.67,
       "max_down": -0.34
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.31,
+      "max_down": -0.34
+    }
   },
   {
     "symbol": "LABIRT",
@@ -79365,7 +79380,10 @@
       "max_up": 5.14,
       "max_down": -1.79
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 6.33,
+      "max_down": -1.79
+    }
   },
   {
     "symbol": "IRIRT",
@@ -79393,7 +79411,10 @@
       "max_up": 21.22,
       "max_down": -5.22
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 21.22,
+      "max_down": -5.22
+    }
   },
   {
     "symbol": "PROMIRT",
@@ -79421,7 +79442,10 @@
       "max_up": 2.21,
       "max_down": -2.23
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 2.21,
+      "max_down": -2.23
+    }
   },
   {
     "symbol": "DOGSIRT",
@@ -79750,7 +79774,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
     "result_12h": null
   },
   {
@@ -79775,7 +79802,10 @@
       "max_up": 0.22,
       "max_down": -0.25
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.22,
+      "max_down": -0.46
+    },
     "result_12h": null
   },
   {
@@ -79800,7 +79830,10 @@
       "max_up": -0.51,
       "max_down": -0.71
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.51,
+      "max_down": -0.77
+    },
     "result_12h": null
   }
 ]
