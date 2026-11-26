@@ -45964,5 +45964,18 @@
       }
     ],
     "expired_time": 1795577362916
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1795675507151,
+    "anchor_price": 3514.0,
+    "status": "FAILED",
+    "created_time": 1795675507151,
+    "last_time": 1795721365191,
+    "last_price": 3489.0,
+    "max_gain_pct": 1.992,
+    "levels": [],
+    "failed_time": 1795685228659,
+    "failed_price": 3392.0
   }
 ]
