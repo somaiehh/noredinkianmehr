@@ -45607,5 +45607,29 @@
     "levels": [],
     "failed_time": 1795615410968,
     "failed_price": 23775.0
+  },
+  {
+    "symbol": "NOTIRT",
+    "anchor_time": 1795618804458,
+    "anchor_price": 81.2,
+    "status": "EXPIRED",
+    "created_time": 1795618804458,
+    "last_time": 1795686774085,
+    "last_price": 87.3,
+    "max_gain_pct": 7.5123,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795627255211,
+    "confirmed_price": 83.8,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795668842524,
+        "price": 85.7,
+        "gain_pct": 5.5419
+      }
+    ],
+    "expired_time": 1795668842524
   }
 ]
