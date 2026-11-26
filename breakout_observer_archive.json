@@ -45741,5 +45741,36 @@
     "max_gain_pct": 10.0,
     "levels": [],
     "expired_time": 1795508834267
+  },
+  {
+    "symbol": "SSVIRT",
+    "anchor_time": 1795625961601,
+    "anchor_price": 600390.0,
+    "status": "EXPIRED",
+    "created_time": 1795625961601,
+    "last_time": 1795690834889,
+    "last_price": 745056.0,
+    "max_gain_pct": 27.4202,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1795631310497,
+    "confirmed_price": 622053.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795633236950,
+        "price": 631028.0,
+        "gain_pct": 5.103
+      },
+      {
+        "level": 10,
+        "time": 1795634801688,
+        "price": 661968.0,
+        "gain_pct": 10.2563
+      }
+    ],
+    "expired_time": 1795669884383
   }
 ]

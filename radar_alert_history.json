@@ -11500,5 +11500,31 @@
     "bs": 0.07,
     "breakout": false,
     "persistence": 4
+  },
+  {
+    "time": 1795691597391,
+    "symbol": "SSVIRT",
+    "price": 761258.0,
+    "hunt_score": 98.6,
+    "status": "EARLY",
+    "p15": 2.17,
+    "vr": 5.5,
+    "va": 10.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
+  },
+  {
+    "time": 1795691839367,
+    "symbol": "QIRT",
+    "price": 7664.9,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 0.95,
+    "vr": 7.37,
+    "va": 10.0,
+    "bs": 0.42,
+    "breakout": true,
+    "persistence": 2
   }
 ]
