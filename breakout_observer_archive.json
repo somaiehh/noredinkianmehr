@@ -45816,5 +45816,29 @@
       }
     ],
     "expired_time": 1795554248377
+  },
+  {
+    "symbol": "UAIIRT",
+    "anchor_time": 1795632136725,
+    "anchor_price": 8259.0,
+    "status": "EXPIRED",
+    "created_time": 1795632136725,
+    "last_time": 1795711571891,
+    "last_price": 8520.0,
+    "max_gain_pct": 6.502,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795668842524,
+    "confirmed_price": 8700.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795668842524,
+        "price": 8700.0,
+        "gain_pct": 5.3396
+      }
+    ],
+    "expired_time": 1795675507151
   }
 ]
