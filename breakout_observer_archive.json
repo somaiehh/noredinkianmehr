@@ -45336,5 +45336,36 @@
     "confirmed_time": 1795635731457,
     "confirmed_price": 3447.0,
     "expired_time": 1795649005335
+  },
+  {
+    "symbol": "MANTRAIRT",
+    "anchor_time": 1795593758139,
+    "anchor_price": 629.0,
+    "status": "EXPIRED",
+    "created_time": 1795593758139,
+    "last_time": 1795676292479,
+    "last_price": 780.0,
+    "max_gain_pct": 59.1415,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1795594485435,
+    "confirmed_price": 655.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795594675052,
+        "price": 675.0,
+        "gain_pct": 7.3132
+      },
+      {
+        "level": 10,
+        "time": 1795613216520,
+        "price": 703.0,
+        "gain_pct": 11.7647
+      }
+    ],
+    "expired_time": 1795649005335
   }
 ]
