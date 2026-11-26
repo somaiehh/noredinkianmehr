@@ -80755,5 +80755,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "MMTIRT",
+    "time": 1795716945087,
+    "price": 64295.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.01,
+    "vr": 0.08,
+    "va": 6.05,
+    "buy": 33.666666666666664,
+    "bs": 1.01,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
