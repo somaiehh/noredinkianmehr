@@ -45582,5 +45582,30 @@
     "max_gain_pct": 1.2097,
     "levels": [],
     "expired_time": 1795670577627
+  },
+  {
+    "symbol": "ONEIRT",
+    "anchor_time": 1795634801688,
+    "anchor_price": 284.0,
+    "status": "EXPIRED",
+    "created_time": 1795634801688,
+    "last_time": 1795685407028,
+    "last_price": 288.9,
+    "max_gain_pct": 1.7254,
+    "levels": [],
+    "expired_time": 1795678027168
+  },
+  {
+    "symbol": "VELVETIRT",
+    "anchor_time": 1795606131585,
+    "anchor_price": 24716.0,
+    "status": "FAILED",
+    "created_time": 1795606131585,
+    "last_time": 1795686575234,
+    "last_price": 25100.0,
+    "max_gain_pct": 3.1801,
+    "levels": [],
+    "failed_time": 1795615410968,
+    "failed_price": 23775.0
   }
 ]
