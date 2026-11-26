@@ -45298,5 +45298,43 @@
       }
     ],
     "expired_time": 1795620593279
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1795625961601,
+    "anchor_price": 699.3,
+    "status": "EXPIRED",
+    "created_time": 1795625961601,
+    "last_time": 1795674649307,
+    "last_price": 772.0,
+    "max_gain_pct": 10.6821,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795629407169,
+    "confirmed_price": 725.2,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795634801688,
+        "price": 742.4,
+        "gain_pct": 6.1633
+      }
+    ],
+    "expired_time": 1795669884383
+  },
+  {
+    "symbol": "HIRT",
+    "anchor_time": 1795602686413,
+    "anchor_price": 3343.0,
+    "status": "EXPIRED",
+    "created_time": 1795602686413,
+    "last_time": 1795675327652,
+    "last_price": 3476.0,
+    "max_gain_pct": 3.9785,
+    "levels": [],
+    "confirmed_time": 1795635731457,
+    "confirmed_price": 3447.0,
+    "expired_time": 1795649005335
   }
 ]
