@@ -46007,5 +46007,28 @@
         "gain_pct": 10.7143
       }
     ]
+  },
+  {
+    "symbol": "SOPHIRT",
+    "anchor_time": 1795684326852,
+    "anchor_price": 253.0,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1795684326852,
+    "last_time": 1795726824586,
+    "last_price": 269.0,
+    "max_gain_pct": 7.9051,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795713094304,
+    "confirmed_price": 266.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795713094304,
+        "price": 266.0,
+        "gain_pct": 5.1383
+      }
+    ]
   }
 ]

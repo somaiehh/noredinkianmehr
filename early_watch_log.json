@@ -80338,7 +80338,10 @@
       "max_up": 0.64,
       "max_down": 0.11
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.64,
+      "max_down": -1.5
+    }
   },
   {
     "symbol": "MOVEIRT",
@@ -80782,7 +80785,10 @@
       "max_up": -1.41,
       "max_down": -1.85
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": -0.74,
+      "max_down": -5.79
+    },
     "result_12h": null
   },
   {
