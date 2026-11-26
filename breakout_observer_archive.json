@@ -45940,5 +45940,29 @@
     "levels": [],
     "failed_time": 1795674457847,
     "failed_price": 215917744.0
+  },
+  {
+    "symbol": "CYSIRT",
+    "anchor_time": 1795534029968,
+    "anchor_price": 16057.0,
+    "status": "EXPIRED",
+    "created_time": 1795534029968,
+    "last_time": 1795720409492,
+    "last_price": 15221.0,
+    "max_gain_pct": 6.3399,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795540416361,
+    "confirmed_price": 16768.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795541217717,
+        "price": 17056.0,
+        "gain_pct": 6.2216
+      }
+    ],
+    "expired_time": 1795577362916
   }
 ]
