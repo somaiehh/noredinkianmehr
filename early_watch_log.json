@@ -80578,5 +80578,24 @@
     },
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "MANTRAIRT",
+    "time": 1795707009534,
+    "price": 714.0,
+    "level": "WATCH",
+    "hunt": 43.2,
+    "persistence": 1,
+    "p15": 0.28,
+    "vr": 0.51,
+    "va": 2.6,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
