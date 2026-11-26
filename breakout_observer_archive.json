@@ -45914,5 +45914,18 @@
     "max_gain_pct": 2.5384,
     "levels": [],
     "expired_time": 1795678229504
+  },
+  {
+    "symbol": "OPGIRT",
+    "anchor_time": 1794413166635,
+    "anchor_price": 42375.0,
+    "status": "FAILED",
+    "created_time": 1794413166635,
+    "last_time": 1795718515754,
+    "last_price": 50491.0,
+    "max_gain_pct": 26.3245,
+    "levels": [],
+    "failed_time": 1794414796024,
+    "failed_price": 39775.0
   }
 ]
