@@ -20155,5 +20155,24 @@
       "max_up": -0.37,
       "max_down": -3.71
     }
+  },
+  {
+    "symbol": "TFUELIRT",
+    "time": 1795710525253,
+    "price": 2241.0,
+    "pre30": 0.49,
+    "pre60": 0.18,
+    "pre120": -6.12,
+    "hunt": 73.5,
+    "persistence": 3,
+    "vr": 2.68,
+    "va": 10.0,
+    "buy": 13.333333333333334,
+    "bs": 0.4,
+    "ob": 1.0,
+    "p15": 1.17,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
