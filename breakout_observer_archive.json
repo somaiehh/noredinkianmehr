@@ -45531,5 +45531,18 @@
     "max_gain_pct": 0.494,
     "levels": [],
     "expired_time": 1795678027168
+  },
+  {
+    "symbol": "INITIRT",
+    "anchor_time": 1795621490100,
+    "anchor_price": 24999.0,
+    "status": "FAILED",
+    "created_time": 1795621490100,
+    "last_time": 1795682523515,
+    "last_price": 27500.0,
+    "max_gain_pct": 10.0044,
+    "levels": [],
+    "failed_time": 1795668842524,
+    "failed_price": 23248.0
   }
 ]
