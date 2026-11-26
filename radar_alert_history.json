@@ -11617,5 +11617,18 @@
     "bs": 5.0,
     "breakout": true,
     "persistence": 5
+  },
+  {
+    "time": 1795714168581,
+    "symbol": "SSVIRT",
+    "price": 854473.0,
+    "hunt_score": 84.1,
+    "status": "EARLY",
+    "p15": 1.38,
+    "vr": 0.31,
+    "va": 10.0,
+    "bs": 1.95,
+    "breakout": true,
+    "persistence": 2
   }
 ]

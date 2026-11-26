@@ -79904,7 +79904,10 @@
       "max_up": 7.02,
       "max_down": -4.55
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 8.0,
+      "max_down": -4.55
+    }
   },
   {
     "symbol": "SSVIRT",
@@ -80705,6 +80708,28 @@
     "bs": 3.57,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": -1.41,
+      "max_down": -1.41
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SSVIRT",
+    "time": 1795714164326,
+    "price": 854473.0,
+    "level": "STRONG",
+    "hunt": 84.1,
+    "persistence": 2,
+    "p15": 1.38,
+    "vr": 0.31,
+    "va": 10.0,
+    "buy": 65.0,
+    "bs": 1.95,
+    "breakout": true,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
