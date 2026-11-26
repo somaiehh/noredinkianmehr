@@ -45274,5 +45274,29 @@
       }
     ],
     "expired_time": 1795668842524
+  },
+  {
+    "symbol": "ARIAIRT",
+    "anchor_time": 1795577362916,
+    "anchor_price": 88549.0,
+    "status": "EXPIRED",
+    "created_time": 1795577362916,
+    "last_time": 1795673681424,
+    "last_price": 99899.0,
+    "max_gain_pct": 12.8189,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795581731432,
+    "confirmed_price": 92400.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795582599198,
+        "price": 93000.0,
+        "gain_pct": 5.0266
+      }
+    ],
+    "expired_time": 1795620593279
   }
 ]
