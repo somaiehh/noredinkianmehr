@@ -80820,6 +80820,28 @@
     "bs": 3.0,
     "breakout": true,
     "priority": true,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "ZECIRT",
+    "time": 1795719624852,
+    "price": 212346170.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.39,
+    "vr": 20.0,
+    "va": 2.0,
+    "buy": 75.33333333333333,
+    "bs": 2.26,
+    "breakout": true,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
