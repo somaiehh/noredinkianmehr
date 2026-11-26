@@ -20202,5 +20202,24 @@
       "max_down": 0.75
     },
     "result_4h": null
+  },
+  {
+    "symbol": "EPICIRT",
+    "time": 1795731393187,
+    "price": 20000.0,
+    "pre30": 0.0,
+    "pre60": 1.52,
+    "pre120": 0.0,
+    "hunt": 71.7,
+    "persistence": 2,
+    "vr": 8.96,
+    "va": 2.0,
+    "buy": 33.666666666666664,
+    "bs": 1.01,
+    "ob": 1.0,
+    "p15": 1.24,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
