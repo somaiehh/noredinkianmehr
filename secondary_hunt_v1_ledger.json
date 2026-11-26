@@ -4985,6 +4985,21 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "TFUELIRT": {
+      "trigger_time": 1795701453647,
+      "trigger_price": 2444.0,
+      "secondary_score": 65.0,
+      "hunt_score": null,
+      "flags": [
+        "p15_wake",
+        "va3",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
