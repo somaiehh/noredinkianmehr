@@ -45544,5 +45544,31 @@
     "levels": [],
     "failed_time": 1795668842524,
     "failed_price": 23248.0
+  },
+  {
+    "symbol": "XAUTIRT",
+    "anchor_time": 1795598136981,
+    "anchor_price": 1040186754.0,
+    "status": "EXPIRED",
+    "created_time": 1795598136981,
+    "last_time": 1795682699847,
+    "last_price": 1061423052.0,
+    "max_gain_pct": 2.1321,
+    "levels": [],
+    "expired_time": 1795669884383
+  },
+  {
+    "symbol": "SLVONIRT",
+    "anchor_time": 1795630355345,
+    "anchor_price": 10696291.0,
+    "status": "EXPIRED",
+    "created_time": 1795630355345,
+    "last_time": 1795682699847,
+    "last_price": 11080180.0,
+    "max_gain_pct": 4.9486,
+    "levels": [],
+    "confirmed_time": 1795672637748,
+    "confirmed_price": 11225610.0,
+    "expired_time": 1795673681424
   }
 ]

@@ -11435,5 +11435,18 @@
     "bs": 1.5,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1795683589963,
+    "symbol": "SLVONIRT",
+    "price": 11204176.0,
+    "hunt_score": 86.5,
+    "status": "EARLY",
+    "p15": 1.12,
+    "vr": 15.03,
+    "va": 2.0,
+    "bs": 5.0,
+    "breakout": true,
+    "persistence": 2
   }
 ]
