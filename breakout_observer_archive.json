@@ -46082,5 +46082,30 @@
     "levels": [],
     "failed_time": 1795699820369,
     "failed_price": 24137.0
+  },
+  {
+    "symbol": "POLIRT",
+    "anchor_time": 1795681647140,
+    "anchor_price": 22638.0,
+    "status": "EXPIRED",
+    "created_time": 1795681647140,
+    "last_time": 1795731393187,
+    "last_price": 23200.0,
+    "max_gain_pct": 2.4826,
+    "levels": [],
+    "expired_time": 1795725010129
+  },
+  {
+    "symbol": "IRIRT",
+    "anchor_time": 1795677131399,
+    "anchor_price": 543.0,
+    "status": "FAILED",
+    "created_time": 1795677131399,
+    "last_time": 1795731393187,
+    "last_price": 523.0,
+    "max_gain_pct": 1.2891,
+    "levels": [],
+    "failed_time": 1795716745366,
+    "failed_price": 526.0
   }
 ]

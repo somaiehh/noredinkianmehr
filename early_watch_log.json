@@ -80872,7 +80872,10 @@
       "max_up": 0.45,
       "max_down": -0.99
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 1.44,
+      "max_down": -0.99
+    },
     "result_12h": null
   },
   {
@@ -81110,6 +81113,28 @@
     "buy": 33.666666666666664,
     "bs": 1.01,
     "breakout": false,
+    "priority": false,
+    "result_15m": {
+      "max_up": 0.0,
+      "max_down": 0.0
+    },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "IRIRT",
+    "time": 1795732059708,
+    "price": 525.0,
+    "level": "WATCH",
+    "hunt": 47.4,
+    "persistence": 1,
+    "p15": 0.38,
+    "vr": 0.0,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 3.0,
+    "breakout": true,
     "priority": false,
     "result_15m": null,
     "result_1h": null,
