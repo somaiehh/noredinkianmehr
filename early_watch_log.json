@@ -79749,7 +79749,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -1.49
+    }
   },
   {
     "symbol": "UAIIRT",
@@ -79777,7 +79780,10 @@
       "max_up": 0.12,
       "max_down": -1.36
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.09,
+      "max_down": -1.36
+    }
   },
   {
     "symbol": "HMSTRIRT",
@@ -79805,7 +79811,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 1.72,
+      "max_down": 0.0
+    }
   },
   {
     "symbol": "LABIRT",
@@ -79833,7 +79842,10 @@
       "max_up": 0.22,
       "max_down": -0.46
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.43,
+      "max_down": -0.85
+    }
   },
   {
     "symbol": "PEPEIRT",
@@ -79931,6 +79943,25 @@
       "max_up": -0.64,
       "max_down": -0.64
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "PUMPIRT",
+    "time": 1795678027168,
+    "price": 775.4,
+    "level": "STRONG",
+    "hunt": 57.8,
+    "persistence": 1,
+    "p15": 0.49,
+    "vr": 1.61,
+    "va": 1.06,
+    "buy": 36.00000000000001,
+    "bs": 1.08,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
