@@ -46459,5 +46459,18 @@
       }
     ],
     "expired_time": 1795317317557
+  },
+  {
+    "symbol": "PORTALIRT",
+    "anchor_time": 1791166449574,
+    "anchor_price": 5075.0,
+    "status": "FAILED",
+    "created_time": 1791166449574,
+    "last_time": 1795788004282,
+    "last_price": 6881.0,
+    "max_gain_pct": 47.3695,
+    "levels": [],
+    "failed_time": 1791175741169,
+    "failed_price": 4843.0
   }
 ]
