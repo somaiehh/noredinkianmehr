@@ -20641,5 +20641,26 @@
     "max_move": 0.0,
     "min_move": -2.2746,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "HANAIRT",
+    "event_time": 1795801305301,
+    "event_price": 3875.0,
+    "anchor_time": 1795800458212,
+    "anchor_price": 3885.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.2,
+    "tm_e15_e1": 0.2,
+    "tm_e1_e4": 0.5,
+    "tm_g15": 0.3333,
+    "tm_g1": 1.0714,
+    "tm_g4": 1.0345,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
