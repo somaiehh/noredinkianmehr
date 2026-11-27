@@ -400,13 +400,156 @@ def book_pressure(depth):
     asks=sum(float(p)*float(q) for p,q in depth.get("asks",[])[:10])
     return clamp((bids/asks-.7)/1.3) if asks else .5
 
+
+# PORTAL_SHARED_FAST_ENGINE_V1
+
+def portal_fast_observation(symbol, trades, scan_time):
+    from math import isfinite
+    from kian_v3_fast_ignition_v1 import (
+        evaluate_observed_ignition
+    )
+
+    if not isinstance(symbol, str):
+        return None
+
+    if not symbol.endswith("IRT"):
+        return None
+
+    if not isinstance(trades, list):
+        return None
+
+    if type(scan_time) is not int or scan_time <= 0:
+        return None
+
+    normalized = []
+    seen = set()
+    rejected = 0
+    duplicates = 0
+    unknown_direction = 0
+
+    for row in trades:
+        try:
+            if not isinstance(row, dict):
+                raise ValueError("INVALID_ROW")
+
+            tid = row["id"]
+            tm = row["time"]
+            price = float(row["price"])
+            qty = float(row["qty"])
+            maker = row.get("isBuyerMaker")
+
+            if type(tid) is not int or tid <= 0:
+                raise ValueError("INVALID_ID")
+
+            if type(tm) is not int:
+                raise ValueError("INVALID_TIME")
+
+            if not 0 < tm <= scan_time:
+                raise ValueError("INVALID_TIME")
+
+            if not isfinite(price) or price <= 0:
+                raise ValueError("INVALID_PRICE")
+
+            if not isfinite(qty) or qty <= 0:
+                raise ValueError("INVALID_QTY")
+
+            if not isfinite(price * qty):
+                raise ValueError("INVALID_VOLUME")
+
+            if tid in seen:
+                duplicates += 1
+                continue
+
+            if type(maker) is not bool:
+                unknown_direction += 1
+                raise ValueError("UNKNOWN_DIRECTION")
+
+            seen.add(tid)
+
+            normalized.append({
+                "id": tid,
+                "time": tm,
+                "price": price,
+                "qty": qty,
+                "isBuyerMaker": maker,
+            })
+
+        except (
+            KeyError, TypeError,
+            ValueError, OverflowError
+        ):
+            rejected += 1
+
+    normalized.sort(
+        key=lambda row: (row["time"], row["id"])
+    )
+
+    evidence = {
+        "symbol": symbol,
+        "scan_time": scan_time,
+        "raw_trade_count": len(trades),
+        "normalized_trade_count": len(normalized),
+        "filtered_trade_count": (
+            len(trades) - len(normalized)
+        ),
+        "rejected_count": rejected,
+        "duplicate_count": duplicates,
+        "unknown_direction_count": unknown_direction,
+        "requested_limit": 1000,
+        "limit_reached": len(trades) >= 1000,
+        "coverage_verified": False,
+        "evidence_status": "FAST_SOURCE_PENDING",
+    }
+
+    result = evaluate_observed_ignition(
+        symbol,
+        scan_time,
+        normalized,
+        evidence,
+    )
+
+    result["source_evidence"] = evidence
+
+    return result
+
+
+
 def score(m):
     symbol=m["symbol"]
     ts=get_trades(symbol,1000)
     ts=sorted(ts, key=lambda t: int(t["time"]))
+    # PORTAL_PRICE_PRESERVATION_V1
+    import math
+    trade_received_at = int(time.time()*1000)
+    portal_fast = None
+    try:
+        portal_fast = portal_fast_observation(
+            symbol, ts, trade_received_at
+        )
+    except Exception as exc:
+        print(
+            "PORTAL_FAST_ERROR",
+            symbol,
+            type(exc).__name__
+        )
+
+    last_valid_price = None
+    last_trade_time = None
+    if ts:
+        try:
+            p = float(ts[-1]["price"])
+            t = int(ts[-1]["time"])
+            if math.isfinite(p) and p > 0 and 0 < t <= trade_received_at:
+                last_valid_price = p
+                last_trade_time = t
+        except (KeyError, ValueError, TypeError, OverflowError):
+            pass
+
     if len(ts)<10:
-        return {
+        return {"portal_fast": portal_fast, "trade_received_at": trade_received_at,
             "symbol": symbol,
+            "last_trade_price": last_valid_price,
+            "last_trade_time": last_trade_time,
             "status": "INSUFFICIENT"
         }
 
@@ -419,8 +562,10 @@ def score(m):
     # ارز را برای رصد نگه می‌داریم.
     if len(t15)<4 or len(t1)<15:
         if len(t1)>=5 or len(t4)>=20:
-            return {
+            return {"portal_fast": portal_fast, "trade_received_at": trade_received_at,
                 "symbol": symbol,
+                "last_trade_price": last_valid_price,
+                "last_trade_time": last_trade_time,
                 "status": "WATCH",
                 "price": float(ts[-1]["price"]),
                 "volume": round(sum(float(t.get("quoteQty", float(t["price"])*float(t["qty"]))) for t in t15), 2),
@@ -428,8 +573,10 @@ def score(m):
                 "trades1h": len(t1),
                 "trades4h": len(t4)
             }
-        return {
+        return {"portal_fast": portal_fast, "trade_received_at": trade_received_at,
             "symbol": symbol,
+            "last_trade_price": last_valid_price,
+            "last_trade_time": last_trade_time,
             "status": "INSUFFICIENT",
             "trades15": len(t15),
             "trades1h": len(t1),
@@ -450,8 +597,10 @@ def score(m):
     activity = activity_profile(t1, c15)
 
     if not activity.get("valid", False):
-        return {
+        return {"portal_fast": portal_fast, "trade_received_at": trade_received_at,
             "symbol": symbol,
+            "last_trade_price": last_valid_price,
+            "last_trade_time": last_trade_time,
             "status": "WATCH",
             "reason": "ACTIVITY_DATA_NOT_READY",
             "trades15": len(t15),
@@ -486,7 +635,7 @@ def score(m):
     # Weak accumulation remains WATCH only.
     # Strong accumulation is allowed to continue into PRE_EARLY logic.
     if p15 <= 0 and activity_signal and not strong_accumulation:
-        return {
+        return {"portal_fast": portal_fast, "last_trade_price": last_valid_price, "last_trade_time": last_trade_time, "trade_received_at": trade_received_at,
             "symbol": symbol,
             "status": "WATCH_ACCUMULATION",
             "reason": "WAITING_FOR_PRICE_CONFIRMATION",
@@ -623,8 +772,10 @@ def score(m):
     # ضد تعقیب: اگر همین 15m بیش از 10% جهش کرده، جریمه
     penalty=max(0,p15-10)*1.5
     final=max(0,min(100,raw-penalty))
-    return dict(
+    return dict(portal_fast=portal_fast, trade_received_at=trade_received_at,
         symbol=symbol,
+        last_trade_price=last_valid_price,
+        last_trade_time=last_trade_time,
         status=signal_status,
         score=round(final, 1),
         pre_score=round(pre_score, 1),
@@ -2074,8 +2225,114 @@ def save_dashboard_data(out, alerts_enabled=True):
         )
         powr_bs_oos_v1 = (x.get("status") == "SCANNED" and cp15 is not None and -1 <= float(cp15) <= 2 and float(x.get("vr") or 0) >= 5 and cva >= 5 and sequence_score_v1_value < 25 and not bool(x.get("breakout")) and float(x.get("bs") or 0) >= 1)
 
+        # EXPLOSIVE_WAKE_CONTINUITY_V1
+        import math
+
+        trade_price = x.get("last_trade_price")
+        trade_time = x.get("last_trade_time")
+        trade_age = None
+        trade_fresh = False
+
+        try:
+            trade_price = float(trade_price)
+            trade_time = int(trade_time)
+            received_at = int(x.get("trade_received_at"))
+            if not trade_time <= received_at <= now:
+                raise ValueError("INVALID_RECEIVE_TIME")
+            trade_age = (received_at - trade_time) / 1000.0
+            trade_fresh = (
+                math.isfinite(trade_price)
+                and trade_price > 0
+                and 0 <= trade_age <= 120
+            )
+        except (TypeError, ValueError, OverflowError):
+            trade_price = None
+            trade_time = None
+
+        explosive_price = None
+        if trade_fresh:
+            explosive_price = trade_price
+
+        explosive_anchor_time = None
+        explosive_anchor_price = None
+        explosive_state = "INACTIVE"
+
+        if symbol.endswith("IRT"):
+            if (wake_short or wake_deep) and explosive_price:
+                explosive_anchor_time = now
+                explosive_anchor_price = explosive_price
+                explosive_state = "WAKE_MONITOR"
+
+            else:
+                for er in reversed(rh):
+                    et = er.get("explosive_anchor_time")
+                    ep = er.get("explosive_anchor_price")
+
+                    if not et or not ep:
+                        continue
+
+                    age = now - int(et)
+
+                    if not 0 < age <= WAKE_FOLLOW_MS:
+                        continue
+
+                    explosive_anchor_time = et
+                    explosive_anchor_price = ep
+                    explosive_state = "WAKE_MONITOR"
+                    break
+
+        # EXPLOSIVE_CONFIRMATION_V1
+        explosive_gain = None
+        explosive_confirmed = False
+
+        def explosive_number(value):
+            try:
+                v = float(value)
+                return v if math.isfinite(v) else None
+            except (TypeError, ValueError, OverflowError):
+                return None
+
+        evr = explosive_number(x.get("vr"))
+        eva = explosive_number(x.get("va"))
+        ebs = explosive_number(x.get("bs"))
+        evol = explosive_number(x.get("volume"))
+        eanchor = explosive_number(explosive_anchor_price)
+
+        if (
+            explosive_state == "WAKE_MONITOR"
+            and trade_fresh
+            and eanchor is not None
+            and eanchor > 0
+        ):
+            explosive_gain = round(
+                100 * (trade_price / eanchor - 1), 4
+            )
+
+            explosive_confirmed = (
+                cur_t15 >= 15
+                and evr is not None and evr >= 2
+                and eva is not None and eva >= 3
+                and ebs is not None and ebs >= 1.5
+                and evol is not None and evol > 0
+                and 2 <= explosive_gain <= 15
+            )
+
+            if explosive_confirmed:
+                explosive_state = "EXPLOSIVE_CANDIDATE"
+
         row = {
             "time": now,
+            "portal_fast": x.get("portal_fast"),
+            "explosive_gain_pct": explosive_gain,
+            "explosive_confirmed": explosive_confirmed,
+            "last_trade_price": trade_price,
+            "last_trade_time": trade_time,
+            "trade_received_at": x.get("trade_received_at"),
+            "last_trade_age_sec": trade_age,
+            "last_trade_fresh": trade_fresh,
+            "explosive_state": explosive_state,
+            "explosive_anchor_time": explosive_anchor_time,
+            "explosive_anchor_price": explosive_anchor_price,
             "price": x.get("price", 0),
             "volume": x.get("volume", 0),
             "buy_ratio": min(100, max(0, x.get("bs", 0) / 3 * 100)),
