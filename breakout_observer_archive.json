@@ -46346,5 +46346,29 @@
     "max_gain_pct": 5.2336,
     "levels": [],
     "expired_time": 1795676292479
+  },
+  {
+    "symbol": "GRAMIRT",
+    "anchor_time": 1795728582512,
+    "anchor_price": 288870.0,
+    "status": "EXPIRED",
+    "created_time": 1795728582512,
+    "last_time": 1795776967265,
+    "last_price": 293896.0,
+    "max_gain_pct": 2.0352,
+    "levels": [],
+    "expired_time": 1795771834089
+  },
+  {
+    "symbol": "QIRT",
+    "anchor_time": 1795689802700,
+    "anchor_price": 7545.9,
+    "status": "EXPIRED",
+    "created_time": 1795689802700,
+    "last_time": 1795778615370,
+    "last_price": 7846.0,
+    "max_gain_pct": 4.6926,
+    "levels": [],
+    "expired_time": 1795733080707
   }
 ]
