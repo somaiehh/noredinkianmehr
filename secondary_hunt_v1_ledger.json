@@ -5014,6 +5014,22 @@
         "dt15_pos",
         "da1_pos"
       ]
+    },
+    "HOLOIRT": {
+      "trigger_time": 1795802376154,
+      "trigger_price": 11817.0,
+      "secondary_score": 90.0,
+      "hunt_score": 64.3,
+      "flags": [
+        "candidate",
+        "hunt55_79",
+        "p15_wake",
+        "bs2",
+        "book1",
+        "premove_pos",
+        "dt15_pos",
+        "da1_pos"
+      ]
     }
   }
 }
