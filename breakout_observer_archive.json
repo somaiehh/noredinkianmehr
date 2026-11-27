@@ -46107,5 +46107,41 @@
     "levels": [],
     "failed_time": 1795716745366,
     "failed_price": 526.0
+  },
+  {
+    "symbol": "PEPEIRT",
+    "anchor_time": 1795681647140,
+    "anchor_price": 1.04248,
+    "status": "EXPIRED",
+    "created_time": 1795681647140,
+    "last_time": 1795742112262,
+    "last_price": 1.04299,
+    "max_gain_pct": 1.8389,
+    "levels": [],
+    "expired_time": 1795725010129
+  },
+  {
+    "symbol": "BLURIRT",
+    "anchor_time": 1795717635236,
+    "anchor_price": 2918.0,
+    "status": "EXPIRED",
+    "created_time": 1795717635236,
+    "last_time": 1795762932375,
+    "last_price": 3081.0,
+    "max_gain_pct": 5.586,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795762932375,
+    "confirmed_price": 3081.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795762932375,
+        "price": 3081.0,
+        "gain_pct": 5.586
+      }
+    ],
+    "expired_time": 1795762932375
   }
 ]
