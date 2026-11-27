@@ -80555,7 +80555,10 @@
       "max_up": 4.89,
       "max_down": 0.64
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 4.89,
+      "max_down": 0.09
+    }
   },
   {
     "symbol": "SSVIRT",
@@ -81108,7 +81111,10 @@
       "max_up": 1.24,
       "max_down": -0.37
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.33,
+      "max_down": -0.47
+    },
     "result_12h": null
   },
   {
@@ -81204,7 +81210,10 @@
       "max_up": 0.05,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.29,
+      "max_down": -2.32
+    },
     "result_4h": null,
     "result_12h": null
   }
