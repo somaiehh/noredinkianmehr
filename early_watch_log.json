@@ -81296,7 +81296,10 @@
       "max_up": 0.29,
       "max_down": -2.77
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.98,
+      "max_down": -2.77
+    }
   },
   {
     "symbol": "GRAMIRT",
@@ -81348,7 +81351,10 @@
       "max_up": 0.32,
       "max_down": -1.49
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.32,
+      "max_down": -5.01
+    },
     "result_12h": null
   },
   {
@@ -81373,7 +81379,10 @@
       "max_up": 0.3,
       "max_down": -0.74
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 0.3,
+      "max_down": -1.05
+    },
     "result_12h": null
   },
   {
@@ -81516,7 +81525,10 @@
     "breakout": false,
     "priority": false,
     "result_15m": null,
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.76,
+      "max_down": 1.97
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -81534,6 +81546,44 @@
     "bs": 5.0,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "KAVAIRT",
+    "time": 1795781480102,
+    "price": 7892.0,
+    "level": "WATCH",
+    "hunt": 41.4,
+    "persistence": 1,
+    "p15": 0.95,
+    "vr": 0.02,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SOPHIRT",
+    "time": 1795781661053,
+    "price": 292.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.39,
+    "vr": 1.54,
+    "va": 1.8,
+    "buy": 86.33333333333333,
+    "bs": 2.59,
+    "breakout": true,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
