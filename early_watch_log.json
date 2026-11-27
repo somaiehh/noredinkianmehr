@@ -81494,5 +81494,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "IRIRT",
+    "time": 1795776967265,
+    "price": 559.0,
+    "level": "STRONG",
+    "hunt": 51.0,
+    "persistence": 2,
+    "p15": 0.36,
+    "vr": 2.14,
+    "va": 0.63,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]

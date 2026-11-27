@@ -16078,7 +16078,7 @@
     "book": 0.0,
     "breakout": false,
     "fast_v13": null,
-    "result": "PENDING",
+    "result": "EXPIRED_NONE",
     "result_time": null,
     "result_move": null,
     "max_move": 7.5654,
@@ -16186,7 +16186,7 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 2.5281,
+    "max_move": 2.8768,
     "min_move": -1.0461,
     "ledger_version": "pre-wake-ledger-v1"
   },
@@ -16249,8 +16249,29 @@
     "result": "PENDING",
     "result_time": null,
     "result_move": null,
-    "max_move": 7.3218,
+    "max_move": 7.7071,
     "min_move": -0.7707,
+    "ledger_version": "pre-wake-ledger-v1"
+  },
+  {
+    "symbol": "HAEDALIRT",
+    "event_time": 1795776788385,
+    "event_price": 7400.0,
+    "status": "WATCH_ACCUMULATION",
+    "sequence_score_v1": 34.3,
+    "p15": -0.84,
+    "vr": null,
+    "va": 2.0,
+    "ta": 0.13,
+    "bs": 5.0,
+    "book": 0.14,
+    "breakout": false,
+    "fast_v13": null,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": -0.5811,
     "ledger_version": "pre-wake-ledger-v1"
   }
 ]
