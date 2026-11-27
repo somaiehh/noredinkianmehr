@@ -46143,5 +46143,29 @@
       }
     ],
     "expired_time": 1795762932375
+  },
+  {
+    "symbol": "SUIIRT",
+    "anchor_time": 1795717827329,
+    "anchor_price": 199089.0,
+    "status": "EXPIRED",
+    "created_time": 1795717827329,
+    "last_time": 1795767272438,
+    "last_price": 203360.0,
+    "max_gain_pct": 2.7078,
+    "levels": [],
+    "expired_time": 1795763115222
+  },
+  {
+    "symbol": "XAUTIRT",
+    "anchor_time": 1795683415131,
+    "anchor_price": 1065777777.0,
+    "status": "EXPIRED",
+    "created_time": 1795683415131,
+    "last_time": 1795767272438,
+    "last_price": 1083959292.0,
+    "max_gain_pct": 2.3645,
+    "levels": [],
+    "expired_time": 1795726633133
   }
 ]
