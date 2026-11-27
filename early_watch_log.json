@@ -81307,5 +81307,24 @@
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
+  },
+  {
+    "symbol": "BIGTIMEIRT",
+    "time": 1795766232454,
+    "price": 1878.0,
+    "level": "STRONG",
+    "hunt": 70.7,
+    "persistence": 1,
+    "p15": 0.27,
+    "vr": 2.68,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 3.08,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
   }
 ]
