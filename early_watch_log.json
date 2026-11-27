@@ -81569,7 +81569,10 @@
       "max_up": 2.4,
       "max_down": 1.53
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 2.8,
+      "max_down": -5.72
+    },
     "result_12h": null
   },
   {
