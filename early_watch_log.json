@@ -81463,7 +81463,10 @@
       "max_up": 5.86,
       "max_down": -4.04
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 5.86,
+      "max_down": -6.52
+    },
     "result_12h": null
   },
   {
@@ -81488,7 +81491,10 @@
       "max_up": 0.71,
       "max_down": 0.0
     },
-    "result_4h": null,
+    "result_4h": {
+      "max_up": 4.64,
+      "max_down": -1.07
+    },
     "result_12h": null
   },
   {
@@ -81578,7 +81584,10 @@
       "max_up": 1.94,
       "max_down": 1.94
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 3.52,
+      "max_down": 1.33
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -81600,7 +81609,10 @@
       "max_up": 0.34,
       "max_down": 0.34
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.34,
+      "max_down": -0.34
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -81622,6 +81634,25 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "REZIRT",
+    "time": 1795785325459,
+    "price": 740.0,
+    "level": "STRONG",
+    "hunt": 58.8,
+    "persistence": 1,
+    "p15": 1.09,
+    "vr": 0.66,
+    "va": 2.0,
+    "buy": 100,
+    "bs": 5.0,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
