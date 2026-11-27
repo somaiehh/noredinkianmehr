@@ -20299,5 +20299,43 @@
     "breakout": false,
     "result_1h": null,
     "result_4h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1795797885032,
+    "price": 9145.0,
+    "pre30": 0.37,
+    "pre60": 1.05,
+    "pre120": 0.4,
+    "hunt": 63.9,
+    "persistence": 5,
+    "vr": 1.09,
+    "va": 4.65,
+    "buy": 36.333333333333336,
+    "bs": 1.09,
+    "ob": 0.94,
+    "p15": 0.08,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
+  },
+  {
+    "symbol": "MMTIRT",
+    "time": 1795797885032,
+    "price": 49602.0,
+    "pre30": -0.59,
+    "pre60": -2.33,
+    "pre120": -2.88,
+    "hunt": 69.8,
+    "persistence": 2,
+    "vr": 7.14,
+    "va": 10.0,
+    "buy": 57.666666666666664,
+    "bs": 1.73,
+    "ob": 1.0,
+    "p15": 0.18,
+    "breakout": false,
+    "result_1h": null,
+    "result_4h": null
   }
 ]
