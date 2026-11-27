@@ -46472,5 +46472,29 @@
     "levels": [],
     "failed_time": 1791175741169,
     "failed_price": 4843.0
+  },
+  {
+    "symbol": "IRIRT",
+    "anchor_time": 1795732059708,
+    "anchor_price": 525.0,
+    "status": "EXPIRED",
+    "created_time": 1795732059708,
+    "last_time": 1795795234810,
+    "last_price": 524.0,
+    "max_gain_pct": 10.4762,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795734023775,
+    "confirmed_price": 557.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795734023775,
+        "price": 557.0,
+        "gain_pct": 6.0952
+      }
+    ],
+    "expired_time": 1795775415362
   }
 ]
