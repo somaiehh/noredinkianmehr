@@ -81234,7 +81234,10 @@
       "max_up": 0.0,
       "max_down": -2.0
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 0.0,
+      "max_down": -6.57
+    }
   },
   {
     "symbol": "IRIRT",
@@ -81435,7 +81438,10 @@
       "max_up": 2.98,
       "max_down": 0.99
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 5.86,
+      "max_down": -4.04
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -81457,6 +81463,25 @@
       "max_up": 0.71,
       "max_down": 0.71
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "LABIRT",
+    "time": 1795774301323,
+    "price": 9365.0,
+    "level": "STRONG",
+    "hunt": 81.7,
+    "persistence": 2,
+    "p15": 0.63,
+    "vr": 3.85,
+    "va": 10.0,
+    "buy": 100,
+    "bs": 4.55,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
