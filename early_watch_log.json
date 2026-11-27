@@ -81172,7 +81172,10 @@
       "max_up": 2.33,
       "max_down": -0.47
     },
-    "result_12h": null
+    "result_12h": {
+      "max_up": 3.11,
+      "max_down": -0.47
+    }
   },
   {
     "symbol": "SEIIRT",
@@ -81329,7 +81332,10 @@
       "max_up": -0.27,
       "max_down": -0.91
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.32,
+      "max_down": -1.49
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -81373,6 +81379,44 @@
       "max_up": -0.18,
       "max_down": -0.18
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "time": 1795769874751,
+    "price": 639.71,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.47,
+    "vr": 6.31,
+    "va": 10.0,
+    "buy": 87.33333333333334,
+    "bs": 2.62,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "MMTIRT",
+    "time": 1795770125457,
+    "price": 54380.0,
+    "level": "STRONG",
+    "hunt": 69.6,
+    "persistence": 3,
+    "p15": 1.76,
+    "vr": 0.2,
+    "va": 3.37,
+    "buy": 35.333333333333336,
+    "bs": 1.06,
+    "breakout": true,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null

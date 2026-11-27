@@ -46167,5 +46167,98 @@
     "max_gain_pct": 2.3645,
     "levels": [],
     "expired_time": 1795726633133
+  },
+  {
+    "symbol": "INITIRT",
+    "anchor_time": 1795726633133,
+    "anchor_price": 37782.0,
+    "status": "CONFIRMED_MOVE",
+    "created_time": 1795726633133,
+    "last_time": 1795769039271,
+    "last_price": 35832.0,
+    "max_gain_pct": 6.9028,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795727766130,
+    "confirmed_price": 39000.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795729330167,
+        "price": 40138.0,
+        "gain_pct": 6.2358
+      }
+    ]
+  },
+  {
+    "symbol": "FUNTOKENIRT",
+    "anchor_time": 1795688836912,
+    "anchor_price": 620.21,
+    "status": "EXPIRED",
+    "created_time": 1795688836912,
+    "last_time": 1795769039271,
+    "last_price": 630.46,
+    "max_gain_pct": 2.7152,
+    "levels": [],
+    "expired_time": 1795732059708
+  },
+  {
+    "symbol": "SEIIRT",
+    "anchor_time": 1795679969833,
+    "anchor_price": 10374.0,
+    "status": "EXPIRED",
+    "created_time": 1795679969833,
+    "last_time": 1795769874751,
+    "last_price": 11549.0,
+    "max_gain_pct": 17.0619,
+    "levels": [
+      5,
+      10
+    ],
+    "confirmed_time": 1795687935161,
+    "confirmed_price": 10740.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795692645082,
+        "price": 10894.0,
+        "gain_pct": 5.0125
+      },
+      {
+        "level": 10,
+        "time": 1795709567158,
+        "price": 11446.0,
+        "gain_pct": 10.3335
+      }
+    ],
+    "expired_time": 1795723978176
+  },
+  {
+    "symbol": "LISTAIRT",
+    "anchor_time": 1795624018122,
+    "anchor_price": 36899.0,
+    "status": "FAILED",
+    "created_time": 1795624018122,
+    "last_time": 1795769874751,
+    "last_price": 30145.0,
+    "max_gain_pct": 0.0,
+    "levels": [],
+    "failed_time": 1795625497433,
+    "failed_price": 35789.0
+  },
+  {
+    "symbol": "MMTIRT",
+    "anchor_time": 1795716745366,
+    "anchor_price": 63720.0,
+    "status": "EXPIRED",
+    "created_time": 1795716745366,
+    "last_time": 1795769874751,
+    "last_price": 53000.0,
+    "max_gain_pct": 3.7806,
+    "levels": [],
+    "confirmed_time": 1795717635236,
+    "confirmed_price": 66129.0,
+    "expired_time": 1795762932375
   }
 ]
