@@ -20599,5 +20599,26 @@
     "max_move": 6.8116,
     "min_move": 0.0,
     "ledger_version": "wake-ledger-v1"
+  },
+  {
+    "symbol": "NEARIRT",
+    "event_time": 1795783552527,
+    "event_price": 920945.0,
+    "anchor_time": 1795781480102,
+    "anchor_price": 923525.0,
+    "anchor_kind": "DEEP",
+    "fresh_ratio": 0.3684,
+    "tm_e15_e1": 0.3684,
+    "tm_e1_e4": 0.5938,
+    "tm_g15": 3.5,
+    "tm_g1": 1.3571,
+    "tm_g4": 1.3333,
+    "legacy": false,
+    "result": "PENDING",
+    "result_time": null,
+    "result_move": null,
+    "max_move": 0.0,
+    "min_move": 0.0,
+    "ledger_version": "wake-ledger-v1"
   }
 ]
