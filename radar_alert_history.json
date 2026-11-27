@@ -11669,5 +11669,18 @@
     "bs": 4.48,
     "breakout": true,
     "persistence": 2
+  },
+  {
+    "time": 1795770893038,
+    "symbol": "LISTAIRT",
+    "price": 30509.0,
+    "hunt_score": 81.4,
+    "status": "EARLY",
+    "p15": 0.42,
+    "vr": 1.16,
+    "va": 5.21,
+    "bs": 0.21,
+    "breakout": true,
+    "persistence": 3
   }
 ]
