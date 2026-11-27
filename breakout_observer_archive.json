@@ -46260,5 +46260,30 @@
     "confirmed_time": 1795717635236,
     "confirmed_price": 66129.0,
     "expired_time": 1795762932375
+  },
+  {
+    "symbol": "ZECIRT",
+    "anchor_time": 1795719438494,
+    "anchor_price": 211480913.0,
+    "status": "FAILED",
+    "created_time": 1795719438494,
+    "last_time": 1795771834089,
+    "last_price": 224472276.0,
+    "max_gain_pct": 6.8662,
+    "levels": [],
+    "failed_time": 1795734921534,
+    "failed_price": 205000001.0
+  },
+  {
+    "symbol": "PUMPIRT",
+    "anchor_time": 1795675327652,
+    "anchor_price": 778.1,
+    "status": "EXPIRED",
+    "created_time": 1795675327652,
+    "last_time": 1795771834089,
+    "last_price": 793.7,
+    "max_gain_pct": 2.2234,
+    "levels": [],
+    "expired_time": 1795718724704
   }
 ]
