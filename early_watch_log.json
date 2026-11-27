@@ -81930,7 +81930,10 @@
       "max_up": -0.25,
       "max_down": -0.25
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": -0.25,
+      "max_down": -4.75
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -81952,7 +81955,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 1.47,
+      "max_down": 0.0
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -81970,6 +81976,28 @@
     "bs": 4.04,
     "breakout": true,
     "priority": true,
+    "result_15m": null,
+    "result_1h": {
+      "max_up": 0.45,
+      "max_down": 0.45
+    },
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "VELVETIRT",
+    "time": 1795806021359,
+    "price": 33568.0,
+    "level": "STRONG",
+    "hunt": 88.9,
+    "persistence": 2,
+    "p15": 1.32,
+    "vr": 2.03,
+    "va": 1.78,
+    "buy": 66.0,
+    "bs": 1.98,
+    "breakout": true,
+    "priority": false,
     "result_15m": null,
     "result_1h": null,
     "result_4h": null,
