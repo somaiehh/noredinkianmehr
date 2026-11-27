@@ -46423,5 +46423,41 @@
     "confirmed_time": 1795762932375,
     "confirmed_price": 28252.0,
     "expired_time": 1795774301323
+  },
+  {
+    "symbol": "POLIRT",
+    "anchor_time": 1795732059708,
+    "anchor_price": 23277.0,
+    "status": "EXPIRED",
+    "created_time": 1795732059708,
+    "last_time": 1795786288758,
+    "last_price": 23358.0,
+    "max_gain_pct": 0.8635,
+    "levels": [],
+    "expired_time": 1795775415362
+  },
+  {
+    "symbol": "PTBIRT",
+    "anchor_time": 1795273942584,
+    "anchor_price": 18.0,
+    "status": "EXPIRED",
+    "created_time": 1795273942584,
+    "last_time": 1795786288758,
+    "last_price": 18.0,
+    "max_gain_pct": 5.5556,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795279373272,
+    "confirmed_price": 19.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795279373272,
+        "price": 19.0,
+        "gain_pct": 5.5556
+      }
+    ],
+    "expired_time": 1795317317557
   }
 ]

@@ -81634,7 +81634,10 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
-    "result_1h": null,
+    "result_1h": {
+      "max_up": 0.0,
+      "max_down": -0.72
+    },
     "result_4h": null,
     "result_12h": null
   },
@@ -81656,6 +81659,44 @@
       "max_up": 0.0,
       "max_down": 0.0
     },
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "SSVIRT",
+    "time": 1795787055801,
+    "price": 853814.0,
+    "level": "STRONG",
+    "hunt": 78.0,
+    "persistence": 1,
+    "p15": 1.49,
+    "vr": 20.0,
+    "va": 10.0,
+    "buy": 83.33333333333334,
+    "bs": 2.5,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
+    "result_1h": null,
+    "result_4h": null,
+    "result_12h": null
+  },
+  {
+    "symbol": "INITIRT",
+    "time": 1795787240921,
+    "price": 29231.0,
+    "level": "STRONG",
+    "hunt": 55.8,
+    "persistence": 1,
+    "p15": 0.65,
+    "vr": 0.25,
+    "va": 6.11,
+    "buy": 50.33333333333333,
+    "bs": 1.51,
+    "breakout": false,
+    "priority": false,
+    "result_15m": null,
     "result_1h": null,
     "result_4h": null,
     "result_12h": null
