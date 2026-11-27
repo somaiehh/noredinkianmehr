@@ -11682,5 +11682,18 @@
     "bs": 0.21,
     "breakout": true,
     "persistence": 3
+  },
+  {
+    "time": 1795771633016,
+    "symbol": "MMTIRT",
+    "price": 57565.0,
+    "hunt_score": 100.0,
+    "status": "EARLY",
+    "p15": 2.79,
+    "vr": 1.33,
+    "va": 2.92,
+    "bs": 2.17,
+    "breakout": true,
+    "persistence": 2
   }
 ]
