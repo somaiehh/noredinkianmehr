@@ -46534,5 +46534,18 @@
       }
     ],
     "expired_time": 1795716745366
+  },
+  {
+    "symbol": "HAEDALIRT",
+    "anchor_time": 1793627824376,
+    "anchor_price": 7781.0,
+    "status": "FAILED",
+    "created_time": 1793627824376,
+    "last_time": 1795797885032,
+    "last_price": 6967.0,
+    "max_gain_pct": 9.2405,
+    "levels": [],
+    "failed_time": 1793628922188,
+    "failed_price": 7510.0
   }
 ]
