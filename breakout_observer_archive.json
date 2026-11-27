@@ -46298,5 +46298,53 @@
     "levels": [],
     "failed_time": 1795351327942,
     "failed_price": 2.2
+  },
+  {
+    "symbol": "AURORAIRT",
+    "anchor_time": 1791227012800,
+    "anchor_price": 17500.0,
+    "status": "EXPIRED",
+    "created_time": 1791227012800,
+    "last_time": 1795774487513,
+    "last_price": 11100.0,
+    "max_gain_pct": 2.4114,
+    "levels": [],
+    "expired_time": 1791282880160
+  },
+  {
+    "symbol": "LABIRT",
+    "anchor_time": 1795681647140,
+    "anchor_price": 8948.0,
+    "status": "EXPIRED",
+    "created_time": 1795681647140,
+    "last_time": 1795774487513,
+    "last_price": 9336.0,
+    "max_gain_pct": 6.5378,
+    "levels": [
+      5
+    ],
+    "confirmed_time": 1795693363868,
+    "confirmed_price": 9291.0,
+    "events": [
+      {
+        "level": 5,
+        "time": 1795700049305,
+        "price": 9409.0,
+        "gain_pct": 5.152
+      }
+    ],
+    "expired_time": 1795725010129
+  },
+  {
+    "symbol": "BABYDOGEIRT",
+    "anchor_time": 1795633040072,
+    "anchor_price": 7.299e-05,
+    "status": "EXPIRED",
+    "created_time": 1795633040072,
+    "last_time": 1795775231888,
+    "last_price": 7.589e-05,
+    "max_gain_pct": 5.2336,
+    "levels": [],
+    "expired_time": 1795676292479
   }
 ]
